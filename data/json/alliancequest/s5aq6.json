@@ -1,0 +1,734 @@
+[
+  {
+    "node": 1,
+    "type": "Local",
+    "champion": "Scarlet Witch",
+    "detail": "100% Attack\n28% Critical Rate"
+  },
+  {
+    "node": 2,
+    "type": "Multiple",
+    "champion": "Rhino",
+    "detail": "20% Energy Resistance\n66% Armor"
+  },
+  {
+    "node": 3,
+    "type": "Local",
+    "champion": "Yellowjacket",
+    "detail": "200% Health\n20% Armor"
+  },
+  {
+    "node": 4,
+    "type": "Multiple",
+    "champion": "Unstoppable Colossus",
+    "detail": "200% Health\nPower Start 1"
+  },
+  {
+    "node": 5,
+    "type": "Local",
+    "champion": "Agent Venom",
+    "detail": "100% Attack\nEnhanced Special 1\nSpecial 1 Bias"
+  },
+  {
+    "node": 6,
+    "type": "Local",
+    "champion": "Civil Warrior",
+    "detail": "100% Health\n100% Power Gain"
+  },
+  {
+    "node": 7,
+    "type": "Local",
+    "champion": "Colossus",
+    "detail": "100% Champion Boost\nInfinity Blast"
+  },
+  {
+    "node": 8,
+    "type": "Local",
+    "champion": "Crossbones",
+    "detail": "Martial Mastery\nPessimist"
+  },
+  {
+    "node": 9,
+    "type": "Multiple",
+    "champion": "Venom",
+    "detail": "All or Nothing"
+  },
+  {
+    "node": 10,
+    "type": "Multiple",
+    "champion": "Electro",
+    "detail": "100% Health\nOptimist"
+  },
+  {
+    "node": 11,
+    "type": "Multiple",
+    "champion": "Kamala Khan",
+    "detail": "100% Attack\n28% Critical Rate\n100% Critical Damage"
+  },
+  {
+    "node": 12,
+    "type": "Multiple",
+    "champion": "Luke Cage",
+    "detail": "90% Armor"
+  },
+  {
+    "node": 13,
+    "type": "Local",
+    "champion": "Captain Marvel",
+    "detail": "100% Champion Boost\nPower Start 1"
+  },
+  {
+    "node": 14,
+    "type": "Multiple",
+    "champion": "Iron Man",
+    "detail": "100% Health\nThorns"
+  },
+  {
+    "node": 15,
+    "type": "Local",
+    "champion": "Juggernaut",
+    "detail": "200% Health\nFissure\nHeal Block"
+  },
+  {
+    "node": 16,
+    "type": "Multiple",
+    "champion": "Thor",
+    "detail": "100% Attack\nPower Start 1"
+  },
+  {
+    "node": 17,
+    "type": "Local",
+    "champion": "Cyclops (90s)",
+    "detail": "200% Attack\nSpecial 1 Bias\nCombo Shield"
+  },
+  {
+    "node": 18,
+    "type": "Multiple",
+    "champion": "Vision (Classic)",
+    "detail": "100% Champion Boost\nPlagued Mind (40 Seconds)"
+  },
+  {
+    "node": 19,
+    "type": "Multiple",
+    "champion": "Black Widow",
+    "detail": "100% Health\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 20,
+    "type": "Multiple",
+    "champion": "Luke Cage",
+    "detail": "100% Champion Boost\nStarburst"
+  },
+  {
+    "node": 21,
+    "type": "Local",
+    "champion": "Captain Marvel",
+    "detail": "100% Attack\nEnhanced Fury\nEnhanced Special 1\nEnhanced Special 2"
+  },
+  {
+    "node": 22,
+    "type": "Local",
+    "champion": "Electro",
+    "detail": "100% Health\nOutlast\n20% Armor"
+  },
+  {
+    "node": 23,
+    "type": "Multiple",
+    "champion": "Civil Warrior",
+    "detail": "100% Champion Boost\n100% Power Gain\nPower Drain"
+  },
+  {
+    "node": 24,
+    "type": "Multiple",
+    "champion": "Captain Marvel",
+    "detail": "100% Health\nPower Start 2"
+  },
+  {
+    "node": 25,
+    "type": "Local",
+    "champion": "Spider-Man (Morales)",
+    "detail": "100% Attack\nPower Start 2"
+  },
+  {
+    "node": 26,
+    "type": "Local",
+    "champion": "Cyclops (90s)",
+    "detail": "100% Champion Boost\nCombo Shield"
+  },
+  {
+    "node": 27,
+    "type": "Multiple",
+    "champion": "Star-Lord",
+    "detail": "100% Health\nCombo Shield"
+  },
+  {
+    "node": 28,
+    "type": "Local",
+    "champion": "Daredevil (Classic)",
+    "detail": "Optimist\nPessimist\nStun"
+  },
+  {
+    "node": 29,
+    "type": "Local",
+    "champion": "Mordo",
+    "detail": "66% Armor\nAdaptive"
+  },
+  {
+    "node": 30,
+    "type": "Local",
+    "champion": "Void",
+    "detail": "300% Champion Boost\n200% Health\nLimber (10%)\nUnblockable Finale"
+  },
+  {
+    "node": 31,
+    "type": "Multiple",
+    "champion": "Spider-Man (Morales)",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 32,
+    "type": "Multiple",
+    "champion": "Black Bolt",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 33,
+    "type": "Local",
+    "champion": "Rhino",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 34,
+    "type": "Local",
+    "champion": "Hela",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 35,
+    "type": "Local",
+    "champion": "Bishop",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 36,
+    "type": "Multiple",
+    "champion": "Iron Man",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 37,
+    "type": "Local",
+    "champion": "Magneto",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 38,
+    "type": "Local",
+    "champion": "Luke Cage",
+    "detail": "100% Power Gain"
+  },
+  {
+    "node": 39,
+    "type": "Multiple",
+    "champion": "Captain Marvel",
+    "detail": "All or Nothing"
+  },
+  {
+    "node": 40,
+    "type": "Multiple",
+    "champion": "Colossus",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 41,
+    "type": "Multiple",
+    "champion": "Vision (Classic)",
+    "detail": "100% Champion Boost\nImmunity"
+  },
+  {
+    "node": 42,
+    "type": "Multiple",
+    "champion": "Daredevil (Classic)",
+    "detail": "100% Champion Boost\nHeal Block"
+  },
+  {
+    "node": 43,
+    "type": "Local",
+    "champion": "Rhino",
+    "detail": "100% Health\nTrue Strike"
+  },
+  {
+    "node": 44,
+    "type": "Local",
+    "champion": "Thor",
+    "detail": "100% Champion Boost\nStun Immunity"
+  },
+  {
+    "node": 45,
+    "type": "Local",
+    "champion": "Doctor Strange",
+    "detail": "100% Health\nPower Start 1"
+  },
+  {
+    "node": 46,
+    "type": "Multiple",
+    "champion": "Scarlet Witch",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 47,
+    "type": "Multiple",
+    "champion": "Iron Man",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 48,
+    "type": "Multiple",
+    "champion": "Colossus",
+    "detail": "Power Start 2"
+  },
+  {
+    "node": 49,
+    "type": "Local",
+    "champion": "Unstoppable Colossus",
+    "detail": "Adaptive\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 50,
+    "type": "Local",
+    "champion": "Kamala Khan",
+    "detail": "Outlast\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 51,
+    "type": "Multiple",
+    "champion": "Red Hulk",
+    "detail": "Degeneration (180 Seconds)\nOptimist\nOutlast"
+  },
+  {
+    "node": 52,
+    "type": "Local",
+    "champion": "Iron Man",
+    "detail": "200% Health\nAdaptive\nOptimist\nOutlast"
+  },
+  {
+    "node": 53,
+    "type": "Multiple",
+    "champion": "Quake",
+    "detail": "200% Health\n40% Energy Resistance"
+  },
+  {
+    "node": 54,
+    "type": "Multiple",
+    "champion": "Hyperion",
+    "detail": "Power Start 1"
+  },
+  {
+    "node": 55,
+    "type": "Multiple",
+    "champion": "Black Widow",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 56,
+    "type": "Multiple",
+    "champion": "Kamala Khan",
+    "detail": "100% Champion Boost\nImmunity\nMirror Image"
+  },
+  {
+    "node": 57,
+    "type": "Multiple",
+    "champion": "Magneto",
+    "detail": "100% Health\n45% Armor\nPessimist"
+  },
+  {
+    "node": 58,
+    "type": "Local",
+    "champion": "Luke Cage",
+    "detail": "200% Health\nAdaptive"
+  },
+  {
+    "node": 59,
+    "type": "Local",
+    "champion": "Agent Venom",
+    "detail": "100% Champion Boost\nEnhanced Abilities\nStrike Back"
+  },
+  {
+    "node": 60,
+    "type": "Local",
+    "champion": "Black Widow",
+    "detail": "100% Champion Boost\nEnhanced Abilities\nTrue Strike"
+  },
+  {
+    "node": 61,
+    "type": "Local",
+    "champion": "Juggernaut",
+    "detail": "100% Champion Boost\nStun\nEnhanced Abilities\nStun Immunity"
+  },
+  {
+    "node": 62,
+    "type": "Multiple",
+    "champion": "Daredevil (Classic)",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 63,
+    "type": "Multiple",
+    "champion": "Cyclops (90s)",
+    "detail": "100% Attack\nPower Start 1\nEnhanced Special 1\nSpecial 1 Bias"
+  },
+  {
+    "node": 64,
+    "type": "Local",
+    "champion": "Yellowjacket",
+    "detail": "100% Health\n100% Power Gain\nEnhanced Special 2\nSpecial 2 Bias"
+  },
+  {
+    "node": 65,
+    "type": "Local",
+    "champion": "Agent Venom",
+    "detail": "All or Nothing\nPower Start 1"
+  },
+  {
+    "node": 66,
+    "type": "Local",
+    "champion": "Sentinel",
+    "detail": "200% Power Gain\nPower Start 1"
+  },
+  {
+    "node": 67,
+    "type": "Multiple",
+    "champion": "Star-Lord",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 68,
+    "type": "Local",
+    "champion": "Iceman",
+    "detail": "100% Champion Boost\nStun Immunity\nMirror Image\nTrue Strike"
+  },
+  {
+    "node": 69,
+    "type": "Multiple",
+    "champion": "Civil Warrior",
+    "detail": "100% Health\nPower Start 1\nEnhanced Special 1\nSpecial 1 Bias"
+  },
+  {
+    "node": 70,
+    "type": "Local",
+    "champion": "Void",
+    "detail": "300% Champion Boost\n300% Health\nLimber (10%)\nUnblockable Finale"
+  },
+  {
+    "node": 71,
+    "type": "Multiple",
+    "champion": "Unstoppable Colossus",
+    "detail": "Bleed (30 Seconds)"
+  },
+  {
+    "node": 72,
+    "type": "Local",
+    "champion": "Spider-Man (Stark Enhanced)",
+    "detail": "100% Champion Boost\n100% Power Gain\nPower Start 2\nEnhanced Special 2\nSpecial 2 Bias"
+  },
+  {
+    "node": 73,
+    "type": "Multiple",
+    "champion": "Doctor Strange",
+    "detail": "100% Attack\nPower Start 2\nEnhanced Special 2\nSpecial 2 Bias"
+  },
+  {
+    "node": 74,
+    "type": "Multiple",
+    "champion": "Vision (Classic)",
+    "detail": "100% Champion Boost\nPower Start 1\nEnhanced Special 1\nSpecial 1 Bias"
+  },
+  {
+    "node": 76,
+    "type": "Multiple",
+    "champion": "Kamala Khan",
+    "detail": "Poison (30 Seconds)"
+  },
+  {
+    "node": 75,
+    "type": "Multiple",
+    "champion": "Iron Man",
+    "detail": "Starburst\nOptimist"
+  },
+  {
+    "node": 77,
+    "type": "Local",
+    "champion": "Thor (Ragnarok)",
+    "detail": "45% Armor\nPoison (30 Seconds)"
+  },
+  {
+    "node": 78,
+    "type": "Local",
+    "champion": "Kamala Khan",
+    "detail": "100% Health\nPoison (30 Seconds)"
+  },
+  {
+    "node": 79,
+    "type": "Local",
+    "champion": "Rhino",
+    "detail": "Starburst\nOptimist"
+  },
+  {
+    "node": 80,
+    "type": "Local",
+    "champion": "Spider-Man (Morales)",
+    "detail": "Starburst\nEnhanced Abilities"
+  },
+  {
+    "node": 81,
+    "type": "Multiple",
+    "champion": "Electro",
+    "detail": "200% Health\nPoison (30 Seconds)"
+  },
+  {
+    "node": 82,
+    "type": "Local",
+    "champion": "Rhino",
+    "detail": "40% Energy Resistance\n40% Physical Resistance\nPoison (30 Seconds)"
+  },
+  {
+    "node": 83,
+    "type": "Local",
+    "champion": "Colossus",
+    "detail": "Pessimist\nStarburst"
+  },
+  {
+    "node": 84,
+    "type": "Multiple",
+    "champion": "Unstoppable Colossus",
+    "detail": "Starburst\nEnhanced Abilities"
+  },
+  {
+    "node": 85,
+    "type": "Local",
+    "champion": "Yellowjacket",
+    "detail": "100% Health\n45% Armor\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 86,
+    "type": "Local",
+    "champion": "Vision (Classic)",
+    "detail": "100% Health\nPlagued Mind (30 Seconds)\nPower Start 1"
+  },
+  {
+    "node": 87,
+    "type": "Local",
+    "champion": "Unstoppable Colossus",
+    "detail": "Enhanced Armor Up\nEnhanced Fury\nOptimist\nPoison (30 Seconds)"
+  },
+  {
+    "node": 88,
+    "type": "Local",
+    "champion": "Daredevil (Classic)",
+    "detail": "100% Champion Boost\n40% Energy Resistance\nCaltrops\nLimber (10%)"
+  },
+  {
+    "node": 89,
+    "type": "Local",
+    "champion": "Hulk (Ragnarok)",
+    "detail": "100% Health\n45% Armor\nCaltrops\nLimber (10%)"
+  },
+  {
+    "node": 90,
+    "type": "Multiple",
+    "champion": "Thor",
+    "detail": "100% Health\nCaltrops\nLimber (10%)"
+  },
+  {
+    "node": 91,
+    "type": "Local",
+    "champion": "Juggernaut",
+    "detail": "Caltrops\nLimber (10%)"
+  },
+  {
+    "node": 92,
+    "type": "Local",
+    "champion": "Black Bolt",
+    "detail": "100% Champion Boost"
+  },
+  {
+    "node": 93,
+    "type": "Local",
+    "champion": "Crossbones",
+    "detail": "200% Attack\nEnhanced Special 1\nSpecial 1 Bias"
+  },
+  {
+    "node": 94,
+    "type": "Multiple",
+    "champion": "Daredevil (Classic)",
+    "detail": "200% Attack\nStrike Back\nTrue Strike"
+  },
+  {
+    "node": 95,
+    "type": "Multiple",
+    "champion": "Magneto",
+    "detail": "Starburst\nCombo Shield\nCheckmate"
+  },
+  {
+    "node": 96,
+    "type": "Multiple",
+    "champion": "Black Widow",
+    "detail": "100% Champion Boost\nPlagued Mind\n200% Power Gain\nEnhanced Armor Up"
+  },
+  {
+    "node": 97,
+    "type": "Multiple",
+    "champion": "Colossus",
+    "detail": "200% Champion Boost\nCaltrops\nStun Immunity\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 98,
+    "type": "Multiple",
+    "champion": "Crossbones",
+    "detail": "100% Champion Boost\nMartial Mastery"
+  },
+  {
+    "node": 99,
+    "type": "Multiple",
+    "champion": "Scarlet Witch",
+    "detail": "100% Champion Boost\nOptimist\nOutlast\nStarburst"
+  },
+  {
+    "node": 100,
+    "type": "Multiple",
+    "champion": "Civil Warrior",
+    "detail": "100% Champion Boost\n40% Energy Resistance\n40% Physical Resistance\nAdaptive\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 101,
+    "type": "Local",
+    "champion": "King Groot",
+    "detail": "300% Attack\nEnhanced Special 2\nStrike Back"
+  },
+  {
+    "node": 102,
+    "type": "Local",
+    "champion": "Juggernaut",
+    "detail": "200% Attack\nCombo Shield\nCheckmate"
+  },
+  {
+    "node": 103,
+    "type": "Multiple",
+    "champion": "Magneto",
+    "detail": "200% Attack\nEnhanced Special 1\nEnhanced Special 2"
+  },
+  {
+    "node": 104,
+    "type": "Multiple",
+    "champion": "Juggernaut",
+    "detail": "200% Attack\nPoison (30 Seconds)"
+  },
+  {
+    "node": 105,
+    "type": "Local",
+    "champion": "Punisher 2099",
+    "detail": "100% Champion Boost\nEnhanced Special 1\nCaltrops\nStun Immunity"
+  },
+  {
+    "node": 106,
+    "type": "Multiple",
+    "champion": "Loki",
+    "detail": "100% Champion Boost\nEnhanced Abilities\nCaltrops\nStun Immunity"
+  },
+  {
+    "node": 107,
+    "type": "Local",
+    "champion": "Black Bolt",
+    "detail": "200% Health\n200% Power Gain\nPlagued Mind (20 Seconds)"
+  },
+  {
+    "node": 108,
+    "type": "Multiple",
+    "champion": "Cyclops (90s)",
+    "detail": "300% Attack\nCombo Shield\nStrike Back"
+  },
+  {
+    "node": 109,
+    "type": "Multiple",
+    "champion": "Electro",
+    "detail": "200% Attack\nTrue Strike\nStun"
+  },
+  {
+    "node": 110,
+    "type": "Local",
+    "champion": "Magneto",
+    "detail": "200% Health\n100% Attack\nOptimist\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 111,
+    "type": "Global",
+    "champion": "Crossbones",
+    "detail": "35% ISO-Infused"
+  },
+  {
+    "node": 112,
+    "type": "Local",
+    "champion": "Sabretooth",
+    "detail": "200% Attack\n100% Health\nEnhanced Fury\nDegeneration (180 Seconds)"
+  },
+  {
+    "node": 113,
+    "type": "Multiple",
+    "champion": "Spider-Man (Morales)",
+    "detail": "200% Attack\nTrue Strike\nEnhanced Special 1"
+  },
+  {
+    "node": 114,
+    "type": "Multiple",
+    "champion": "Thor",
+    "detail": "200% Attack\n100% Power Gain\nPlagued Mind (20 Seconds)"
+  },
+  {
+    "node": 115,
+    "type": "Multiple",
+    "champion": "Black Widow",
+    "detail": "Starburst\nEnhanced Abilities\nOutlast\nOptimist"
+  },
+  {
+    "node": 116,
+    "type": "Local",
+    "champion": "Vision (Classic)",
+    "detail": "100% Health\nOutlast\nPoison (30 Seconds)"
+  },
+  {
+    "node": 117,
+    "type": "Local",
+    "champion": "Luke Cage",
+    "detail": "200% Health\nAdaptive\nPoison (30 Seconds)\nHeal Block"
+  },
+  {
+    "node": 118,
+    "type": "Local",
+    "champion": "Doctor Strange",
+    "detail": "All or Nothing\nPoison (30 Seconds)\nHeal Block"
+  },
+  {
+    "node": 119,
+    "type": "Local",
+    "champion": "Kingpin",
+    "detail": "500% Champion Boost\n200% Health\nForce of Will\nLimber (20%)\nHeal Block\nUnbridled Rage"
+  },
+  {
+    "node": 120,
+    "type": "Local",
+    "champion": "Captain Marvel",
+    "detail": "200% Attack\nEnhanced Fury\nEnhanced Special 1\nEnhanced Special 2"
+  },
+  {
+    "node": 121,
+    "type": "Local",
+    "champion": "Star-Lord",
+    "detail": "200% Attack\nCombo Shield\nStrike Back"
+  },
+  {
+    "node": 122,
+    "type": "Local",
+    "champion": "Agent Venom",
+    "detail": "200% Power Gain\nPlagued Mind (20 Seconds)"
+  }
+]
