@@ -14,7 +14,7 @@
         "b_9": {"pos": "-12|6", "number":"b_9", "type": 2 },
         "b_10": {"pos": "-10|6", "number":"b_10", "type": 2 },
         "b_11": {"pos": "-8|6", "number":"b_11", "type": 2 },
-    
+
 
         "b_7": {"pos": "11|2", "number":"b_7", "type": 3 },
 		"4": { "pos": "9|4", "number":"4", "type": 1  },
@@ -45,7 +45,7 @@
         "b_21": {"pos": "0|14", "number":"b_21", "type": 2 },
         "b_22": {"pos": "6|14", "number":"b_22", "type": 2 },
 
-        
+
 
 
         "b_14": {"pos": "-14|9", "number":"b_14", "type": 3 },
@@ -57,7 +57,7 @@
         "b_18": {"pos": "-12|14", "number":"b_18", "type": 2 },
         "b_19": {"pos": "-10|14", "number":"b_19", "type": 2 },
 
-        
+
         "b_25": {"pos": "-12|16", "number":"b_25", "type": 3 },
         "b_26": {"pos": "-8|16", "number":"b_26", "type": 3 },
         "25": { "pos": "-12|18", "number":"25", "type": 1  },
@@ -65,14 +65,14 @@
 		"27": { "pos": "-8|18", "number":"27", "type": 1  },
         "b_32": {"pos": "-10|20", "number":"b_32", "type": 2 },
 
-       
-       
-       
 
-        
+
+
+
+
         "b_27": {"pos": "-4|16", "number":"b_27", "type": 3 },
         "b_28": {"pos": "0|16", "number":"b_28", "type": 3 },
-        "b_29": {"pos": "4|16", "number":"b_29", "type": 3 },		
+        "b_29": {"pos": "4|16", "number":"b_29", "type": 3 },
 		"28": { "pos": "-4|18", "number":"28", "type": 1  },
 		"29": { "pos": "0|18", "number":"29", "type": 1  },
         "30": { "pos": "4|18", "number":"30", "type": 1  },
@@ -88,7 +88,7 @@
         "b_24": {"pos": "14|16", "number":"b_24", "type": 3 },
         "31": { "pos": "9|18", "number":"31", "type": 1  },
 		"32": { "pos": "12|18", "number":"32", "type": 1  },
-		"33": { "pos": "15|18", "number":"33", "type": 1  },		
+		"33": { "pos": "15|18", "number":"33", "type": 1  },
 		"38": { "pos": "9|22", "number":"38", "type": 1  },
 		"39": { "pos": "12|22", "number":"39", "type": 1  },
         "40": { "pos": "15|22", "number":"40", "type": 1  },
@@ -98,7 +98,7 @@
         "b_38": {"pos": "8|26", "number":"b_38", "type": 2 },
         "b_39": {"pos": "11|26", "number":"b_39", "type": 2 },
         "b_40": {"pos": "14|26", "number":"b_40", "type": 2 },
-        
+
 
 
         "b_33": {"pos": "-12|24", "number":"b_33", "type": 3 },
@@ -121,340 +121,340 @@
         "51": { "pos": "-2|30", "number":"51", "type": 1  },
         "b_44": {"pos": "0|30", "number":"b_44", "type": 0 },
         "52": { "pos": "2|30", "number":"52", "type": 1  },
-        "b_46": {"pos": "-4|31", "number":"b_46", "type": 3 },  
+        "b_46": {"pos": "-4|31", "number":"b_46", "type": 3 },
         "b_47": {"pos": "4|31", "number":"b_47", "type": 3 },
         "53": { "pos": "-2|32", "number":"53", "type": 1  },
         "54": { "pos": "0|32", "number":"54", "type": 1  },
         "55": { "pos": "2|32", "number":"55", "type": 1  }
 	},
 	"base_paths": {
-        "p_1_1a": { 
-            "highlight": false, 
+        "p_1_1a": {
+            "highlight": false,
             "nodes":
             [
                 "b_2","b_1"
             ] },
-        "p_1_1b": { 
-            "highlight": false, 
+        "p_1_1b": {
+            "highlight": false,
             "nodes":
             [
                 "b_2","b_3"
             ] },
-        "p_1_1c": { 
-                "highlight": false, 
+        "p_1_1c": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_2","b_6"
                 ] },
-        "p_1_2a": { 
-                "highlight": false, 
+        "p_1_2a": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_4","1","b_9"
                 ] } ,
-        "p_1_2b": { 
-                "highlight": false, 
+        "p_1_2b": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_4","1","2","b_10"
                 ] } ,
-        "p_1_2c": { 
-            "highlight": false, 
+        "p_1_2c": {
+            "highlight": false,
             "nodes":
             [
                 "b_11","3","2","b_10"
             ] } ,
-        "p_1_2d": { 
-            "highlight": false, 
+        "p_1_2d": {
+            "highlight": false,
             "nodes":
             [
                 "b_5","3","b_11"
             ] } ,
-        "p_1_3a": { 
-                "highlight": false, 
+        "p_1_3a": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_7","4","7","13","14","b_16"
                 ] },
-        "p_1_3b": { 
-            "highlight": false, 
+        "p_1_3b": {
+            "highlight": false,
             "nodes":
             [
                 "b_7","5","8","14","b_16"
             ] },
-        "p_1_3c": { 
-            "highlight": false, 
+        "p_1_3c": {
+            "highlight": false,
             "nodes":
             [
                 "b_7","6","9","15","14","b_16"
             ] },
-        "p_1_4": { 
-                "highlight": false, 
+        "p_1_4": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_12","11","17","22","b_20"
                 ] },
-        "p_1_5": { 
-                "highlight": false, 
+        "p_1_5": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_8","10","16","23","b_21"
                 ] },
-        "p_1_6": { 
-                "highlight": false, 
+        "p_1_6": {
+                "highlight": false,
                 "nodes":
                 [
                     "b_13","12","18","24","b_22"
                 ] } ,
-        "p_1_7a": { 
-            "highlight": false, 
+        "p_1_7a": {
+            "highlight": false,
             "nodes":
             [
                 "b_14","19","b_17"
             ] },
-        "p_1_7b": { 
-            "highlight": false, 
+        "p_1_7b": {
+            "highlight": false,
             "nodes":
             [
-                "b_14","19","20","b_18" 
+                "b_14","19","20","b_18"
             ] },
-        "p_1_7c": { 
-            "highlight": false, 
+        "p_1_7c": {
+            "highlight": false,
             "nodes":
             [
-                "b_15","21","20","19","20","b_18"       
+                "b_15","21","20","19","20","b_18"
             ] },
-        "p_1_7d": { 
-            "highlight": false, 
+        "p_1_7d": {
+            "highlight": false,
             "nodes":
             [
-                "b_15","21","b_19"       
+                "b_15","21","b_19"
             ] },
-        "p_1_8a": { 
-            "highlight": false, 
+        "p_1_8a": {
+            "highlight": false,
             "nodes":
             [
                 "b_25","25","b_32"
             ] },
-        "p_1_8b": { 
-            "highlight": false, 
+        "p_1_8b": {
+            "highlight": false,
             "nodes":
             [
                 "b_25","25","26", "b_32"
             ] },
-        "p_1_8c": { 
-            "highlight": false, 
+        "p_1_8c": {
+            "highlight": false,
             "nodes":
             [
                 "b_26","27", "26","b_32"
             ] },
-        "p_1_8d": { 
-            "highlight": false, 
+        "p_1_8d": {
+            "highlight": false,
             "nodes":
             [
                 "b_26","27","b_32"
             ] },
-        "p_1_9": { 
-            "highlight": false, 
+        "p_1_9": {
+            "highlight": false,
             "nodes":
             [
                 "b_33", "41","45","47","b_43"
             ] },
-        "p_1_9b": { 
-            "highlight": false, 
+        "p_1_9b": {
+            "highlight": false,
             "nodes":
             [
                 "b_33","b_36","46", "49", "50", "b_45"
             ] },
-        "p_1_10": { 
-            "highlight": false, 
+        "p_1_10": {
+            "highlight": false,
             "nodes":
             [
                 "b_23","31","38","42","b_38"
             ] },
-        "p_1_11": { 
-            "highlight": false, 
+        "p_1_11": {
+            "highlight": false,
             "nodes":
             [
                 "b_23","32","39","43","b_39"
             ] },
-        "p_1_12": { 
-            "highlight": false, 
+        "p_1_12": {
+            "highlight": false,
             "nodes":
             [
                 "b_24","33","40","44", "b_40"
-            ] },       
-        "p_1_13": { 
-            "highlight": false, 
+            ] },
+        "p_1_13": {
+            "highlight": false,
             "nodes":
             [
                 "b_27","28","34","36","b_34"
                     ] },
-        "p_1_14": { 
-            "highlight": false, 
+        "p_1_14": {
+            "highlight": false,
             "nodes":
             [
                 "b_28","29","34","36","b_34"
                     ] },
-        "p_1_15": { 
-            "highlight": false, 
+        "p_1_15": {
+            "highlight": false,
             "nodes":
             [
                 "b_28","29","35","37","b_35"
                     ] },
-        "p_1_16": { 
-            "highlight": false, 
+        "p_1_16": {
+            "highlight": false,
             "nodes":
             [
                 "b_29","30","35","37","b_35"
-                    ] },        
-        "p_1_17": { 
-            "highlight": false, 
+                    ] },
+        "p_1_17": {
+            "highlight": false,
             "nodes":
             [
                 "b_37","48","b_44","54"
                     ] },
-        "p_1_18": { 
-            "highlight": false, 
+        "p_1_18": {
+            "highlight": false,
             "nodes":
             [
                 "b_42","52","b_44","54"
                     ] },
-        "p_1_19": { 
-            "highlight": false, 
+        "p_1_19": {
+            "highlight": false,
             "nodes":
             [
                 "b_46","53","54"
                     ] },
-        "p_1_20": { 
-            "highlight": false, 
+        "p_1_20": {
+            "highlight": false,
             "nodes":
             [
                 "b_47","55","54"
                     ] },
-        "p_1_21": { 
-            "highlight": false, 
+        "p_1_21": {
+            "highlight": false,
             "nodes":
             [
                 "b_41","51","b_44","54"
                     ] }
     },
     "paths": {
-        "None" : { 
-            "p_1_1a": { 
-                "highlight": false, 
+        "None" : {
+            "p_1_1a": {
+                "highlight": false,
                 "nodes":[] }
             },
-            "6 paths (Boss Express)" : { 
-                "p_1_1": { 
-                    "highlight": true, 
+            "6 paths (Boss Express)" : {
+                "p_1_1": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_1","b_4", "1", "2", "b_10", "b_14", "19", "20", "b_18", "b_25", "25", "26", "b_32", "b_33", "b_36", "46", "49", "50", "b_45", "b_46", "53", "54"
                     ] },
-                "p_1_2": { 
-                    "highlight": true, 
+                "p_1_2": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_1","b_5", "3", "2", "b_10", "b_15", "21", "20", "b_18", "b_26", "27", "b_32", "b_33", "41","45","47", "b_43", "b_41", "51", "b_44", "54"
                     ] },
-                "p_1_3": { 
-                    "highlight": true, 
+                "p_1_3": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2","b_6", "b_12", "11", "17", "22", "b_20", "b_27", "28", "34", "36", "b_34", "b_37","48","b_44", "54"
-                    ] },  
-                "p_1_4": { 
-                    "highlight": true, 
+                    ] },
+                "p_1_4": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2","b_3", "b_7", "4", "7", "13", "14", "b_16", "b_29", "30", "35", "37", "b_35", "b_37", "48", "b_44", "54"
                     ] },
-                "p_1_5": { 
-                    "highlight": true, 
+                "p_1_5": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2","b_3", "b_7", "5", "8", "14", "b_16", "b_23", "31", "38", "42", "b_38", "b_42", "52", "b_44", "54"
                     ] },
-                "p_1_6": { 
-                    "highlight": true, 
+                "p_1_6": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2", "b_3", "b_7", "6", "9", "15", "14", "b_16", "b_24", "33", "40", "44", "b_40", "b_47", "55", "54"
                     ] }
                 },
-            "6 paths (Express Min Explore)" : { 
-                "p_1_1": { 
-                    "highlight": true, 
+            "6 paths (Express Min Explore)" : {
+                "p_1_1": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_1","b_4", "1", "b_9", "b_14", "19", "b_17", "b_25", "25","b_32", "b_33", "b_36", "46", "49", "50", "b_45", "b_46", "53", "54"
                     ] },
-                "p_1_2": { 
-                    "highlight": true, 
+                "p_1_2": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_1","b_5", "3", "b_11", "b_15", "21", "b_19", "b_26", "27", "b_32", "b_33", "41","45","47", "b_43", "b_41", "51", "b_44", "54"
                     ] },
-                "p_1_3": { 
-                    "highlight": true, 
+                "p_1_3": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_1","b_5", "3", "b_11", "b_15", "21", "b_19", "b_27", "28", "34", "36", "b_34", "b_37","48","b_44", "54"
-                    ] },  
-                "p_1_4": { 
-                    "highlight": true, 
+                    ] },
+                "p_1_4": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2","b_3", "b_7", "4", "7", "13", "14", "b_16", "b_29", "30", "35", "37", "b_35", "b_37", "48", "b_44", "54"
                     ] },
-                "p_1_5": { 
-                    "highlight": true, 
+                "p_1_5": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2","b_3", "b_7", "5", "8", "14", "b_16", "b_23", "31", "38", "42", "b_38", "b_42", "52", "b_44", "54"
                     ] },
-                "p_1_6": { 
-                    "highlight": true, 
+                "p_1_6": {
+                    "highlight": true,
                     "nodes":
                     [
                         "b_2", "b_3", "b_7", "6", "9", "15", "14", "b_16", "b_24", "33", "40", "44", "b_40", "b_47", "55", "54"
                     ] }
-                }    
+                }
 	},
     "paths_old": {
-        "None" : { 
-            "p_1_1a": { 
-                "highlight": false, 
+        "None" : {
+            "p_1_1a": {
+                "highlight": false,
                 "nodes":[] }
             },
-		"5 paths (Boss Express)" : { 
-        "p_1_1": { 
-            "highlight": false, 
+		"5 paths (Boss Express)" : {
+        "p_1_1": {
+            "highlight": false,
             "nodes":
             [
                 "b_3","b_7", "6", "9", "15", "14", "b_16"
             ] },
-        "p_1_2": { 
-            "highlight": false, 
+        "p_1_2": {
+            "highlight": false,
             "nodes":
             [
                 "b_3","b_7", "5", "8", "14", "b_16"
             ] },
-        "p_1_3": { 
-            "highlight": false, 
+        "p_1_3": {
+            "highlight": false,
             "nodes":
             [
                 "b_3","b_7", "4", "7", "13", "14", "b_16"
             ] },
-        "p_1_4": { 
-            "highlight": true, 
+        "p_1_4": {
+            "highlight": true,
             "nodes":
             [
                 "b_1","b_5", "3", "2", "b_10","b_15", "21", "20", "b_18", "b_26", "27", "b_32", "b_33", "41", "45", "47"
             ] },
-        "p_1_5": { 
-            "highlight": true, 
+        "p_1_5": {
+            "highlight": true,
             "nodes":
             [
                 "b_1","b_4", "1", "b_9", "b_14", "19", "20", "b_18", "b_25", "25", "b_32", "b_33", "b_36", "46", "49", "50", "b_45", "b_46"
@@ -501,7 +501,7 @@
         "37": ["boost:200", "health:100","poison100", "bruteforce", "enhancedsp2", "stupefy"],
         "38": ["boost:200", "health:100", "armor:45", "explosivepersonality", "aggression:armor"],
         "39": ["boost:150", "iso:25", "health:100", "biohazard", "poisonimmune", "bleedimmune", "limber:0.1"],
-        "40": ["boost:200", "powerdrain", "powerleak", "critrate:28", "tyranny","villainy", "armor:45", "plaguedmind:25"],
+        "40": ["boost:200", "powerdrain", "powerleak", "critrate:28", "tyranny", "villainy", "armor:45", "plaguedmind:25"],
         "41": ["boost:150", "iso:25", "enhancedbleed", "bloodletting"],
         "42": ["boost:200", "health:150", "armor:66", "recovery:100", "arcoverload2", "mysticwardII"],
         "43": ["boost:150", "iso:25", "health:200", "aggression:Regeneration", "starburst", "recovery:50", "limber:0.1", "flare"],
@@ -516,7 +516,7 @@
         "52": ["boost:200", "health:300", "recovery:200", "strikeback"],
         "53": ["boost:200", "health:300", "enhancedsp2", "specialbias2", "power:100"],
         "54": ["boost:300", "health:700", "stunimmune", "strike", "adaptive"],
-		"55": ["boost:200", "health:300", "stunimmune", "optimist"]
+		"55": ["boost:200", "health:300", "immune", "optimist"]
 	},
 
 	"links": {
@@ -559,7 +559,7 @@
     "b_1_39": [42, 52, ["boost:100"]],
     "b_1_40": [44, 55, ["boost:100"]]
     },
- 
+
     "portal_links": {
         "b_1_1": ["b_1", "b_4"],
         "b_1_2": ["b_1", "b_5" ],
@@ -603,7 +603,7 @@
         "b_1_22": ["b_40", "b_47"],
         "b_1_22a": ["b_40", "b_42"]
     },
-        
+
 
 	"prefered_champs": {
 	}

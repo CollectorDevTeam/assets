@@ -587,5 +587,15 @@
 		"img" : "powertrend",
 		"title" : "Oppressive Curse",
 		"text" : "When Morningstar is Blocked, she gains a Soul Charge. Slight delay between Opressive Curse activations."
+	},
+	"tyranny":{
+		"img" : "powertrend",
+		"title": "Tyranny",
+		"text": "Villains in this arena attain absolute Power. Heroes do not gain Power."
+	},
+	"villainy":{
+		"img": "powertrend",
+		"title": "Villainy",
+		"text": "Villains in this arena periodically gain Cruelty, increasing Critical Damage by 250% for 7 seconds."
 	}
 }
