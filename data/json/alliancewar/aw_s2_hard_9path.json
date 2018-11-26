@@ -1,0 +1,570 @@
+{
+	"nodes": {
+		"b_1": {"pos": "-2|0", "number":"b_1", "type": 2 },
+		"b_2": {"pos": "0|0", "number":"b_2", "type": 0 },
+        "b_3": {"pos": "2|0", "number":"b_3", "type": 2 },
+        "b_6": {"pos": "0|2", "number":"b_6", "type": 2 },
+
+
+		"b_4": {"pos": "-12|2", "number":"b_4", "type": 3 },
+        "b_5": {"pos": "-8|2", "number":"b_5", "type": 3 },
+        "1": { "pos": "-12|4", "number":"1", "type": 1  },
+		"2": { "pos": "-10|4", "number":"2", "type": 1 },
+        "3": { "pos": "-8|4", "number":"3", "type": 1  },
+        "b_9": {"pos": "-12|6", "number":"b_9", "type": 2 },
+        "b_10": {"pos": "-10|6", "number":"b_10", "type": 2 },
+        "b_11": {"pos": "-8|6", "number":"b_11", "type": 2 },
+    
+
+        "b_7": {"pos": "11|2", "number":"b_7", "type": 3 },
+		"4": { "pos": "9|4", "number":"4", "type": 1  },
+		"5": { "pos": "11|4", "number":"5", "type": 1  },
+        "6": { "pos": "13|4", "number":"6", "type": 1  },
+        "7": { "pos": "7|6", "number":"7", "type": 1  },
+		"8": { "pos": "11|6", "number":"8", "type": 1  },
+        "9": { "pos": "15|6", "number":"9", "type": 1  },
+        "13": { "pos": "9|8", "number":"13", "type": 1  },
+		"14": { "pos": "11|8", "number":"14", "type": 1  },
+        "15": { "pos": "13|8", "number":"15", "type": 1  },
+        "b_16": {"pos": "11|12", "number":"b_16", "type": 2 },
+
+
+        "b_8": {"pos": "0|5", "number":"b_8", "type": 3 },
+        "b_12": {"pos": "-2|6", "number":"b_12", "type": 3 },
+        "b_13": {"pos": "2|6", "number":"b_13", "type": 3 },
+        "10": { "pos": "0|7", "number":"10", "type": 1  },
+		"11": { "pos": "-4|8", "number":"11", "type": 1  },
+        "12": { "pos": "4|8", "number":"12", "type": 1  },
+        "16": { "pos": "0|9", "number":"16", "type": 1  },
+        "17": { "pos": "-4|10", "number":"17", "type": 1  },
+        "18": { "pos": "4|10", "number":"18", "type": 1  },
+        "22": { "pos": "-6|12", "number":"22", "type": 1  },
+		"23": { "pos": "0|12", "number":"23", "type": 1  },
+        "24": { "pos": "6|12", "number":"24", "type": 1  },
+        "b_20": {"pos": "-6|14", "number":"b_20", "type": 2 },
+        "b_21": {"pos": "0|14", "number":"b_21", "type": 2 },
+        "b_22": {"pos": "6|14", "number":"b_22", "type": 2 },
+
+        
+
+
+        "b_14": {"pos": "-14|9", "number":"b_14", "type": 3 },
+        "b_15": {"pos": "-10|9", "number":"b_15", "type": 3 },
+		"19": { "pos": "-14|12", "number":"19", "type": 1  },
+		"20": { "pos": "-12|12", "number":"20", "type": 1  },
+        "21": { "pos": "-10|12", "number":"21", "type": 1  },
+        "b_17": {"pos": "-14|14", "number":"b_17", "type": 2 },
+        "b_18": {"pos": "-12|14", "number":"b_18", "type": 2 },
+        "b_19": {"pos": "-10|14", "number":"b_19", "type": 2 },
+
+        
+        "b_25": {"pos": "-12|16", "number":"b_25", "type": 3 },
+        "b_26": {"pos": "-8|16", "number":"b_26", "type": 3 },
+        "25": { "pos": "-12|18", "number":"25", "type": 1  },
+		"26": { "pos": "-10|18", "number":"26", "type": 1  },
+		"27": { "pos": "-8|18", "number":"27", "type": 1  },
+        "b_32": {"pos": "-10|20", "number":"b_32", "type": 2 },
+
+       
+       
+       
+
+        
+        "b_27": {"pos": "-4|16", "number":"b_27", "type": 3 },
+        "b_28": {"pos": "0|16", "number":"b_28", "type": 3 },
+        "b_29": {"pos": "4|16", "number":"b_29", "type": 3 },		
+		"28": { "pos": "-4|18", "number":"28", "type": 1  },
+		"29": { "pos": "0|18", "number":"29", "type": 1  },
+        "30": { "pos": "4|18", "number":"30", "type": 1  },
+        "34": { "pos": "-2|20", "number":"34", "type": 1  },
+        "35": { "pos": "2|20", "number":"35", "type": 1  },
+        "36": { "pos": "-2|22", "number":"36", "type": 1  },
+        "37": { "pos": "2|22", "number":"37", "type": 1  },
+        "b_34": {"pos": "-4|24", "number":"b_34", "type": 2 },
+        "b_35": {"pos": "4|24", "number":"b_35", "type": 2 },
+
+
+        "b_23": {"pos": "11|16", "number":"b_23", "type": 3 },
+        "b_24": {"pos": "14|16", "number":"b_24", "type": 3 },
+        "31": { "pos": "9|18", "number":"31", "type": 1  },
+		"32": { "pos": "12|18", "number":"32", "type": 1  },
+		"33": { "pos": "15|18", "number":"33", "type": 1  },		
+		"38": { "pos": "9|22", "number":"38", "type": 1  },
+		"39": { "pos": "12|22", "number":"39", "type": 1  },
+        "40": { "pos": "15|22", "number":"40", "type": 1  },
+        "42": { "pos": "9|24", "number":"42", "type": 1  },
+		"43": { "pos": "12|24", "number":"43", "type": 1  },
+        "44": { "pos": "15|24", "number":"44", "type": 1  },
+        "b_38": {"pos": "8|26", "number":"b_38", "type": 2 },
+        "b_39": {"pos": "11|26", "number":"b_39", "type": 2 },
+        "b_40": {"pos": "14|26", "number":"b_40", "type": 2 },
+        
+
+
+        "b_33": {"pos": "-12|24", "number":"b_33", "type": 3 },
+        "41": { "pos": "-10|24", "number":"41", "type": 1  },
+        "b_36": {"pos": "-14|26", "number":"b_36", "type": 0 },
+        "45": { "pos": "-8|26", "number":"45", "type": 1  },
+        "46": { "pos": "-14|28", "number":"46", "type": 1  },
+        "47": { "pos": "-8|28", "number":"47", "type": 1  },
+        "49": { "pos": "-13|30", "number":"49", "type": 1  },
+        "50": { "pos": "-10|30", "number":"50", "type": 1  },
+        "b_43": {"pos": "-6|29", "number":"b_43", "type": 2 },
+        "b_45": {"pos": "-8|31", "number":"b_45", "type": 2 },
+
+
+
+        "b_37": {"pos": "0|26", "number":"b_37", "type": 3 },
+        "48": { "pos": "0|28", "number":"48", "type": 1  },
+        "b_41": {"pos": "-4|29", "number":"b_41", "type": 3 },
+        "b_42": {"pos": "4|29", "number":"b_42", "type": 3 },
+        "51": { "pos": "-2|30", "number":"51", "type": 1  },
+        "b_44": {"pos": "0|30", "number":"b_44", "type": 0 },
+        "52": { "pos": "2|30", "number":"52", "type": 1  },
+        "b_46": {"pos": "-4|31", "number":"b_46", "type": 3 },  
+        "b_47": {"pos": "4|31", "number":"b_47", "type": 3 },
+        "53": { "pos": "-2|32", "number":"53", "type": 1  },
+        "54": { "pos": "0|32", "number":"54", "type": 1  },
+        "55": { "pos": "2|32", "number":"55", "type": 1  }
+        
+	},
+	"base_paths": {
+        "p_1_1a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_2","b_1"
+            ] },
+        "p_1_1b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_2","b_3"
+            ] },
+        "p_1_1c": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_2","b_6"
+                ] },
+        "p_1_2a": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_4","1","b_9"
+                ] } ,
+        "p_1_2b": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_4","1","2","b_10"
+                ] } ,
+        "p_1_2c": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_11","3","2","b_10"
+            ] } ,
+        "p_1_2d": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_5","3","b_11"
+            ] } ,
+        "p_1_3a": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_7","4","7","13","14","b_16"
+                ] },
+        "p_1_3b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_7","5","8","14","b_16"
+            ] },
+        "p_1_3c": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_7","6","9","15","14","b_16"
+            ] },
+        "p_1_4": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_12","11","17","22","b_20"
+                ] },
+        "p_1_5": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_8","10","16","23","b_21"
+                ] },
+        "p_1_6": { 
+                "highlight": false, 
+                "nodes":
+                [
+                    "b_13","12","18","24","b_22"
+                ] } ,
+        "p_1_7a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_14","19","b_17"
+            ] },
+        "p_1_7b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_14","19","20","b_18" 
+            ] },
+        "p_1_7c": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_15","21","20","19","20","b_18"       
+            ] },
+        "p_1_7d": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_15","21","b_19"       
+            ] },
+        "p_1_8a": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_25","25","b_32"
+            ] },
+        "p_1_8b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_25","25","26", "b_32"
+            ] },
+        "p_1_8c": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_26","27", "26","b_32"
+            ] },
+        "p_1_8d": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_26","27","b_32"
+            ] },
+        "p_1_9": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_33", "41","45","47","b_43"
+            ] },
+        "p_1_9b": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_33","b_36","46", "49", "50", "b_45"
+            ] },
+        "p_1_10": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_23","31","38","42","b_38"
+            ] },
+        "p_1_11": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_23","32","39","43","b_39"
+            ] },
+        "p_1_12": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_24","33","40","44", "b_40"
+            ] },       
+        "p_1_13": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_27","28","34","36","b_34"
+                    ] },
+        "p_1_14": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_28","29","34","36","b_34"
+                    ] },
+        "p_1_15": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_28","29","35","37","b_35"
+                    ] },
+        "p_1_16": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_29","30","35","37","b_35"
+                    ] },        
+        "p_1_17": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_37","48","b_44","54"
+                    ] },
+        "p_1_18": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_42","52","b_44","54"
+                    ] },
+        "p_1_19": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_46","53","54"
+                    ] },
+        "p_1_20": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_47","55","54"
+                    ] },
+        "p_1_21": { 
+            "highlight": false, 
+            "nodes":
+            [
+                "b_41","51","b_44","54"
+                    ] }
+    },
+    "paths": {
+        "None" : { 
+            "p_1_1a": { 
+                "highlight": false, 
+                "nodes":[] }
+            },
+		"6 paths (Boss Express)" : { 
+            "p_1_1": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_1","b_4", "1", "2", "b_10", "b_14", "19", "20", "b_18", "b_25", "25", "26", "b_32", "b_33", "b_36", "46", "49", "50", "b_45", "b_46", "53", "54"
+                ] },
+            "p_1_2": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_1","b_5", "3", "2", "b_10", "b_15", "21", "20", "b_18", "b_26", "27", "b_32", "b_33", "41","45","47", "b_43", "b_41", "51", "b_44", "54"
+                ] },
+            "p_1_3": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2","b_6", "b_12", "11", "17", "22", "b_20", "b_27", "28", "34", "36", "b_34", "b_37","48","b_44", "54"
+                ] },  
+            "p_1_4": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2","b_3", "b_7", "4", "7", "13", "14", "b_16", "b_29", "30", "35", "37", "b_35", "b_37", "48", "b_44", "54"
+                ] },
+            "p_1_5": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2","b_3", "b_7", "5", "8", "14", "b_16", "b_23", "31", "38", "42", "b_38", "b_42", "52", "b_44", "54"
+                ] },
+            "p_1_6": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2", "b_3", "b_7", "6", "9", "15", "14", "b_16", "b_24", "33", "40", "44", "b_40", "b_47", "55", "54"
+                ] }
+            },
+        "6 paths (Express Min Explore)" : { 
+            "p_1_1": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_1","b_4", "1", "b_9", "b_14", "19", "b_17", "b_25", "25","b_32", "b_33", "b_36", "46", "49", "50", "b_45", "b_46", "53", "54"
+                ] },
+            "p_1_2": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_1","b_5", "3", "b_11", "b_15", "21", "b_19", "b_26", "27", "b_32", "b_33", "41","45","47", "b_43", "b_41", "51", "b_44", "54"
+                ] },
+            "p_1_3": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_1","b_5", "3", "b_11", "b_15", "21", "b_19", "b_27", "28", "34", "36", "b_34", "b_37","48","b_44", "54"
+                ] },  
+            "p_1_4": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2","b_3", "b_7", "4", "7", "13", "14", "b_16", "b_29", "30", "35", "37", "b_35", "b_37", "48", "b_44", "54"
+                ] },
+            "p_1_5": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2","b_3", "b_7", "5", "8", "14", "b_16", "b_23", "31", "38", "42", "b_38", "b_42", "52", "b_44", "54"
+                ] },
+            "p_1_6": { 
+                "highlight": true, 
+                "nodes":
+                [
+                    "b_2", "b_3", "b_7", "6", "9", "15", "14", "b_16", "b_24", "33", "40", "44", "b_40", "b_47", "55", "54"
+                ] }
+            }
+    },
+	"boosts": {
+        "1": ["boost:50", "attack:50", "enhancedfury"],
+        "2": ["boost:75", "strikeback"],
+        "3": ["boost:75", "attack:50", "critrate:28", "specialbias2"],
+        "4": ["boost:50", "health:75", "poisonimmune", "limber:0.1"],
+        "5": ["boost:75", "recovery:50", "adaptive"],
+        "6": ["boost:50", "health:50", "armor:20", "enhancedarmorup"],
+        "7": ["boost:75", "plaguedmind:30", "powerstart1", "cornered:100"],
+        "8": ["boost:50", "health:100", "pessimist", "outlast"],
+        "9": ["boost:50", "specialbias2", "armor:20"],
+        "10": ["boost:75", "power:50", "optimist"],
+        "11": ["boost:100", "outlast", "pessimist", "rollingthunder"],
+        "12": ["boost:100", "limber:0.1", "enhancedsp1", "enhancedfury"],
+        "13": ["boost:75", "optimist", "recovery:50"],
+        "14": ["boost:75", "health:125", "presistance:40"],
+        "15": ["boost:50", "enhancedpoison", "plaguedmind:30"],
+        "16": ["boost:100", "transducer", "healblock_special"],
+        "17": ["boost:100", "attack:50", "specialbias1"],
+        "18": ["boost:100", "stunimmune", "enhancedabilities"],
+        "19": ["boost:50", "enhancedcrits", "critrate:28"],
+        "20": ["boost:75", "critrate:28", "powerleak", "speciallock1"],
+        "21": ["boost:75", "attack:75", "enhancedbleed", "enhancedabilities"],
+        "22": ["boost:100","health:50%", "heavyhanded", "armor:66", "allornothing"],
+        "23": ["boost:125", "enhancedenergyattack", "eresistance:80", "masochism"],
+        "24": ["boost:100", "health:125", "recovery:50", "buffet:5%"],
+        "25": ["boost:75", "attack:50", "enhancedpoison", "poison100", "plaguedmind:30"],
+        "26": ["boost:100", "enhancedcrits", "enhancedbleed", "pessimist"],
+        "27": ["boost:100", "attack:25", "enhancedarmorbreak", "mirrorimage", "strike", "stunimmune"],
+        "28": ["boost:100", "stun", "limber:0.2", "stupefy"],
+        "29": ["boost:125", "attack:25", "healblock_special", "power:50"],
+        "30": ["boost:100", "mystic_ward:80", "adaptive", "powerstart1"],
+        "31": ["boost:100", "health:50", "armor:45", "enhancedarmorup"],
+        "32": ["boost:100", "adaptive", "limber:0.1", "rollingthunder", "bleedimmune"],
+        "33": ["boost:100", "plaguedmind:25", "bleedimmune", "limber:0.1", "speciallock1"],
+        "34": ["boost:125", "strike", "plaguedmind:20", "kineticreactor"],
+        "35": ["boost:125", "armor:45", "kineticreactor", "enhancedsp2", "powershield"],
+        "36": ["boost:125", "bleed100", "breakthrough", "rollingthunder"],
+        "37": ["boost:125", "poison100", "bruteforce", "enhancedsp2"],
+        "38": ["boost:100", "health:75", "armor:45"],
+        "39": ["boost:75", "poisonimmune", "bleedimmune", "limber:0.1"],
+        "40": ["boost:100", "powerdrain", "powerleak", "critrate:28", "armor:20", "plaguedmind:25"],
+        "41": ["boost:75", "attack:25", "enhancedbleed", "pessimist"],
+        "42": ["boost:100", "health:75", "armor:45", "recovery:50", "arcoverload2"],
+        "43": ["boost:75", "health:100", "recovery:100", "limber:0.1", "flare"],
+        "44": ["boost:75", "health:100", "bleed100", "enhancedsp1", "spite"],
+        "45": ["boost:100", "enhancedcrits", "resonancecascade", "critrate:28"],
+        "46": ["boost:100", "power:50", "outlast", "pessimist"],
+        "47": ["boost:100", "powerstart1", "enhancedsp1", "resonancecascade", "critrate:28", "enhancedcrits"],
+        "48": ["boost:125", "health:300", "kineticreactor", "limber:0.1"],
+        "49": ["boost:125", "attack:50", "enhancedsp1", "specialbias1", "powerdrain"],
+        "50": ["boost:75", "health:100", "martialmastery", "strike", "bane"],
+        "51": ["boost:125", "health:300", "enhancedsp1", "presistance:40", "limber:0.1"],
+        "52": ["boost:125", "health:300", "recovery:50", "plaguedmind:30", "armor:20"],
+        "53": ["boost:125", "health:300", "enhancedsp2", "specialbias2", "powerdrain"],
+        "54": ["boost:100", "health:700", "stunimmune", "strike"],
+		"55": ["boost:125", "health:300", "stunimmune", "bleedimmune", "poisonimmune"]
+	},
+
+	"links": {
+    "b_1_1": [1, 2, ["boost:100"]],
+    "b_1_1a": [2, 11, ["boost:100"]],
+    "b_1_1b": [3, 2, ["boost:100"]],
+    "b_1_2": [11, 10, ["boost:100"]],
+    "b_1_2a": [12, 10, ["boost:100"]],
+    "b_1_3": [4, 12, ["boost:100"]],
+    "b_1_3a": [5, 4, ["boost:100"]],
+    "b_1_3b": [6, 5, ["boost:100"]],
+    "b_1_8": [19, 20, ["boost:100"]],
+    "b_1_8a": [21, 20, ["boost:100"]],
+    "b_1_16": [27, 26, ["boost:100"]],
+    "b_1_17": [25, 26, ["boost:100"]],
+    "b_1_15": [27, 28, ["boost:100"]],
+    "b_1_13a": [28, 29, ["boost:100"]],
+    "b_1_13": [30, 29, ["boost:100"]],
+    "b_1_14": [31, 30, ["boost:100"]],
+    "b_1_14a": [31, 32, ["boost:100"]],
+    "b_1_14b": [33, 32, ["boost:100"]],
+    "b_1_19": [35, 34, ["boost:100"]],
+    "b_1_20": [34, 37, ["boost:100"]],
+    "b_1_20a": [37, 36, ["boost:100"]],
+    "b_1_21": [36, 48, ["boost:100"]],
+    "b_1_22": [37, 48, ["boost:100"]],
+    "b_1_22b": [42, 37, ["boost:100"]],
+    "b_1_22c": [42, 43, ["boost:100"]],
+    "b_1_22d": [44, 43, ["boost:100"]],
+    "b_1_23": [45, 36, ["boost:100"]],
+    "b_1_38": [49, 45, ["boost:100"]],
+    "b_1_36": [47, 51, ["boost:100"]],
+    "b_1_25": [50, 53, ["boost:100"]],
+    "b_1_26": [53, 54, ["boost:100"]],
+    "b_1_27": [55, 54, ["boost:100"]],
+    "b_1_28": [51, 54, ["boost:100"]],
+    "b_1_29": [52, 54, ["boost:100"]],
+    "b_1_24": [48, 54, ["boost:100"]],
+    "b_1_39": [42, 52, ["boost:100"]],
+    "b_1_40": [44, 55, ["boost:100"]]
+    },  
+    "portal_links": {
+        "b_1_1": ["b_1", "b_4"],
+        "b_1_2": ["b_1", "b_5" ],
+        "b_1_3": ["b_3", "b_7"],
+        "b_1_4": ["b_6", "b_8"],
+        "b_1_5": ["b_6", "b_12"],
+        "b_1_6": ["b_6", "b_13"],
+        "b_1_7": ["b_9", "b_14"],
+        "b_1_8": ["b_10", "b_14"],
+        "b_1_9": ["b_10", "b_15"],
+        "b_1_10": ["b_11", "b_12"],
+        "b_1_11": ["b_11", "b_15"],
+        "b_1_11a": ["b_16", "b_23"],
+        "b_1_11b": ["b_16", "b_24"],
+        "b_1_11c": ["b_16", "b_29"],
+        "b_1_11d": ["b_17", "b_25"],
+        "b_1_12": ["b_18", "b_25"],
+        "b_1_12a": ["b_18", "b_26"],
+        "b_1_13": ["b_19", "b_26"],
+        "b_1_13a": ["b_19", "b_27"],
+        "b_1_13b": ["b_20", "b_27"],
+        "b_1_13c": ["b_20", "b_26"],
+        "b_1_14": ["b_21", "b_27"],
+        "b_1_15": ["b_21", "b_28"],
+        "b_1_15a": ["b_21", "b_29"],
+        "b_1_15b": ["b_22", "b_23"],
+        "b_1_15c": ["b_22", "b_29"],
+        "b_1_15d": ["b_32", "b_33"],
+        "b_1_16": ["b_45", "b_46"],
+        "b_1_16a": ["b_45", "b_41"],
+        "b_1_17": ["b_43", "b_41"],
+        "b_1_17a": ["b_43", "b_37"],
+        "b_1_18": ["b_34", "b_41"],
+        "b_1_18a": ["b_34", "b_37"],
+        "b_1_19": ["b_35", "b_37"],
+        "b_1_19a": ["b_35", "b_42"],
+        "b_1_20": ["b_38", "b_42"],
+        "b_1_20a": ["b_38", "b_37"],
+        "b_1_21": ["b_39", "b_47"],
+        "b_1_21a": ["b_39", "b_42"],
+        "b_1_22": ["b_40", "b_47"],
+        "b_1_22a": ["b_40", "b_42"]
+    },
+        
+
+	"prefered_champs": {
+	}
+}
