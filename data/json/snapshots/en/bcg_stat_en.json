@@ -1,21 +1,21 @@
 {
-  "meta": {
-    "format": "sparx",
-    "hash": "fd6fba690c117d84d1ef39cbda6173bbb1f5cfd5",
-    "language": "en",
-    "post_processed": true,
-    "string_count": 4836,
-    "tagged": [
-      "bcg_stat",
-      "client"
-    ],
-    "ts": 1532376296,
-    "versionLock": "19.1"
-  },
-  "strings": [
-    {
-      "k": "ID_ABTH50D",
-      "v": "Special Attack 2 is unblockable and has increased damage.",
+    "meta": {
+        "format": "sparx",
+        "hash": "d339aedbc7e1a421c6f09ce1ccb38ba2ee834788",
+        "language": "en",
+        "post_processed": true,
+        "string_count": 5292,
+        "tagged": [
+            "bcg_stat",
+            "client"
+        ],
+        "ts": 1541786119,
+        "versionLock": "21.0"
+    },
+    "strings": [
+        {
+            "k": "ID_ABTH50D",
+            "v": "Special Attack 2 is unblockable and has increased damage.",
       "vn": 19
     },
     {
@@ -172,6 +172,16 @@
       "k": "ID_AED8240T",
       "v": "[b4b4b4ff]A.I. Disabled[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_AEGD",
+      "v": "Ægon gains passive abilities as his Combo Meter increases.",
+      "vn": 21
+    },
+    {
+      "k": "ID_AEGT",
+      "v": "Combo Meter Effects",
+      "vn": 21
     },
     {
       "k": "ID_AGHT107D",
@@ -409,6 +419,11 @@
       "vn": 19
     },
     {
+      "k": "ID_BLDLET",
+      "v": "[b4b4b4ff]Bloodletting[-]",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_BLED98D",
       "v": "Inflicts Direct Damage over time.",
       "vn": 19
@@ -444,19 +459,19 @@
       "vn": 19
     },
     {
-      "k": "ID_BLTY81T",
-      "v": "[b4b4b4ff]Bleed Immunity[-]",
-      "vn": 19
-    },
-    {
-      "k": "ID_BODS221D",
-      "v": "Generates Power over time. Ends of Thor is knocked down by a Special Attack.",
-      "vn": 19
-    },
-    {
-      "k": "ID_BODS221T",
-      "v": "[b4b4b4ff]Boon of the Gods[-]",
-      "vn": 19
+            "k": "ID_BLTY81T",
+            "v": "[b4b4b4ff]Bleed Immunity[-]",
+            "vn": 19
+        },
+        {
+            "k": "ID_BODS221D",
+            "v": "Generates Power over time. Ends if Thor is knocked down by a Special Attack.",
+            "vn": 19
+        },
+        {
+            "k": "ID_BODS221T",
+            "v": "[b4b4b4ff]Boon of the Gods[-]",
+            "vn": 19
     },
     {
       "k": "ID_BOON78D",
@@ -529,9 +544,19 @@
       "vn": 19
     },
     {
-      "k": "ID_CAPS74T",
-      "v": "[b4b4b4ff]Caltrops[-]",
-      "vn": 19
+            "k": "ID_CAPS74T",
+            "v": "[b4b4b4ff]Caltrops[-]",
+            "vn": 19
+        },
+        {
+            "k": "ID_CHARACTER_BIOS_AEGON",
+            "v": "Born to a pacifist race forced into slavery by the Master of the first Contest of Champions, Ægon always defied the strict code of nonviolence amongst his kin. He secretly trained as a gladiator, inspired by love and duty to win the Contest and free his people. Against all odds, he fought his way to the final battle against the Master. Ægon was victorious, but the battle cost him his arm, and the life of his beloved. His tragedy was complete when his own people cast him out as a pariah and left him behind in the Battlerealm. As Champion of the Contest, Ægon’s prize was the Iso-Belt, a powerful artifact that grants him the ability to manifest a phantom limb, and other willpower constructs, to replace his missing arm. However, the full extent of the belt's powers are still unknown.",
+            "vn": 21
+        },
+        {
+            "k": "ID_CHARACTER_BIOS_EMMAFROST",
+            "v": "Emma Frost is an incredibly powerful mutant, with a brilliant mind to match. She possesses staggering telepathic abilities, and is able to transform her body into organic diamond, rendering her almost indestructible. From White Queen of the Hellfire Club, to leader of the X-Men, she handles every challenge with grace, poise, and wit as sharp as diamond.",
+            "vn": 20
     },
     {
       "k": "ID_CHARACTER_BIOS_GHOST",
@@ -1019,6 +1044,11 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_DOM191_4_NEW",
+      "v": "[64acff]Domino:[-] If Domino never hit with a Special Attack while both Lucky and Unlucky were active, then she has +20% chance to activate them during her next fight.\n[64acff]M.O.D.O.K. or Taskmaster:[-] Bleed abilities last {0} second(s) longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 20
+    },
+    {
       "k": "ID_DOM191_5",
       "v": "Domino uses her pistol for her first Light hit, her second Medium hit, and her final Heavy hit. These hits do not make contact with opponents.",
       "vn": "19.1"
@@ -1042,6 +1072,16 @@
       "k": "ID_ELNG75T",
       "v": "[b4b4b4ff]Electroshock Charging[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_EMMDF_D",
+      "v": "Emma has increased defenses, and generates Prowess by blocking",
+      "vn": 20
+    },
+    {
+      "k": "ID_EMMTF_D",
+      "v": "Emma has increased Critical Rate and Critical Damage Rate, and her Critical Hits generate Prowess.",
+      "vn": 20
     },
     {
       "k": "ID_EMNK192D",
@@ -1599,6 +1639,11 @@
       "vn": 19
     },
     {
+      "k": "ID_HTDIL1",
+      "v": "Reduces Armor, Attack, Block Proficiency, Regeneration Rate, Physical Resistance, Critical Chance and Critical Damage.",
+      "vn": 21
+    },
+    {
       "k": "ID_HUER193D",
       "v": "Attacks inflict Armor Break. Dash back and hold Block to switch modes.",
       "vn": 19
@@ -1872,6 +1917,11 @@
       "k": "ID_KPRT",
       "v": "[b4b4b4ff]Rage[-]",
       "vn": "19.1"
+    },
+    {
+      "k": "ID_LFSTL1",
+      "v": "[b4b4b4ff]Life Steal[-]",
+      "vn": "20.1"
     },
     {
       "k": "ID_LIBO75D",
@@ -2229,6 +2279,16 @@
       "vn": 19
     },
     {
+      "k": "ID_OVCL1",
+      "v": "Overclock",
+      "vn": 21
+    },
+    {
+      "k": "ID_OVCL2",
+      "v": "Grants bonus Energy Damage with each strike. Converted into a Shock Debuff on the opponent when a Special Attack is activated.",
+      "vn": 21
+    },
+    {
       "k": "ID_OVGE75D",
       "v": "This Champion must wait before Overrun can be activated again.",
       "vn": 19
@@ -2514,20 +2574,19 @@
       "vn": 19
     },
     {
-      "k": "ID_POTY38T",
-      "v": "[b4b4b4ff]Poison Immunity[-]",
-      "vn": 19
-    },
-    {
-      "k": "ID_POVE78D",
-      "v": "A portion of the Power spent to activate a Special Attack is recuperated.",
-      "vn": 19
-    },
-    {
-      "k": "ID_POVE78T",
-      "v": "[b4b4b4ff]Power Reserve[-]",
-      "vn": 19
-    },
+            "k": "ID_POTY38T",
+            "v": "[b4b4b4ff]Poison Immunity[-]",
+            "vn": 19
+        },
+        {
+            "k": "ID_POVE78D",
+            "v": "Special Attacks cost less Power."
+        },
+        {
+            "k": "ID_POVE78T",
+            "v": "[b4b4b4ff]Power Reserve[-]",
+            "vn": 19
+        },
     {
       "k": "ID_PRED88D",
       "v": "This Champion must wait for the Protection ability to activate.",
@@ -2569,6 +2628,11 @@
       "vn": 19
     },
     {
+      "k": "ID_PROTA_LONG",
+      "v": "Allows this champion to ignore Auto Block and all Evade effects.",
+      "vn": 21
+    },
+    {
       "k": "ID_PRSS83D",
       "v": "Increases Special Attack damage.",
       "vn": 19
@@ -2597,6 +2661,66 @@
       "k": "ID_PSGE196T",
       "v": "[b4b4b4ff]Psi-Charge[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_PS_VNM1",
+      "v": "[b4b4b4ff]Klyntar Mutation[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VNM2",
+      "v": "Increases Attack Rating & grants more effects based on opponent.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD1",
+      "v": "Symbiote Buff - Increases Attack Rating.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD10",
+      "v": "Grants a random Symbiote Buff when it reaches 100%",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD2",
+      "v": "Symbiote Buff - Increases the chance to land Critical Hits.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD3",
+      "v": "Symbiote Buff: Increases Special Attack damage.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD4",
+      "v": "Symbiote Buff: Gain Power Meter over time.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD5",
+      "v": "Symbiote Buff - Increases Armor to reduce damage taken from attacks.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD6",
+      "v": "Symbiote Buff - Recover Health over time.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD7",
+      "v": "Symbiote Buff - Increases the chance that a Block is Perfect, reducing all damage to zero.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD8",
+      "v": "Symbiote Buff - Gain more Power from attacks.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_PS_VTD9",
+      "v": "Symbiote Buff: Increased Bleed chance.",
+      "vn": "20.1"
     },
     {
       "k": "ID_PWR75D",
@@ -2899,6 +3023,51 @@
       "vn": 19
     },
     {
+      "k": "ID_SPECIAL_ATTACK_AEGON_0",
+      "v": "ISO Discharge",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_AEGON_1",
+      "v": "Spear of the Forsaken",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_AEGON_2",
+      "v": "Beyond Limits",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_0",
+      "v": "Ægon releases the energy in his phantom limb as a blast of cosmic energy.",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_1",
+      "v": "Ægon knocks back his Opponent, invokes his phantom limb holding a spear, then attacks with a series of slashes and strikes.",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_2",
+      "v": "Ægon charges up his Iso-belt beyond his own limits, and releases the energy in a violent blast, tearing up the ground and sending his Opponent flying",
+      "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_0",
+      "v": "Emma assails the Opponent's mind directly with a pair of telepathic strikes.",
+      "vn": 20
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_1",
+      "v": "Emma launches a psychic blast at the Opponent, following it up with a direct mental attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_2",
+      "v": "Emma takes complete control of the Opponent's mind, subjecting them to extreme mental trauma before giving them a harsh return to reality.",
+      "vn": 20
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GHOST_0",
       "v": "Ghost unleashes a flurry of precise attacks before advancing into a backflip kick.",
       "vn": 19
@@ -2957,6 +3126,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SENTRY_2",
       "v": "Sentry transforms into the Void, creating a black hole that consumes the opponent.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EMMAFROST_0",
+      "v": "Mental Assault",
+      "vn": 20
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EMMAFROST_1",
+      "v": "Brainstorm",
+      "vn": 20
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EMMAFROST_2",
+      "v": "Dominate the Mind",
+      "vn": 20
     },
     {
       "k": "ID_SPECIAL_ATTACK_GHOST_0",
@@ -3475,8 +3659,8 @@
     },
     {
       "k": "ID_STAT_DOM_SIG_TITLE_LONG",
-      "v": "Opponents take up to [16982bff]{1}[-] Base Energy Damage over {2} second(s) whenever their abilities fail to trigger. Potency decreases temporarily for consecutive triggers.",
-      "vn": "19.1"
+      "v": "Opponents take up to [16982bff]{1}[-] Energy Damage over {2} second(s) whenever their abilities fail to trigger. Damage scales with Base Attack only. Potency decreases temporarily for consecutive triggers.",
+      "vn": "18.1"
     },
     {
       "k": "ID_STAT_DOM_SIG_TITLE_LOW",
@@ -4495,6 +4679,46 @@
       "vn": 19
     },
     {
+      "k": "ID_SYMS_CHTHONCUN_D",
+      "v": "Genetic Blessing that Nullifies Buffs when activating, deals Direct Damage when Nullifying Buffs, and places Staggers on Basic Attack Hits.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_CHTHONCUN_T",
+      "v": "[b4b4b4ff]Chthon's Cunning Genetic Blessing[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_GENETICP_D",
+      "v": "Empowers Genetic Potential bonuses, and consumed by Genetic Blessings to gain Power",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_GENETICP_T",
+      "v": "[b4b4b4ff]Genetic Potential[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_NULLSHADOW_D",
+      "v": "Genetic Blessing that grants a Protection Buff when activating, Armor and Perfect Block Chance while active, and places Staggers when Struck or Blocking.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_NULLSHADOW_T",
+      "v": "[b4b4b4ff]Null's Shadow Genetic Blessing[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_SETSFANGS_D",
+      "v": "Genetic Blessing that grants a Fury Buff when activating, causes Bleed on Hits, and places Staggers when Hitting with Special Attacks.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_SYMS_SETSFANGS_T",
+      "v": "[b4b4b4ff]Set's Fangs Genetic Blessing[-]",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_TANT193D",
       "v": "Reduces Attack Rating and increases the likelihood that a Special Attack is activated.",
       "vn": 19
@@ -4583,6 +4807,16 @@
       "k": "ID_TRKE69T",
       "v": "[b4b4b4ff]True Strike[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_TXCAR1",
+      "v": "[b4b4b4ff]Toxic Armor[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_TXCAR2",
+      "v": "Increases Champion Armor, but also causes direct damage when struck.",
+      "vn": "20.1"
     },
     {
       "k": "ID_TYNY109D",
@@ -4806,6 +5040,11 @@
       "v": "Chance to score a Critical Hit, ignoring a portion of your opponent's Armor and dealing increased damage based on Critical Damage."
     },
     {
+      "k": "ID_UI_ATTRIBUTE_ESCSTEAL",
+      "v": "Essence Steal",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_ATTRIBUTE_MK_SP1CRIT",
       "v": "This attack has a [16982bff]{1}%[-] increased chance to Critically strike.",
       "vn": "11.2"
@@ -4814,6 +5053,16 @@
       "k": "ID_UI_ATTRIBUTE_MK_SP2BLD",
       "v": "Any Bleed effects triggered by this attack have [16982bff]{1}%[-] increased duration.",
       "vn": "11.2"
+    },
+    {
+      "k": "ID_UI_ATTRIBUTE_ORED_DTHFCTR",
+      "v": "Death Factor",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ATTRIBUTE_ORED_DTHFLD",
+      "v": "Death Field",
+      "vn": 20
     },
     {
       "k": "ID_UI_ATTRIBUTE_RALLY",
@@ -4876,6 +5125,16 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_ARACHHATE",
+      "v": "ARACHNID HUNTERS",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_ARACHHATE_DESC",
+      "v": "[64acff]Venom:[-] +1 Max Genetic Memory Buff cap.\n[64acff]Vulture:[-] +2000 Armor vs. Special Attacks while an Armor Up Buff active.\n[64acff]Green Goblin:[-] Each Madness & Cunning charge grants +{0}% Attack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_BECOMEONE",
       "v": "BECOME ONE",
       "vn": "16.1"
@@ -4905,6 +5164,11 @@
       "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION3_LONG",
       "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
       "vn": "17.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DEADLYPRESENCE_LONG",
+      "v": "[64acff]Omega Red:[-] The Death Field deals {0}% more damage.\n[64acff]Mephisto:[-] The Aura of Incineration deals 15% more damage.\n[64acff]Void:[-] Intimidating Presence debuffs deal 10% more damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 20
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_ARMOR_AO",
@@ -5053,6 +5317,16 @@
       "vn": "14.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_SYMBEVO",
+      "v": "SYMBIOTE PROGENITOR",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SYMBEVO_DESC",
+      "v": "All Symbiote Champions gain +{0}% Attack and Health.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_TEAMDEADPOOLAWESOME",
       "v": "TEAM DEADPOOL AWESOME-FORCE",
       "vn": "18.1"
@@ -5093,6 +5367,56 @@
       "vn": "17.2"
     },
     {
+      "k": "ID_UI_ORED_DTHFLD_CALL",
+      "v": "DEATH FIELD",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHFLD_PAUSE_TITLE",
+      "v": "Death Field",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHFLD_SHORT",
+      "v": "Deals damage to the opponent for each Death Spore on them.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHFLD_SHORT_ALT",
+      "v": "Deals damage to the opponent for each Death Spore on them.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHSPR_PAUSE_TITLE",
+      "v": "Death Spores",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHSPR_SHORT",
+      "v": "Lowers Physical Resistance and the chance to Purify debuffs.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_DTHSPR_TITLE",
+      "v": "Death Spores",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_ESCSTEAL_CALL",
+      "v": "ESSENCE STEAL",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_ESCSTEAL_PAUSE_TITLE",
+      "v": "Essence Steal",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_ORED_ESCSTEAL_SHORT",
+      "v": "Steals both Health and Power over time.",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_SHOW_NOOB",
       "v": "NOOB!!!",
       "vn": 18
@@ -5122,6 +5446,16 @@
       "k": "ID_UI_SIG_ABILITY_UNLOCK_NEW_DESC",
       "v": "Collect duplicate Champions to awaken new Signature Abilities for your 2-Star and above Champions! You can also collect rare Awakening Gems to unlock Signature Abilities!",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_UI_STAT_ABERRATION_SHORT",
+      "v": "[b4b4b4ff]Aberration[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_AMBUSH_LONG",
+      "v": "Subterfuge and ambush tactics allow this attack to ignore Armor.",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_ATTIRBUTE_BONUS_ARMOR",
@@ -5268,6 +5602,71 @@
       "k": "ID_UI_STAT_ATTRIBUTE_ADPHPWTIMER",
       "v": "Every {2} seconds, trigger a Power Gain Buff, granting one bar of Power over {1} seconds. This Power Gain is removed if Struck.",
       "vn": "19.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_1000_HUD",
+      "v": "UNBLOCKABLE ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_100_HUD",
+      "v": "TENACITY ENHANCED",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_10_HUD",
+      "v": "CRUELTY UP",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_150_HUD",
+      "v": "TRUE ACCURACY ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_200_HUD",
+      "v": "RESISTANCE DOWN",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_20_HUD",
+      "v": "CRITICAL HIT ON BLOCK",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_300_HUD",
+      "v": "FURY ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_30_HUD",
+      "v": "UNSTOPPABLE ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_500_HUD",
+      "v": "CONCUSSION ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_50_HUD",
+      "v": "HEAVY ENHANCED",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_5_HUD",
+      "v": "TENACITY ACTIVE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_750_HUD",
+      "v": "UNSTOPPABLE ENHANCED",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_AEG_75_HUD",
+      "v": "BLOCK PROFICIENCY DOWN",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_AFTERSHOCK_HUD",
@@ -5419,12 +5818,12 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ANG_SP1",
-      "v": "If there Is already a Fury active on Angela, this effect lasts for {2} seconds instead.",
+      "v": "If there is already a Fury active on Angela, this effect lasts for {2} seconds instead.",
       "vn": "12.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ANG_SP2",
-      "v": "If there Is already an Armor Up active on Angela, this effect lasts for {2} seconds instead.",
+      "v": "If there is already an Armor Up active on Angela, this effect lasts for {2} seconds instead.",
       "vn": "12.1"
     },
     {
@@ -6068,7 +6467,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_BLEED_DEGEN",
-      "v": "When caused to Bleed, Cable has a {1}% chance to trigger his Heavy Attack Degen on his Opponent."
+      "v": "When caused to Bleed, Cable has a {1}% chance to trigger his Heavy Attack Degeneration on his Opponent."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_SP1",
@@ -6277,6 +6676,11 @@
       "vn": "13.1"
     },
     {
+      "cn": null,
+      "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_A_NEW",
+      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. "
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_B",
       "v": "The longer the Opponent has been continuously Bleeding the greater the bonus, reaching the maximum after {2} seconds.",
       "vn": "13.1"
@@ -6305,6 +6709,31 @@
       "k": "ID_UI_STAT_ATTRIBUTE_CARN_CRITBLD",
       "v": "If the target is already Bleeding gain a {0}% Chance to Bleed dealing [16982bff]{1}[-] damage over {2} seconds.",
       "vn": "13.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CARN_CRITBLD_NEW",
+      "v": "If the target is already Bleeding or Armor Broken, gain a {0}% Chance to Bleed dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CARN_PWRRT_NEW",
+      "v": "Carnage gains {1}% additional Power from Striking his Opponent. This is reduced by {0}% per Mutation Buff he has.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CARN_RAV_BLDIMN",
+      "v": "If one of his Bleeds fails to apply due to an Immunity he has a {0}% chance to Armor Break his opponent instead, reducing their Armor by [16982bff]{1}[-] lasting  for {2} seconds. The Armor Break doesn’t stack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CARN_RAV_BLDRFRSH",
+      "v": "Carnage rips and tears at his opponents, each time he triggers a Bleed Debuff on his Opponent he has a {0}% chance to Refresh the Duration of all the other Bleed Debuffs on his Opponent.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CARN_RAV_BLDRFRSH_UNBLK",
+      "v": "While his Opponent is Bleeding or Armor Broken, his Special Attacks become Unblockable.",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARN_SYMBC",
@@ -7024,8 +7453,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DISORIENTED_SHORT",
-      "v": "Disorient",
-      "vn": "18.1"
+      "v": "Disoriented"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DIZZINESS_HUD",
@@ -7413,6 +7841,26 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ELEMENTGUN_WATER",
       "v": "WATER: Drains up to [16982bff]{1}%[-] of the opponent’s Max Power."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EMMADF_HUD_0",
+      "v": "DIAMOND FORM",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EMMADF_HUD_1",
+      "v": "Diamond Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EMMATF_HUD_0",
+      "v": "TELEPATH FORM",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EMMATF_HUD_1",
+      "v": "Telepath Form",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_EMPATHY_HUD",
@@ -8892,7 +9340,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PHOENIX_EMP1_AO",
-      "v": "All attacks gain [16982bff]{0}%[-] chance to Incinerate the opponent, dealing [16982bff]{1}%[-] Energy Damage over {2} seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
+      "v": "All attacks gain [16982bff]{0}%[-] chance to Incinerate the opponent, dealing [16982bff]{1}[-] Energy Damage over {2} seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
       "vn": 12
     },
     {
@@ -9276,6 +9724,11 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_STUN_FURYCOUNT_NEW",
+      "v": "{0}% chance to Stun the opponent for {2} seconds. The duration of the Stun increases by {1} second(s) for each Fury Buff effect the Champion has.",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_STUN_MULTI",
       "v": "Strikes multiple times. Each hit has a [16982bff]{0}%[-] chance to Stun for [16982bff]{2}[-] seconds."
     },
@@ -9334,6 +9787,21 @@
       "v": "The Venom Symbiote works with Flash’s training to reduce enemy Evasion chance by [16982bff]{1}%[-]."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_SYMSCC_HUD",
+      "v": "CHTHON'S CUNNING",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_SYMSNS_HUD",
+      "v": "NULL'S SHADOW",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_SYMSSF_HUD",
+      "v": "SET'S FANGS",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TENACITY",
       "v": "Flash’s intense military background, coupled with the alien symbiotic enhancement, grants him a [16982bff]{0}%[-] chance to shrug off any Debuff."
     },
@@ -9358,6 +9826,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TRUEDAMAGE",
       "v": "This attack deals True Damage, ignoring all of the opponent's Armor."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TRUEDAMAGE_PLURAL",
+      "v": "These attacks deal True Damage, ignoring all of the Opponent's Armor.",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_UNBLOCKABLE",
@@ -11315,6 +11788,11 @@
       "vn": 12
     },
     {
+      "cn": null,
+      "k": "ID_UI_STAT_ATTRIBUTE_MLS_CRITCHANCE",
+      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating."
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
       "v": "Any Bleed or Cruelty effect triggered lasts [16982bff]{1}%[-] longer than normal and has [16982bff]{1}%[-] increased Potency."
     },
@@ -12100,6 +12578,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_POWERGAIN_TIME",
       "v": "This champion periodically gains Power throughout the fight equal to [16982bff]{1}%[-] of max Power."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_POWERGAIN_UI",
+      "v": "This champion receives {0}% less Power from Attacking and Defending, but gains {1}% Power every {2} seconds.",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_POWERGAIN_V",
@@ -13252,6 +13735,16 @@
       "v": "[fede49]Life Steal IV[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_STEALLIFE_SHORT",
+      "v": "Steals Health over time.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STEALLIFE_TITLE",
+      "v": "Life Steal",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_STEALLIFE_V",
       "v": "[ff390dff]Life Steal V[-]"
     },
@@ -13282,6 +13775,16 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_STEALMANA_IV",
       "v": "[fede49]Power Steal IV[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STEALMANA_SHORT",
+      "v": "Steals Power over time.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STEALMANA_TITLE",
+      "v": "Power Steal",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_STEALMANA_V",
@@ -13578,6 +14081,11 @@
       "vn": 17
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_AEG_COMBO",
+      "v": "Passive - Combo Meter Abilities",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BAGOFTRICKS",
       "v": "Bag of Tricks - Special & Heavy Attacks",
       "vn": "14.1"
@@ -13593,9 +14101,24 @@
       "vn": "17.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CHTHONSCUNNING",
+      "v": "Chthon's Cunning - Passive",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CUNNING",
       "v": "Cunning",
       "vn": "14.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIAMOND_FORM",
+      "v": "Passive - Diamond Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIAMOND_HVY",
+      "v": "Heavy Attack - Diamond Form",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DOMFIELD",
@@ -13611,6 +14134,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DOMLUCKBAD",
       "v": "Unlucky Passive",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DTHFCTR",
+      "v": "Death Factor",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DTHFLD",
+      "v": "Death Field",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_EXPLOITWEAKNESS",
@@ -13673,6 +14206,21 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GENETICBLESSINGS",
+      "v": "Genetic Blessings - Passive",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GENETICPOTENTIAL",
+      "v": "Genetic Potential - Passive",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GENMEM",
+      "v": "Genetic Memory",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GOD",
       "v": "Goddess of Death - Passive",
       "vn": 16
@@ -13698,9 +14246,19 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_KLYBUFF",
+      "v": "Klyntar Buff",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_LEARNTHEFOE",
       "v": "Learn the Foe - Passive",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_LTHLDOSE",
+      "v": "Passive - Opponent has 10 or more Death Spores",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MADNESS",
@@ -13729,6 +14287,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NONE",
       "v": "Passive"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NULLSSHADOW",
+      "v": "Null's Shadow - Passive",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONABILITYACTIVATE",
@@ -13785,6 +14348,11 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBELOW20HEALTH",
+      "v": "When below 20% Health",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBELOW35HEALTH",
       "v": "When brought below 35% Max Health",
       "vn": "18.1"
@@ -13822,9 +14390,19 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBOSSNODE",
+      "v": "While attacking or defending the final node in a Quest",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCAPTUREDSOUL",
       "v": "Captured Souls - Passive",
       "vn": "15.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCHAMPUNIVERSE",
+      "v": "Champion of the Universe",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCHEM",
@@ -13919,6 +14497,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONEVILSBANE",
       "v": "Passive - Evil's Bane"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONFIGHTEND",
+      "v": "End of Fight",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONFIGHTSTART",
@@ -14095,6 +14678,21 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPCLATTACK",
+      "v": "Light Attacks -  Requires 2 Persistent Charge",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPCMATTACK",
+      "v": "Medium Attacks - Requires 3 Persistent Charges",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPCP",
+      "v": "Passive - Unlocks at 3 Persistent Charges",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPERSISTENTCHARGE",
       "v": "Persistent Charge",
       "vn": "15.1"
@@ -14237,6 +14835,11 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OPBLW18",
+      "v": "Opponent Below 18% Health",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OVERPOWER",
       "v": "Overpower - Buff",
       "vn": 15
@@ -14266,9 +14869,19 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_RAVAGER",
+      "v": "Ravager - Passive",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_REPULSOR",
       "v": "Repulsor Attacks",
       "vn": 18
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SETSFANGS",
+      "v": "Set's Fangs - Passive",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SMACKTALK",
@@ -14289,6 +14902,21 @@
       "v": "Stark Tech AI"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TELEPATH_FORM",
+      "v": "Passive - Telepath Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TELEPATH_HVY",
+      "v": "Heavy Attack - Telepath Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TENTHIT",
+      "v": "Tentacle Hits",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TRUESIGHT",
       "v": "True Sight - Passive",
       "vn": "19.1"
@@ -14297,6 +14925,31 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_UNRELENTING",
       "v": "Rage - Passive",
       "vn": 15
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VTD_A",
+      "v": "Aberration Effect - Builds from 0% to 100% over time",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VTD_B",
+      "v": "Launch a Special Attack or Land a Heavy Attack",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VTD_C",
+      "v": "Symbiote Buffs - Frenzy Category",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VTD_D",
+      "v": "Symbiote Buffs - Survival Category",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VTD_E",
+      "v": "Start of Fight",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WARNOVERLOAD",
@@ -14309,8 +14962,23 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WHUNSTOP",
+      "v": "While Unstoppable",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_onBelow20Health",
+      "v": "When below 20% Health",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRUACCURACY_I",
       "v": "[b4b4b4ff]True Accuracy[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRUE_DMG_HUD",
+      "v": "TRUE DAMAGE",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRUSTRIKE_I",
@@ -14502,6 +15170,11 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_YND_ARMSTEAL_NEW",
+      "v": "Yondu has a [16982bff]{0}%[-] chance to steal the target’s Armor Buffs, which he might be able to trade for Units later.",
+      "vn": 20
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_YND_PWRRED",
       "v": "Generate {0}% less Power in the target for each Debuff they suffer from. Max: {2}%.",
       "vn": 13
@@ -14571,8 +15244,38 @@
       "v": "Deals Energy damage."
     },
     {
+      "k": "ID_UI_STAT_BASIC_NODUR_NOCH_ARMUP",
+      "v": "Armor Up: [16982bff]{1}[-] increased Armor Rating.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_BASIC_NODUR_NOCH_CRLTY",
+      "v": "Cruelty: [16982bff]{1}[-] increased Critical Hit Damage.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_BASIC_NODUR_NOCH_FURY",
+      "v": "Fury: [16982bff]{1}[-] increased Attack rating.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_BASIC_NODUR_NOCH_PREC",
+      "v": "Precision: [16982bff]{1}[-] increased Critical Rating.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_BASIC_NODUR_NOCH_REPH",
+      "v": "Resist Physical: [16982bff]{1}[-] increased Physical Resistance.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_BASIC_PHYS",
       "v": "Deals Physical damage."
+    },
+    {
+      "k": "ID_UI_STAT_BLOODLETTING_HUD",
+      "v": "BLOODLETTING",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_DPLGOLD_ABREAK",
@@ -14638,6 +15341,156 @@
       "k": "ID_UI_STAT_DPLGOLD_TAUNT_REF",
       "v": "A boot to the face is always funny, and allows Goldpool to Refresh an active Taunt Debuff. [f1c232]Pow! Right in the...well...[-]",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_UI_STAT_EMMA_HUD_POWERRATE",
+      "v": "POWER RATE",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_ABILACC",
+      "v": "500 Hits - Critical Hits cause Opponents to suffer -{0}% reduced Defensive Ability Accuracy for Ægon's next hit",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_ARM",
+      "v": "50 Hits - Critical Hits ignore [16982bff]{1}%[-] of the Opponent's Armor",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_BASESTATS",
+      "v": "Base Attack is increased by [16982bff]15%[-], but Base Critical Rating is [16982bff]0%[-].",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_BLOCKPROF",
+      "v": "75 Hits - Opponents have [16982bff]-{1}[-] Block Proficiency when Ægon strikes with a Critical Hit",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_COMBOCRIT",
+      "v": "Base Critical Rating is [f71817]0[-]. Critical Rating is increased by [16982bff]+{1}[-] for each hit of the Combo Meter.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_CRITBLOCK",
+      "v": "30 Hits - Ægon can strike with Critical Hits even while the Opponent is Blocking.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_CRITCONVERT",
+      "v": "Any Critical Rating Ægon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_DMG_A",
+      "v": "10 Hits - Critical Damage Rating is increased by [16982bff]+{1}[-] for each hit of the Combo Meter.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_DMG_B",
+      "v": "300 Hits - Critical Hits grant a Fury Buff, increasing Attack by [16982bff]+{1}[-] for {2} second(s). This stacks up to 3 times.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_HVY",
+      "v": "Ægon activates Combo Shield, and cannot lose more than {1}% of his maximum Health from a single source, other than Special Attacks, for {2} seconds.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_HVY_CD",
+      "v": "Once this ability expires, it goes into cooldown and cannot be reactivated for {2} second(s).",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_HVY_CD_RED",
+      "v": "Landing a Heavy Attack reduces the cooldown of this ability by {1} second(s).",
+      "vn": 21
+    },
+    {
+            "k": "ID_UI_STAT_FORMAT_AEGON_PHYSRES",
+            "v": "200 Hits - Critical Hits ignore {1}% of the Opponent's Physical Resistance",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_AEGON_SIG_A",
+            "v": "At the end of the fight, Ægon adds [16982bff]{1}%[-] of his final Combo Meter into his [37bfff]Persistent Combo[-], up to 999 hits total. Ægon's abilities that count the Combo Meter add his Persistent Combo on top of it.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_AEGON_SIG_B",
+            "v": "If Persistent Combo is greater than 99, it displays 10% of its value.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_AEGON_SIG_C",
+            "v": "When this Signature Ability is at its highest level, Ægon counts both his Combo Meter and his previous Persistent Combo before storing new Persistent Combo.",
+            "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_SP2",
+      "v": "{0}% chance to inflict Bleed over {2} seconds, dealing [16982bff]{1}[-] direct damage for each hit of the Combo Meter, up to 60 hits.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_SP3",
+      "v": "{0}% chance to Stun the Opponent for {1} second(s). The duration of the Stun increases by {2} second(s) for each hit of the Combo Meter, up to 7 second(s) total.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_STRUCK",
+      "v": "Gain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. Ægon can have up to 6 Fury Buffs total.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_TENACITY_A",
+      "v": "5 Hits - Critical Hits have a {0}% chance to shrug off one Debuff.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_TENACITY_B",
+      "v": "100 Hits - Critical Hits have a {0}% chance to shrug off one Debuff.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_TRUEACC",
+      "v": "150 Hits - Critical Hits grant {2} seconds of True Accuracy, allowing him to ignore Auto Block and all Evade effects. This stacks up to 3 times.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_TRUEDMG",
+      "v": "300 Hits - Critical Hits deal True Damage",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UI",
+      "v": "Ægon unlocks additional Passive Abilities as his Combo Meter increases.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UNBLOCKABLE",
+      "v": "1000 Hits - Critical Hits cause Ægon's next Hit to be Unblockable",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UNSTOPPABLE_A",
+      "v": "20 Hits - When the Opponent Evades, Ægon activates a Combo Shield for {1} second(s) and has a {0}% chance to become Unstoppable for {2} second(s).",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UNSTOPPABLE_B",
+      "v": "50 Hits - Charging a Heavy Attack grants Ægon {2} second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UNSTOPPABLE_C",
+      "v": "750 Hits - Critical Hits grant {2} seconds of Unstoppable and Combo Shield. This stacks up to 3 times.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_AEGON_UNSTOP_A",
+      "v": "30 Hits - When the Opponent Evades, Ægon has a {0}% chance to become Unstoppable for {2} second(s).",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_FORMAT_AFTERSHOCK_DIZZY",
@@ -14862,7 +15715,7 @@
     {
       "cn": "https://jira.kabaminc.com/browse/MARVEL-63364",
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP2",
-      "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.\n",
+      "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.",
       "vn": "17.2"
     },
     {
@@ -14904,6 +15757,226 @@
       "k": "ID_UI_STAT_FORMAT_ELTOUCH_HUD",
       "v": "ELECTRIC TOUCH",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_ARMBRK",
+      "v": "If the opponent uses an Armor Break while Emma is in Diamond Form, she is forced into Telepath Form, and cannot swap back for the duration of the Armor Break.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_ARM",
+      "v": "[16982bff]+{1}[-] Armor",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_CD",
+      "v": "Opponents have [16982bff]-{1}[-] Critical Damage Rating",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_CR",
+      "v": "[16982bff]+{1}[-] Critical Resistance Rating",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_HVY",
+      "v": "Generate {1}% additional Power. Opponents generate no Power from this attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_HVY_A",
+      "v": "Generate {1}% additional Power.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_HVY_B",
+      "v": "Opponents generate {1}% less power from this attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_HVY_TITLE",
+      "v": "Heavy Attack - Diamond Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_IMM",
+      "v": "Emma’s organic diamond is immune to all Stun, Bleed, Poison, Incinerate, Shock, Frostbite, Coldsnap, Fatigue, Concussion, and Exhaustion effects.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_PERF_BLOCK",
+      "v": "",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_PROF",
+      "v": "[16982bff]+{1}[-] Block Proficiency",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_PROW",
+      "v": "Well-timed Blocks grant a Prowess Buff.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_RES",
+      "v": "[16982bff]+{1}[-] Physical Resistance",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_RMV",
+      "v": "When Emma changes into Diamond form, she replaces all temporary Prowess Buffs with new indefinite Prowess Buffs that increase Special Attack Damage by [16982bff]+{1}%[-]. Prowess Buffs are capped at 5 in Diamond Form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_SWAP",
+      "v": "When the Opponent is at least one Power Level ahead of Emma, she deactivates Telepath Form and switches to Diamond Form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_DF_TITLE",
+      "v": "Passive - Diamond Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_PROW",
+      "v": "Critical hits grant a Prowess Buff, and refresh all existing Prowess Buffs.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_PSV_TITLE",
+      "v": "Passive - Two Forms",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SIG_DF",
+      "v": "When Emma uses a Special Attack, the Opponent’s controls are reversed until just after the end of the attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SIG_TF",
+      "v": "When Telepath Form is active and Emma would lose more than [16982bff]{1}%[-] of her Max Health from a single source, she activates Diamond Form for 3 seconds to reduce the damage. This ability activates before checking Armor and Resistances.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SP_CONC",
+      "v": "{0}% chance to inflict Concussion for {2} second(s), reducing the Opponent’s Ability Accuracy by {1}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SP_PS",
+      "v": "{0}% chance to inflict Power Sting for {2} second(s). An Opponent with Power Sting takes [16982bff]{1}[-] Direct Damage when activating a Special Attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SP_PWR",
+      "v": "{0}% chance to reduce the Opponent’s Power Gain from all sources by {1}% for {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SP_RMV",
+      "v": "Once Emma finishes a Special Attack, all Prowess Buffs are removed.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_SP_TF",
+      "v": "Emma switches to Telepath form for the duration of the attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_START_DF",
+      "v": "Emma starts the fight in Diamond Form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TFCD",
+      "v": "[16982bff]+{1}[-] Critical Damage Rating for each active Prowess effect.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TFCP",
+      "v": "Critical Hits consume one stack of Prowess",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TFCR",
+      "v": "[16982bff]+{1}[-] Critical Rate for each active Prowess effect.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TFSWP",
+      "v": "When Emma changes into Telepath form, she replaces all indefinite Prowess Buffs with new Prowess Buffs that increase Special Attack Damage by [16982bff]+{1}%[-] and last {2} seconds. Prowess Buffs are capped at 10 in Telepath form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_EVADE",
+      "v": "Emma is able to read her Opponent’s thoughts, allowing all of Emma’s attacks to ignore Evade.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_CLEANSE",
+      "v": "These Debuffs are removed if Emma switches to Diamond Form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_DMG",
+      "v": "If the opponent endures the assault and doesn’t use a Special Attack, they take [16982bff]{1}[-] Direct Damage at the end of the effect.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_FLAVOR",
+      "v": "After hitting the opponent, and they have at least one bar of Power, Emma controls their thoughts for a short time.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_TAUNT",
+      "v": "Opponents are Taunted for {2} seconds, increasing the chance of using a Special Attack by [16982bff]{1}%[-].",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_TAUNT_A",
+      "v": "{0}% chance to Taunt the Opponent for {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_TAUNT_B",
+      "v": "Opponents that are Taunted have their Attack reduced by {1}% and have a {0}% higher chance to activate a Special Attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_TITLE",
+      "v": "Heavy Attack - Telepath Form",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_HVY_WKNS",
+      "v": "Weaken opponents for {2} seconds, decreasing their Attack by [#16982bff]{1}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_PET",
+      "v": "Attacking both the body and mind, Emma’s attacks have a [16982bff]{0}%[-] chance to Petrify the opponent for {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_PROW",
+      "v": "Critical Hits grant a stack of Prowess, increasing Special Attack Damage by [16982bff]+{1}[-] for {2} second(s).",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_REF",
+      "v": "All attacks have a [16982bff]{0}%[-] chance to refresh any other debuff caused by Emma.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_SWAP",
+      "v": "When Emma is at least one Power Level ahead of the Opponent, she deactivates Diamond Form and switches to Telepath Form.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EMMA_TF_TITLE",
+      "v": "Passive - Telepath Form",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_FORMAT_ENERGYDMG",
@@ -15046,6 +16119,11 @@
       "k": "ID_UI_STAT_FORMAT_GOBLIN_MADNESS_HUD",
       "v": "MADNESS",
       "vn": "14.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_HLTHSTL",
+      "v": "Life Steal",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_FORMAT_HULKB_ARMORUP_BLOCK",
@@ -15243,7 +16321,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_KORG_SIG_0",
-      "v": "While Rock Shield is active and Korg is struck by a Medium, Heavy or Special Attack that makes contact, [16982bff]{1}[-] Physical Damage is inflicted to the opponent. This ability does not activate if the opponent’s hit deals Energy Damage and Mutant Champions take 25% less damage.",
+      "v": "While Rock Shield is active and Korg is struck by a Medium, Heavy or Special Attack that makes contact, [16982bff]{1}[-] Physical Damage is inflicted to the opponent. Damage scales with Base Attack only. This ability does not activate if the opponent’s hit deals Energy Damage and Mutant Champions take 25% less damage.",
       "vn": "19.1"
     },
     {
@@ -15486,20 +16564,19 @@
       "vn": 15
     },
     {
-      "k": "ID_UI_STAT_FORMAT_MEDUSA_SIGNATURE_LONG_2",
-      "v": "Block Proficiency is increased by up to {1}% when she has 3 or more Fury Buffs.",
-      "vn": 15
-    },
-    {
-      "k": "ID_UI_STAT_FORMAT_MEDUSA_SIGNATURE_LONG_3",
-      "v": "When struck twice, Medusa has a [16982bff]{0}%[-] chance to Auto Block with her hair, breaking the opponent’s combo, for the cost of {2} Fury Buffs. This can trigger Parry.",
-      "vn": 15
-    },
-    {
-      "k": "ID_UI_STAT_FORMAT_MEDUSA_SP1",
-      "v": "Medusa inflicts a 4-hit combo, each breaking the opponent’s Armor and reducing their Armor Rating by [16982bff]{1}[-] per stack for {2} seconds.",
-      "vn": 15
-    },
+            "k": "ID_UI_STAT_FORMAT_MEDUSA_SIGNATURE_LONG_2",
+            "v": "Block Proficiency is increased by up to {1}% when she has 3 or more Fury Buffs.",
+            "vn": 15
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_MEDUSA_SIGNATURE_LONG_3",
+            "v": "When struck twice, Medusa has a [16982bff]{0}%[-] chance to Auto Block with her hair, Purifying any Stun Debuffs, for the cost of {2} Fury Buffs. This can trigger Parry."
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_MEDUSA_SP1",
+            "v": "Medusa inflicts a 4-hit combo, each breaking the opponent’s Armor and reducing their Armor Rating by [16982bff]{1}[-] per stack for {2} seconds.",
+            "vn": 15
+        },
     {
       "k": "ID_UI_STAT_FORMAT_MEDUSA_SP2",
       "v": "Medusa performs a 10-hit combo, each hit has a {0}% chance to inflict Bleed if Armor Shattered is active, dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
@@ -15585,9 +16662,179 @@
       "vn": "15.1"
     },
     {
-      "k": "ID_UI_STAT_FORMAT_MEPHISTO_SP3",
-      "v": "Once a fight, Mephisto instantly drains up to {2} Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight.",
-      "vn": "15.1"
+            "k": "ID_UI_STAT_FORMAT_MEPHISTO_SP3",
+            "v": "Once a fight, Mephisto instantly drains up to {2} Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight.",
+            "vn": "15.1"
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_DTHFLD",
+            "v": "The Death Field causes Death Spores on nearby opponents to Passively Degenerate them, dealing [16982bff]{1}[-] damage per second for each Death Spore on them. The Death Field is not affected by Ability Accuracy reduction and its damage scales with Base Attack only.",
+            "vn": 20
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_DTHFLD_ALT",
+            "v": "The Death Field Passively Degenerates nearby opponents, dealing [16982bff]{1}[-] damage every .5 second(s) for each Death Spore on them. Death Spores do not expire while the opponent is out of range of the Death Factor for as long as the Death Field is active.",
+            "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHFLD_BLD",
+      "v": "While Omega Red is Bleeding, he emits the Death Field.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHFLD_LMT",
+      "v": "While the Death Field is active, the limit for Death Spores on the opponent increases to {1}.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR",
+      "v": "While near the opponent, Omega Red inflicts 1 Death Spore every {1} second(s) up to a maximum of {2}. Once the opponent is out of range they lose 1 Death Spore every {0} second(s). Death Spores are not affected by Ability Accuracy reduction.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_ACC",
+      "v": "Death Spores increase Omega Red’s Ability Accuracy by [16982bff]{1}%[-] for each Death Spore on the Opponent.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_EFT",
+      "v": "Death Spores each lower the opponent’s Armor by [16982bff]{0}%[-] and their Attack Rating by [16982bff]{1}%[-].",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_EFT_ALT",
+      "v": "Death Spores each lower the opponent’s Armor by [16982bff]{0}%[-] and their Attack Rating by [16982bff]{1}%[-]. Additionally, each Death Spore increases Omega Red’s Ability Accuracy by {2}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_EFT_ALT1",
+      "v": "Each Death Spore lowers the opponent’s Physical Resistance by {1} and reduces their chance to Purify Debuffs by {0}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_EFT_ALT2",
+      "v": "Each Death Spore lowers the opponent’s Armor Rating by [16982bff]{1}[-] and reduces their chance to Purify Debuffs by {0}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_EFT_RB",
+      "v": "Death Spores struggle to effect mechanical components and are inflicted {1} times slower against Robots.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_DTHSPR_TITLE",
+      "v": "Death Spores",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_ESSENCESTEAL",
+      "v": "Removes all Death Spores from the opponent to inflict Essence Steal for {2} second(s), Passively Stealing both [16982bff]{1}[-] Health and {0}% of Current Power from the opponent for each Death Spore removed by this attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_HLTHSTL",
+      "v": "Removes all Death Spores from the opponent to inflict Life Steal, Stealing [16982bff]{1}[-] Health from the opponent for each Death Spore removed by this attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_HVYDEGEN",
+      "v": "Inflicts a Degeneration Debuff for {2} second(s), dealing [16982bff]{1}[-] damage for each Death Spore on the opponent.",
+      "vn": 20
+    },
+    {
+            "k": "ID_UI_STAT_FORMAT_ORED_PSNIMN",
+            "v": "Omega Red’s mutant physiology renders him immune to the effects of Poisons and reduces the damage of Bleeds by {1}%.",
+            "vn": 20
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_SIG_DESC1",
+            "v": "Death Spores on the opponent deal [16982bff]{1}[-] damage per second. This damage scales with Base Attack only.",
+            "vn": 20
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_SIG_DESC2",
+            "v": "Omega Red’s Basic Tentacle Hits have a [16982bff]{0}%[-] chance to be Unblockable.",
+            "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SIG_DESC3",
+      "v": "Opponents lose and cannot become Unstoppable.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SIG_SHORT",
+      "v": "Lethal Dose {0}",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SIG_SIMPLE",
+      "v": "When the opponent builds up enough Death Spores they begin to lose health and the strength needed to block Omega Red’s assault.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SIG_TITLE",
+      "v": "LETHAL DOSE",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SP2ACC",
+      "v": "The Ability Accuracy of opponents damaging effects is reduced by {1}% during this Special Attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SP2DMG",
+      "v": "Damaging effects the opponent triggers when hit are {1}% weaker for the duration of this Ppecial Attack.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SP2FIELD",
+      "v": "Omega Red emits the Death Field for {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SP3_A",
+      "v": "Removes all Death Spores from the opponent to inflict Life Steal, Stealing [16982bff]{1}[-] Health from the opponent for each Death Spore removed by this attack over {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_SP3_B",
+      "v": "Inflicts Power Steal, stealing {0}% of Current Power from the opponent for each Death Spore over {2} seconds.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_STPDEGEN",
+      "v": "Death Spores do not expire while the opponent is out of range of the Death Factor for as long as they have an active Degeneration Debuff.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_TENTACC",
+      "v": "Tentacle Hits reduce the Ability Accuracy of enemy abilities that deal passive damage when they are struck by {1}%.",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_TENTCRIT",
+      "v": "Hits from Omega Red’s Tentacles have [16982bff]+{1}[-] Critical Rating and reduce the Ability Accuracy of enemy abilities that deal passive damage when they are struck by {0}%.",
+      "vn": 20
+    },
+    {
+            "k": "ID_UI_STAT_FORMAT_ORED_TENTCRIT_ALT",
+            "v": "Hits from Omega Red’s Tentacles have [16982bff]+{1}[-] Critical Rating.",
+            "vn": 20
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_TENTDMG",
+            "v": "Tentacle Hits reduce {1}% of damage inflicted by enemy abilities that deal instant passive damage when they are struck.",
+            "vn": 20
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_ORED_TENTHIT",
+            "v": "Omega Red’s Basic Tentacle hits reduce the opponents Defensive Ability Accuracy by [16982bff]{1}%[-] for each Death Spore on them for {2} second(s).",
+            "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ORED_TENT_DMG_ALT",
+      "v": "Hits from Omega Red’s Tentacles have [16982bff]+{1}[-] Critical Rating and reduce {0}% of damage inflicted by enemy abilities that deal passive damage when they are struck.",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_FORMAT_PETRIFYDEBUFF_TITLE",
@@ -15868,19 +17115,19 @@
       "v": "[b4b4b4ff]Auto-Block[-]"
     },
     {
-      "k": "ID_UI_STAT_FORMAT_RAGTHOR_BOON",
-      "v": "Activates for every {2} hits on the Combo Meter or whenever struck {1} times.",
-      "vn": 16
-    },
-    {
-      "k": "ID_UI_STAT_FORMAT_RAGTHOR_BOON_POWER",
-      "v": "Fills to max Power over {2} seconds. This Power Gain is interrupted If Thor gets knocked down by a Special Attack. Boon of the Gods is not affected by Ability Accuracy and prevents Thor from gaining Power when struck by Special Attacks.",
-      "vn": 16
-    },
-    {
-      "k": "ID_UI_STAT_FORMAT_REDHULK_BLOCK",
-      "v": "Blocking has a {0}% chance to convert Energy Attacks into Heat Charges. All Attacks from Mystic Champions are considered as Energy Attacks towards this ability.",
-      "vn": "16.1"
+            "k": "ID_UI_STAT_FORMAT_RAGTHOR_BOON",
+            "v": "Activates for every {2} hits on the Combo Meter or whenever struck {1} times.",
+            "vn": 16
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_RAGTHOR_BOON_POWER",
+            "v": "Fills to max Power over {2} seconds. This Power Gain is interrupted if Thor gets knocked down by a Special Attack. Boon of the Gods is not affected by Ability Accuracy and prevents Thor from gaining Power when struck by Special Attacks.",
+            "vn": 16
+        },
+        {
+            "k": "ID_UI_STAT_FORMAT_REDHULK_BLOCK",
+            "v": "Blocking has a {0}% chance to convert Energy Attacks into Heat Charges. All Attacks from Mystic Champions are considered as Energy Attacks towards this ability.",
+            "vn": "16.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_REDHULK_HEAT",
@@ -16993,6 +18240,21 @@
       "v": "[5baefc]Weakness Immunity[-]"
     },
     {
+      "k": "ID_UI_STAT_JUGGER_STN",
+      "v": "Juggernaut is immune to Stun Debuffs and if the opponent attempts to Stun him, he will instead apply his Heavy Attack Stagger to them.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_MLS_BLD",
+      "v": "The Summoned Symbiod has a {1}% chance to bleed on hit.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_MLS_CR",
+      "v": "The Summoned Symbiod has a {1}% increased chance to trigger a Critical Hit on Opponents suffering from debuffs.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_RSKULL_ABL00_01",
       "v": "Red Skull and the Cosmic Cube emit a presence that opponents cannot overcome. This greatly boosts Red Skulls chances to trigger abilities and provides passive bonuses.",
       "vn": "19.1"
@@ -17267,6 +18529,21 @@
       "k": "ID_UI_STAT_SIGNATURE_ADPH",
       "v": "After each Special Attack become Unstoppable for [16982bff]{2}[-] seconds.",
       "vn": 19
+    },
+    {
+            "k": "ID_UI_STAT_SIGNATURE_AEGON_SHORT",
+            "v": "Relentless Assault {0}",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_SIGNATURE_AEGON_SIMPLE",
+            "v": "Ægon is able to carry his Combo Meter between fights.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_SIGNATURE_AEGON_TITLE",
+            "v": "RELENTLESS ASSAULT",
+            "vn": 21
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_AGENTVENOM_DESC",
@@ -17738,7 +19015,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_CORVUS_SIMPLE",
-      "v": "As long as Glaive’s Immunity is active, Corvus Glaive cannot die. Instead of dying, he activates a Fury Buff.",
+      "v": "As long as Glaive’s Immunity is active, Corvus Glaive cannot die.",
       "vn": "17.2"
     },
     {
@@ -18110,7 +19387,8 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_DRONE_COSMIC_DESC",
-      "v": "This Ultron Drone emits radiation, causing a [16982bff]{0}%[-] chance to Poison the target upon contact, reducing their Health recovery by 50% and dealing [16982bff]{1}%[-] Attack as direct damage over [16982bff]{2}[-] seconds."
+      "v": "This Ultron Drone emits radiation, causing a [16982bff]{0}%[-] chance to Poison the target upon contact, reducing their Health recovery by 30% and dealing [16982bff]{1}[-] Attack as direct damage over [16982bff]{2}[-] seconds.",
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_DRONE_COSMIC_DESC2",
@@ -18379,6 +19657,21 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_ELEKTRA_TITLE_LOWER",
       "v": "No Loose Ends"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_EMMAFROST_SHORT",
+      "v": "White Queen {0}",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_EMMAFROST_TITLE",
+      "v": "WHITE QUEEN",
+      "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_EMMA_SIMPLE",
+      "v": "Emma reveals the full extent of her manipulative powers. When she would take too much damage from a single hit, she quickly swaps into Diamond Form to reduce the strength of the hit. She also gains the ability to reverse the Opponents controls.",
+      "vn": 20
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_FALCON_DESC",
@@ -19453,6 +20746,21 @@
       "v": "Venom Blast"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_MLS",
+      "v": "DOESN’T PLAY WELL WITH OTHERS",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MLS_SHORT",
+      "v": "Doesn’t Play Well With Others {0}",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MLS_SIMPLE",
+      "v": "Having another Symbioid around would make this one far too jealous. It’s probably for the best you only have one for now.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_MOONKNIGHT_DESC",
       "v": "Either Power Gain is enhanced by up to [16982bff]{1}%[-], or enemies suffer [16982bff]{1}%[-] reduced Power Gain. This cycles every {2} hours."
     },
@@ -19528,18 +20836,23 @@
       "v": "When Nebula is out of Self-Repair charges, she tries to recalibrate her implants to regain a charge.",
       "vn": 13
     },
-    {
-      "k": "ID_UI_STAT_SIGNATURE_NEBULA_TITLE",
-      "v": "CYBERNETIC ENHANCEMENTS",
+        {
+            "k": "ID_UI_STAT_SIGNATURE_NEBULA_TITLE",
+            "v": "CYBERNETIC ENHANCEMENTS",
+            "vn": 13
+        },
+        {
+      "k": "ID_UI_STAT_SIGNATURE_NEBULA_DESC",
+      "v": "When Nebula is out of Self-Repair charges, she tries to recalibrate her implants granting her a {0}% chance to regain a charge every {1} seconds.",
       "vn": 13
     },
     {
-      "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC",
-      "v": "Nightcrawler’s unique heritage, coupled with his X-Men training allows him to switch combat mode {0} seconds faster. Additionally, anytime he strikes a Deep Wound, he gains [16982bff]{1}%[-] increased Attack for {2} seconds.",
-      "vn": "11.2"
-    },
-    {
-      "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC_AO",
+            "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC",
+            "v": "Nightcrawler’s unique heritage, coupled with his X-Men training allows him to switch combat mode {0} seconds faster. Additionally, anytime he strikes a Deep Wound, he gains [16982bff]{1}%[-] increased Attack for {2} seconds.",
+            "vn": "11.2"
+        },
+        {
+            "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC_AO",
       "v": "Nightcrawler’s unique heritage, coupled with his X-Men training allows him to switch combat mode {0} seconds faster. Additionally, anytime he strikes a Deep Wound, he gains [16982bff]{1}[-] increased Attack for {2} seconds.",
       "vn": 12
     },
@@ -19668,19 +20981,19 @@
       "vn": "13.1"
     },
     {
-      "k": "ID_UI_STAT_SIGNATURE_PUNISHER2099_TITLE",
-      "v": "RETRIBUTION 2099",
-      "vn": "13.1"
-    },
-    {
-      "k": "ID_UI_STAT_SIGNATURE_PUNISHER_DESC",
-      "v": "Marine Corps. The Vietnam War. The Italian Mafia. Frank Castle has conditioned himself for high pain tolerance, granting him a [16982bff]{0}%[-] chance to endure a lethal blow."
-    },
-    {
-      "k": "ID_UI_STAT_SIGNATURE_PUNISHER_HUD",
-      "v": "ENDURED"
-    },
-    {
+            "k": "ID_UI_STAT_SIGNATURE_PUNISHER2099_TITLE",
+            "v": "RETRIBUTION 2099",
+            "vn": "13.1"
+        },
+        {
+            "k": "ID_UI_STAT_SIGNATURE_PUNISHER_DESC",
+            "v": "Marine Corps. The Vietnam War. The Italian Mafia. Frank Castle has conditioned himself for high pain tolerance, granting him a [16982bff]{0}%[-] chance to trigger an Indestructible Passive that lasts 8 seconds when receiving a lethal blow.  This can only trigger once per fight."
+        },
+        {
+            "k": "ID_UI_STAT_SIGNATURE_PUNISHER_HUD",
+            "v": "ENDURED"
+        },
+        {
       "k": "ID_UI_STAT_SIGNATURE_PUNISHER_SHORT",
       "v": "Defy Pain {0}"
     },
@@ -20331,6 +21644,26 @@
       "v": "SYMBIOSIS"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_SYMS",
+      "v": "SYMBIOMANCY",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SYMS_LONG_A",
+      "v": "Every [16982bff]{2}[-] seconds place a Stagger Passive effect on the Opponent, lasting {1} seconds. Stagger will immediately Nullify the next Buff triggered on the Opponent.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SYMS_SHORT",
+      "v": "Symbiomancy {0}",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SYMS_SIMPLE",
+      "v": "The unique combination of Symbiote and mystic arts that power Symbiote Supreme have a disrupting effect on many abilities of the lesser beings inhabiting the Battlerealm.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_THANOSBOSS_LONG",
       "v": "Abilities activated through his Special Attacks have [16982bff]{1}%[-] increased duration.",
       "vn": 18
@@ -20532,6 +21865,31 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_VENOM_NEW_A",
+      "v": "Rapid evolutionary changes to the Symbiote grant Venom an additional Genetic Memory Buff at the start of the fight, as well as a [16982bff]{0}%[-] chance to gain a third Buff to start the fight.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENOM_NEW_B",
+      "v": "Venom’s Genetic Memory Buffs also gain [16982bff]{1}%[-] Potency.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENOM_NEW_SHORT",
+      "v": "Aggressive Symbiosis {0}",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENOM_NEW_SIMPLE",
+      "v": "Rapid evolutionary changes to the symbiote grant Venom additional Genetic Memory Buffs at the start of the fight, as well as a boost to Genetic Memory Buff Potency.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENOM_NEW_TITLE",
+      "v": "AGGRESSIVE SYMBIOSIS",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_VENOM_SHORT",
       "v": "Bloodlust {0}"
     },
@@ -20546,6 +21904,46 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_VENOM_TITLE_LOWER",
       "v": "Bloodlust"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC",
+      "v": "Twisted mutations grant the Aberration effect [16982bff]{1}%[-] charge at the start of the fight, as well the following Special Attack enhancements:",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_B",
+      "v": "Aberration Buff begins with [16982bff]{1}%[-] charge the at start of the fight.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_C",
+      "v": "+[16982bff]{1}%[-] siphon damage during Special 1.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_D",
+      "v": "Toxic Armor gains +[16982bff]{1}%[-] duration.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_E",
+      "v": "[16982bff]{1}%[-] Aberration charge is gained after Special 3.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_SHORT",
+      "v": "Symbiosis Apotheosis {0}",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_SIMPLE",
+      "v": "Twisted mutations to the symbiote grant enhancements to Venom the Duck's Aberration effect, Siphon, Toxic Armor, and Buff Consumption.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_TITLE",
+      "v": "SYMBIOSIS APOTHEOSIS",
+      "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_VISION_DESC",
@@ -21000,6 +22398,526 @@
       "v": "Strikes once for [16982bff]{1}%[-] of your Attack as Physical damage."
     },
     {
+      "k": "ID_UI_STAT_SYMS_CC_ACTIVE",
+      "v": "[16982bff]{1}[-] Direct Damage is Passively dealt to the Opponent for each Buff Nullified, based on Genetic Potential.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_CC_ENTER",
+      "v": "{0}% chance when this blessing is triggered to immediately Nullify all Buffs off the Opponent.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_CC_STAGGER",
+      "v": "Each hit of a Special Attack gains a {0}% chance to place a Stagger Passive on the Opponent lasting {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_GB_A",
+      "v": "Symbiote Supreme can manifest 3 different Genetic Blessings, every {2} seconds he switches to the next in the following order: Chthon’s Cunning, Null’s Shadow, and Set’s Fangs.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_GB_B",
+      "v": "Each time a Blessing Ends {0}% of Genetic Potential is consumed to gain up to {1}% of a Bar of Power.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_GB_B_ALT",
+      "v": "Each time a Blessing triggers {0}% of Genetic Potential is consumed to gain up to {1}% of a Bar of Power.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_GP_A",
+      "v": "Each time a Buff or a Stagger effect on the Opponent ends gain {1} Genetic Potential, to a maximum of 100.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_GP_B",
+      "v": "Gain an additional {1} Genetic Potential if a Buff ends due to a Nullify or Stagger effect.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_NS_ACTIVE",
+      "v": "[16982bff]{1}[-] Armor and {0}% chance to Perfect Block as a Passive effect, based on Genetic Potential.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_NS_ENTER",
+      "v": "{0}% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than {1}% of his Max Health per hit, lasting {2} for seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_NS_STAGGER",
+      "v": "While active gain a {0}% chance to place a Stagger Passive on the Opponent lasting {2} seconds each time Symbiote Supreme is Struck by or Blocks the Opponent. Well timed blocks increase the Chance to {1}%.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_PG",
+      "v": "Symbiote Supreme gains 100% less power from Attacking, Blocking, and being Struck. But gains {1}% of his Max Power every {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SF_ACTIVE",
+      "v": "{0}% chance to cause a Bleed Debuff on every Hit, dealing up to [16982bff]{1}[-] Direct Damage based on Genetic Potential and lasting {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SF_ENTER",
+      "v": "{0}% chance when this Blessing is triggered to gain a Fury Buff increasing Attack by up to [16982bff]{1}[-] for {2} Seconds, based on Genetic Potential.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SF_STAGGER",
+      "v": "While active gain a {0}% chance to place a Stagger Passive on the Opponent lasting {2} seconds on each Basic Attack Hit. Critical Hits increase the Chance to {1}%.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP1_GB",
+      "v": "Switch to the next Blessing.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP1_NULL",
+      "v": "{0}% Chance to Nullify {1} Buff. Gain {2} Genetic Potential if a Buff is Nullified.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP2_CC",
+      "v": "While Chthon’s Cunning is active each hit has a {0}% chance to steal {1}% of the Opponent’s Max Power.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP2_NS",
+      "v": "While Null’s Shadow is active each hit has a {0}% chance to place a Weakness Debuff on the Opponent reducing their Attack by {1}% for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP2_SF",
+      "v": "While Set’s Fangs is active each hit has a {0}% chance to place an Armor Break Debuff on the Opponent reducing their Armor by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP3_GB",
+      "v": "{0}% chance to reset the Genetic Blessing timer, and activate all 3 Genetic Blessings.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SYMS_SP3_GP",
+      "v": "+{1} Genetic Potential.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_TAUNT_TITLE",
+      "v": "[b4b4b4ff]Taunt[-]",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_LA_01",
+      "v": "Activates True Accuracy for {2} seconds if intercepting the opponent’s Dash Attack, allowing him to ignore Auto Block and all Evade effects.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_LA_02",
+      "v": "Deal an additional [16982bff]{1}[-] Energy Damage.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_LA_03",
+      "v": "When The Champion has at least one active Fury Buff, he is Unstoppable while using a Light Attack.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_MA_01",
+      "v": "Inflicts an Armor Break if intercepting the opponent’s Dash Attack, reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_MA_02",
+      "v": "While Armor Shattered is active, opponents cannot suffer Armor Breaks nor activate their Armor Buffs. Additionally, this Debuff shatters Robot Champion’s systems, reducing their Ability Accuracy and Power Gain by 100%.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_MA_03",
+      "v": "When The Champion has at least one active Fury Buff, he is Unstoppable while using a Medium Attack.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_PC_01",
+      "v": "The Champion channels The Power Primordial, the residual energy left over from the Big Bang, to enhance his physical form and gain up to [37bfff]{1}[-] Persistent Charges.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_PC_02",
+      "v": "Every {0} seconds, The Champion gains [37bfff]1[-] Persistent Charge and activates Fury Buffs equal to his Persistent Charge, each granting him [16982bff]+{1}[-] Attack Rating for {2} seconds.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_PC_03",
+      "v": "[37bfff]{1}[-] Persistent Charge(s) are lost for every {2} hits in the opponent’s Combo Meter and when the opponents uses Nullify to remove any of his Fury Buffs.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_PC_HUD",
+      "v": "PRIMAL FURY",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_P_01",
+      "v": "The Champion always seeks to fight against the [64acff]Greatest Fighters[-] in the universe. While fighting them, he gains Persistent Charges {0}% faster and increases the Duration and Ability Accuracy of all of his Buffs by a flat +{1}%.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_P_02",
+      "v": "[64acff]Contest’s Greatest Fighters:[-] Star-lord, Spider-Man (Stark Enhanced), Corvus Glaive, Hyperion, Iceman, Archangel, Blade, Gwenpool, Void, Hulk (Ragnarok), Magik, Ghost Rider.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SIG_01",
+      "v": "While on a Boss Node and at least one of his Fury Buffs is active, The Champion unleashes the full potential of The Power Primordial. This increases the Potency of his Armor Break by [16982bff]{1}%[-], regenerates Health and activates an Unstoppable Buff, shrugging off the impact of the opponent’s Basic Attacks.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SIG_01_B",
+      "v": "While on a Boss Node and at least one of his Fury Buffs is active, The Champion unleashes the full potential of The Power Primordial. This increases the Potency of his Armor Break by [16982bff]{1}%[-], regenerates Health. Additionally, he activates an Unstoppable Buff when he has {2} or more active Fury Buffs, shrugging off the impact of the opponent’s Basic Attacks.",
+      "vn": 21
+    },
+    {
+            "k": "ID_UI_STAT_THECHAMP_SIG_01_C",
+            "v": "When at least one of his Fury Buffs is active, The Champion unleashes the full potential of The Power Primordial. This increases the Potency of his Armor Break by [16982bff]{1}%[-], and activates an Unstoppable Buff, shrugging off the impact of the opponent’s Basic Attacks.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_01_D",
+            "v": "When at least one of his Fury Buffs is active, The Champion unleashes the full potential of The Power Primordial. This increases the Potency of his Armor Break by [16982bff]{1}%[-]. Additionally, when he activates {2} or more of his Fury Buffs, he becomes Unstoppable, shrugging off the impact of the opponent’s Basic Attacks for {0} seconds.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_02",
+            "v": "For each active Fury Buff, The Champion regenerates [16982bff]{1}%[-] of the damage taken this fight per second.",
+            "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SIG_02_B",
+      "v": "When below {0}% Health, The Champion regenerates [16982bff]{1}%[-] of the damage taken this fight for each active Fury Buff per second.",
+      "vn": 21
+    },
+    {
+            "k": "ID_UI_STAT_THECHAMP_SIG_02_C",
+            "v": "For each active Fury Buff, The Champion regenerates [16982bff]{1}%[-] of the damage taken by Basic Attacks this fight per second.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_02_D",
+            "v": "While attacking or defending on the final node in a Quest, for each active Fury Buff and while his Unstoppable Buff is active, he regenerates [16982bff]{1}%[-] of the damage taken this fight per second, excluding the amount already regenerated by this ability. This ability can regenerate up to a maximum of {2}% Health per second.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_03",
+            "v": "The Champion is immune to Fate Seal, Heal Block, Petrify and Heal Reversal.",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_03_SUB",
+            "v": "In addition to regenerating Health, The Champion is immune to Fate Seal, Heal Block, Petrify, and any effects that modify Regeneration other than Poison.   ",
+            "vn": 21
+        },
+        {
+            "k": "ID_UI_STAT_THECHAMP_SIG_SHORT",
+            "v": "Primal Fury {0}",
+            "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SIG_SIMPLE",
+      "v": "The Champion unleashes the full potential of The Power Primordial to enhance his Armor Break, regenerate Health and become Unstoppable.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SIG_TITLE",
+      "v": "PRIMAL FURY",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP",
+      "v": "When The Champion has {0} or more Persistent Charges, he spends one to activate a Regeneration Buff, regenerating [16982bff]{1}[-] Health over {2} seconds.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP1_01",
+      "v": "Spends {0} Persistent Charge(s) if hitting the opponent, granting [16982bff]+{1}[-] Critical Rating for this attack.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP1_02",
+      "v": "Taunts the opponent for {2} seconds.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP2_01",
+      "v": "Spends {0} Persistent Charge(s) to activate a Fury Buff, granting [16982bff]+{1}[-] Attack Rating for {2} seconds. This Fury also counts towards The Champion’s Primal Fury Signature Ability.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP3_01",
+      "v": "[16982bff]+{1}[-] Attack Rating for each Persistent Charge.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_SP3_02",
+      "v": "Knocking out the opponent with this Special Attack grants The Champion [37bfff]2[-] Persistent Charge(s), otherwise it grants [37bfff]1[-] Persistent Charge instead.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_STUNONBOSS_01",
+      "v": "When at least one of his Fury Buffs is active, The Champion has a {0}% chance to inflict Stun for {1} second when making contact with his attacks.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_UNIVERSE_HUD",
+      "v": "CHAMPION OF THE UNIVERSE",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_UNIVERSE_HUD_PAUSE",
+      "v": "[b4b4b4ff]Champion of the Universe[-]",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THECHAMP_UNIVERSE_HUD_PAUSE_LONG",
+      "v": "The Champion considers the current opponent to be one of the Greatest Fighters in the universe, activating several additional bonuses.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_TOXICARMOR_HUD",
+      "v": "TOXIC ARMOR",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_TOXICARMOR_SHORT",
+      "v": "[b4b4b4ff]Toxic Armor[-]",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_UNBLCK_ARMUP_BELOWHP",
+      "v": "While the opponent is below {1}% health, these attacks are Unblockable and cannot trigger opponent Armor Up effects.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_UNSTOPPBA_PAUSE_LONG",
+      "v": "Won't react when struck by a Basic Attack. Still receives any damage dealt.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_BUFFDMG",
+      "v": "An ambush attack grants Venom +{1}% damage during this attack for each Buff Venom has.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_BUFFEAT",
+      "v": "Each strike has a {0}% chance to steal a Buff and feed it to the symbiote, Nullifying the Buff, triggering a Genetic Memory Buff and healing Venom for [16982bff]{1}[-] Health.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_HVY",
+      "v": "A heavy strike inflicts Armor Break, reducing the opponent’s Armor rating by [16982bff]{1}[-] for {2} seconds. Landing this attack also causes Venom to randomize his most recent Genetic Memory Buff.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_KLY_ATK",
+      "v": "Venom’s Klyntar Mutation Buff provides [16982bff]+{1}[-] Attack and gains additional properties based on Venom’s opponent.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_KLY_BLD",
+      "v": "Hero Champions: +{1}% Bleed Ability Accuracy.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_KLY_EVD",
+      "v": "Spider-Verse Heroes: All attacks ignore Passive Evade effects.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_KLY_TCH",
+      "v": "Tech Champions: Power Burn & Power Drain Immunity.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_MUT",
+      "v": "Venom has a Klyntar Mutation Buff that refreshes itself every {2} seconds. When this effect activates, a random Genetic Memory Buff is gained from the list below. If Venom becomes Incinerated, the Mutation Buff is Nullified. Max Genetic Memory Buffs: {1}.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_TRUSTRK",
+      "v": "Venom’s bloodlust grants him True Strike and Unblockable Special Attacks.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENOMNEW_UNLEASH",
+      "v": "Venom is unleashed, converting all Genetic Memory Buffs into Fury Buffs, each increasing Attack by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_ARMUP",
+      "v": "Armor Up: +[16982bff]{1}[-] Armor Rating for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_BLD",
+      "v": "{0}% chance to Bleed, dealing [16982bff]{1}[-] direct damage over {2} seconds. If the opponent is Immune to this Bleed, a Passive Degeneration is inflicted instead, albeit at a -25% damage penalty.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_BLODLET",
+      "v": "Bloodletting: +{1}% Bleed Ability Accuracy",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_FURY",
+      "v": "Fury: +[16982bff]{1}[-] Attack for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_LFSTL",
+      "v": "Life Steal: Attacks recover {1}% of damage dealt as Health for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_MUTBUFF",
+      "v": "When the continuous Aberration effect hits 100%, it resets to 0% and a random Symbiote Buff from either category is gained.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_MUTBUFF_B",
+      "v": "Each non-unique Symbiote Buff beyond the first suffers a stacking {2}% Potency penalty [Example: Symbiote Regen #5 will suffer -{1}% Potency compared to the first Symbiote Regen Buff].",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_PRBLK",
+      "v": "Perfect Block: +{1}% Perfect Block Chance for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_PREC",
+      "v": "Precision: +[16982bff]{1}[-] Critical Rating for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_PROW",
+      "v": "Prowess: +{1}% Special Attack damage for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_PWRFLD",
+      "v": "Power Flood: Gain {1} bars of Power over {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_PWRRT",
+      "v": "Power Rate: +{1}% Power Gain Rate for {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_RGN",
+      "v": "Regeneration: Recover [16982bff]{1}[-] Health over {2} seconds.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_RNABANK",
+      "v": "All Symbiote Buffs are removed and stored in the [37bfff]RNA Bank[-]. {2} Symbiote Buffs may be added to the [37bfff]RNA Bank[-] each fight, and up to {1} Buffs may be stored during each quest. Buffs won’t be removed or stored if the per-Fight or per-Quest limits have been reached.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_SP1BUFF",
+      "v": "At the end of this attack, gain 1 Symbiote Buff at Random.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_SP1STL",
+      "v": "Each strike has a {0}% chance to siphon an additional [16982bff]{1}[-] health from the opponent as direct damage and feed it to the Aberration effect, gaining +{2}% charge.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_SP2",
+      "v": "{0}% chance to apply a Toxic Armor Buff to the opponent, increasing their Armor by [16982bff]{1}[-] for 15 seconds. Striking an opponent that has Toxic Armor deals up to +{2}% additional direct damage based on how high the opponent’s Armor is.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_SP3BUFFEAT",
+      "v": "For each Buff the opponent has, Venom has a {0}% chance to eat it, Nullifying the Buff and gaining {1}% Power Meter.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_SP3RNA",
+      "v": "This attack does not lock Symbiote Buffs into the [37bfff]RNA Bank[-]; instead, it activates all Symbiote Buffs locked in the [37bfff]RNA Bank[-].",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_VENTHEDUCK_STOREBANK",
+      "v": "All Symbiote Buffs stored in the [37bfff]RNA Bank[-] are activated.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_SYNG_S1_SHORT",
+      "v": "[64acff]Luke Cage:[-] Debuffs inflicted by his attacks last {0}% longer.\n[64acff]The Champion:[-] Activates Combo Shield for 5 seconds when he would lose his Combo Meter. This ability can activate 3 times.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_SYNG_S1_TITLE",
+      "v": "Synergy 01",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_SYNG_S2_SHORT",
+      "v": "[64acff]The Champion, Hulk, She-Hulk:[-] +{0}% Potency to Fury effects.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_SYNG_S2_TITLE",
+      "v": "Synergy 02",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_SYNG_S3_SHORT",
+      "v": "[64acff]Mephisto:[-] +{0}% Attack Rating when fighting against Cosmic Champions.\n[64acff]The Champion:[-] When awakened, The Champion can activate his Regeneration Buff when going against Mini-Boss and Boss Champions in a Quest.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_SYNG_S3_TITLE",
+      "v": "Synergy 03",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S1_SHORT",
+      "v": "[64acff]The Champion:[-] The Champion is Unstoppable when using a Light and Medium Attack.\n[64acff]Luke Cage:[-] +{0}% chance to inflict Debuffs as long as Luke Cage never dashes back in a fight.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S1_TITLE",
+      "v": "Tough Brawlers",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S2_SHORT",
+      "v": "[64acff]The Champion:[-] When The Champion has 3 or more Persistent Charges, he starts the fight with an Indestructible Buff, ignoring all incoming damage for 8 seconds.\n[64acff]Mephisto:[-] +{0}% Attack Rating for each Persistent Charge.\n[64acff]Sentry:[-] +12% Attack Rating for each Reality Warp.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S2_TITLE",
+      "v": "Persistent Force",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S3_SHORT",
+      "v": "[64acff]The Champion:[-] Gains a Persistent Charge for every {0} hits in his Combo Meter.\n[64acff]Thor (Ragnarok):[-] +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 21
+    },
+    {
+      "k": "ID_UI_THECHAMP_SYNG_S3_TITLE",
+      "v": "Combo Fighter",
+      "vn": 21
+    },
+    {
       "k": "ID_UI_WASP_COUNTER_STING_PAUSE",
       "v": "Wasp Counter Attack Recharge",
       "vn": 19
@@ -21115,40 +23033,38 @@
       "vn": "19.1"
     },
     {
-      "k": "ID_VTHCKD",
-      "v": "Whenever Power is gained, a portion of that Power is drained and Direct Damage is inflicted based on the amount of Power lost.",
-      "vn": "19.1"
-    },
-    {
-      "k": "ID_WAON163D",
-      "v": "As the Moon wanes, Moon Knight has a chance to gain Fury.",
-      "vn": 19
-    },
-    {
-      "k": "ID_WAON163T",
-      "v": "[b4b4b4ff]Waning Moon[-]",
-      "vn": 19
-    },
+            "k": "ID_VTHCKD",
+            "v": "Whenever Power is gained, a portion of that Power is drained and Direct Damage is inflicted based on the amount of Power lost.",
+            "vn": "19.1"
+        },
+        {
+            "k": "ID_WAON163D",
+            "v": "As the moon Wanes, Moon Knight has an increased chance to gain Fury, and a decreased chance to gain Precision."
+        },
+        {
+            "k": "ID_WAON163T",
+            "v": "[b4b4b4ff]Waning Moon[-]",
+            "vn": 19
+        },
     {
       "k": "ID_WAON164D",
       "v": "As the Moon waxes, Moon Knight has a chance to gain Precision.",
       "vn": 19
     },
     {
-      "k": "ID_WAON164T",
-      "v": "[b4b4b4ff]Waxing Moon[-]",
-      "vn": 19
-    },
-    {
-      "k": "ID_WAXN164D",
-      "v": "As the Moon waxes, Moon Knight has a chance to gain Precision.",
-      "vn": "19.1"
-    },
-    {
-      "k": "ID_WAXN164T",
-      "v": "[b4b4b4ff]Waxing Moon[-]",
-      "vn": "19.1"
-    },
+            "k": "ID_WAON164T",
+            "v": "[b4b4b4ff]Waxing Moon[-]",
+            "vn": 19
+        },
+        {
+            "k": "ID_WAXN164D",
+            "v": "As the moon Waxes, Moon Knight has an increased chance to gain Precision, and a decreased chance to gain Fury."
+        },
+        {
+            "k": "ID_WAXN164T",
+            "v": "[b4b4b4ff]Waxing Moon[-]",
+            "vn": "19.1"
+        },
     {
       "k": "ID_WESS99D",
       "v": "Decreases Attack Rating.",

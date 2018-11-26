@@ -1,22 +1,22 @@
 {
-  "meta": {
-    "format": "sparx",
-    "hash": "073e5bac0ff42dd7f841b26406525188d31b5a58",
-    "language": "en",
-    "post_processed": true,
-    "string_count": 145,
-    "tagged": [
-      "character_bios",
-      "client"
-    ],
-    "ts": 1531517601,
-    "versionLock": "19.1"
-  },
-  "strings": [
-    {
-      "k": "ID_CHARACER_BIOS_BLADE",
-      "v": "When Eric Brooks' mother was killed during his birth by a bloodthirsty vampire, the newborn Brooks' blood was infused with vampiric enzymes.This event turned him into a Dhampir, a hybrid human/vampire, possessing the powers of a vampire like immortality, but none of their weaknesses. Eventually becoming known as Blade, he has the ability to sense supernatural phenomenon, enabling him to identify Dimensional Beings and quickly react to incoming threats, making him effective at hunting the most powerful beings in the Battlerealm.",
-      "vn": "15.1"
+    "meta": {
+        "format": "sparx",
+        "hash": "d90e928ef293f4d913aa1a777fe4c9890c33a8e9",
+        "language": "en",
+        "post_processed": true,
+        "string_count": 151,
+        "tagged": [
+            "character_bios",
+            "client"
+        ],
+        "ts": 1539643497,
+        "versionLock": "21.0"
+    },
+    "strings": [
+        {
+            "k": "ID_CHARACER_BIOS_BLADE",
+            "v": "When Eric Brooks' mother was killed during his birth by a bloodthirsty vampire, the newborn Brooks' blood was infused with vampiric enzymes.This event turned him into a Dhampir, a hybrid human/vampire, possessing the powers of a vampire like immortality, but none of their weaknesses. Eventually becoming known as Blade, he has the ability to sense supernatural phenomenon, enabling him to identify Dimensional Beings and quickly react to incoming threats, making him effective at hunting the most powerful beings in the Battlerealm.",
+            "vn": "15.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_REDSKULL",
@@ -103,6 +103,11 @@
       "k": "ID_CHARACTER_BIOS_CARNAGE",
       "v": "Cletus Kasady was a serial killer from Brooklyn; psychotic and depraved from an early age. As a cellmate of Eddie Brock’s, he bonded with a spawn of the Venom Symbiote during a prison break, and merged into a single twisted being. Kasady and the Symbiote would go on a killing spree, earning them their name: Carnage. With the Symbiote amplifying Kasady’s psychotic tendencies, there’s no telling how deep their acts of depravity will plunge.",
       "vn": "13.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_CHAMPION",
+      "v": "As an Elders of the Universe member, The Champion is able to control an energy source referred to as the Power Primordial, the residual energy that is left over from the Big Bang itself. He channels this energy to enhance his physical form, and he seeks out the greatest fighters in the universe to test the limits of his powers.",
+      "vn": 21
     },
     {
       "k": "ID_CHARACTER_BIOS_CIVILWARRIOR",
@@ -426,6 +431,11 @@
       "v": "Raised from childhood in an Eastern European circus, Half-Demon Mutant Kurt Wagner has always existed on the outside. Gifted with the power to teleport at will, but marred with his father’s demonic appearance, Kurt eventually found a place for himself amongst Xavier’s X-Men. Despite his intimidating outward appearance, Nightcrawler remains positive and optimistic, always using his powers for the betterment of both mankind and mutantkind."
     },
     {
+      "k": "ID_CHARACTER_BIOS_OMEGARED",
+      "v": "It was during the peak of the Cold War that saw the Soviets transform Arkady Rossovich into the super soldier Omega Red. Wielding nearly indestructible tentacles and a Death Factor capable of killing by mere proximity, Omega Red was terrifyingly beyond their control. His creators sealed him away in cryogenic stasis where he remained until present day, when he was awoken by criminal organization The Hand to do battle with Wolverine and the X-Men.",
+      "vn": 20
+    },
+    {
       "k": "ID_CHARACTER_BIOS_PHOENIX",
       "v": "Though Jean Grey and the Phoenix Force have long been separated, their bond is unique. More than a mere host, Jean is a part of the Phoenix, as the Phoenix is a part of her. When Jean was brought to the Battlerealm and exposed to ISO-8, the highly mutagenic properties of ISO-8 reopened Jean’s latent connection to the universal force of life, and the Phoenix was reborn again, this time into the Contest of Champions!"
     },
@@ -519,6 +529,16 @@
       "v": "Mutant, thief, leader, goddess – Ororo Munroe has played many roles in her life. As Storm, she controls all aspects of the weather on an astonishing scale. Tornados, lightning, and blizzards are hers to command. Summoned from her home in Africa by Professor X, Ororo found a new family in the X-Men – and a new role, as a hero."
     },
     {
+      "k": "ID_CHARACTER_BIOS_SYMBIOTESUPREME",
+      "v": "The result of an unholy union between an alternate reality Doctor Strange and a particularly virulent Klyntar specimen, the entity known as Symbiote Supreme wields an unnatural power thanks to its mastery of Symbiomancy: the ability to summon and control its Symbiote through magical means. The Symbiote Supreme finds and bonds with any lifeform it can, devouring them into its hivemind in order to spread its dark influence across The Battlerealm.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_SYM_MLS_BRUTE",
+      "v": "Symbioids have existed in the Contest for quite some time! Half sinister Symbiote and half Adaptoid, they’re usually seen serving as grunts for anyone twisted enough to take them under their wing.\nThis one seems… different, however. While usually quite vicious and threatening, this Symbioid seems to have taken quite a liking to you! But make no mistake, it’s still just as dangerous. Maybe it just wants a friend?\n\nThis Symbioid works differently than other Champions. The Summoned Symbioid can only be ranked up with KLYNTAR KATALYSTS and does not have any additional levels. Ranking up will significantly increase the Health of your Symbioid. The Symbioid has a few baseline abilities, but to upgrade it’s powers you’ll need to acquire KLYNTAR STRANDS which can be used to buy SYMBIOTIC ENHANCEMENTS to give your Summoned Symbioid new and powerful abilities. These abilities will ONLY work in the “Blood and Venom: Symbiomancer” quest.",
+      "vn": "20.1"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_TASKMASTER",
       "v": "Tony Masters was a S.H.I.E.L.D. agent exposed to an experimental variant of the Super-Soldier Serum, called the Mnemonic Primer. It grants him the ability to duplicate any movement he sees, but at a cost. The huge amount of information his brain records, causes it to overwrite his own memories, replacing what little remains of his original self. Now known as Taskmaster he offers his skills to the highest bidder as a mercenary and combat trainer.",
       "vn": "16.1"
@@ -579,6 +599,16 @@
     {
       "k": "ID_CHARACTER_BIOS_VENOMPOOL",
       "v": "“Origin story time! Ahem. A long time ago...in a forgotten corner of the Contest, a wise, handsome, kick-butt dude became permanently duct-taped to a weird, alien Venom thingy…”\n“That’sssss not what happened!”\n“Shut up Symbioid, I’m telling the story! Dang. Lost my place. Oh well, anywhoozle, epic story told in haiku! Deadpool Venom mix; Smashed together, best friends; and....Chimichangas?”\n“We must kill the Ssssssspider-Man!”\n“Oh Symby! You’re the funniest. You always crack me up.”"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_VENOMTHEDUCK",
+      "v": "An abject abomination crafted from the chaotic energy of the Contest itself and given shape by the monstrosity calling itself the Symbiote Supreme, Venom the Duck shapes its symbiotic mass to strengthen itself and tear its foes apart. Driven by Venom’s bloodlust and controlled by Howard’s intellect and cunning, this aberration of the Contest is a force to be reckoned with.",
+      "vn": "20.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_VENOM_BETA",
+      "v": "After Peter Parker rejected a sinister alien symbiote, the extra-terrestrial threat sought revenge by bonding with Eddie Brock, ex-photographer for the Daily Bugle and Peter’s longtime rival. Fueled by their shared hatred of Spider-Man, Brock and the symbiote now use their immense strength and deadly abilities to gain revenge as the fearful Venom.",
+      "vn": "20.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_VISION",
