@@ -1,16 +1,16 @@
 {
-    "meta": {
-        "format": "sparx",
-        "hash": "d90e928ef293f4d913aa1a777fe4c9890c33a8e9",
-        "language": "en",
-        "post_processed": true,
-        "string_count": 151,
-        "tagged": [
-            "character_bios",
-            "client"
-        ],
-        "ts": 1539643497,
-        "versionLock": "21.0"
+  "meta": {
+    "format": "sparx",
+    "hash": "caf631cd44207b76e7930898e0c6a17f6131ebd5",
+    "language": "en",
+    "post_processed": true,
+    "string_count": 152,
+    "tagged": [
+      "character_bios",
+      "client"
+    ],
+    "ts": 1541723397,
+    "versionLock": "21.1"
     },
     "strings": [
         {
@@ -145,6 +145,11 @@
     {
       "k": "ID_CHARACTER_BIOS_DAREDEVIL_NETFLIX",
       "v": "Matt Murdock grew up around crime, corruption and violence. After a freak accident involving radioactive waste took his sight, Matt was trained by the mysterious martial artist Stick to condition his body to near perfection and hone his remaining senses to superhuman levels."
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_DARKHAWK",
+      "v": "Christopher Powell discovered an alien amulet allowing him to transform into the robotic Darkhawk. Having witnessed his father turn to a life of crime, Powell vowed to use the powers of the amulet to fight crime. This path would eventually lead him to team up with some of Earth’s mightiest heroes.",
+      "vn": "21.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_DEADPOOL",
