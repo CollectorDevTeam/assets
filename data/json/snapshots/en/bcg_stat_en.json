@@ -21406,14 +21406,9 @@
       "v": "When Nebula is out of Self-Repair charges, she tries to recalibrate her implants to regain a charge.",
       "vn": 13
     },
-        {
-            "k": "ID_UI_STAT_SIGNATURE_NEBULA_TITLE",
-            "v": "CYBERNETIC ENHANCEMENTS",
-            "vn": 13
-        },
-        {
-      "k": "ID_UI_STAT_SIGNATURE_NEBULA_DESC",
-      "v": "When Nebula is out of Self-Repair charges, she tries to recalibrate her implants granting her a {0}% chance to regain a charge every {1} seconds.",
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NEBULA_TITLE",
+      "v": "CYBERNETIC ENHANCEMENTS",
       "vn": 13
     },
     {
