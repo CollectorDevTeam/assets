@@ -1,4 +1,4 @@
-{
+"effects": [0.5],"effects": [75],{
   "assassin": {
     "1": {
       "effects": [
@@ -77,7 +77,7 @@
   },
   "blockproficiency": {
     "1": {
-      "effects": 200,
+      "effects": [200],
       "pibump": 0.0045,
       "rgold": 10,
       "runit": 0,
@@ -87,7 +87,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 400,
+      "effects": [400],
       "pibump": 0.0042,
       "rgold": 20,
       "runit": 0,
@@ -97,7 +97,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 600,
+      "effects": [600],
       "pibump": 0.0042,
       "rgold": 30,
       "runit": 0,
@@ -107,7 +107,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 800,
+      "effects": [800],
       "pibump": 0.0042,
       "rgold": 40,
       "runit": 0,
@@ -125,7 +125,7 @@
   },
   "coagulate": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 2,
@@ -135,7 +135,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 4,
@@ -145,7 +145,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 30,
+      "effects": [30],
       "pibump": 0.0049,
       "rgold": 0,
       "runit": 6,
@@ -163,7 +163,7 @@
   },
   "collartech": {
     "1": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0,
       "rgold": 50,
       "runit": 1,
@@ -173,7 +173,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 6,
+      "effects": [6],
       "pibump": 0,
       "rgold": 100,
       "runit": 2,
@@ -183,7 +183,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 9,
+      "effects": [9],
       "pibump": 0,
       "rgold": 200,
       "runit": 3,
@@ -193,7 +193,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 13,
+      "effects": [13],
       "pibump": 0,
       "rgold": 400,
       "runit": 4,
@@ -203,7 +203,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 18,
+      "effects": [18],
       "pibump": 0,
       "rgold": 800,
       "runit": 5,
@@ -221,7 +221,7 @@
   },
   "cosmicawareness": {
     "1": {
-      "effects": 2.5,
+      "effects": [2.5],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -231,7 +231,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 5,
+      "effects": [5],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -241,7 +241,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -251,7 +251,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0,
       "rgold": 0,
       "runit": 4,
@@ -261,7 +261,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 40,
+      "effects": [40],
       "pibump": 0,
       "rgold": 0,
       "runit": 5,
@@ -279,7 +279,7 @@
   },
   "courage": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.0226,
       "rgold": 100,
       "runit": 0,
@@ -289,7 +289,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 15,
+      "effects": [15],
       "pibump": 0,
       "rgold": 200,
       "runit": 0,
@@ -299,7 +299,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0,
       "rgold": 300,
       "runit": 0,
@@ -317,7 +317,7 @@
   },
   "cruelty": {
     "1": {
-      "effects": 95,
+      "effects": [95],
       "pibump": 0.0097,
       "rgold": 0,
       "runit": 1,
@@ -327,7 +327,7 @@
       "uunits": 675
     },
     "2": {
-      "effects": 190,
+      "effects": [190],
       "pibump": 0.0096,
       "rgold": 0,
       "runit": 2,
@@ -337,7 +337,7 @@
       "uunits": 15
     },
     "3": {
-      "effects": 285,
+      "effects": [285],
       "pibump": 0.0095,
       "rgold": 0,
       "runit": 3,
@@ -347,7 +347,7 @@
       "uunits": 20
     },
     "4": {
-      "effects": 380,
+      "effects": [380],
       "pibump": 0.0094,
       "rgold": 0,
       "runit": 4,
@@ -357,7 +357,7 @@
       "uunits": 25
     },
     "5": {
-      "effects": 475,
+      "effects": [475],
       "pibump": 0.0093,
       "rgold": 0,
       "runit": 5,
@@ -451,7 +451,7 @@
   },
   "despair": {
     "1": {
-      "effects": 5,
+      "effects": [5],
       "pibump": 0.0092,
       "rgold": 0,
       "runit": 2,
@@ -461,7 +461,7 @@
       "uunits": 10
     },
     "2": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.0045,
       "rgold": 0,
       "runit": 4,
@@ -471,7 +471,7 @@
       "uunits": 20
     },
     "3": {
-      "effects": 15,
+      "effects": [15],
       "pibump": 0.0071,
       "rgold": 0,
       "runit": 6,
@@ -489,7 +489,7 @@
   },
   "detectcosmic": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -499,7 +499,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -509,7 +509,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -527,7 +527,7 @@
   },
   "detectmutant": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -537,7 +537,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -547,7 +547,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -565,7 +565,7 @@
   },
   "detectmystic": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -575,7 +575,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -585,7 +585,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -603,7 +603,7 @@
   },
   "detectscience": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -613,7 +613,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -623,7 +623,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -641,7 +641,7 @@
   },
   "detectskill": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -651,7 +651,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -661,7 +661,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -679,7 +679,7 @@
   },
   "detecttech": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -689,7 +689,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -699,7 +699,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -717,7 +717,7 @@
   },
   "dexterity": {
     "1": {
-      "effects": 250,
+      "effects": [250],
       "pibump": 0.0113,
       "rgold": 0,
       "runit": 1,
@@ -727,7 +727,7 @@
       "uunits": 15
     },
     "2": {
-      "effects": 600,
+      "effects": [600],
       "pibump": 0.0019,
       "rgold": 0,
       "runit": 2,
@@ -737,7 +737,7 @@
       "uunits": 15
     },
     "3": {
-      "effects": 950,
+      "effects": [950],
       "pibump": 0.0019,
       "rgold": 0,
       "runit": 3,
@@ -809,7 +809,7 @@
   },
   "energyresistance": {
     "1": {
-      "effects": 40,
+      "effects": [40],
       "pibump": 0.0014,
       "rgold": 10,
       "runit": 0,
@@ -819,7 +819,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 80,
+      "effects": [80],
       "pibump": 0.0014,
       "rgold": 20,
       "runit": 0,
@@ -829,7 +829,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 120,
+      "effects": [120],
       "pibump": 0.0014,
       "rgold": 30,
       "runit": 0,
@@ -839,7 +839,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 160,
+      "effects": [160],
       "pibump": 0.0034,
       "rgold": 40,
       "runit": 0,
@@ -857,7 +857,7 @@
   },
   "enhancedfury": {
     "1": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0021,
       "rgold": 100,
       "runit": 0,
@@ -867,7 +867,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0.0021,
       "rgold": 150,
       "runit": 0,
@@ -877,7 +877,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 6,
+      "effects": [6],
       "pibump": 0.0021,
       "rgold": 200,
       "runit": 0,
@@ -887,7 +887,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0.0021,
       "rgold": 250,
       "runit": 0,
@@ -905,7 +905,7 @@
   },
   "extendedfury": {
     "1": {
-      "effects": 0.2,
+      "effects": [0.2],
       "pibump": 0.0021,
       "rgold": 100,
       "runit": 0,
@@ -915,7 +915,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 0.4,
+      "effects": [0.4],
       "pibump": 0.0021,
       "rgold": 150,
       "runit": 0,
@@ -925,7 +925,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 0.6,
+      "effects": [0.6],
       "pibump": 0.0021,
       "rgold": 200,
       "runit": 0,
@@ -935,7 +935,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 0.8,
+      "effects": [0.8],
       "pibump": 0.0021,
       "rgold": 0,
       "runit": 0,
@@ -1003,7 +1003,7 @@
   },
   "greaterstrength": {
     "1": {
-      "effects": 1.6,
+      "effects": [1.6],
       "pibump": 0.0056,
       "rgold": 500,
       "runit": 0,
@@ -1013,7 +1013,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0016,
       "rgold": 750,
       "runit": 0,
@@ -1023,7 +1023,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 2.4,
+      "effects": [2.4],
       "pibump": 0.0013,
       "rgold": 1000,
       "runit": 0,
@@ -1033,7 +1033,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 2.8,
+      "effects": [2.8],
       "pibump": 0.0015,
       "rgold": 1250,
       "runit": 0,
@@ -1043,7 +1043,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 3.6,
+      "effects": [3.6],
       "pibump": 0.0029,
       "rgold": 1500,
       "runit": 0,
@@ -1053,7 +1053,7 @@
       "uunits": 0
     },
     "6": {
-      "effects": 4.4,
+      "effects": [4.4],
       "pibump": 0.003,
       "rgold": 1750,
       "runit": 0,
@@ -1063,7 +1063,7 @@
       "uunits": 0
     },
     "7": {
-      "effects": 5.2,
+      "effects": [5.2],
       "pibump": 0.0029,
       "rgold": 2000,
       "runit": 0,
@@ -1073,7 +1073,7 @@
       "uunits": 0
     },
     "8": {
-      "effects": 6.4,
+      "effects": [6.4],
       "pibump": 0.0044,
       "rgold": 2500,
       "runit": 0,
@@ -1083,7 +1083,7 @@
       "uunits": 0
     },
     "9": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0.0057,
       "rgold": 3000,
       "runit": 0,
@@ -1101,7 +1101,7 @@
   },
   "greatervitality": {
     "1": {
-      "effects": 1.6,
+      "effects": [1.6],
       "pibump": 0.0063,
       "rgold": 500,
       "runit": 0,
@@ -1111,7 +1111,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0015,
       "rgold": 750,
       "runit": 0,
@@ -1121,7 +1121,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 2.4,
+      "effects": [2.4],
       "pibump": 0.0014,
       "rgold": 1000,
       "runit": 0,
@@ -1131,7 +1131,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 2.8,
+      "effects": [2.8],
       "pibump": 0.0014,
       "rgold": 1250,
       "runit": 0,
@@ -1141,7 +1141,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 3.6,
+      "effects": [3.6],
       "pibump": 0.0028,
       "rgold": 1500,
       "runit": 0,
@@ -1151,7 +1151,7 @@
       "uunits": 0
     },
     "6": {
-      "effects": 4.4,
+      "effects": [4.4],
       "pibump": 0.0028,
       "rgold": 1750,
       "runit": 0,
@@ -1161,7 +1161,7 @@
       "uunits": 0
     },
     "7": {
-      "effects": 5.2,
+      "effects": [5.2],
       "pibump": 0.0027,
       "rgold": 2000,
       "runit": 0,
@@ -1171,7 +1171,7 @@
       "uunits": 0
     },
     "8": {
-      "effects": 6.4,
+      "effects": [6.4],
       "pibump": 0.0042,
       "rgold": 2500,
       "runit": 0,
@@ -1181,7 +1181,7 @@
       "uunits": 0
     },
     "9": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0.0055,
       "rgold": 3000,
       "runit": 0,
@@ -1199,7 +1199,7 @@
   },
   "inequity": {
     "1": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0064,
       "rgold": 0,
       "runit": 2,
@@ -1209,7 +1209,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0.0065,
       "rgold": 0,
       "runit": 4,
@@ -1219,7 +1219,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 6,
+      "effects": [6],
       "pibump": 0.0064,
       "rgold": 0,
       "runit": 6,
@@ -1237,7 +1237,7 @@
   },
   "intelligence": {
     "1": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -1247,7 +1247,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -1257,7 +1257,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 12,
+      "effects": [12],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -1267,7 +1267,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 16,
+      "effects": [16],
       "pibump": 0,
       "rgold": 0,
       "runit": 4,
@@ -1277,7 +1277,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0,
       "rgold": 0,
       "runit": 5,
@@ -1295,7 +1295,7 @@
   },
   "lessercruelty": {
     "1": {
-      "effects": 30,
+      "effects": [30],
       "pibump": 0.0015,
       "rgold": 100,
       "runit": 0,
@@ -1305,7 +1305,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 60,
+      "effects": [60],
       "pibump": 0.0015,
       "rgold": 150,
       "runit": 0,
@@ -1315,7 +1315,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 90,
+      "effects": [90],
       "pibump": 0.0015,
       "rgold": 200,
       "runit": 0,
@@ -1325,7 +1325,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 120,
+      "effects": [120],
       "pibump": 0.0015,
       "rgold": 250,
       "runit": 0,
@@ -1335,7 +1335,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 150,
+      "effects": [150],
       "pibump": 0.0015,
       "rgold": 300,
       "runit": 0,
@@ -1353,7 +1353,7 @@
   },
   "lesserprecision": {
     "1": {
-      "effects": 25,
+      "effects": [25],
       "pibump": 0.0015,
       "rgold": 0,
       "runit": 100,
@@ -1363,7 +1363,7 @@
       "uunits": 10
     },
     "2": {
-      "effects": 50,
+      "effects": [50],
       "pibump": 0.0015,
       "rgold": 0,
       "runit": 150,
@@ -1373,7 +1373,7 @@
       "uunits": 15
     },
     "3": {
-      "effects": 75,
+      "effects": [75],
       "pibump": 0.0015,
       "rgold": 0,
       "runit": 200,
@@ -1383,7 +1383,7 @@
       "uunits": 20
     },
     "4": {
-      "effects": 100,
+      "effects": [100],
       "pibump": 0.0015,
       "rgold": 0,
       "runit": 250,
@@ -1393,7 +1393,7 @@
       "uunits": 25
     },
     "5": {
-      "effects": 125,
+      "effects": [125],
       "pibump": 0.0015,
       "rgold": 0,
       "runit": 300,
@@ -1411,7 +1411,7 @@
   },
   "limber": {
     "1": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0.002,
       "rgold": 500,
       "runit": 1,
@@ -1421,7 +1421,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 16,
+      "effects": [16],
       "pibump": 0.002,
       "rgold": 0,
       "runit": 2,
@@ -1431,7 +1431,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 24,
+      "effects": [24],
       "pibump": 0.002,
       "rgold": 0,
       "runit": 3,
@@ -1441,7 +1441,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 32,
+      "effects": [32],
       "pibump": 0.002,
       "rgold": 0,
       "runit": 4,
@@ -1451,7 +1451,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 48,
+      "effects": [48],
       "pibump": 0.002,
       "rgold": 0,
       "runit": 5,
@@ -1519,7 +1519,7 @@
   },
   "mutagenesis": {
     "1": {
-      "effects": 0.5,
+      "effects": [0.5],
       "pibump": 0,
       "rgold": 50,
       "runit": 0,
@@ -1529,7 +1529,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -1539,7 +1539,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1.5,
+      "effects": [1.5],
       "pibump": 0,
       "rgold": 200,
       "runit": 0,
@@ -1549,7 +1549,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0,
       "rgold": 400,
       "runit": 0,
@@ -1559,7 +1559,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 2.5,
+      "effects": [2.5],
       "pibump": 0,
       "rgold": 800,
       "runit": 0,
@@ -1577,7 +1577,7 @@
   },
   "mysticdispersion": {
     "1": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -1587,7 +1587,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 3,
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -1597,7 +1597,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 5,
+      "effects": [5],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -1607,7 +1607,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0,
       "rgold": 0,
       "runit": 4,
@@ -1617,7 +1617,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 12,
+      "effects": [12],
       "pibump": 0,
       "rgold": 0,
       "runit": 5,
@@ -1635,7 +1635,7 @@
   },
   "pacify": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.008,
       "rgold": 0,
       "runit": 1,
@@ -1645,7 +1645,7 @@
       "uunits": 6
     },
     "2": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0.0079,
       "rgold": 0,
       "runit": 2,
@@ -1655,7 +1655,7 @@
       "uunits": 9
     },
     "3": {
-      "effects": 30,
+      "effects": [30],
       "pibump": 0.0078,
       "rgold": 0,
       "runit": 3,
@@ -1723,7 +1723,7 @@
   },
   "perfectblock": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0.0045,
       "rgold": 10,
       "runit": 0,
@@ -1733,7 +1733,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0041,
       "rgold": 20,
       "runit": 0,
@@ -1743,7 +1743,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 3,
+      "effects": [3],
       "pibump": 0.0042,
       "rgold": 30,
       "runit": 0,
@@ -1753,7 +1753,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0.0042,
       "rgold": 40,
       "runit": 0,
@@ -1771,7 +1771,7 @@
   },
   "petrify": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.0073,
       "rgold": 0,
       "runit": 1,
@@ -1781,7 +1781,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0.0072,
       "rgold": 0,
       "runit": 2,
@@ -1791,7 +1791,7 @@
       "uunits": 9
     },
     "3": {
-      "effects": 30,
+      "effects": [30],
       "pibump": 0.0072,
       "rgold": 0,
       "runit": 3,
@@ -1809,7 +1809,7 @@
   },
   "physicalresistance": {
     "1": {
-      "effects": 40,
+      "effects": [40],
       "pibump": 0.0036,
       "rgold": 0,
       "runit": 1,
@@ -1819,7 +1819,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 80,
+      "effects": [80],
       "pibump": 0.0035,
       "rgold": 0,
       "runit": 2,
@@ -1829,7 +1829,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 120,
+      "effects": [120],
       "pibump": 0.0034,
       "rgold": 0,
       "runit": 3,
@@ -1839,7 +1839,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 160,
+      "effects": [160],
       "pibump": 0.0034,
       "rgold": 0,
       "runit": 4,
@@ -1857,7 +1857,7 @@
   },
   "pierce": {
     "1": {
-      "effects": 0.05,
+      "effects": [0.05],
       "pibump": 0.0039,
       "rgold": 0,
       "runit": 1,
@@ -1867,7 +1867,7 @@
       "uunits": 6
     },
     "2": {
-      "effects": 0.1,
+      "effects": [0.1],
       "pibump": 0.0039,
       "rgold": 0,
       "runit": 2,
@@ -1877,7 +1877,7 @@
       "uunits": 9
     },
     "3": {
-      "effects": 0.15,
+      "effects": [0.15],
       "pibump": 0.0038,
       "rgold": 0,
       "runit": 3,
@@ -1895,7 +1895,7 @@
   },
   "pitance": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -1905,7 +1905,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -1915,7 +1915,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 3,
+      "effects": [3],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -1933,7 +1933,7 @@
   },
   "precision": {
     "1": {
-      "effects": 85,
+      "effects": [85],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 1,
@@ -1943,7 +1943,7 @@
       "uunits": 10
     },
     "2": {
-      "effects": 170,
+      "effects": [170],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 2,
@@ -1953,7 +1953,7 @@
       "uunits": 15
     },
     "3": {
-      "effects": 255,
+      "effects": [255],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 3,
@@ -1963,7 +1963,7 @@
       "uunits": 20
     },
     "4": {
-      "effects": 340,
+      "effects": [340],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 4,
@@ -1973,7 +1973,7 @@
       "uunits": 25
     },
     "5": {
-      "effects": 425,
+      "effects": [425],
       "pibump": 0.0049,
       "rgold": 0,
       "runit": 5,
@@ -1991,7 +1991,7 @@
   },
   "prosperity": {
     "1": {
-      "effects": 0.4,
+      "effects": [0.4],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -2001,7 +2001,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1.2,
+      "effects": [1.2],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -2011,7 +2011,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -2029,7 +2029,7 @@
   },
   "pureskill": {
     "1": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0,
       "rgold": 50,
       "runit": 0,
@@ -2039,7 +2039,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 8,
+      "effects": [8],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -2049,7 +2049,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 16,
+      "effects": [16],
       "pibump": 0,
       "rgold": 200,
       "runit": 0,
@@ -2059,7 +2059,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 32,
+      "effects": [32],
       "pibump": 0,
       "rgold": 400,
       "runit": 0,
@@ -2069,7 +2069,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 64,
+      "effects": [64],
       "pibump": 0,
       "rgold": 800,
       "runit": 0,
@@ -2137,7 +2137,7 @@
   },
   "recovery": {
     "1": {
-      "effects": 5,
+      "effects": [5],
       "pibump": 0.0022,
       "rgold": 0,
       "runit": 1,
@@ -2147,7 +2147,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.0021,
       "rgold": 0,
       "runit": 2,
@@ -2157,7 +2157,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 15,
+      "effects": [15],
       "pibump": 0.0021,
       "rgold": 0,
       "runit": 3,
@@ -2229,7 +2229,7 @@
   },
   "salve": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0.011,
       "rgold": 0,
       "runit": 1,
@@ -2239,7 +2239,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 2,
+      "effects": [2],
       "pibump": 0.0053,
       "rgold": 0,
       "runit": 2,
@@ -2249,7 +2249,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 4,
+      "effects": [4],
       "pibump": 0.0106,
       "rgold": 0,
       "runit": 3,
@@ -2267,7 +2267,7 @@
   },
   "scouterlens": {
     "1": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 1,
@@ -2276,7 +2276,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -2285,7 +2285,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 1,
+      "effects": [1],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -2302,7 +2302,7 @@
   },
   "serumscience": {
     "1": {
-      "effects": 60,
+      "effects": [60],
       "pibump": 0,
       "rgold": 50,
       "runit": 0,
@@ -2312,7 +2312,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 120,
+      "effects": [120],
       "pibump": 0,
       "rgold": 100,
       "runit": 0,
@@ -2322,7 +2322,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 240,
+      "effects": [240],
       "pibump": 0,
       "rgold": 200,
       "runit": 0,
@@ -2332,7 +2332,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 480,
+      "effects": [480],
       "pibump": 0,
       "rgold": 400,
       "runit": 0,
@@ -2342,7 +2342,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 960,
+      "effects": [960],
       "pibump": 0,
       "rgold": 800,
       "runit": 0,
@@ -2360,7 +2360,7 @@
   },
   "standyourground": {
     "1": {
-      "effects": 17,
+      "effects": [17],
       "pibump": 0.0022,
       "rgold": 0,
       "runit": 1,
@@ -2370,7 +2370,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0.0174,
       "rgold": 0,
       "runit": 2,
@@ -2380,7 +2380,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 25,
+      "effects": [25],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
@@ -2390,7 +2390,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 33,
+      "effects": [33],
       "pibump": 0,
       "rgold": 0,
       "runit": 4,
@@ -2400,7 +2400,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 50,
+      "effects": [50],
       "pibump": 0,
       "rgold": 0,
       "runit": 4,
@@ -2418,7 +2418,7 @@
   },
   "strength": {
     "1": {
-      "effects": 6,
+      "effects": [6],
       "pibump": 0.0055,
       "rgold": 150,
       "runit": 0,
@@ -2428,7 +2428,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 9,
+      "effects": [9],
       "pibump": 0.002,
       "rgold": 250,
       "runit": 0,
@@ -2438,7 +2438,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 12,
+      "effects": [12],
       "pibump": 0.0021,
       "rgold": 350,
       "runit": 0,
@@ -2448,7 +2448,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 15,
+      "effects": [15],
       "pibump": 0.002,
       "rgold": 450,
       "runit": 0,
@@ -2458,7 +2458,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 18,
+      "effects": [18],
       "pibump": 0.002,
       "rgold": 550,
       "runit": 0,
@@ -2468,7 +2468,7 @@
       "uunits": 0
     },
     "6": {
-      "effects": 21,
+      "effects": [21],
       "pibump": 0.002,
       "rgold": 650,
       "runit": 0,
@@ -2478,7 +2478,7 @@
       "uunits": 0
     },
     "7": {
-      "effects": 24,
+      "effects": [24],
       "pibump": 0.002,
       "rgold": 800,
       "runit": 0,
@@ -2488,7 +2488,7 @@
       "uunits": 0
     },
     "8": {
-      "effects": 27,
+      "effects": [27],
       "pibump": 0.002,
       "rgold": 900,
       "runit": 0,
@@ -2498,7 +2498,7 @@
       "uunits": 0
     },
     "9": {
-      "effects": 33,
+      "effects": [33],
       "pibump": 0.002,
       "rgold": 1000,
       "runit": 0,
@@ -2516,7 +2516,7 @@
   },
   "stupefy": {
     "1": {
-      "effects": 0.1,
+      "effects": [0.1],
       "pibump": 0.0077,
       "rgold": 0,
       "runit": 1,
@@ -2526,7 +2526,7 @@
       "uunits": 6
     },
     "2": {
-      "effects": 0,
+      "effects": [0.3],
       "pibump": 0.0153,
       "rgold": 0,
       "runit": 2,
@@ -2536,7 +2536,7 @@
       "uunits": 9
     },
     "3": {
-      "effects": 0,
+      "effects": [0.5],
       "pibump": 0.015,
       "rgold": 0,
       "runit": 3,
@@ -2554,7 +2554,7 @@
   },
   "suture": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0.0099,
       "rgold": 0,
       "runit": 2,
@@ -2564,7 +2564,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 15,
+      "effects": [15],
       "pibump": 0.0049,
       "rgold": 0,
       "runit": 4,
@@ -2574,7 +2574,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0.005,
       "rgold": 0,
       "runit": 6,
@@ -2674,7 +2674,7 @@
   },
   "vitality": {
     "1": {
-      "effects": 24,
+      "effects": [24],
       "pibump": 0.0017,
       "rgold": 150,
       "runit": 0,
@@ -2684,7 +2684,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 36,
+      "effects": [36],
       "pibump": 0.0017,
       "rgold": 250,
       "runit": 0,
@@ -2694,7 +2694,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 48,
+      "effects": [48],
       "pibump": 0.0017,
       "rgold": 350,
       "runit": 0,
@@ -2704,7 +2704,7 @@
       "uunits": 0
     },
     "4": {
-      "effects": 60,
+      "effects": [60],
       "pibump": 0.0017,
       "rgold": 450,
       "runit": 0,
@@ -2714,7 +2714,7 @@
       "uunits": 0
     },
     "5": {
-      "effects": 72,
+      "effects": [72],
       "pibump": 0.0017,
       "rgold": 550,
       "runit": 0,
@@ -2724,7 +2724,7 @@
       "uunits": 0
     },
     "6": {
-      "effects": 84,
+      "effects": [84],
       "pibump": 0.0017,
       "rgold": 650,
       "runit": 0,
@@ -2734,7 +2734,7 @@
       "uunits": 0
     },
     "7": {
-      "effects": 96,
+      "effects": [96],
       "pibump": 0.0017,
       "rgold": 800,
       "runit": 0,
@@ -2744,7 +2744,7 @@
       "uunits": 0
     },
     "8": {
-      "effects": 120,
+      "effects": [120],
       "pibump": 0.0017,
       "rgold": 900,
       "runit": 0,
@@ -2754,7 +2754,7 @@
       "uunits": 0
     },
     "9": {
-      "effects": 156,
+      "effects": [156],
       "pibump": 0.0017,
       "rgold": 1000,
       "runit": 0,
@@ -2822,7 +2822,7 @@
   },
   "wisdom": {
     "1": {
-      "effects": 10,
+      "effects": [10],
       "pibump": 0,
       "rgold": 500,
       "runit": 0,
@@ -2832,7 +2832,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": 20,
+      "effects": [20],
       "pibump": 0,
       "rgold": 1000,
       "runit": 0,
@@ -2842,7 +2842,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": 30,
+      "effects": [30],
       "pibump": 0,
       "rgold": 1500,
       "runit": 0,
