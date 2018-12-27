@@ -1,69 +1,69 @@
 {
   "assassin": {
-    "1": {
+    1: {
       "effects": [
         20,
         12
       ],
       "pibump": 0.012,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": [
         30,
         14
       ],
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": [
         40,
         16
       ],
       "pibump": 0.0045,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": [
         50,
         18
       ],
       "pibump": 0.0045,
-      "rgold": null,
+      "rgold": 0,
       "runit": 8,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": [
         60,
         20
       ],
       "pibump": 0.0045,
-      "rgold": null,
+      "rgold": 0,
       "runit": 10,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:baneofhellskitchen:355810788704780299>",
@@ -76,45 +76,45 @@
     "text": "Against enemies below 18% Health your Champions gain {}% Attack and decrease enemies' defense Ability Accuracy by {}%.  If enemies start the fight below 18% your Champions also gain 30% offensive Ability Accuracy."
   },
   "blockproficiency": {
-    "1": {
+    1: {
       "effects": 200,
       "pibump": 0.0045,
       "rgold": 10,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 400,
       "pibump": 0.0042,
       "rgold": 20,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 600,
       "pibump": 0.0042,
       "rgold": 30,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 800,
       "pibump": 0.0042,
       "rgold": 40,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:teammates:344221218779430922> ",
@@ -124,35 +124,35 @@
     "text": "Increase the Block Proficiency of your Champions by {}."
   },
   "coagulate": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 20,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 30,
       "pibump": 0.0049,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:coagulate:345010036436631552>",
@@ -162,55 +162,55 @@
     "text": "Your Champions take {}% less damage from any Bleed effect they suffer."
   },
   "collartech": {
-    "1": {
+    1: {
       "effects": 4,
       "pibump": 0,
       "rgold": 50,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 6,
       "pibump": 0,
       "rgold": 100,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 9,
       "pibump": 0,
       "rgold": 200,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 13,
       "pibump": 0,
       "rgold": 400,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 18,
       "pibump": 0,
       "rgold": 800,
       "runit": 5,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:engineering:344902813576331275>",
@@ -220,55 +220,55 @@
     "text": "Retrofit Tech Champions with a field that inhibits enemy Power Gain by {}%."
   },
   "cosmicawareness": {
-    "1": {
+    1: {
       "effects": 2.5,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 5,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 10,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 20,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 40,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 80,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:cosmicsupremacy:344221218209005570>",
@@ -278,35 +278,35 @@
     "text": "Imbue Cosmic Champions with perception rivalling Heimdall, reducing enemy Armor Up effectiveness by {}%"
   },
   "courage": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0.0226,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 15,
       "pibump": 0,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 20,
       "pibump": 0,
       "rgold": 300,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:courage:368111157325594625>",
@@ -316,54 +316,54 @@
     "text": "Increase the Attack of all Champions by {}% while they're below 50% Health."
   },
   "cruelty": {
-    "1": {
+    1: {
       "effects": 95,
       "pibump": 0.0097,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 675
     },
-    "2": {
+    2: {
       "effects": 190,
       "pibump": 0.0096,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": 285,
       "pibump": 0.0095,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 20
     },
-    "4": {
+    4: {
       "effects": 380,
       "pibump": 0.0094,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 25
     },
-    "5": {
+    5: {
       "effects": 475,
       "pibump": 0.0093,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -374,68 +374,68 @@
     "text": "Increase the Critical Damage of all Champions by {}."
   },
   "deepwounds": {
-    "1": {
+    1: {
       "effects": [
         0.5,
         0.2
       ],
       "pibump": 0.0175,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 10
     },
-    "2": {
+    2: {
       "effects": [
         1,
         0.4
       ],
       "pibump": 0.0018,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": [
         1.5,
         0.6
       ],
       "pibump": 0.0013,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 20
     },
-    "4": {
+    4: {
       "effects": [
         2,
         0.8
       ],
       "pibump": 0.0046,
-      "rgold": null,
+      "rgold": 0,
       "runit": 8,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 25
     },
-    "5": {
+    5: {
       "effects": [
         2.5,
         1
       ],
       "pibump": 0.0046,
-      "rgold": null,
+      "rgold": 0,
       "runit": 10,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 30
     },
@@ -450,34 +450,34 @@
     "text": "Bleed your Champions inflict lasts {} seconds longer. If they have more HP than their target, their Bleed instantly strikes down an additional {}% max Health from enemies."
   },
   "despair": {
-    "1": {
+    1: {
       "effects": 5,
       "pibump": 0.0092,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 10
     },
-    "2": {
+    2: {
       "effects": 10,
       "pibump": 0.0045,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 20
     },
-    "3": {
+    3: {
       "effects": 15,
       "pibump": 0.0071,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -488,35 +488,35 @@
     "text": "Debuffs applied to enemies reduce their healing and Regeneration by {}% each"
   },
   "detectcosmic": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:cosmicsupremacy:344221218209005570>",
@@ -526,73 +526,73 @@
     "text": "Reveal the hidden Class of Cosmic enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "detectmutant": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:mutant:344221218276114433> ",
-    "modifier": null,
+    "modifier": 0,
     "proper": "Detect Mutant",
-    "ranks": null,
+    "ranks": 0,
     "text": "Reveal the hidden Class of Mutant enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "detectmystic": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:mysticdispersion:345008510330732565>",
@@ -602,73 +602,73 @@
     "text": "Reveal the hidden Class of Mystic enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "detectscience": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:serumscience:345008510276206593>",
-    "modifier": null,
+    "modifier": 0,
     "proper": "Detect Science",
     "ranks": 3,
     "text": "Reveal the hidden Class of Science enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "detectskill": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:skilldomination:344264765146923028>",
@@ -678,35 +678,35 @@
     "text": "Reveal the hidden Class of Skill enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "detecttech": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:engineering:344902813576331275>",
@@ -716,34 +716,34 @@
     "text": "Reveal the hidden Class of Tech enemies up to {} steps on a Quest Map. This information is shared with allies."
   },
   "dexterity": {
-    "1": {
+    1: {
       "effects": 250,
       "pibump": 0.0113,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "2": {
+    2: {
       "effects": 600,
       "pibump": 0.0019,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 15,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 950,
       "pibump": 0.0019,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
     "category": "Proficiencies",
@@ -754,47 +754,47 @@
     "text": "Evade all attacks while Dodging back. Dodging an attack in this way grants {}% Critical Rate for your next attack."
   },
   "doubleedge": {
-    "1": {
+    1: {
       "effects": [
         10,
         10,
         8
       ],
       "pibump": 0.0051,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": [
         20,
         15,
         12
       ],
       "pibump": 0.0228,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": [
         30,
         20,
         16
       ],
       "pibump": 0.0051,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:midnightpursuit:519238795988566017>",
@@ -808,45 +808,45 @@
     "text": "Increase the Attack of all Champions by {}%, but up to {}% Health is lost by Bleeding over {} seconds."
   },
   "energyresistance": {
-    "1": {
+    1: {
       "effects": 40,
       "pibump": 0.0014,
       "rgold": 10,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 80,
       "pibump": 0.0014,
       "rgold": 20,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 120,
       "pibump": 0.0014,
       "rgold": 30,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 160,
       "pibump": 0.0034,
       "rgold": 40,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:energyresist:345009435472560129>",
@@ -856,45 +856,45 @@
     "text": "Increase any Health your Champions recover during a fight by {}%"
   },
   "enhancedfury": {
-    "1": {
+    1: {
       "effects": 2,
       "pibump": 0.0021,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 4,
       "pibump": 0.0021,
       "rgold": 150,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 6,
       "pibump": 0.0021,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 8,
       "pibump": 0.0021,
       "rgold": 250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:extendedfury:524638475845369888>",
@@ -904,45 +904,45 @@
     "text": "Increase the effectiveness of Fury by {}%."
   },
   "extendedfury": {
-    "1": {
+    1: {
       "effects": 0.2,
       "pibump": 0.0021,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 0.4,
       "pibump": 0.0021,
       "rgold": 150,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 0.6,
       "pibump": 0.0021,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 0.8,
       "pibump": 0.0021,
-      "rgold": null,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
+      "rgold": 0,
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
       "ustony": 250,
-      "uunits": null
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:extendedfury:524638475845369888>",
@@ -952,43 +952,43 @@
     "text": "Increase the duration of Fury by {} second(s)."
   },
   "glasscanon": {
-    "1": {
+    1: {
       "effects": [
         2.4,
         2.4
       ],
       "pibump": 0.0058,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
+      "ucarbs": 0,
+      "uclass": 0,
       "ustony": 3,
-      "uunits": null
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": [
         4.8,
         4.8
       ],
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": [
         7.2,
         7.2
       ],
       "pibump": 0.0046,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
     "category": "Offense",
@@ -1002,95 +1002,95 @@
     "text": "Increase the Attack of all Champions by {}%, but reduce their maximum Health by {}%."
   },
   "greaterstrength": {
-    "1": {
+    1: {
       "effects": 1.6,
       "pibump": 0.0056,
       "rgold": 500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 2,
       "pibump": 0.0016,
       "rgold": 750,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 2.4,
       "pibump": 0.0013,
       "rgold": 1000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 2.8,
       "pibump": 0.0015,
       "rgold": 1250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 3.6,
       "pibump": 0.0029,
       "rgold": 1500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "6": {
+    6: {
       "effects": 4.4,
       "pibump": 0.003,
       "rgold": 1750,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "7": {
+    7: {
       "effects": 5.2,
       "pibump": 0.0029,
       "rgold": 2000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "8": {
+    8: {
       "effects": 6.4,
       "pibump": 0.0044,
       "rgold": 2500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "9": {
+    9: {
       "effects": 8,
       "pibump": 0.0057,
       "rgold": 3000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:nemesis:344221218825830400>",
@@ -1100,95 +1100,95 @@
     "text": "Increase the Attack of all Champions by {}%."
   },
   "greatervitality": {
-    "1": {
+    1: {
       "effects": 1.6,
       "pibump": 0.0063,
       "rgold": 500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 2,
       "pibump": 0.0015,
       "rgold": 750,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 2.4,
       "pibump": 0.0014,
       "rgold": 1000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 2.8,
       "pibump": 0.0014,
       "rgold": 1250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 3.6,
       "pibump": 0.0028,
       "rgold": 1500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "6": {
+    6: {
       "effects": 4.4,
       "pibump": 0.0028,
       "rgold": 1750,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "7": {
+    7: {
       "effects": 5.2,
       "pibump": 0.0027,
       "rgold": 2000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "8": {
+    8: {
       "effects": 6.4,
       "pibump": 0.0042,
       "rgold": 2500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "9": {
+    9: {
       "effects": 8,
       "pibump": 0.0055,
       "rgold": 3000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:friendshp:344221218708389888>",
@@ -1198,35 +1198,35 @@
     "text": "Increase the Health of all Champions by {}%."
   },
   "inequity": {
-    "1": {
+    1: {
       "effects": 2,
       "pibump": 0.0064,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 4,
       "pibump": 0.0065,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 6,
       "pibump": 0.0064,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:friendar:344221218477703188> ",
@@ -1236,55 +1236,55 @@
     "text": "Decrease opponents' Attack by {}% for each detrimental effect they sufer, up to a maximum of 36% reduction."
   },
   "intelligence": {
-    "1": {
+    1: {
       "effects": 4,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
+      "ucarbs": 0,
+      "uclass": 0,
       "ustony": 1,
-      "uunits": null
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 8,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 12,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 16,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 20,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:wisdom:524644067028762625>",
@@ -1294,55 +1294,55 @@
     "text": "Increases all Summoner XP rewards by {}%."
   },
   "lessercruelty": {
-    "1": {
+    1: {
       "effects": 30,
       "pibump": 0.0015,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 60,
       "pibump": 0.0015,
       "rgold": 150,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 90,
       "pibump": 0.0015,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 120,
       "pibump": 0.0015,
       "rgold": 250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 150,
       "pibump": 0.0015,
       "rgold": 300,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:rivals:344221218397880332>",
@@ -1352,54 +1352,54 @@
     "text": "Increase the Critical Damage of all Champions by {}."
   },
   "lesserprecision": {
-    "1": {
+    1: {
       "effects": 25,
       "pibump": 0.0015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 100,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 10
     },
-    "2": {
+    2: {
       "effects": 50,
       "pibump": 0.0015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 150,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": 75,
       "pibump": 0.0015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 200,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 20
     },
-    "4": {
+    4: {
       "effects": 100,
       "pibump": 0.0015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 250,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 25
     },
-    "5": {
+    5: {
       "effects": 125,
       "pibump": 0.0015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 300,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -1410,55 +1410,55 @@
     "text": "Increase the Critical Rate of all Champions by {}."
   },
   "limber": {
-    "1": {
+    1: {
       "effects": 8,
       "pibump": 0.002,
       "rgold": 500,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 16,
       "pibump": 0.002,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 24,
       "pibump": 0.002,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 32,
       "pibump": 0.002,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 48,
       "pibump": 0.002,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:avengers:344221218678767616>",
@@ -1468,43 +1468,43 @@
     "text": "Rigorous mental and physical training reduces the duration of enemy Stun effects by {}%."
   },
   "liquidcourage": {
-    "1": {
+    1: {
       "effects": [
         10,
         0.6
       ],
       "pibump": 0.0346,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
-    "2": {
+    2: {
       "effects": [
         20,
         0.6
       ],
       "pibump": 0.0365,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
-    "3": {
+    3: {
       "effects": [
         30,
         0.6
       ],
       "pibump": 0.035,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -1518,55 +1518,55 @@
     "text": "Increase the Attack of all Champions by {}%, but they suffer an eternal Poison that drains {}% Health each second."
   },
   "mutagenesis": {
-    "1": {
+    1: {
       "effects": 0.5,
       "pibump": 0,
       "rgold": 50,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1.5,
       "pibump": 0,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 2,
       "pibump": 0,
       "rgold": 400,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 2.5,
       "pibump": 0,
       "rgold": 800,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 80,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:mutant:344221218276114433> ",
@@ -1576,55 +1576,55 @@
     "text": "Rapid mutagenesis closes Bleed wounds in your Mutant Champions {} second(s) faster than non-Mutants."
   },
   "mysticdispersion": {
-    "1": {
+    1: {
       "effects": 2,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 3,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 5,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 8,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 12,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 80,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:mysticdispersion:345008510330732565>",
@@ -1634,35 +1634,35 @@
     "text": "Your Mystic Champions accrue {}% Power each time an enemy beneficial effect expires."
   },
   "pacify": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0.008,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 6,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 20,
       "pibump": 0.0079,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 9
     },
-    "3": {
+    3: {
       "effects": 30,
       "pibump": 0.0078,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 12,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:petrify:524644083696795675>",
@@ -1672,43 +1672,43 @@
     "text": "When you Champions inflict Stun, they also reduce enemy ability triggers by {}% for the duration of the Stun."
   },
   "parry": {
-    "1": {
+    1: {
       "effects": [
         15,
         1.5
       ],
       "pibump": 0.0115,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "2": {
+    2: {
       "effects": [
         20,
         1.7
       ],
-      "pibump": null,
-      "rgold": null,
+      "pibump": 0,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 0.0035,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": [
         25,
         2
       ],
       "pibump": 0.0035,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
     "category": "Proficiencies",
@@ -1722,45 +1722,45 @@
     "text": "Timing a Block right when attacked reduces damage by {}%. If contact is made, Stun attackers for up to {} second(s). Stun duration increases with Perfect Block Chance."
   },
   "perfectblock": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0.0045,
       "rgold": 10,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 2,
       "pibump": 0.0041,
       "rgold": 20,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 3,
       "pibump": 0.0042,
       "rgold": 30,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 4,
       "pibump": 0.0042,
       "rgold": 40,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:teammates:344221218779430922> ",
@@ -1770,35 +1770,35 @@
     "text": "While Blocking, your Champions have a {}% chance to perform a Perfect Block."
   },
   "petrify": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0.0073,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 6,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 20,
       "pibump": 0.0072,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 9
     },
-    "3": {
+    3: {
       "effects": 30,
       "pibump": 0.0072,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
+      "ucarbs": 0,
       "uclass": 12,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:petrify:524644083696795675>",
@@ -1808,45 +1808,45 @@
     "text": "When your Champions inflict Stun, they also reduce enemy Health and Power gains by up to {}% for the duration of the Stun."
   },
   "physicalresistance": {
-    "1": {
+    1: {
       "effects": 40,
       "pibump": 0.0036,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 80,
       "pibump": 0.0035,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 120,
       "pibump": 0.0034,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 160,
       "pibump": 0.0034,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:pysicalresist:345002186754752512>",
@@ -1856,34 +1856,34 @@
     "text": "Increase Resistance against Physical damage by {} for all Champions."
   },
   "pierce": {
-    "1": {
+    1: {
       "effects": 0.05,
       "pibump": 0.0039,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 6
     },
-    "2": {
+    2: {
       "effects": 0.1,
       "pibump": 0.0039,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 9
     },
-    "3": {
+    3: {
       "effects": 0.15,
       "pibump": 0.0038,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 12
     },
     "category": "Offense",
@@ -1894,35 +1894,35 @@
     "text": "Critical Hits from your Champions ignore an additional {}% of Armor."
   },
   "pitance": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 2,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 3,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:competition:355811218520539136>",
@@ -1932,54 +1932,54 @@
     "text": "Earn +{} Gold with all Gold rewards."
   },
   "precision": {
-    "1": {
+    1: {
       "effects": 85,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
+      "ucarbs": 0,
+      "uclass": 0,
       "ustony": 5,
       "uunits": 10
     },
-    "2": {
+    2: {
       "effects": 170,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": 255,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 20
     },
-    "4": {
+    4: {
       "effects": 340,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 25
     },
-    "5": {
+    5: {
       "effects": 425,
       "pibump": 0.0049,
-      "rgold": null,
+      "rgold": 0,
       "runit": 5,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -1990,35 +1990,35 @@
     "text": "Increase the Critical Rate of all Champions by {}."
   },
   "prosperity": {
-    "1": {
+    1: {
       "effects": 0.4,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
       "ustony": 2,
-      "uunits": null
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1.2,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 2,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:competition:355811218520539136>",
@@ -2028,55 +2028,55 @@
     "text": "Increase all Gold rewards by {}%."
   },
   "pureskill": {
-    "1": {
+    1: {
       "effects": 4,
       "pibump": 0,
       "rgold": 50,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 8,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 16,
       "pibump": 0,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 32,
       "pibump": 0,
       "rgold": 400,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 64,
       "pibump": 0,
       "rgold": 800,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 80,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:skilldomination:344264765146923028>",
@@ -2086,43 +2086,43 @@
     "text": "With extensive field training, Skill Champions ignore an additional {} enemy Armor with Critical Hits."
   },
   "recoil": {
-    "1": {
+    1: {
       "effects": [
         15,
         5
       ],
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
-    "2": {
+    2: {
       "effects": [
         22.5,
         7.5
       ],
       "pibump": 0.0051,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
-    "3": {
+    3: {
       "effects": [
         30,
         10
       ],
       "pibump": 0.0052,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 30
     },
     "category": "Offense",
@@ -2136,35 +2136,35 @@
     "text": "Increase Special Attack damage for all Champions by {}%, but they sacrifice {}% Health for each activation."
   },
   "recovery": {
-    "1": {
+    1: {
       "effects": 5,
       "pibump": 0.0022,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 10,
       "pibump": 0.0021,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 15,
       "pibump": 0.0021,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:recovery:345011480422383619>",
@@ -2174,47 +2174,47 @@
     "text": "Increase any Health your Champions recover during a fight by {}%"
   },
   "resonate": {
-    "1": {
+    1: {
       "effects": [
         16,
         7,
         7
       ],
       "pibump": 0.0062,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": [
         17,
         10,
         7
       ],
       "pibump": 0.0029,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": [
         18,
         13,
         7
       ],
       "pibump": 0.0029,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:resonate:524637109559099433>",
@@ -2228,35 +2228,35 @@
     "text": "Contact & Physical Attacks have a {} chance to Weaken the opponent, reducing their Attack by {}% for {} seconds."
   },
   "salve": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0.011,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 2,
       "pibump": 0.0053,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 4,
       "pibump": 0.0106,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:salve:345011513498664960>",
@@ -2266,32 +2266,32 @@
     "text": "Your Champions recover {} Health twice per second for 60 seconds. No effect on robots."
   },
   "scouterlens": {
-    "1": {
+    1: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
       "ucarbs": 1,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 1,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
       "ucarbs": 1,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:scouterlens:524655284350877696>",
@@ -2301,55 +2301,55 @@
     "text": "Reveal the hidden Hero Rating and Star Rating of enemies up to {} steps away on a Quest Map. This information is shared with allies."
   },
   "serumscience": {
-    "1": {
+    1: {
       "effects": 60,
       "pibump": 0,
       "rgold": 50,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 5,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 120,
       "pibump": 0,
       "rgold": 100,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 10,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 240,
       "pibump": 0,
       "rgold": 200,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 20,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 480,
       "pibump": 0,
       "rgold": 400,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 40,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 960,
       "pibump": 0,
       "rgold": 800,
-      "runit": null,
-      "ucarbs": null,
+      "runit": 0,
+      "ucarbs": 0,
       "uclass": 80,
-      "ustony": null,
-      "uunits": null
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:serumscience:345008510276206593>",
@@ -2359,55 +2359,55 @@
     "text": "Give Science Champions a Serum of {} Energy Resistance."
   },
   "standyourground": {
-    "1": {
+    1: {
       "effects": 17,
       "pibump": 0.0022,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 20,
       "pibump": 0.0174,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 25,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 33,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 50,
       "pibump": 0,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:friendar:344221218477703188> ",
@@ -2417,95 +2417,95 @@
     "text": "While Blocking, your Champions have a {}% chance to resist a Block Break."
   },
   "strength": {
-    "1": {
+    1: {
       "effects": 6,
       "pibump": 0.0055,
       "rgold": 150,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 9,
       "pibump": 0.002,
       "rgold": 250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 12,
       "pibump": 0.0021,
       "rgold": 350,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 15,
       "pibump": 0.002,
       "rgold": 450,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 18,
       "pibump": 0.002,
       "rgold": 550,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "6": {
+    6: {
       "effects": 21,
       "pibump": 0.002,
       "rgold": 650,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "7": {
+    7: {
       "effects": 24,
       "pibump": 0.002,
       "rgold": 800,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "8": {
+    8: {
       "effects": 27,
       "pibump": 0.002,
       "rgold": 900,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "9": {
+    9: {
       "effects": 33,
       "pibump": 0.002,
       "rgold": 1000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Offense",
     "icon": "<:nemesis:344221218825830400>",
@@ -2515,34 +2515,34 @@
     "text": "Increase the Attack of all Champions by {}."
   },
   "stupefy": {
-    "1": {
+    1: {
       "effects": 0.1,
       "pibump": 0.0077,
-      "rgold": null,
+      "rgold": 0,
       "runit": 1,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 6
     },
-    "2": {
-      "effects": null,
+    2: {
+      "effects": 0,
       "pibump": 0.0153,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 9
     },
-    "3": {
-      "effects": null,
+    3: {
+      "effects": 0,
       "pibump": 0.015,
-      "rgold": null,
+      "rgold": 0,
       "runit": 3,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
       "uunits": 12
     },
     "category": "Proficiencies",
@@ -2553,35 +2553,35 @@
     "text": "When your champions inflict Stun, it lasts for {} additional second(s)."
   },
   "suture": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0.0099,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 15,
       "pibump": 0.0049,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 20,
       "pibump": 0.005,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:coagulate:345010036436631552>",
@@ -2591,73 +2591,73 @@
     "text": "Reduce the duration of enemy Bleed effects by {}%."
   },
   "unfazed": {
-    "1": {
+    1: {
       "effects": [
         17,
         150,
         1
       ],
       "pibump": 0.0142,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 10
     },
-    "2": {
+    2: {
       "effects": [
         22,
         225,
         1
       ],
       "pibump": 0.0042,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 15
     },
-    "3": {
+    3: {
       "effects": [
         30,
         300,
         1
       ],
       "pibump": 0.0041,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 20
     },
-    "4": {
+    4: {
       "effects": [
         40,
         375,
         1
       ],
       "pibump": 0.0042,
-      "rgold": null,
+      "rgold": 0,
       "runit": 8,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 25
     },
-    "5": {
+    5: {
       "effects": [
         55,
         450,
         1
       ],
       "pibump": 0.0041,
-      "rgold": null,
+      "rgold": 0,
       "runit": 10,
       "ucarbs": 1,
-      "uclass": null,
+      "uclass": 0,
       "ustony": 2,
       "uunits": 30
     },
@@ -2673,95 +2673,95 @@
     "text": "When an enemy Evades, your Champions have a {}% chance to stack an additional {} Critical Damage for their next Critical hit and become Unstoppable for {} seconds"
   },
   "vitality": {
-    "1": {
+    1: {
       "effects": 24,
       "pibump": 0.0017,
       "rgold": 150,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 36,
       "pibump": 0.0017,
       "rgold": 250,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 48,
       "pibump": 0.0017,
       "rgold": 350,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "4": {
+    4: {
       "effects": 60,
       "pibump": 0.0017,
       "rgold": 450,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "5": {
+    5: {
       "effects": 72,
       "pibump": 0.0017,
       "rgold": 550,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "6": {
+    6: {
       "effects": 84,
       "pibump": 0.0017,
       "rgold": 650,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "7": {
+    7: {
       "effects": 96,
       "pibump": 0.0017,
       "rgold": 800,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "8": {
+    8: {
       "effects": 120,
       "pibump": 0.0017,
       "rgold": 900,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "9": {
+    9: {
       "effects": 156,
       "pibump": 0.0017,
       "rgold": 1000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:vitality:345009436022276116>",
@@ -2771,44 +2771,44 @@
     "text": "Increase the Health of all Champions by {}."
   },
   "willpower": {
-    "1": {
+    1: {
       "effects": [
         0.5,
         65
       ],
       "pibump": 0.0037,
-      "rgold": null,
+      "rgold": 0,
       "runit": 2,
       "ucarbs": 2,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": [
         0.6,
         100
       ],
       "pibump": 0.0034,
-      "rgold": null,
+      "rgold": 0,
       "runit": 4,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": [
         0.7,
         135
       ],
       "pibump": 0.0035,
-      "rgold": null,
+      "rgold": 0,
       "runit": 6,
       "ucarbs": 1,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Defense",
     "icon": "<:willpower:345002106345881610>",
@@ -2821,35 +2821,35 @@
     "text": "For each new type of detrimental effect your champions suffer, they regenerate {}% Health per second and gain +{} Armor until that effect expires. No effect on robots."
   },
   "wisdom": {
-    "1": {
+    1: {
       "effects": 10,
       "pibump": 0,
       "rgold": 500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "2": {
+    2: {
       "effects": 20,
       "pibump": 0,
       "rgold": 1000,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
-    "3": {
+    3: {
       "effects": 30,
       "pibump": 0,
       "rgold": 1500,
-      "runit": null,
-      "ucarbs": null,
-      "uclass": null,
-      "ustony": null,
-      "uunits": null
+      "runit": 0,
+      "ucarbs": 0,
+      "uclass": 0,
+      "ustony": 0,
+      "uunits": 0
     },
     "category": "Proficiencies",
     "icon": "<:wisdom:524644067028762625>",
