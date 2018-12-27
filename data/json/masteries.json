@@ -178,7 +178,7 @@
       "rgold": 100,
       "runit": 2,
       "ucarbs": 0,
-      "uclass": 0,
+      "uclass": 10,
       "ustony": 0,
       "uunits": 0
     },
@@ -188,7 +188,7 @@
       "rgold": 200,
       "runit": 3,
       "ucarbs": 0,
-      "uclass": 0,
+      "uclass": 20,
       "ustony": 0,
       "uunits": 0
     },
@@ -198,7 +198,7 @@
       "rgold": 400,
       "runit": 4,
       "ucarbs": 0,
-      "uclass": 0,
+      "uclass": 40,
       "ustony": 0,
       "uunits": 0
     },
@@ -208,7 +208,7 @@
       "rgold": 800,
       "runit": 5,
       "ucarbs": 0,
-      "uclass": 0,
+      "uclass": 80,
       "ustony": 0,
       "uunits": 0
     },
@@ -732,9 +732,9 @@
       "rgold": 0,
       "runit": 2,
       "ucarbs": 0,
-      "uclass": 15,
+      "uclass": 0,
       "ustony": 0,
-      "uunits": 0
+      "uunits": 15
     },
     "3": {
       "effects": 950,
@@ -1640,9 +1640,9 @@
       "rgold": 0,
       "runit": 1,
       "ucarbs": 0,
-      "uclass": 6,
+      "uclass": 0,
       "ustony": 0,
-      "uunits": 0
+      "uunits": 6
     },
     "2": {
       "effects": 20,
@@ -1660,9 +1660,9 @@
       "rgold": 0,
       "runit": 3,
       "ucarbs": 0,
-      "uclass": 12,
+      "uclass": 0,
       "ustony": 0,
-      "uunits": 0
+      "uunits": 12
     },
     "category": "Proficiencies",
     "icon": "<:petrify:524644083696795675>",
