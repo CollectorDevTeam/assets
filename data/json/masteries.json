@@ -2272,6 +2272,7 @@
       "rgold": 0,
       "runit": 1,
       "ucarbs": 1,
+      "uclass":0,
       "ustony": 0,
       "uunits": 0
     },
@@ -2281,6 +2282,7 @@
       "rgold": 0,
       "runit": 2,
       "ucarbs": 1,
+      "uclass":0,
       "ustony": 0,
       "uunits": 0
     },
@@ -2290,6 +2292,7 @@
       "rgold": 0,
       "runit": 3,
       "ucarbs": 1,
+      "uclass":0,
       "ustony": 0,
       "uunits": 0
     },
