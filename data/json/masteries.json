@@ -1857,7 +1857,7 @@
   },
   "pierce": {
     "1": {
-      "effects": [0.05],
+      "effects": [5],
       "pibump": 0.0039,
       "rgold": 0,
       "runit": 1,
@@ -1867,7 +1867,7 @@
       "uunits": 6
     },
     "2": {
-      "effects": [0.1],
+      "effects": [10],
       "pibump": 0.0039,
       "rgold": 0,
       "runit": 2,
@@ -1877,7 +1877,7 @@
       "uunits": 9
     },
     "3": {
-      "effects": [0.15],
+      "effects": [15],
       "pibump": 0.0038,
       "rgold": 0,
       "runit": 3,
