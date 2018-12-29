@@ -2083,7 +2083,7 @@
     "modifier": 0.1,
     "proper": "Pure Skill",
     "ranks": 5,
-    "text": "With extensive field training, Skill Champions ignore an additional {0} enemy Armor with Critical Hits."
+    "text": "With extensive field training, Skill Champions ignore an additional {0}% enemy Armor with Critical Hits."
   },
   "recoil": {
     "1": {
