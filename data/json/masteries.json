@@ -2277,7 +2277,7 @@
       "uunits": 0
     },
     "2": {
-      "effects": [1],
+      "effects": [2],
       "pibump": 0,
       "rgold": 0,
       "runit": 2,
@@ -2287,7 +2287,7 @@
       "uunits": 0
     },
     "3": {
-      "effects": [1],
+      "effects": [3],
       "pibump": 0,
       "rgold": 0,
       "runit": 3,
