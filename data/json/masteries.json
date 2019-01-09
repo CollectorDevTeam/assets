@@ -750,7 +750,7 @@
     "icon": "<:dexterity:524656565702230031>",
     "modifier": 1,
     "proper": "Dexterity",
-    "ranks": 1,
+    "ranks": 3,
     "text": "Evade all attacks while Dodging back. Dodging an attack in this way grants {0}% Critical Rate for your next attack."
   },
   "doubleedge": {
