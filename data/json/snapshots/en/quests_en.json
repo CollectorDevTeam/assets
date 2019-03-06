@@ -6,13 +6,18 @@
       "quests",
       "client"
     ],
-    "hash": "70784c21212f51835ac097b628c7ef2cde0bc9ad",
-    "ts": 1534453486,
-    "string_count": 309,
+    "hash": "f9c79949da5f1ad8b1f3548ca9726c9fc9616cd0",
+    "ts": 1549575789,
+    "string_count": 321,
     "post_processed": true,
-    "versionLock": "20.1"
+    "versionLock": "22.0"
   },
   "strings": [
+    {
+      "k": "ID_MILESTONES_COMPLETE_MILESTONES_TO_PROGRESS",
+      "v": "Complete previous Milestone to progress",
+      "vn": 22
+    },
     {
       "k": "ID_UI_ACTIVE_BUFFS_SHORT_TITLE",
       "v": "ACTIVE BUFFS",
@@ -168,6 +173,11 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_CAMPAIGN_PROGRESSION_TOAST_DESC",
+      "v": "{0} ({1})",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_CHAPTER_COMPLETION_REWARDS",
       "v": "CHAPTER COMPLETION REWARDS"
     },
@@ -283,6 +293,51 @@
       "k": "ID_UI_MASTERY_REWARDS_DESC",
       "v": "Rewarded at [299AC3FF]100%[-] map exploration",
       "vn": 13
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_ACCOUNT_UNLOCKS",
+      "v": "GAIN ACCESS TO",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_COMPLETED",
+      "v": "COMPLETED",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_DETAIL_POPUP_DESC",
+      "v": "Complete Story Milestones to unlock rewards and permanent account upgrades.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_MILESTONES_TITLE",
+      "v": "STORY MILESTONES",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_MILESTONE_COMPLETED",
+      "v": "Milestone Completed!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_REWARDS_STD_DESC",
+      "v": "Your account has been permanently granted these upgrades",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_REWARDS_TOO_MANY",
+      "v": "And more! Check your mail messages for info",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONES_STORY_TUTORIAL_DESC",
+      "v": "As you progress through the Story Quests, you will reach milestones that can upgrade parts of your account! These upgrades range from upgrading Crystal rewards, to unlocking an exclusive difficulty.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_MILESTONE_PROGRESS",
+      "v": "MILESTONE PROGRESS",
+      "vn": 22
     },
     {
       "k": "ID_UI_OWNED_NO_FORMAT",
@@ -952,6 +1007,11 @@
       "k": "ID_UI_RANDOM_BUFFS_TOOLTIP",
       "v": "Enemy buffs are completely randomized in this event only!",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_RESTRICTIONS_EXPAND_INFO",
+      "v": "Expand panel for more information",
+      "vn": 22
     },
     {
       "k": "ID_UI_RESTRICTIONS_FORMATTER_DISCLUDE",

@@ -6,11 +6,11 @@
       "bcg_stat",
       "client"
     ],
-    "hash": "ce5fd69906abd6ec03606e82754f7d7347d16a6c",
-    "ts": 1549060786,
-    "string_count": 5818,
+    "hash": "8da4230d2a2a36eb6024417c4e3541af098ab498",
+    "ts": 1550785948,
+    "string_count": 5915,
     "post_processed": true,
-    "versionLock": "21.3"
+    "versionLock": "22.0"
   },
   "strings": [
     {
@@ -394,6 +394,56 @@
       "vn": 19
     },
     {
+      "k": "ID_BFND48",
+      "v": "Tranquility Timer",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND49",
+      "v": "Each time the timer expires both Champions lose all Buffs and Debuffs and are set to 0 Power Meter.",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND50",
+      "v": "Combo Charges",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND51",
+      "v": "Lose 1 with each hit landed. Reset by launching a Special Attack. Suffer Degen when none remain.",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND52",
+      "v": "Delayed Blast",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND53",
+      "v": "Deals massive damage when the timer runs out. Land a Heavy Attack to defuse!",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND54",
+      "v": "Last Special Attack",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND55",
+      "v": "Last Special Attack used: 1",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND56",
+      "v": "Last Special Attack used: 2",
+      "vn": 22
+    },
+    {
+      "k": "ID_BFND57",
+      "v": "Last Special Attack used: 3",
+      "vn": 22
+    },
+    {
       "k": "ID_BFSCSD",
       "v": "Increases Critical Damage.",
       "vn": "19.1"
@@ -609,6 +659,16 @@
       "vn": 21
     },
     {
+      "k": "ID_CHARACTER_BIOS_CAPTAINMARVEL_MOVIE",
+      "v": "After crash landing on Earth without any memory of her past, Air Force pilot, Carol Danvers slowly uncovers the events of her past. Rescued by the Kree and reborn as a noble Kree warrior, Carol learns to control her new powers under the guidance of Mar-Vell, commander of the Starforce. When she finds herself on Earth again Carol Danvers becomes one of the universe's most powerful heroes when the Earth is caught in the middle of a galactic war between two alien races.",
+      "vn": 22
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_CORVUSGLAIVE",
+      "v": "Corvus Glaive is Thanos’ right-hand man and the sly, cunning lieutenant of his army. The only thing deadlier than this master strategist’s tactical mind is the halberd he yields to swiftly slice through his enemies.",
+      "vn": "17.2"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_EMMAFROST",
       "v": "Emma Frost is an incredibly powerful mutant, with a brilliant mind to match. She possesses staggering telepathic abilities, and is able to transform her body into organic diamond, rendering her almost indestructible. From White Queen of the Hellfire Club, to leader of the X-Men, she handles every challenge with grace, poise, and wit as sharp as diamond.",
       "vn": 20
@@ -617,6 +677,11 @@
       "k": "ID_CHARACTER_BIOS_GHOST",
       "v": "You can't fight what you don't know, and nobody seems to know anything about who Ghost is or how she can do the things she can do. Feared and admired in the criminal underworld for her ability to phase through solid walls, Ghost's true intentions are as elusive as she is, though one thing is for sure: she's interested in getting her hands on all the Pym Tech she can find. Her advanced technology combined with her skill in combat make her a force to be reckoned with.​",
       "vn": 19
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_NICKFURY",
+      "v": "Known across the battlerealm as a powerful leader and master tactician, Nick Fury is a seasoned combat veteran skilled in various martial arts including a black belt in Tae Kwon Do. Nick also has access to an arsenal of lethal weapons developed by S.H.I.E.L.D. and is a master of espionage, always equipped to fight should the situation arise.",
+      "vn": 22
     },
     {
       "k": "ID_CHARACTER_BIOS_NIGHTTHRASHER",
@@ -957,6 +1022,11 @@
       "k": "ID_DASE221T",
       "v": "[b4b4b4ff]Danger Sense[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_DEATHD",
+      "v": "This champion kills instantly if they land any attack.",
+      "vn": 22
     },
     {
       "k": "ID_DEON94D",
@@ -1554,6 +1624,16 @@
       "vn": 19
     },
     {
+      "k": "ID_FRCWILD",
+      "v": "The Champion is Immune to Ability Accuracy Modification.",
+      "vn": 22
+    },
+    {
+      "k": "ID_FRCWILT",
+      "v": "Force of Will",
+      "vn": 22
+    },
+    {
       "k": "ID_FRED213D",
       "v": "This Champion must wait before starting a new combo.",
       "vn": 19
@@ -1684,6 +1764,16 @@
       "vn": 19
     },
     {
+      "k": "ID_GAMGODD",
+      "v": "Special Attacks have a chance to trigger additional effects.",
+      "vn": 22
+    },
+    {
+      "k": "ID_GAMGODFD",
+      "v": "Gamora must wait until her Godslayer Strike is ready.",
+      "vn": 22
+    },
+    {
       "k": "ID_GATE8482D",
       "v": "Random Buffs or Debuffs are assigned to both Champions at the start of the fight.",
       "vn": 19
@@ -1727,6 +1817,11 @@
       "k": "ID_GLED121T_GLAIVE",
       "v": "[b4b4b4ff]Glaive Charges[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_GMRA_GODSLY_CALLOUT",
+      "v": "GODSLAYER READY!",
+      "vn": 22
     },
     {
       "k": "ID_HEAL196D",
@@ -2517,6 +2612,96 @@
       "k": "ID_NEON166T",
       "v": "[b4b4b4ff]New Moon[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_NFCO1D",
+      "v": "Reduces Defensive Ability Accuracy.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFCO1T",
+      "v": "Concussion",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFCR1D",
+      "v": "Increases Critical Rating",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFDI1D",
+      "v": "Immune to the effects of all Debuffs.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFDI1T",
+      "v": "Debuff Immunity",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFEV1D",
+      "v": "Evade incoming unblocked attacks",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFEV1T",
+      "v": "Evasion",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFFF1D",
+      "v": "Significantly increases Attack Rating.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFFF1T",
+      "v": "Fury's Fury",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFIF1D",
+      "v": "Without his Infinity Formula, Nick constantly Degenerates health.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFIF1T",
+      "v": "Missing Infinity Formula",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFLMD1D",
+      "v": "Nick's decoy has been destroyed and he is returning to the fight as the real Nick.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFLMD1T",
+      "v": "Life Model Decoy",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFMB1D",
+      "v": "Inflicts Direct Damage over time.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFMB1T",
+      "v": "Internal Bleed",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFTC1D",
+      "v": "Grants Nick additional abilities depending on the number of charges he has.",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFTC1T",
+      "v": "Tactical Advantage Charge",
+      "vn": 22
+    },
+    {
+      "k": "ID_NFUN1D",
+      "v": "Attacks from this Champion can't be blocked.",
+      "vn": 22
     },
     {
       "k": "ID_NICH75D",
@@ -3448,6 +3633,21 @@
       "vn": 21
     },
     {
+      "k": "ID_SPECIAL_ATTACK_CAPTAINMARVEL_MOVIE_0",
+      "v": "\"Photon\" Blast",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_CAPTAINMARVEL_MOVIE_1",
+      "v": "Skrull Slayer",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_CAPTAINMARVEL_MOVIE_2",
+      "v": "Space-faring Binary Star",
+      "vn": 22
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_0",
       "v": "Ægon releases the energy in his phantom limb as a blast of cosmic energy.",
       "vn": 21
@@ -3461,6 +3661,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_2",
       "v": "Ægon charges up his Iso-belt beyond his own limits, and releases the energy in a violent blast, tearing up the ground and sending his Opponent flying",
       "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINMARVEL_MOVIE_0",
+      "v": "Tearing through the toughest defenses, Captain Marvel unleashes two powerful beams of cosmic energy before leaping in for an Earth shaking punch.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINMARVEL_MOVIE_1",
+      "v": "With a graceful flurry of powerful kicks and punches, Captain Marvel sends her foes back with a pair of well-placed cosmic beams.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINMARVEL_MOVIE_2",
+      "v": "Harnessing the power of a Binary Star, Captain Marvel sends her foes into orbit before burying them in cosmic energy.",
+      "vn": 22
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_0",
@@ -3491,6 +3706,36 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GHOST_2",
       "v": "Ghost advances on the opponent, quickly Phasing in and out, avoiding their attacks and countering with her own.",
       "vn": 19
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NFURY_0",
+      "v": "Nick throws a tracker onto his opponent, calling in multiple strikes from a helicarrier above.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NFURY_1",
+      "v": "Nick lets loose a series of knife slashes followed with a shot from his pistol.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NFURY_2",
+      "v": "Nick throws an electrical gadget at the opponent, shocking them and holding the them in place before firing a deadly shot from his Destroyer gun.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NICKFURY_0",
+      "v": "Nick throws a tracker onto his Opponent, calling in multiple strikes from a helicarrier above.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NICKFURY_1",
+      "v": "Nick lets loose a series of knife slashes followed by a shot from his pistol.",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NICKFURY_2",
+      "v": "Nick throws an electrical gadget at the Opponent, shocking them and holding them in place before firing a deadly shot from his Destroyer gun.",
+      "vn": 22
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NIGHTTHRASHER_0",
@@ -3596,6 +3841,36 @@
       "k": "ID_SPECIAL_ATTACK_GHOST_2",
       "v": "Relentless Onslaught",
       "vn": 19
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NFURY_0",
+      "v": "S.H.I.E.L.D Air Strike",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NFURY_1",
+      "v": "Tactical Takedown",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NFURY_2",
+      "v": "Destroyer Gun",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NICKFURY_0",
+      "v": "S.H.I.E.L.D Air Strike",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NICKFURY_1",
+      "v": "Tactical Takedown",
+      "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NICKFURY_2",
+      "v": "Destroyer Gun",
+      "vn": 22
     },
     {
       "k": "ID_SPECIAL_ATTACK_NIGHTTHRASHER_0",
@@ -4104,6 +4379,11 @@
       "k": "ID_STAT_DOM_BLD2",
       "v": "Each hit has {0}% chance to inflict Bleed, dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_STAT_DOM_BLD2_NEW",
+      "v": "Each hit has {0}% chance to inflict Bleed, dealing [16982bff]{1}[-] Direct Damage over {2} seconds. This Bleed does not benefit from the Lucky bonus below.",
+      "vn": 22
     },
     {
       "k": "ID_STAT_DOM_CRBLD_HUD",
@@ -5781,9 +6061,34 @@
       "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_CYBERASS",
+      "v": "CYBERNETICS UPGRADE - ASSAULT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_CYBERASS_DESC",
+      "v": "+{0}% Fury & Cruelty Buff Potency.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_CYBERTACT",
+      "v": "CYBERNETICS UPGRADE - TACTICS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_CYBERTACT_DESC",
+      "v": "Godslayer Strike recharges {0}% faster and Special Attacks gain +{0}% Attack.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DEADLYPRESENCE_LONG",
       "v": "[64acff]Omega Red:[-] The Death Field deals {0}% more damage.\n[64acff]Mephisto:[-] The Aura of Incineration deals 15% more damage.\n[64acff]Void:[-] Intimidating Presence debuffs deal 10% more damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 20
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_AEGCOSMIC_V2",
+      "v": "[64acff]Ægon, Angela, Proxima Midnight, Captain Marvel (Classic):[-] +{0}% Potency to Fury effects. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_ARMOR_AO",
@@ -5866,6 +6171,21 @@
       "vn": 17
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_FAN_CLUB",
+      "v": "FAN CLUB",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_FAN_CLUB_LONG",
+      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 30% increased potency.\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_FAN_CLUB_LONG_ALT",
+      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 10% increased potency.\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by +{0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_FEARLESS",
       "v": "FEARLESS",
       "vn": 17
@@ -5889,6 +6209,16 @@
       "k": "ID_UI_HERO_SYNERGY_GWENOM_DESC",
       "v": "Gwen’s Spider-Sense charges are evolved, reducing their evade chance by half. They also now grant an additional +{0}% Attack rating each and their max cap is raised by 1.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUNTRESS",
+      "v": "HUNTRESSES OF THE CONTEST",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUNTRESS_DESC",
+      "v": "[64acff]Angela:[-] +{0}% Fury and Precision Buff Potency.\n[64acff]Guillotine:[-] 50% chance when striking a Bleeding opponent to gain a Soul Charge. Cool Down: 10 Seconds.\n[64acff]Gamora:[-] +{0}% attack if at least 30 seconds have passed during the fight.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY01_LONG",
@@ -5956,9 +6286,29 @@
       "vn": "21.2"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_MARVELOUS",
+      "v": "MARVELOUS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_MARVELOUS_LONG",
+      "v": "[64acff]Captain Marvel:[-] Blocking energy-based attacks grants 2% of Max Power.\n[64acff]Captain Marvel (Classic), Ms. Marvel:[-] While Fury is active, Beam Attacks are Unblockable.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_PARTICLEPHYSICS",
       "v": "PARTICLE PHYSICS",
       "vn": "14.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_PARTNERS_IN_SHIELD",
+      "v": "PARTNERS IN S.H.I.E.L.D.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_PARTNERS_IN_SHIELD_LONG",
+      "v": "[64acff]Captain Marvel:[-] Each Energy Charge lasts an additional 1 second while in Binary Ignition.\n[64acff] Nick Fury:[-] Each Tactical Advantage charge lasts an additional 1 second.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
@@ -5977,6 +6327,16 @@
       "vn": "14.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_SIBRIVAL",
+      "v": "SIBLING RIVALRY",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SIBRIVAL_DESC",
+      "v": "[64acff]Nebula:[-] The first Special 1 or Special 2 each fight has 100% Critical Hit Chance.\n[64acff]Gamora:[-] Robot opponents suffer -{0}% Ability Accuracy for each Cruelty Buff on Gamora.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_SMASH",
       "v": "AGENTS OF S.M.A.S.H.",
       "vn": "21.3"
@@ -5985,6 +6345,21 @@
       "k": "ID_UI_HERO_SYNERGY_SMASH_DESC",
       "v": "[64acff]She-Hulk:[-] +{0}% Potency for personal Passive Fury effects.\n[64acff]Hulk (Ragnarok):[-] SMASH attacks gain +15% attack.\n[64acff]Red Hulk:[-] +2% attack for each Heat charge.\n[64acff]Hulk:[-] +{0}% Fury Buff Duration & Potency.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_STOLEN_MEMORIES",
+      "v": "STOLEN MEMORIES",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_STOLEN_MEMORIES_LONG",
+      "v": "[64acff]Captain Marvel:[-] When entering Binary Ignition, become Unstoppable for 7 seconds.\n[64acff]Rogue:[-] All Physical attacks deal an additional 25% of Damage dealt as Energy Damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_STOLEN_MEMORIES_LONG_ALT",
+      "v": "[64acff]Captain Marvel:[-] When entering Binary Ignition, become Unstoppable for 4 seconds.\n[64acff]Rogue:[-] All Physical attacks deal an additional 15% of Damage dealt as Energy Damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SYMBEVO",
@@ -8124,6 +8499,11 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_DELAYEDBLAST_HUD",
+      "v": "DELAYED BLAST",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_DIMLNK_HUD",
       "v": "DIMENSION LINK",
       "vn": "11.2"
@@ -8912,6 +9292,11 @@
       "v": "[fede49]Fate Seal IV[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FATESEAL_REVISED",
+      "v": "[16982bff]{0}%[-] chance to Fate Seal the Opponent immediately Nullifying all Buffs, and prevents any new Buffs from activating for [16982bff]{2}[-] seconds.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FATESEAL_V",
       "v": "[ff390dff]Fate Seal V[-]"
     },
@@ -9051,11 +9436,6 @@
       "v": "{0}% chance to Armor Break, removing enemy Armor and applying [16982bff]{1}%[-] Armor reduction for [16982bff]{2}[-] seconds."
     },
     {
-      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_AO",
-      "v": "{0}% chance to Armor Break, removing an enemy Armor Up and applying [16982bff]{1}[-] Armor Rating reduction for {2} seconds.",
-      "vn": 12
-    },
-    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_ATK",
       "v": "This attack pierces [16982bff]{1}%[-] of the target's Armor."
     },
@@ -9129,11 +9509,6 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP",
       "v": "[16982bff]{0}%[-] chance to Armor Up, reducing damage from attacks by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds.",
       "vn": "11.2"
-    },
-    {
-      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP_AO",
-      "v": "[16982bff]{0}%[-] chance to Armor Up, increasing Armor Rating by [16982bff]{1}[-] for [16982bff]{2}[-] seconds.",
-      "vn": 12
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP_CW",
@@ -9628,11 +10003,6 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY",
       "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds.",
       "vn": "11.2"
-    },
-    {
-      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY_AO",
-      "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}[-] for [16982bff]{2}[-] seconds.",
-      "vn": 12
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY_CHANCE_HPLOST",
@@ -10902,6 +11272,11 @@
       "v": "{0}% chance to convert up to {1} Loa into either a Buff on himself or a Debuff on the opponent, based on current Combo Meter."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_VOODOO_SP2CONVERT_REVISED",
+      "v": "{0}% chance to convert up to {1} Loa, Nullifying them and placing either a Buff on himself or a Debuff on the Opponent, based on current Combo Meter.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_VOODOO_SP2EVEN",
       "v": "Even Combo: All of Voodoo's attacks gain a {0}% chance to burn {1}% of his opponent's Power, Converting [16982bff]{2}%[-] of Power burnt into Energy Damage, lasting 15 seconds."
     },
@@ -11344,6 +11719,36 @@
       "v": "[b310e8]Gambler`s Ruin VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_BUFFDUR",
+      "v": "Gamora’s personal Fury & Cruelty Buffs gain +{1}% duration for every {2} seconds that have passed during the fight to a max of +{0}% duration.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_CRITDAMAGE",
+      "v": "{0}% chance to gain a Cruelty Buff, increasing Critical Damage Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_CRITMOD",
+      "v": "This attack has 100% Critical Hit Chance.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_FURY",
+      "v": "{0}% chance for a Fury Buff, increasing your Attack by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_HVYRFSH",
+      "v": "Refreshes the duration of personal Cruelty and Fury Buffs.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GAM_TRUESTRIKE",
+      "v": "{0}% Chance to gain a True Strike Buff for {2} seconds, allowing this Champion to ignore Armor, Resistances, Auto-Block and all Evade effects.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_GENETICMEMORY",
       "v": "[b4b4b4ff]Genetic Memory[-]"
     },
@@ -11730,6 +12135,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_HEX_HOOD_AO",
       "v": "Hexes the opponent, reducing Ability Accuracy by {0}% and Fate Sealing them for {2} seconds. When the Hex expires, it deals a burst of [16982bff]{1}[-] Energy Damage.",
       "vn": 12
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_HEX_HOOD_AO_REVISED",
+      "v": "Hexes the opponent, reducing Ability Accuracy by {0}% and Fate Sealing them for {2} seconds. Fate Seal immediately Nullifies all Buffs, and prevents any new Buffs from activating. When the Hex expires, it deals a burst of [16982bff]{1}[-] Energy Damage.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_HEX_HOOD_REVISED",
+      "v": "Hexes the opponent, reducing Ability Accuracy by [16982bff]{1}%[-] and Fate Sealing them for {2} seconds. Fate Seal immediately Nullifies all Buffs, and prevents any new Buffs from activating. When the Hex expires, it deals a burst of Energy Damage equal to {0}% of the Hood’s attack.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_HEX_HUH",
@@ -12322,8 +12737,18 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_DAMN_AO_REVISED",
+      "v": "Judgement of Guilt: {0}% chance. Secondary: Inflicts Damnation upon the opponent through the Penance Stare for {2} seconds, dealing [16982bff]{1}[-] Direct Damage. Opponent's under Damnation are also Power Locked, Heal Blocked and Fate Sealed. Fate Seal immediately Nullifies all Buffs, and prevents any new Buffs from activating.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_DAMN_HUD",
       "v": "DAMNATION"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_DAMN_REVISED",
+      "v": "Judgement of Guilt: {0}% chance. Secondary: Inflicts Damnation upon the opponent through the Penance Stare for {2} seconds, dealing [16982bff]{1}%[-] of Ghost Rider’s Attack as direct damage. Opponent’s under Damnation are also Power Locked, Heal Blocked and Fate Sealed. Fate Seal immediately Nullifies all Buffs, and prevents any new Buffs from activating.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_DUR",
@@ -12333,6 +12758,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE",
       "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds.",
       "cn": null
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE_REVISED",
+      "v": "Judgement of Pride: {0}% chance. Secondary: Fate Seals the opponent, immediately Nullifying all Buffs, and preventing any new Buffs from activating for [16982bff]{2}[-] seconds.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_I",
@@ -13235,6 +13665,71 @@
       "k": "ID_UI_STAT_ATTRIBUTE_NEUROTOXIN_HUD",
       "v": "NEUROTOXIN",
       "vn": 12
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_AT_HUD",
+      "v": "CRITICAL BOOST",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_EX_HUD",
+      "v": "IMMUNITY",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_FR_HUD",
+      "v": "FURY BOOST",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_FURY_HUD_1",
+      "v": "FURY IS FEARLESS!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_FURY_HUD_2",
+      "v": "FURY IS FEROCIOUS!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_FURY_HUD_3",
+      "v": "FURY IS FURIOUS!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_HP_HUD",
+      "v": "RESTORATION KIT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_KNOCK_HUD",
+      "v": "I GOT MY EYE ON YOU!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_LMD_DES",
+      "v": "L.M.D. DESTROYED",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_PUR_HUD",
+      "v": "PURIFIED",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_PW_HUD",
+      "v": "POWER KIT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_SS_HUD",
+      "v": "SABOTAGE READY",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NFURY_START_LMD_HUD",
+      "v": "KEEP BOTH EYES OPEN!",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_NONE",
@@ -15318,6 +15813,21 @@
       "v": "[b310e8]Toughness VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_BINARYDURABILITY",
+      "v": "Above 20 Energy Charges",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_BINARY_IGNITION",
+      "v": "Binary Ignition",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_ENERGYABSORPTION",
+      "v": "Energy Absorption",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ADORATION",
       "v": "Adoration of the Masses - Passive",
       "vn": 17
@@ -15336,6 +15846,21 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BAGOFTRICKS",
       "v": "Bag of Tricks - Special & Heavy Attacks",
       "vn": "14.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BATTLESCARS",
+      "v": "Battle Scars",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BINARYDURABILITY",
+      "v": "Above 20 Energy Charges",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BINARYIGNITION",
+      "v": "Binary Ignition",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BISHOP",
@@ -15456,6 +15981,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DTHFLD",
       "v": "Death Field",
       "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ENERGYABSORPTION",
+      "v": "Energy Absorption",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_EVADEEFFECTS",
@@ -15581,6 +16111,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INFINITYCLASS",
       "v": "Infinity Class",
       "vn": 18
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INTERNALBLEED",
+      "v": "Internal Bleed - Passive",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INTIMIDATION",
+      "v": "Intimidation",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_KINETICALLYCHARGED",
@@ -15760,6 +16300,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCAPTUREDSOUL",
       "v": "Captured Souls - Passive",
       "vn": "15.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCEPERQUEST",
+      "v": "Once Per Quest",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCHAMPUNIVERSE",
@@ -16289,6 +16834,16 @@
       "v": "Stark Tech AI"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SUPERSTRENGTH",
+      "v": "Super Strength",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TACCHARGE",
+      "v": "Tactical Advantage Charges - Passive",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TELEPATH_FORM",
       "v": "Passive - Telepath Form",
       "vn": 20
@@ -16374,6 +16929,11 @@
       "vn": 21
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUPERSTRENGTH",
+      "v": "Super Strength",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRUACCURACY_I",
       "v": "[b4b4b4ff]True Accuracy[-]"
     },
@@ -16413,6 +16973,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_HUD",
       "v": "UNBLOCKABLE"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_I",
+      "v": "Unblockable",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_UNSTOPPABLE_PASSIVE",
@@ -17279,6 +17844,211 @@
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP3",
       "v": "[16982bff]+{1}[-] Attack Rating if Corvus Glaive has at least one Glaive charge. This amount is doubled if he is below 10% Health.",
       "vn": "17.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_ARM_BRK",
+      "v": "Landing a hit or hitting into a Block with a Light or Medium Attack has a [16982bff]{0}%[-] chance to inflict Armor Break reducing Armor Rating by [16982bff]{1}[-] for 7 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_ARM_BRK_INTRCPT",
+      "v": "Intercepting an opponent’s Dash Attack has a 100% chance to inflict Armor Break reducing Armor Rating by [16982bff]{1}[-] for 7 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_ARM_BRK_AA",
+      "v": "The chance to inflict Armor Break with a Light or Medium Attack increases to 60%.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_AUTO_TRIG",
+      "v": "In Binary Ignition, Captain Marvel does not generate Energy Charges and each Charge lasts 1.2 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_BURST_DMG",
+      "v": "Deal an additional [16982bff]{1}%[-] of damage dealt as a burst of Energy Damage when striking an opponent with an Armor Break Debuff.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_FURY",
+      "v": "Gain a Permanent Fury Buff increasing Attack by [16982bff]{1}[-] for every 5 stacks of Energy Charge. All Fury Buffs are removed when Energy Charges fall to zero.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_HUD",
+      "v": "BINARY IGNITION",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_HVY",
+      "v": "Landing Heavy Attacks while in Binary Ignition generates 3 Energy Charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_NRG_EXTEND",
+      "v": "Damaging Energy Debuffs increase the duration of Energy Charges by 1 second.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_PAUSE",
+      "v": "Binary Ignition",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_PAUSE_DESC",
+      "v": "Grants Captain Marvel a Fury Buff for every 5 Energy Charges she enters Binary Ignition with.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_RDY",
+      "v": "BINARY READY",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_SHORT",
+      "v": "Binary Ignition",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_TRIG",
+      "v": "While at 10 Energy Charges or over, Dashing back and holding Block for 1.2 seconds or being Knocked Down Purifies all Debuffs and pushes Captain Marvel into Binary Ignition. Captain Marvel enters Binary Ignition automatically at 25 Energy Charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_HVY_INTRCPT",
+      "v": "Striking with a Heavy Attack while the opponent is charging or executing a Heavy Attack removes all Armor Up effects and inflicts Stun for 2.5 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_MYSTICDMG",
+      "v": "Captain Marvel suffers [f71817]{1}[-] damage when Energy Charges are generated by the effects of Mystic Champions.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PERSIST",
+      "v": "Captain Marvel gains [37bfff]Persistent Energy Charges[-] by Blocking Physical Attacks and when Struck by Energy Attacks. Any Energy Charges that Captain Marvel ends a fight with persists between fights. Max 25 stacks.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PWRGAIN",
+      "v": "At the start of the fight, Captain Marvel gains 2% of Max Power for each Energy Charge she has.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_SHORT",
+      "v": "[37bfff]Energy Absorption[-]",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_WTB",
+      "v": "Well Timed Blocks generate an additional Energy Charge.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_PVE_MIGHT_PAUSE",
+      "v": "Binary Might",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_PVE_MIGHT_PAUSE_DESC",
+      "v": "While Binary Ignition is active, Captain Marvel fights more aggressively.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_RESIST_POISON",
+      "v": "Advanced Kree physiology provides full immunity to the Poisons of the Battlerealm.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_CD",
+      "v": "This ability can be activated again after a [16982bff]{2}[-] second cooldown.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_INDSTR",
+      "v": "While Binary Ignition is active Captain Marvel gains an Indestructible Buff for [16982bff]{2}[-] seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_INDSTR_REMOVE",
+      "v": "The Indestructible Buff and half of Captain Marvel's Energy Charges are removed when struck by a Special Attack.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_INDSTR_REMOVE_ALT",
+      "v": "The Indestructible Buff and half of Captain Marvel's Energy Charges are removed when struck by a Special Attack. If Struck by a Special Attack 3, the damage is instead reduced by [16982bff]{0}%[-].",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_REGEN",
+      "v": "Gain a Regeneration Buff healing [16982bff]{1}[-] Health over 30 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_SHORT",
+      "v": "Binary Durability {0}",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_SIMPLE",
+      "v": "An excess of stored energy allows Captain Marvel to become temporarily indestructible when she enters Binary Ignition.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SIG_TITLE",
+      "v": "BINARY DURABILITY",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP1_NRG",
+      "v": "Generate 3 Energy Charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP1_TRU_DMG",
+      "v": "Energy Beams in this attack deal True Damage.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP1_TRU_DMG_ALT",
+      "v": "Energy Beams in this attack deal True Damage. Against Tech Champions, this attack has True Strike",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP1_UNBLK",
+      "v": "In Binary Ignition, Beam Attacks are Unblockable but this attack expends 2 Energy Charges instead.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP2_STUN",
+      "v": "100% chance to Stun for 2 seconds. In Binary Ignition this stun lasts 3.5 seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP2_TRU_DMG",
+      "v": "Energy Beams in this attack deal True Damage.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP2_TRU_DMG_ALT",
+      "v": "Energy Beams in this attack deal True Damage. Against Tech Champions, this attack has True Strike",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP2_UNBLK",
+      "v": "In Binary Ignition, Beam Attacks are Unblockable and expend 4 Energy Charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP3_NRG",
+      "v": "Generate 10 Energy Charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_SP3_PWRGAIN",
+      "v": "Gain a Power Gain Buff generating 40% of max Power over 10 seconds.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_FORMAT_DEBILITATE_PAUSE",
@@ -18422,6 +19192,131 @@
       "k": "ID_UI_STAT_FORMAT_MEPHISTO_SP3",
       "v": "Once a fight, Mephisto instantly drains up to {2} Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight.",
       "vn": "15.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
+      "v": "MISS BYPASSED",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_AB_IMMUNE",
+      "v": "When hitting into Auto-Block Nick is Stun Immune and has a 100% chance to inflict a Bleed dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_CRIT_RATING",
+      "v": "When striking a Bleeding Opponent Nick’s Critical Rating is increased by [16982bff]{1}[-] and his attacks ignore 100% of Physical Resistance.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_HEAVY_BLEED",
+      "v": "Landing a Heavy Attack has a 100% chance to inflict up to 3 stacks of Bleed, each dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_LIGHT_BLEED",
+      "v": "Ending a combo with a Light Attack has a 100% chance to inflict a Bleed, dealing [16982bff]{1}[-] damage over {2} second.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_MED_BLEED",
+      "v": "Landing any Medium Attack has a 100% chance to inflict a Bleed, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_MEGA_BLEED",
+      "v": "If the Opponent gets 8 stacks of Bleed, their Bleed effects are removed and replaced with a Passive Internal Bleed effect which deals [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_MEGA_STUN",
+      "v": "While Internal Bleed is active all the Opponent's Bleed Debuffs have an increased duration of {1} seconds per Tactical Charge.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_REGEN_POTEN",
+      "v": "While the Opponent is not under the effect of a Regeneration Buff all of Nick’s Bleeds are 100% more potent.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SHRUG",
+      "v": "Knocking down the Opponent Purifies Nick's non-damaging Debuffs.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SIG_A",
+      "v": "When Nick would be knocked out, his [37bfff]Life Model Decoy[-] is destroyed instead and he returns to the fight with a permanent Fury’s Fury Buff and Stun Immunity. However, Nick loses his Infinity Formula and begins Degenerating [16982bff]{1}%[-] of his health per second for the rest of the quest while above 30% max health. The destruction of Nick’s decoy Removes all Effects and isn't affected by Ability Accuracy reduction.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP1_A",
+      "v": "Disorients the Opponent, reducing their Block Proficiency by 50% and Defensive Ability Accuracy by 70% for {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP1_B",
+      "v": "When performing this attack Nick immediately gains [16982bff]4[-] Tactical charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP2_A",
+      "v": "Nick slashes his Opponent causing up to 4 stacks of Bleed, each dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP2_B",
+      "v": "[16982bff]{0}%[-] chance to stun the Opponent for {2} seconds. Stun chance increases by a flat [16982bff]10%[-] for each of Nick’s Tactical charges.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP3_A",
+      "v": "Additional [16982bff]{1}[-] Attack if Fury’s Fury is active.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_SP3_B",
+      "v": "Additional [16982bff]{1}[-] Attack if Internal Bleed is active.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_AVENGER_GAIN",
+      "v": "Nick starts the fight with 6 Charges when fighting an Avenger.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_LEVEL_10",
+      "v": "At [ffc800]10+[-] Charges: Nick's Purify effects now target all Debuffs.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_LEVEL_15",
+      "v": "At [ffc800]15+[-] Charges: Nick becomes Unblockable.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_LEVEL_20",
+      "v": "At [ffc800]20+[-] Charges: All Charges are removed and replaced with a Fury’s Fury Buff which grants [16982bff]{1}[-] Attack Rating for {2} seconds. All Tactical Charge gains are doubled while Fury’s Fury is active.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_LEVEL_5",
+      "v": "At [ffc800]5+[-] Charges: Nick's attacks can’t Miss or be Evaded.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_PAUSE",
+      "v": "While Nick is under the effect of a Fury Effect, Tactical Charge durations are paused.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_STRUCK_GAIN",
+      "v": "When Nick is Struck he has a 100% chance to gain 1 Tactical Charge. Reduced to 25% against Mutant Opponents.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NFURY_TAC_TIMER_LOSS",
+      "v": "Nick loses 1 Charge every {2} seconds, decreasing to every 4 seconds while at or above 10 total Charges. Additionally if the Opponent performs a Well-Timed Block Nick loses 1 Charge.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_FORMAT_NTHRA_CRIT_DMG",
@@ -20433,11 +21328,6 @@
       "vn": "16.1"
     },
     {
-      "k": "ID_UI_STAT_SENTRY_SP1",
-      "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}[-] for [16982bff]{2}[-] seconds.",
-      "vn": "16.1"
-    },
-    {
       "k": "ID_UI_STAT_SENTRY_SP2",
       "v": "[16982bff]{0}%[-] chance to Armor Break, removing an enemy Armor Up and applying [16982bff]{1}[-] Armor Rating reduction for [16982bff]{2}[-] seconds.",
       "vn": "16.1"
@@ -21803,6 +22693,31 @@
       "v": "A [16982bff]{0}%[-] chance Gamora's Godslayer blade deals a lethal blow, striking for massive Critical Hit Damage."
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_A",
+      "v": "Gamora begins each fight with a Godslayer Strike ready. Each Special Attack has a [16982bff]{0}%[-] chance to activate the Strike.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_B",
+      "v": "Once used, the Strike must cool down for [16982bff]{2}[-] seconds.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_C",
+      "v": "Special 1: +{1}% Critical Damage Multiplier.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_D",
+      "v": "Special 2: Armor Break Debuffs during this attack gain +{1}% Potency, +{2}% duration and +{0}% Ability Accuracy.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_E",
+      "v": "Special 3: Inflicts a Shock Debuff, dealing [16982bff]{1}[-] Energy Damage over {2} seconds. Double damage vs. Robots.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_GAMORA_DESC_NEW",
       "v": "A [16982bff]{0}%[-] chance for Gamora to strike an Assassination blow with her Godslayer blade, guaranteeing a Critical Hit and granting a 700% increase in Critical Damage Multiplier. This can only occur once per fight.",
       "vn": "14.1"
@@ -21817,8 +22732,18 @@
       "v": "Assassination {0}"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_SHORT_NEW",
+      "v": "Godslayer Strike {0}",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_GAMORA_SIMPLE",
       "v": "A chance Gamora's Godslayer blade deals a lethal blow."
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_SIMPLE_NEW",
+      "v": "Gamora equips the Godslayer empowering her Special Attacks with additional effects.",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_GAMORA_TITLE",
@@ -21827,6 +22752,11 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_GAMORA_TITLE_LOWER",
       "v": "Assassination"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GAMORA_TITLE_NEW",
+      "v": "Godslayer Strike",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_GHOSTRIDER_DESC",
@@ -22933,6 +23863,21 @@
       "k": "ID_UI_STAT_SIGNATURE_NEBULA_TITLE",
       "v": "CYBERNETIC ENHANCEMENTS",
       "vn": 13
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NFURY_SHORT",
+      "v": "Life Model Decoy {0}",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NFURY_SIMPLE",
+      "v": "When Nick would be knocked out, his Decoy is destroyed instead and he returns to the fight.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NFURY_TITLE",
+      "v": "LIFE MODEL DECOY",
+      "vn": 22
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC",
@@ -24621,6 +25566,11 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_SPGWEN_SS_SUPERIOR",
+      "v": "If fighting a Champion of the [00f292]Superior Class[-], begin the fight with an additional {1} Spider-Sense charges.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_SPGWEN_SS_TRU",
       "v": "{0}% chance when struck by an opponent with a True Strike Buff to Nullify that Buff and gain a Spider-Sense charge.",
       "vn": "21.3"
@@ -25352,6 +26302,11 @@
       "k": "ID_WSAPD",
       "v": "Special Attacks ignore opponents' Armor.",
       "vn": "19.1"
+    },
+    {
+      "k": "Once per quest when Nick is killed, his [008cff]Life Model Decoy[-] is killed instead and he returns to the fight in his true form with a permanent Fury’s Fury and Stun Immunity. However, Nick loses his Infinity Formula and Passively degenerates [ff0000]100%[-] of his Health over the next [16982bff]{2}[-] seconds of the quest. The destruction of Nick’s L.M.D. Purifies all Effects and isn't affected by Ability Accuracy reduction.",
+      "v": "While Internal Bleed is active, all Basic Attacks have [ff0000]{0}%[-] chance to Stun the Opponent for {2} seconds. Stun chance increases by a flat [16982bff]1%[-] for each of Nick's Tactical Advantage charges.",
+      "vn": 22
     }
   ]
 }

@@ -6,9 +6,9 @@
       "initial",
       "client"
     ],
-    "hash": "bd8f806d66077385cc986657c119dc0a32cc7919",
-    "ts": 1546972443,
-    "string_count": 244
+    "hash": "b33fe10f0cf5b7a9b814015be29996eb0ea94555",
+    "ts": 1543462701,
+    "string_count": 245
   },
   "strings": [
     {
@@ -564,6 +564,10 @@
       "v": "CLOSE"
     },
     {
+      "k": "ID_UI_COMMON_CONFIRM",
+      "v": "CONFIRM"
+    },
+    {
       "k": "ID_UI_COMMON_CONGRATS",
       "v": "CONGRATULATIONS!"
     },
@@ -703,7 +707,7 @@
     },
     {
       "k": "ID_UI_LEGAL_BODY",
-      "v": "© 2019 MARVEL.\r\nMarvel Contest of Champions software\r\n© 2019 Kabam Games, Inc.\r\nA Netmarble company. All rights reserved.",
+      "v": "© MARVEL\r\nMarvel Contest of Champions software\r\n© 2019 Kabam, Inc.\r\nDeveloped by Kabam. All rights reserved.",
       "vn": "11.2"
     },
     {

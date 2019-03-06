@@ -6,11 +6,11 @@
       "alliances",
       "client"
     ],
-    "hash": "e5f4b81d2b77602a9e02e2b36201eb3ec7594acd",
-    "ts": 1540939702,
-    "string_count": 331,
+    "hash": "55acdeb4aacb68eda643ea4c7a9bce78aaa8bdbe",
+    "ts": 1548364054,
+    "string_count": 373,
     "post_processed": true,
-    "versionLock": "21.1"
+    "versionLock": "22.0"
   },
   "strings": [
     {
@@ -214,6 +214,16 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_UI_ALLIANCES_BENEFITS_LIST4_NEW",
+      "v": "Get Help with Energy recharge or Give Help and earn Loyalty to purchase Alliance crystals",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCES_BUTTON_AUTOJOIN",
+      "v": "AUTO-JOIN ALLIANCE",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_ALLIANCES_BUTTON_CREATE",
       "v": "CREATE"
     },
@@ -224,6 +234,16 @@
     {
       "k": "ID_UI_ALLIANCES_BUTTON_EDIT",
       "v": "EDIT"
+    },
+    {
+      "k": "ID_UI_ALLIANCES_BUTTON_FINDALLIANCENOW",
+      "v": "FIND AN ALLIANCE NOW!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCES_BUTTON_FINDONE",
+      "v": "YES, FIND AN ALLIANCE!",
+      "vn": 22
     },
     {
       "k": "ID_UI_ALLIANCES_BUTTON_HELP_ALL",
@@ -238,6 +258,11 @@
       "v": "LEAVE"
     },
     {
+      "k": "ID_UI_ALLIANCES_BUTTON_NOTNOW",
+      "v": "NOPE, NOT NOW",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_ALLIANCES_BUTTON_REQUEST_ALLIANCE",
       "v": "REQUEST"
     },
@@ -248,6 +273,11 @@
     {
       "k": "ID_UI_ALLIANCES_BUTTON_SEARCH_ALLIANCE",
       "v": "SEARCH ALLIANCES"
+    },
+    {
+      "k": "ID_UI_ALLIANCES_BUTTON_THANKSNOTNOW",
+      "v": "THANKS, NOT NOW",
+      "vn": 22
     },
     {
       "k": "ID_UI_ALLIANCES_CREATED_DESCRIPTIVE_TEXT",
@@ -814,6 +844,41 @@
       "v": "Your request to join this alliance has been denied."
     },
     {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_DESC",
+      "v": "Alliances need valuable new members like you. Let us find an ideal match for you!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_DESC_COLLECTOR",
+      "v": "Alliances need valuable new members like you, Summoner. Allow me to find an ideal match for you…",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_NOALLIANCE_DESC",
+      "v": "What the heck... did I do that? Still friends though, right?\n\nDon't despair, you can go to the Alliance screen any time to try Auto-join again or Search for an Alliance yourself. Heck, you can create your own, too!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_NOALLIANCE_TITLE",
+      "v": "NO ALLIANCE FOUND YET???",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_NOTNOW_DESC",
+      "v": "C'mon, get with the program, Sport! Ya know Alliances are good for ya, right?\n\nFine, you can go to the Alliance screen any time to Auto-join or Search for an Alliance yourself. Just tryin' to help, sheesh!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_NOTNOW_TITLE",
+      "v": "NOT NOW, REALLY?",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_ALLIANCE_AUTOJOIN_TITLE",
+      "v": "AUTO-JOIN AN ALLIANCE",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_ALLIANCE_BANK_DISPLAY_PRICE",
       "v": "You are about to spend these resources."
     },
@@ -865,6 +930,11 @@
       "k": "ID_UI_ALLIANCE_BASE_TEASER",
       "v": "The Alliance Bases Tab will be removed in the near future.\n\nAlthough we had high hopes for Alliance Bases, we were never satisfied with the direction that the feature was going, and as we worked on new and exciting features, this led us to push Alliance Bases further and further back.\n\nWe have now decided that we will be focusing our time on other exciting features, like Alliance Wars Seasons, and new features on their way that focus on playing with Friends, Alliance Mates, or Strangers!",
       "vn": 17
+    },
+    {
+      "k": "ID_UI_ALLIANCE_BENEFITS",
+      "v": "ALLIANCE BENEFITS",
+      "vn": 22
     },
     {
       "k": "ID_UI_ALLIANCE_CANNOT_INVITE",
@@ -1147,6 +1217,26 @@
       "v": "There are no events. Come back to check later!"
     },
     {
+      "k": "ID_UI_AVA_BUFF_SET_TAP_SELECT",
+      "v": "TAP TO SELECT BUFF SETS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_AVA_BUFF_SET_TAP_VIEW",
+      "v": "TAP TO VIEW BUFF SETS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_AVA_BUFF_SET_WARNING_INCOMPLETE",
+      "v": "Some Buff Sets are unselected. Leaders can select a Buff Set for each Battlegroup. Any Buff Sets left unselected will be randomized.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_AVA_BUFF_SET_WARNING_SELECT",
+      "v": "No Buff Sets have been selected yet. Leaders can select  a Buff Sets for each Battlegroup. If no Buff Sets are selected, it will be randomized.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_AVA_SEASONS_HALTED_DISCLAIMER",
       "v": "The Alliance War will continue to run while the Season is paused. Any points earned during this time will not be counted towards the Season, except for Alliances that have already begun the Attack Phase of a War.",
       "vn": 17
@@ -1372,6 +1462,31 @@
       "vn": 17
     },
     {
+      "k": "ID_UI_SEASON_WARBUFFS_CURRENT_TAB",
+      "v": "CURRENT SEASON BUFFS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_SEASON_WARBUFFS_CUSTOM_TAB",
+      "v": "SEASON {0} BUFFS",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_SEASON_WARBUFFS_DESCRIPTION",
+      "v": "These are the Buff Sets available to choose from for the ongoing Alliance War Season. Leadership can pick Buff Sets per Battlegroup during the Placement Phase.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_SEASON_WARBUFFS_PENDING_BUFFS",
+      "v": "The next Buff Sets are still being researched by The Grandmaster.\n\nCheck back soon for updates!",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_SEASON_WARBUFFS_PENDING_DESC",
+      "v": "Once the current Season ends, the Buff Sets will change to the below choices. Use this time to begin to plan potential team compositions!",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_BLKCRIT_HUD",
       "v": "CRITICAL",
       "vn": "19.1"
@@ -1404,6 +1519,101 @@
       "k": "ID_UI_TOP_ALLIANCES",
       "v": "TOP {0} ALLIANCES",
       "vn": 19
+    },
+    {
+      "k": "ID_UI_WARBUFF_POPUP_HEADER_TOOLTIP",
+      "v": "If no Buff Sets are selected by the time Attack Phase begins, a set will be chosen at random for each Battlegroup.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_BUFF_SET",
+      "v": "DEFENSIVE BUFF SETS",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_GLOBAL_BUFFS",
+      "v": "GLOBAL BUFFS",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_ITEM_DESCRIPTION_FORMAT",
+      "v": "[{1}]{0}:[-] {2}",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_DESCRIPTION_NOT_SELECTED",
+      "v": "Alliance Leadership is able to select a Buff Set for each Battlegroup participating in this Alliance War.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_DESCRIPTION_OPPONENT",
+      "v": "The opposing Alliance selected the following Buff Sets for each Battlegroup participating in this Alliance War.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_DESCRIPTION_PLAYER",
+      "v": "Alliance Leadership selected the following Buff Sets for each Battlegroup participating in this Alliance War.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_EDIT_BUFF_SET",
+      "v": "EDIT BUFF SET:",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_EMPTY_BUFF_SET",
+      "v": "Leadership has not yet selected a Buff Set for this Battlegroup.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_HEADER_ALLIANCE",
+      "v": "{0} BUFF SETS",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_HEADER_GENERAL",
+      "v": "ALLIANCE WAR BUFF SETS",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_SELECT_BUFF_SET",
+      "v": "SELECT BUFF SET:",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_POPUP_SUMMARY",
+      "v": "SELECTION SUMMARY",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_POPUP_DESCRIPTION",
+      "v": "Alliance Leadership has selected the following Buff Set for your Battlegroup's Defense Placements.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_POPUP_DESC_PENDING",
+      "v": "Alliance Leadership has not yet selected a Buff Set for this Battlegroup's Defense Placements.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_POPUP_HEADER",
+      "v": "ALLIANCE WAR BUFF SET",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_POPUP_HEADER_GROUP",
+      "v": "BATTLEGROUP {0} BUFF SET",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_POPUP_OPPONENT",
+      "v": "The opposing Alliance has selected the following Buff Set to defend with.",
+      "vn": 22
+    },
+    {
+      "k": "ID_WARBUFF_VIEW_SET",
+      "v": "VIEW SETS",
+      "vn": 22
     }
   ]
 }

@@ -6,11 +6,11 @@
       "misc",
       "client"
     ],
-    "hash": "548029bfbac2dd33dd39c80b705176a91c75044e",
+    "hash": "2a8de5501c977af1b403fe7808bdb7f2d9e62b7a",
     "ts": 1547168832,
     "string_count": 383,
     "post_processed": true,
-    "versionLock": "21.3"
+    "versionLock": "22.0"
   },
   "strings": [
     {
@@ -371,6 +371,11 @@
       "v": "CONFIRM"
     },
     {
+      "k": "ID_UI_COMMON_CONFIRM_EDIT",
+      "v": "CONFIRM EDIT",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_COMMON_CONFIRM_SELECTION",
       "v": "CONFIRM SELECTION",
       "vn": 19
@@ -624,6 +629,11 @@
       "v": "ON SALE!"
     },
     {
+      "k": "ID_UI_COMMON_OPTOUT",
+      "v": "OPT OUT",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_COMMON_OR",
       "v": "OR"
     },
@@ -715,6 +725,16 @@
     {
       "k": "ID_UI_COMMON_SALE_PRICE",
       "v": "SALE PRICE!"
+    },
+    {
+      "k": "ID_UI_COMMON_SAVE_AND_NEXT",
+      "v": "SAVE & NEXT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_COMMON_SAVE_CHANGE",
+      "v": "SAVE CHANGE",
+      "vn": 22
     },
     {
       "k": "ID_UI_COMMON_SCORE",

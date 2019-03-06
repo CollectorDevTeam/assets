@@ -6,11 +6,11 @@
       "tutorials",
       "client"
     ],
-    "hash": "de82693097d8ebc210b28bb3d18fb36f2a45c830",
-    "ts": 1545098031,
-    "string_count": 183,
+    "hash": "bc0f576802d0161b33dad2fe38f99eddaae2a8e8",
+    "ts": 1547760910,
+    "string_count": 185,
     "post_processed": true,
-    "versionLock": "21.3"
+    "versionLock": "22.0"
   },
   "strings": [
     {
@@ -20,6 +20,11 @@
     {
       "k": "ID_TUT_ALLIANCE",
       "v": "Join an Alliance!\r\nCombine forces with other Summoners and earn exclusive rewards."
+    },
+    {
+      "k": "ID_TUT_ALLIANCE_AUTOJOIN_0",
+      "v": "This is the Auto-Join Alliance screen where we can match you up with a suitable Alliance if you are currently not in one! \n\nTap here to find and join an Alliance now!",
+      "vn": 22
     },
     {
       "k": "ID_TUT_ALLIANCE_BANK_0",
@@ -599,6 +604,16 @@
     {
       "k": "ID_TUT_REVIVE_PROMPT",
       "v": "Your Champion is KNOCKED OUT!\nYou can get them fighting again with\na REVIVE POTION."
+    },
+    {
+      "k": "ID_TUT_ROTATING_BUFFS_DESCRIPTION",
+      "v": "During Placement Phase your Alliance Leadership must select a Buff Set to affect each Battlegroup during this Alliance War.\n\nThe selections can be changed until Attack Phase begins. If no choices are made, Buff Sets will be chosen at random.\n\nTap to view or edit the available Buff Sets.",
+      "vn": 22
+    },
+    {
+      "k": "ID_TUT_ROTATING_BUFFS_TITLE",
+      "v": "ROTATING GLOBAL BUFFS",
+      "vn": 22
     },
     {
       "k": "ID_TUT_SECONDS",

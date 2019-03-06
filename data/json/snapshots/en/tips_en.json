@@ -6,11 +6,9 @@
       "tips",
       "client"
     ],
-    "hash": "b08a697f5484fd11c5f316659b57db7f72517c81",
-    "ts": 1547364982,
-    "string_count": 214,
-    "post_processed": true,
-    "versionLock": "21.3"
+    "hash": "24f293d8bee4cdcce6a8e84b19a56493e9cf36fb",
+    "ts": 1547484843,
+    "string_count": 216
   },
   "strings": [
     {
@@ -46,6 +44,16 @@
       "k": "ID_UI_INFOTIP_AVE_DESC",
       "v": "Glory is earned by participating in Alliance Quests. Redeem Glory for rare Upgrade Items in the Store.",
       "vn": 13
+    },
+    {
+      "k": "ID_UI_INFOTIP_AVE_MAP_REWARDS",
+      "v": "Each Map offers different rewards on top of just points, such as Map Crystals containing valuable resources. Earn these rewards daily by completing and exploring Alliance Quest Maps.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_INFOTIP_AVE_RANK_REWARDS",
+      "v": "At the end of the Event, Alliances will be ranked according to their total points. Play more challenging Alliance Quest Maps to earn more points and reach higher ranks!",
+      "vn": 22
     },
     {
       "k": "ID_UI_INFOTIP_AVE_SELECTION_DIFFICULTY",
@@ -674,6 +682,11 @@
     {
       "k": "ID_UI_LOADTIP_97",
       "v": "Individual effectiveness in Alliance Wars is represented by a percentage. The greater the percentage, the more that player contributed relative to others!"
+    },
+    {
+      "k": "ID_UI_LOADTIP_98",
+      "v": "Reminder: Sharing accounts with third parties can lead to your account being stolen or closed. Stay safe Summoner and keep The Contest fair!",
+      "vn": 22
     },
     {
       "k": "ID_UI_ODR_HINT_0",

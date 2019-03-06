@@ -6,11 +6,11 @@
       "bcg",
       "client"
     ],
-    "hash": "11767f1298e93857a1f2039d1f260bf88b57c8c5",
-    "ts": 1548282290,
-    "string_count": 972,
+    "hash": "dea3fd92676c028dcbd1f2f639ea38b1aa6e9729",
+    "ts": 1550188167,
+    "string_count": 988,
     "post_processed": true,
-    "versionLock": "21.3"
+    "versionLock": "22.0"
   },
   "strings": [
     {
@@ -1667,6 +1667,41 @@
       "vn": "20.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_EVADE",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, the first 3 unblocked hits from the Opponent have 100% chance to be Evaded. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_EXTREME",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with any Coldsnap, Frost Bite or Incinerate effect he will drop an Extreme Conditions Kit, granting Debuff Immunity for {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_FIREPOWER",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, when the fight starts he grants his teammates a Buff doubling their Critical Rating for {0} seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_NFURY",
+      "v": "[64acff]All Hero Champions except Nick:[-] {0}% Attack Rating. This boost is doubled if Nick is Dead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_POTENCY",
+      "v": "All Champions: If Nick is alive, all Fury Buffs have {0}% increased duration, including his own. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_POWER",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is affected by a Power Steal, Power Lock or Power Drain effect he will drop a Power Kit, Removing the effect and granting 1 bar of power over {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_RESTORE",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with a Bleed, Poison or Shock Debuff he will drop a Restoration Kit, Purifying the Debuff and Regenerating {0}% of their max health over 3 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DESC_OFFLIMITS",
       "v": "[64acff]Hulk (Ragnarok):[-] Hulk's chance to SMASH on All Attacks increases by {0}% while Face Me is active.\n[64acff]Hela:[-] Hela begins the fight with 1 Fury Buff, and if she is ever without a Fury Buff for 10 seconds, she gains one.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 17
@@ -1795,7 +1830,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_THING_FURY",
-      "v": "[64acff]Champions other than Thing:[-] If the Opponent is hit by the first hit of Special Attack 1, gain a Fury Buff for 6 seconds, increasing Attack by {0}% of Base Attack.\nThis effect is doubled if all other Champions in this Synergy are present.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Champions other than Thing:[-] The last hit of Special Attack 2 grants a Fury Buff for 6 seconds, increasing Attack by {0}% of Base Attack.\\nThis effect is doubled if all other Champions in this Synergy are present.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.2"
     },
     {
@@ -2431,6 +2466,41 @@
     {
       "k": "ID_UI_HERO_SYNERGY_NEMESIS_III",
       "v": "NEMESIS Lv. 3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_EVADE",
+      "v": "STRATEGIC SABOTAGE",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_EXTREME",
+      "v": "EXTREME CONDITIONS KIT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_FIREPOWER",
+      "v": "INCREASED FIREPOWER",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_NFURY",
+      "v": "NICK'S LEADERSHIP",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_POTENCY",
+      "v": "CONTINGENCY PLAN",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_POWER",
+      "v": "POWER KIT",
+      "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NFURY_RESTORE",
+      "v": "RESTORATION KIT",
+      "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_NIGHTHAWKS",

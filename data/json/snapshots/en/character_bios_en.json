@@ -6,8 +6,8 @@
       "character_bios",
       "client"
     ],
-    "hash": "6a105cd10d8000ecf88fd542083be8b77201fe0d",
-    "ts": 1548364058,
+    "hash": "416c54096bb7158dce77eb5c7ac4660345056634",
+    "ts": 1550096972,
     "string_count": 154
   },
   "strings": [
@@ -28,6 +28,11 @@
       "k": "ID_CHARACTER_BIOS_ANGELA",
       "v": "Leader of the Hunt, Guardian of the Galaxy, Queen of Hel, Angel, Goddess. Angela is a woman of many titles. Born Aldrif Odinsdottir, the first child of Freyja and Odin, but raised as Angela by Loriel, handmaiden to the Queen of Angels, she has battled her way across the Galaxy. Now Angela has come to the Contest, perhaps the greatest challenge of martial skill and strength to be found in the Nine Realms, and beyond.",
       "vn": "12.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_ANNIHLUS",
+      "v": "Bugmaaaan dun nu nu nu nu nu nu BUG MAAAAN!",
+      "vn": "21.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_ANTMAN",
@@ -113,11 +118,6 @@
     {
       "k": "ID_CHARACTER_BIOS_COLOSSUS_UNSTOPPABLE",
       "v": "During an event known as Fear Itself, the X-Man known as Colossus touched the Crimson Gem of the demon Cyttorak, gaining the demon’s favor in place of his sister Magik. Attaining the same Mystical power that enhanced Juggernaut, Russia’s favorite mutant hero became an Unstoppable artist of destruction."
-    },
-    {
-      "k": "ID_CHARACTER_BIOS_CORVUSGLAIVE",
-      "v": "Corvus Glaive is Thanos’ right-hand man and the sly, cunning lieutenant of his army. The only thing deadlier than this master strategist’s tactical mind is the halberd he yields to swiftly slice through his enemies.",
-      "vn": "17.2"
     },
     {
       "k": "ID_CHARACTER_BIOS_CROSSBONES",

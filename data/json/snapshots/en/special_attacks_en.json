@@ -6,11 +6,11 @@
       "special_attacks",
       "client"
     ],
-    "hash": "f860c34254670fdb69c97be08f7d01628d278b50",
-    "ts": 1547522473,
-    "string_count": 926,
+    "hash": "fe60c6d5a793c811662bbc302195ac133b665860",
+    "ts": 1541723400,
+    "string_count": 904,
     "post_processed": true,
-    "versionLock": "21.3"
+    "versionLock": "21.1"
   },
   "strings": [
     {
@@ -886,21 +886,6 @@
       "v": "I'm calling that red-suited imposter!"
     },
     {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_0",
-      "v": "Splashing the opponent with a scalding elixir, Diablo creates enough space to drink the remainder to heal his wounds.",
-      "vn": "21.2"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_1",
-      "v": "A special mixture spawns a wave of arcane energy to engulf Diablo’s foe.",
-      "vn": "21.2"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_2",
-      "v": "Experimentation yields power, as Diablo quaffs an unknown set of elixirs then lets fly with a barrage of arcane might.",
-      "vn": "21.2"
-    },
-    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DOCTORSTRANGE_0",
       "v": "A humble beginning to any wizard's duel."
     },
@@ -1128,21 +1113,6 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GWENPOOL_2",
       "v": "In the immortal words of anyone about to do something really cool, that in no way could go horribly wrong!."
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_0",
-      "v": "Havok releases waves of raw plasma energy, to batter his foes while building up dangerous levels of residual energy in their very cells.",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_1",
-      "v": "Havok harnesses the energy within himself, propelling into the air before releasing a blast of plasma channeled directly towards his opponent.",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_2",
-      "v": "Nearly losing control Havok burns bright enough to compete with the very stars, before unleashing a devastating series of plasma blasts!",
-      "vn": "21.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAWKEYE_0",
@@ -1615,21 +1585,6 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MEPHISTO_2",
       "v": "Mephisto manipulates reality to shrink his opponent, swallowing them in order to drain their Power and spitting them out when he is done.",
       "vn": "15.1"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_0",
-      "v": "Mister Sinister sends a pulse of energy, infusing his opponent with faulty genetic material.",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_1",
-      "v": "Disabling several important genes can render the opponent powerless, in this case, it also leaves the opponent in a catatonic state.",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_2",
-      "v": "Once an exciting genetic structure is discovered, Mister Sinister takes great pleasure negating its beneficial effects and extracting its essence for himself.",
-      "vn": "21.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MODOK_0",
@@ -2425,21 +2380,6 @@
       "vn": 13
     },
     {
-      "k": "ID_SPECIAL_ATTACK_DIABLO_0",
-      "v": "Double-Edged Elixir",
-      "vn": "21.2"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DIABLO_1",
-      "v": "Whelming Surge",
-      "vn": "21.2"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DIABLO_2",
-      "v": "Epic Experimentation",
-      "vn": "21.2"
-    },
-    {
       "k": "ID_SPECIAL_ATTACK_DOCTORSTRANGE_0",
       "v": "Magic Missile"
     },
@@ -2669,21 +2609,6 @@
     {
       "k": "ID_SPECIAL_ATTACK_GWENPOOL_2",
       "v": "Watch This!"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_HAVOK_0",
-      "v": "Blast Waves",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_HAVOK_1",
-      "v": "Focused Blast",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_HAVOK_2",
-      "v": "Overwhelming Power",
-      "vn": "21.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_HAWKEYE_0",
@@ -3157,21 +3082,6 @@
       "vn": "15.1"
     },
     {
-      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_0",
-      "v": "Genetic Disruption",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_1",
-      "v": "Genetic Negation",
-      "vn": "21.3"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_2",
-      "v": "Genetic Extraction",
-      "vn": "21.3"
-    },
-    {
       "k": "ID_SPECIAL_ATTACK_MODOK_0",
       "v": "SILENCE!",
       "vn": "16.1"
@@ -3384,6 +3294,10 @@
     {
       "k": "ID_SPECIAL_ATTACK_ROGUE_0",
       "v": "Skin-to-skin"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_ROGUE_1",
+      "v": "Face Punch"
     },
     {
       "k": "ID_SPECIAL_ATTACK_ROGUE_2",

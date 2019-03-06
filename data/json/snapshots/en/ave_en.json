@@ -6,11 +6,9 @@
       "ave",
       "client"
     ],
-    "hash": "f77582781282a9bce01ef7a90b4a4fcd43209342",
-    "ts": 1546566016,
-    "string_count": 413,
-    "post_processed": true,
-    "versionLock": "21.3"
+    "hash": "4903fbc52ae2d4e07b51f865c65d2efe35fcdbc0",
+    "ts": 1547852276,
+    "string_count": 414
   },
   "strings": [
     {
@@ -614,6 +612,11 @@
     {
       "k": "ID_UI_AVA_QUESTBOARD_VIEW_BASE",
       "v": "VIEW BASE"
+    },
+    {
+      "k": "ID_UI_AVA_QUESTBOARD_VIEW_DEFENSE",
+      "v": "VIEW DEFENSE",
+      "vn": 22
     },
     {
       "k": "ID_UI_AVA_QUESTBOARD_WAR_PROGRESS",
@@ -1419,6 +1422,11 @@
     {
       "k": "ID_UI_BATTLEGROUP_TEAM_INFO",
       "v": "TEAM INFO"
+    },
+    {
+      "k": "ID_UI_HOWTO_ADVANCEDGUIDE_DESC",
+      "v": "Toggle to get more detail",
+      "vn": 22
     },
     {
       "k": "ID_UI_HOWTO_ADVANCED_DESC",

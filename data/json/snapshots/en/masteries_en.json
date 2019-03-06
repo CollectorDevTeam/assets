@@ -6,8 +6,8 @@
       "masteries",
       "client"
     ],
-    "hash": "5b3972c277a41686a0bd9e5c5128878d1ac3b63d",
-    "ts": 1537812580,
+    "hash": "a9da018fb8848bbbf390f4e9e2c7d7239c52c821",
+    "ts": 1550171423,
     "string_count": 138
   },
   "strings": [
@@ -434,7 +434,7 @@
     },
     {
       "k": "ID_UI_MASTERIES_RECOVER_UTILITY",
-      "v": "RECOVER ALL UTILITY POINTS"
+      "v": "RECOVER ALL  PROFICIENCY POINTS"
     },
     {
       "k": "ID_UI_MASTERIES_REQ_CLASS",
