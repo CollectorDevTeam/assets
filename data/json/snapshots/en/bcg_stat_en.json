@@ -6,11 +6,11 @@
       "bcg_stat",
       "client"
     ],
-    "hash": "8da4230d2a2a36eb6024417c4e3541af098ab498",
-    "ts": 1550785948,
-    "string_count": 5915,
+    "hash": "7c03aa3439ecd5bc7fb6743c2d385fca2b2301a4",
+    "ts": 1553550878,
+    "string_count": 6354,
     "post_processed": true,
-    "versionLock": "22.0"
+    "versionLock": "22.1"
   },
   "strings": [
     {
@@ -369,6 +369,156 @@
       "vn": 19
     },
     {
+      "k": "ID_AVOIDD",
+      "v": "Avoids all incoming attacks except for Special Attack 3.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVOIDT",
+      "v": "Avoidance",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_AEGIS_HVY_DESC",
+      "v": "Start the fight with Indestructible charges. Being Struck by Heavy Attacks removes 1 charge.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_AEGIS_HVY_TITLE",
+      "v": "Aegis (Intercept)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_AEGIS_INTERCEPT_DESC",
+      "v": "Start the fight with Indestructible charges. Dash Attacks from this champion that are Intercepted remove 1 charge.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_AEGIS_INTERCEPT_TITLE",
+      "v": "Aegis (Intercept)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BEST_DEF_DESC",
+      "v": "Gain Evade and Auto-Block Ability Accuracy. Triggering Evade or Auto-Block grants the Defender Power.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BEST_DEF_TITLE",
+      "v": "The Best Defense…",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_BOOST_ARM_UP_DESC",
+      "v": "Armor Up Buffs gain duration and Abilty Accuracy. When struck with a Critical Hit, remove 1 Armor Up Buff to reduce the damage to 0.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_BOOST_ARM_UP_TITLE",
+      "v": "Boost Buff (Armor Up)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_BOOST_UNSTOP_PAUSE_DESC",
+      "v": "Unstoppable Buffs gain duration and Abilty Accuracy. While an Unstoppable Buff is active, this character fights more aggressively.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_BOOST_UNSTOP_PAUSE_TITLE",
+      "v": "Buff Boost (Unstoppable)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_TOGGLE_UNBLK_DESC",
+      "v": "Every few seconds, gain an Unblockable Buff.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_TOGGLE_UNBLK_TITLE",
+      "v": "Buff Toggle (Unblockable)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_TOGGLE_UNSTOP_PAUSE_DESC",
+      "v": "Every few seconds, gain an Unstoppable Buff.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_BUFF_TOGGLE_UNSTOP_PAUSE_TITLE",
+      "v": "Buff Toggle (Unstoppable)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_CONFUSN_1_DESC",
+      "v": "Inflicts Reversed Controls every few seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_CONFUSN_1_TITLE",
+      "v": "Confusion",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_CONFUSN_2_DESC",
+      "v": "Inflicts Reversed Controls every few seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_CONFUSN_2_TITLE",
+      "v": "Greater Confusion",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_INVERT_IMM_BLEED_PAUSE_DESC",
+      "v": "Receive a Bleed Debuff every few seconds, dealing 0 damage. If this Debuff is removed or prevented from activating, the opponent instead loses Health instantly.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_INVERT_IMM_BLEED_PAUSE_TITLE",
+      "v": "Inverted Immunity (Bleed)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PSYCH_THORNS_PAUSE_DESC",
+      "v": "When Struck with a Physical Contact attack, deal direct damage and heals a short amount when Struck with any Non-Contact attack.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PSYCH_THORNS_PAUSE_TITLE",
+      "v": "Psychic Thorns",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PWR_FOCUS_1_PAUSE_DESC",
+      "v": "Gains Power Rate while below 1 Bar of Power, but suffers lower Power Rate while above.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PWR_FOCUS_1_PAUSE_TITLE",
+      "v": "Power Focus 1",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PWR_FOCUS_2_PAUSE_DESC",
+      "v": "Gains Power Rate while below 2 Bars of Power, but suffers lower Power Rate while above.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_PWR_FOCUS_2_PAUSE_TITLE",
+      "v": "Power Focus 2",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_QCK_NULLIFY_REGEN_PAUSE_DESC",
+      "v": "Whenever a Regeneration Buff is gained it is Nullified after a short duration.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_AVX_QCK_NULLIFY_REGEN_PAUSE_TITLE",
+      "v": "Quick Nullify (Regen)",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_BACSD",
       "v": "Opponents gain less Power when striking or getting struck by Beast.",
       "vn": "19.1"
@@ -380,7 +530,7 @@
     },
     {
       "k": "ID_BAER75T",
-      "v": "[b4b4b4ff]Bane Timer[-]",
+      "v": "[b4b4b4ff]Brute Force Timer[-]",
       "vn": 19
     },
     {
@@ -665,7 +815,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_CORVUSGLAIVE",
-      "v": "Corvus Glaive is Thanos’ right-hand man and the sly, cunning lieutenant of his army. The only thing deadlier than this master strategist’s tactical mind is the halberd he yields to swiftly slice through his enemies.",
+      "v": "Corvus Glaive is Thanos’ right-hand man and the sly, cunning lieutenant of his army. The only thing deadlier than this master strategist’s tactical mind is the halberd he wields to swiftly slice through his enemies.",
       "vn": "17.2"
     },
     {
@@ -677,6 +827,11 @@
       "k": "ID_CHARACTER_BIOS_GHOST",
       "v": "You can't fight what you don't know, and nobody seems to know anything about who Ghost is or how she can do the things she can do. Feared and admired in the criminal underworld for her ability to phase through solid walls, Ghost's true intentions are as elusive as she is, though one thing is for sure: she's interested in getting her hands on all the Pym Tech she can find. Her advanced technology combined with her skill in combat make her a force to be reckoned with.​",
       "vn": 19
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_HUMANTORCH",
+      "v": "Hot-headed Johnny Storm was one of four people on the space flight accident that gave rise to the Fantastic Four. After their ship was bathed in cosmic radiation, Johnny gained the ability to create and control fire. In addition to generating powerful blasts of flame, he can envelop his body in plasma, giving him the ability to fly. Now dubbed \"Human Torch\", he and the rest of the Fantastic Four are taking the Contest by storm. Flame On!",
+      "vn": "22.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_NICKFURY",
@@ -892,6 +1047,21 @@
       "k": "ID_COTY38T",
       "v": "[b4b4b4ff]Collector's Immunity[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_COUNTD1",
+      "v": "1…",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_COUNTD2",
+      "v": "2…",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_COUNTD3",
+      "v": "3…",
+      "vn": "22.1"
     },
     {
       "k": "ID_CREL209D",
@@ -1584,6 +1754,11 @@
       "vn": 19
     },
     {
+      "k": "ID_FIGHT",
+      "v": "FIGHT !",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_FR149D",
       "v": "Freestyle Chain 1. Perform a Medium Attack next.",
       "vn": 19
@@ -1914,6 +2089,11 @@
       "vn": 19
     },
     {
+      "k": "ID_HITMYSELF",
+      "v": "STOP HITTING MYSELF !",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_HOMO98D",
       "v": "Attacks inflict longer Bleed.",
       "vn": 19
@@ -2112,6 +2292,11 @@
       "k": "ID_INTY100T",
       "v": "[b4b4b4ff]Invisibility[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_INV2D",
+      "v": "Tapping on the right side of the screen causes your Champion to Block instead of attack, and vice versa.",
+      "vn": "22.1"
     },
     {
       "k": "ID_ISER8217D",
@@ -2829,6 +3014,16 @@
       "vn": 19
     },
     {
+      "k": "ID_PF_TORCH_DESC",
+      "v": "All of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional [16982bff]+75%[-] damage. This ability does not stack.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PF_TORCH_TITLE",
+      "v": "FLAME ON!",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_PHASE_D",
       "v": "Incoming attacks Miss and Damage Over Time Debuffs convert to Fury Passives.",
       "vn": 19
@@ -3243,6 +3438,26 @@
       "vn": "20.1"
     },
     {
+      "k": "ID_PVE1PD",
+      "v": "One Punch",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE1PT",
+      "v": "100 Push Ups, 100 Sit Ups, 100 Squats, 10 Kilometer Run.\nEVERY.\nSINGLE.\nDAY.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE404D",
+      "v": "You agree not to#58Use, develop;,or distribute any unauthorized script, unauthorized scraper, scrapper, online or offline reader, or any other cheat, exploit, mod, bot, hack, hax, or any Third Party Platfo&##!",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE404T",
+      "v": "ERROR",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_PVEBCD",
       "v": "Subzero temperatures slowly applies damage over time to Attacker Champions. This Damage increases over the course of a fight.",
       "vn": "21.1"
@@ -3253,6 +3468,16 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_PVEDIDO_PD",
+      "v": "Dimensional Dominion is recharging",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVEDIDO_PT",
+      "v": "Dimensional Dominion Recharge",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_PVEHFD",
       "v": "Incinerates caused by the Attacker deal more damage.",
       "vn": "21.1"
@@ -3261,6 +3486,186 @@
       "k": "ID_PVEHFT",
       "v": "Highly Flammable",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_PVELS_PD",
+      "v": "Attacker heals for a percentage of attack damage dealt.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVELS_PT",
+      "v": "Life Steal",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVEPB_PD",
+      "v": "Drains the opponent's Power and deals direct damage based on the amount drained.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVEPB_PT",
+      "v": "Power Burn",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPD",
+      "v": "You Riposte’d in the wrong neighborhood.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPO1",
+      "v": "MASSIVE DAMAGE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPO2",
+      "v": "BOOP",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPO3",
+      "v": "EN GARDE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPOO1",
+      "v": "OW !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPOO2",
+      "v": "STOP !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPOO3",
+      "v": "THAT HURT !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPOO4",
+      "v": "HUECK !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPOO5",
+      "v": "NO !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVERIPT",
+      "v": "Riposte",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAD",
+      "v": "Did you know you can read all about Buff information before entering a fight? Shocking!",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAT",
+      "v": "Super Armor",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY1",
+      "v": "DIDN’T COUNT !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY10",
+      "v": "ARE YOU THERE?",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY2",
+      "v": "NOPE !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY3",
+      "v": "DON’T THINK SO",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY4",
+      "v": "TRY HARDER",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY5",
+      "v": "GET GOOD",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY6",
+      "v": "NICE TRY",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY7",
+      "v": "OUCH",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY8",
+      "v": "THAT TICKLES !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESAY9",
+      "v": "DON'T HATE !",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESTFRD",
+      "v": "Dashing back again while this timer is active inflicts a passive Degeneration.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVESTFRT",
+      "v": "No Retreat!",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVEUATKD",
+      "v": "I must apologize for Deadpool. He is an idiot. We purposely trained him wrong, as a joke.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVEUATKT",
+      "v": "Unblockable Attack",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_APREV1",
+      "v": "! YRT ECIN",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_APREV2",
+      "v": "! PAWS DNA POTS",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_APREV3",
+      "v": "! LOL",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_APREV4",
+      "v": "! FTW",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_APREV5",
+      "v": "! EVITCARETNI DNA NUF",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_SAWEAK",
+      "v": "MY ONE WEAKNESS !",
+      "vn": "22.1"
     },
     {
       "k": "ID_PWR75D",
@@ -3391,6 +3796,11 @@
       "k": "ID_REVDLYT",
       "v": "Reverberation Recharge",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_REVERSETAP",
+      "v": "INVERTED CONTROLS",
+      "vn": "22.1"
     },
     {
       "k": "ID_RGNCDD",
@@ -3536,6 +3946,16 @@
       "k": "ID_SMDY37T",
       "v": "[b4b4b4ff]SMASH Ready[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_SMOULD",
+      "v": "Improves Human Torch's Temperature and Incinerate abilities.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SMOULT",
+      "v": "Smoulder",
+      "vn": "22.1"
     },
     {
       "k": "ID_SMSH37D",
@@ -3708,6 +4128,21 @@
       "vn": 19
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HUMANTORCH_0",
+      "v": "Human Torch launches balls of fire at his Opponent, then scorches them with a long-range flame blast.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HUMANTORCH_1",
+      "v": "After looping through the air, Human Torch pummels the Opponent with flame-cloaked fists.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HUMANTORCH_2",
+      "v": "Johnny Storm goes supernova, lifting the Opponent into the air with a tornado of fire, before rushing at them and triggering an explosive body-slam.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NFURY_0",
       "v": "Nick throws a tracker onto his opponent, calling in multiple strikes from a helicarrier above.",
       "vn": 22
@@ -3798,6 +4233,11 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERGWEN_0",
+      "v": "A spinning heel kick into double boots to the face which is then topped off with a back-flip for style points.",
+      "vn": 1
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THING_0",
       "v": "Thing rips up the ground, then pummels the Opponent with a pair of boulder boxing gloves.",
       "vn": "21.2"
@@ -3841,6 +4281,21 @@
       "k": "ID_SPECIAL_ATTACK_GHOST_2",
       "v": "Relentless Onslaught",
       "vn": 19
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HUMANTORCH_0",
+      "v": "Hot Head",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HUMANTORCH_1",
+      "v": "Hotshot",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HUMANTORCH_2",
+      "v": "Supernova",
+      "vn": "22.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_NFURY_0",
@@ -3936,6 +4391,11 @@
       "k": "ID_SPECIAL_ATTACK_SENTRY_2",
       "v": "Channel the Void",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SPIDERGWEN_0",
+      "v": "Swingin', Thwippin' & Kickin'",
+      "vn": 1
     },
     {
       "k": "ID_SPECIAL_ATTACK_THING_0",
@@ -5414,6 +5874,11 @@
       "vn": 19
     },
     {
+      "k": "ID_SUDDEATH",
+      "v": "SUDDEN DEATH !",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_SWARPD",
       "v": "At the start of a fight and after every 40 Hits in a Combo, Sentry gains a Reality Warp. Reality Warps stack up to 5 max. Reality Warps are used as a multiplier for his abilities.",
       "vn": "19.1"
@@ -5672,6 +6137,46 @@
       "k": "ID_TMEXWT",
       "v": "Exploit Weakness",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_TORCHLOCKD",
+      "v": "Temperature cannot decrease.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHLOCKT",
+      "v": "Temperature Lock",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHNOVAD",
+      "v": "Inflicts Energy Damage over time, applies Power Sting, sets Block proficiency to 0, and removes Perfect Block chance.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHNOVAT",
+      "v": "Nova Flame",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHSTATED",
+      "v": "Apply Nova Flame Passives instead of Incinerate Debuffs.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHSTATET",
+      "v": "Nova Form",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHTEMPD",
+      "v": "Increases the duration of Human Torch's Incinerate and Nova Flame effects.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TORCHTEMPT",
+      "v": "Temperature",
+      "vn": "22.1"
     },
     {
       "k": "ID_TRER194D",
@@ -6309,6 +6814,11 @@
       "k": "ID_UI_HERO_SYNERGY_PARTNERS_IN_SHIELD_LONG",
       "v": "[64acff]Captain Marvel:[-] Each Energy Charge lasts an additional 1 second while in Binary Ignition.\n[64acff] Nick Fury:[-] Each Tactical Advantage charge lasts an additional 1 second.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_PROXIMA_ADVANCEDTECH_LONG_FIX",
+      "v": "[64acff]Wasp:[-] When she intercepts the opponent’s Dash Attack and Petrify is not active on the opponent, a Petrify Debuff is inflicted, reducing Regeneration and Power Gain Rate by a flat 100% for 8 seconds. This can activate 3 times in a fight. \n[64acff]Iron Man, Iron Man(Infinity War):[-] Armor Up effects last for an additional {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
@@ -8231,6 +8741,31 @@
       "v": "[ff390dff]Replicate V[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_COSMIC_SHORT",
+      "v": "Cosmic Control Rod",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COSR_PAUSE",
+      "v": "Greatly enhances Annihilus' Offensive and Defensive capabilites.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COSR_PAUSE_TITLE",
+      "v": "Cosmic Control Rod",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COSR_REMOVED_PAUSE",
+      "v": "Time remaining before the Cosmic Control Rod Buff returns",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COSR_REMOVED_PAUSE_TITLE",
+      "v": "Cosmic Control Rod Timer",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_COUNT_1",
       "v": "1"
     },
@@ -9436,6 +9971,15 @@
       "v": "{0}% chance to Armor Break, removing enemy Armor and applying [16982bff]{1}%[-] Armor reduction for [16982bff]{2}[-] seconds."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_AO",
+      "v": "{0}% chance to Armor Break, removing an enemy Armor Up and applying [16982bff]{1}[-] Armor Rating reduction for {2} seconds."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_AO2",
+      "v": "{0}% chance to inflict an Armor Break Debuff, removing 1 Armor Up Buff and reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_ATK",
       "v": "This attack pierces [16982bff]{1}%[-] of the target's Armor."
     },
@@ -9509,6 +10053,15 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP",
       "v": "[16982bff]{0}%[-] chance to Armor Up, reducing damage from attacks by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds.",
       "vn": "11.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP_AO",
+      "v": "[16982bff]{0}%[-] chance to Armor Up, increasing Armor Rating by [16982bff]{1}[-] for [16982bff]{2}[-] seconds."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP_AO2",
+      "v": "{0}% chance to gain an Armor Up Buff for {2} seconds, granting [16982bff]+{1}[-] Armor Rating.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_UP_CW",
@@ -10000,9 +10553,23 @@
       "v": "[b4b4b4ff]Final Strike[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FLAMEON",
+      "v": "FLAME ON!",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY",
       "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds.",
       "vn": "11.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY_AO",
+      "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}[-] for [16982bff]{2}[-] seconds."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY_AO2",
+      "v": "{0}% chance to gain a Fury Buff for {2} seconds, granting [16982bff]+{1}[-] Attack.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_FURY_CHANCE_HPLOST",
@@ -10599,6 +11166,11 @@
       "v": "Normal attacks deal Energy Damage instead of Physical."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NORMALATTACK_ENERGY_V2",
+      "v": "Basic attacks deal Energy Damage instead of Physical.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NULLIFY",
       "v": "[16982bff]{0}%[-] chance to Nullify, removing all positive status effects from opponents."
     },
@@ -10671,6 +11243,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PARALYZE",
       "v": "This attack has a [16982bff]{0}%[-] chance to Paralyze the opponent for {2} seconds, Stunning them and reducing their Power and Health gains by [16982bff]{1}%[-]."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PARALYZE_FIX",
+      "v": "{0}% chance to inflict a Paralyze Debuff for {2} seconds, Stunning the opponent and reducing their Power and Regeneration rate by {1}%.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PARALYZE_HUD",
@@ -11195,6 +11772,21 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_SYMSSF_HUD",
       "v": "SET'S FANGS",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TEMPHUD_H",
+      "v": "MAX TEMPERATURE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TEMPHUD_L",
+      "v": "LOW TEMPERATURE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TEMPHUD_M",
+      "v": "MEDIUM TEMPERATURE",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_TENACITY",
@@ -12713,6 +13305,11 @@
       "v": "[b310e8]ISO Loader VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_ITSMINE_SHORT",
+      "v": "IT'S MIIIIINE--!",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT",
       "v": "Ghost Rider can see his opponent’s transgressions and place Judgments upon them. Each Judgement can only be applied once and lasts indefinitely."
     },
@@ -13325,6 +13922,11 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_MISSFUR_HUD",
+      "v": "CRETIN!",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_MISSILE",
       "v": "This attack may deal up to [16982bff]{1}%[-] additional damage and recover up to [16982bff]{0}%[-] Power at random."
     },
@@ -13741,6 +14343,11 @@
       "vn": "11.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_NOVAINCINERATE",
+      "v": "Nova Flame",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_NT_CONV",
       "v": "Each time Archangel triggers a Bleed effect on an opponent with an active Poison effect that he caused, they are combined, converting into a Neurotoxin charge, lasting {2} seconds."
     },
@@ -13759,6 +14366,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_NT_STN",
       "v": "On expiry Neurotoxins have a {0}% Chance to Stun their target for {2} seconds. This effect will not interrupt a Special Attack."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NULLIFY_COUNTER_HUD",
+      "v": "NULLIFY COUNTERED",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_NULLIFY_HUD",
@@ -13791,6 +14403,26 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_NULLIFY_VII",
       "v": "[b310e8]Nullify VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_OBLITERATE_HUD",
+      "v": "OBLITERATED",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_OBLITERATE_PAUSE",
+      "v": "Reduces Armor Rating and Offensive Power Gain.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_OBLITERATE_PAUSE_TITLE",
+      "v": "Obliteration",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_OBLITERATION_SHORT",
+      "v": "Obliteration",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_OMNOM",
@@ -14346,6 +14978,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PRECISION_HUD",
       "v": "PRECISION"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_PREFIGHT",
+      "v": "[EE9700FF]Pre-Fight Ability[-]",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PRESMORDO",
@@ -15185,6 +15822,11 @@
       "vn": 14
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_SMASH_HUD",
+      "v": "FILTHY MONGREL APE!",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_SMASH_SHORT",
       "v": "SMASH",
       "vn": 17
@@ -15511,6 +16153,26 @@
       "v": "[b310e8]Power Steal VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_STIFLE_HUD",
+      "v": "STIFLE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STIFLE_PAUSE",
+      "v": "Reduces Offensive Power Gain",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STIFLE_PAUSE_TITLE",
+      "v": "Stifle",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_STIFLE_SHORT",
+      "v": "Stifle",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_STUN_ARMOR",
       "v": "This attack has a [16982bff]{0}%[-] chance to Stun the opponent for [16982bff]{2}[-] seconds. The chance to Stun increases based on how low the opponent’s Armor is."
     },
@@ -15721,6 +16383,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TASKMASTER_SP3_C",
       "v": "This attack gains [16982bff]+{1}[-] Attack for each Buff or Debuff active on either Taskmaster or his Opponent.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TEMP",
+      "v": "Temperature",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TENACITY",
@@ -15998,6 +16665,11 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_EXOSKEL",
+      "v": "Chitinous Exoskeleton",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_EXPLOITWEAKNESS",
       "v": "Exploit Weakness - Passive",
       "vn": "16.1"
@@ -16103,6 +16775,11 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INCIN",
+      "v": "Incinerate",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INDUCEPANIC",
       "v": "Induce Panic",
       "vn": "21.3"
@@ -16186,6 +16863,16 @@
       "v": "Passive"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_FORM",
+      "v": "Nova Form",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_INCIN",
+      "v": "Nova Flame",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NULLREGEN",
       "v": "Null Space Regen",
       "vn": "21.1"
@@ -16225,6 +16912,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONATKSTUN",
       "v": "When an Attack Inflicts a Stun",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONATTACKCONTACT",
+      "v": "When Attacked - Contact",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONATTACKRECEIVED",
@@ -16281,6 +16973,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBLOCKED",
       "v": "When Blocked"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBLOCKORATTACK",
+      "v": "When Blocking or Attacked",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONBLOCKRESOLVED",
@@ -16767,6 +17464,11 @@
       "vn": 15
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PFTORCH",
+      "v": "[EE9700FF]Flame On! - Pre-Fight Ability[-]",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PHOTOREFLEXES",
       "v": "Photographic Reflexes - Passive",
       "vn": "16.1"
@@ -16852,6 +17554,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TELEPATH_HVY",
       "v": "Heavy Attack - Telepath Form",
       "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TEMP",
+      "v": "Temperature",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TENTHIT",
@@ -16978,6 +17685,21 @@
       "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_I",
       "v": "Unblockable",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_SPECIALS_HUD",
+      "v": "UNBLOCKABLE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_SPECIALS_PAUSE",
+      "v": "Backdashing While Obliterated makes Annihilus Unblockable",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_UNBLOCKABLE_SPECIALS_PAUSE_TITLE",
+      "v": "Unblockable",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_UNSTOPPABLE_PASSIVE",
@@ -17650,6 +18372,381 @@
       "v": "[b4b4b4ff]Agility Debuff[-]"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_ANNI_BLKPEN_PAUSE",
+      "v": "Attacks ignore a portion of the Opponents Block Proficiency",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COR_NULL",
+      "v": "The Cosmic Control Rod Purifies any Nullify, Fate Seal, or Stagger effects. After this Ability is Activated, the Cosmic Control Rod is Removed.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COR_SPCOST",
+      "v": "Specials cost {1}% less Power for each Stifle on the Opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSRMV",
+      "v": "Until the Cosmic Control Rod is returned, these Buffs are reapplied every time they Expire or are otherwise Removed.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSRRMV",
+      "v": "Whenever the Cosmic Control Rod is removed, Annihilus gains {0} Fury Buffs each increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_ARM",
+      "v": "Annihilus' Armor Rating is increased by [16982bff]{1}[-] for every Stifle on the Opponent",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_BONUS",
+      "v": "All attacks have a {0}% chance to be Obliterating Strikes. Chance increases to {1}% if Annihlus has Class Advantage.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_COOL",
+      "v": "If removed, the Cosmic Control Rod returns after {2} seconds. If the opponent has Class Advantage, this buff is Nullified when Annihilus is struck by Heavy Attacks or Unblockable Specials.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_DESC",
+      "v": "The Cosmic Control Rod grants the following abilities.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_FUR",
+      "v": "Passive Prowess, boosting Special Attack Damage by {0}% for every Obliteration on the opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_FURY",
+      "v": "Passive Fury, boosting Attack Damage by {0}% (max {1}%). This bonus is reset every time Annihlus activates a Special Attack or the Cosmic Control Rod is removed.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_IMM",
+      "v": "Immune to Incinerate, Frostbite, Coldsnap, and any effect that lowers or locks Power.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_NULL",
+      "v": "Other buffs cannot be removed by Nullifies, Fate Seals, or Staggers.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_OBLIT",
+      "v": "While the Cosmic Control Rod is active, all Attacks have a {1}% chance to be an Obliterating Strike.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_PROTEC",
+      "v": "Whenever any Buff would be removed by a Nullify, Fate Seal, or Stagger, the effect is Purified and the Cosmic Control Rod is removed for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_PROW",
+      "v": "Critical Rating increases by [16982bff]{1}[-] for every Obliteration on the opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_TELE",
+      "v": "While under the effects of Taunt, Annihilus suffers no Attack Rating reduction, Special Attacks are Unblockable, and have True Strike.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_TNT",
+      "v": "While Taunted, gain True Accuracy, Unblockable, and Unstoppable.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_TRIGG",
+      "v": "Annihilus gains the Cosmic Control Rod at the Start of the Fight.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_CRITRES",
+      "v": "Annihilus powerful exoskeleton lowers the opponents Critical Damage by up to {1}% based on the percentage of his remaining health. ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_EXO",
+      "v": "When attacked by Physical Contact Attacks, Annihilus has a {0}% Chance to Apply an Obliteration on his Opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_HVY",
+      "v": "Inflict 2 Armor Breaks on the Opponent, each reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_ITMINE",
+      "v": "When the Cosmic Control Rod is Removed, Annihlus gains 3 Fury Buffs, each increasing Attack Rating by [16982bff]{1}[-] for {2} seconds",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_KD",
+      "v": "When Knocking Down his Opponent, Annihilus Removes all Obliterations. Each Obliteration Removed pauses the expiry of Annihilus' Buffs for {1} seconds",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_MFUR",
+      "v": "While the Opponent is Stifled, Annihilus' first Medium Attack in a combo removes 1 Stifle and generates 1 Fury Buff, increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_MINEFURY",
+      "v": "If the Cosmic Control Rod is Removed. Annihlus Generates 1 Fury buff every {0} second(s), each increasing Attack Rating by  [16982bff]{1}[-] for {2} second(s)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_MINEPAUSE",
+      "v": "While The Cosmic Control Rod is Removed, All Fury Expiry Timers are Paused.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OARMBRK",
+      "v": "Obliterating Strikes inflict Armor Break, reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OBLIT_AAIMM",
+      "v": "Obliterating Strikes are not affected by Ability Accuracy reduction.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OCHANCE",
+      "v": "All Attacks have a {0}% chance to be an Obliterating Strike for each Buff on Annihilus.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OCONTACT",
+      "v": "Obliterating Strikes Apply {1} Obliteration passive on the Opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_ODEBUFF",
+      "v": "Obliterating Strikes inflict Obliteration, reducing the opponents Armor Rating by {1}% and their Offensive Power Gain by {0}% for {2} seconds",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_ODRAIN",
+      "v": "Whenever an Obliteration expires, There’s a {0}% chance that Annihilus will Drain {1}% of a Bar of Power from his opponent ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OEFFECTS",
+      "v": "Obliterations trigger an Armor Break reducing Armor Rating by [16982bff]{1}[-] and Offensive Power Gain by {0}% for {2} seconds. ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OPPBCKDSH",
+      "v": "When the opponent Back Dashes, Annihilus Removes {1} Obliteration from the opponent and becomes Unblockable for {2} second(s).",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OPROW",
+      "v": "When an Obliteration Expires or is Removed, Annihilus increases the potency of the Prowess in his Cosmic Control Rod by {0}%",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OSTIFLE",
+      "v": "Whenever Annihilus would inflict an Armor Break, he also has a 100% chance to inflict Stifle, reducing Offensive Power Gain by {1}% for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OSTUN",
+      "v": "Obliterating Strikes Purify any Stun DeBuffs on Annihilus.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_OUNSTP",
+      "v": "If the Opponent Dashes Back, Annihilus Removes {1} Obliteration from the Opponent and becomes Unstoppable for {2} seconds.  ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_PURGEARMR",
+      "v": "Obliterating Strikes are Stun immune and remove {1} Armor Up Buff",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG",
+      "v": "The potency of all buffs are increased by {1}% while the Cosmic Control Rod is active.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_BLKPEN",
+      "v": "While Annihlus’ back is near a wall he gains a Passive Block Penetration Buff, allowing all attacks to ignore [16982bff]{1}%[-] of the Opponents Block Proficiency.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_BLOCKPROF",
+      "v": "Obliterating Strikes ignore [16982bff]{1}[-]% of the Opponents Block Proficency",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_BUFFPOT",
+      "v": "While Annihilus’ Opponents back is near a wall, Annihilus Gains 1 Passive Aptitude Buff, increasing the Potency of all Fury, Armor Up, and Precision Buffs by [16982bff]{1}%[-].",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_CRITCHAN",
+      "v": "While Unstoppable, Obliterating Strikes have a [16982bff]{1}[-] chance to Crit a Blocking Opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_CRITDAM",
+      "v": "While Unstoppable, Critical Damage is increased by [16982bff]{1}[-]",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_DEFPOWER",
+      "v": "Obliterating Strikes generate [16982bff]{1}[-]% less power when Blocked",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_DESC_1",
+      "v": "This Ability is Activated while the Opponent has {0} or more Stifle Debuffs.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_DESC_2",
+      "v": "Annihlus Generates 1 Fury Buff every {0} seconds, each increasing Attack Rating by [16982bff]{1}[-] for {2} seconds. (Max 70 Buffs)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_DESC_3",
+      "v": "While this Ability is Active, the Expiry Timers of all Fury Buffs on Annihilus are Paused.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_OLIMIT",
+      "v": "Increase the stack limit of Obltierations to {1}. Additionally, while the Opponent has 10 Obliterations, Annihlus is Unblockable.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_SHORT",
+      "v": "Tremble Before Me {0}",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_SIMPLE",
+      "v": "When cornering his prey, Annihilus feeds off of their fear, gaining a significant damage boost. Whenever Annihilus is cornered, all of his strikes become far more devastating. ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_STUNIMM",
+      "v": "While launching an Obliterating Strike, Annihilus is Immune to incoming Stun Debuffs.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SIG_TITLE",
+      "v": "Tremble Before Me",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_ARMR",
+      "v": "At the Start of this Attack, Annihilus gains {0} Armor Up buffs, each increasing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_FRESH",
+      "v": "Each hit Refreshes all Stifle Debuffs on the Opponent, the Final Hit Pauses the Duration of all active Stifles for {2} seconds. ",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_FUR",
+      "v": "Annihlus generates 1 Fury Buff increasing Attack Rating by [16982bff]{1}[-] for {2} seconds. Each Stifle on the Opponent increases the Potency of the Fury by [16982bff]{1}[-]",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_GAIN",
+      "v": "Any Paused Stifles on the Opponent increase Annihilus’ Offensive Power Gain by {1}%",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_HITFUR",
+      "v": "Each Hit generates {0} Fury Buff, each increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_MISSFUR",
+      "v": "Each Strike that is Blocked or Dodged by the Opponent generates {0} Fury Buffs, increasing Attack Rating by  [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_STEAL",
+      "v": "The final hit removes all Obliterations from the opponent. Each Obliteration removed this way Steals {1}% of a bar of Power from the opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_STIFLE",
+      "v": "Refresh and Pause the Expiry of all active Stifles for {2} seconds. Any Paused Stifles on the Opponent increase Annihlus' Offensive Power Gain by {0}%.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_BONFUR",
+      "v": "If the Opponent Blocked or Avoided the Final Hit of this Attack, Annihilus gains an additional {0} Fury buffs, each increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_DMG",
+      "v": "During this Special Attack, Annihilus’ Attack Rating is increased by [16982bff]{1}[-] for every Armor Break on the Opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_FUR",
+      "v": "When Activating this Special, Annihilus consumes every Stifle on the Opponent, each generating 1 Fury increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_MISSFUR",
+      "v": "Each Strike that is Blocked, Dodged, or Evaded by the Opponent generates {0} Fury Buff, increasing Attack Rating by  [16982bff]{1}[-] for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_FEAR",
+      "v": "Annihilus inflicts the Opponent with {0} Stifle Debuffs, each reducing Offensive Power Gain by {1}% for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_FURPAUSE",
+      "v": "Until the Opponent has 0 Stifle Debuffs, Annihlus Pauses the Expiry of all Fury Buffs.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_OCHANCE",
+      "v": "While the Opponent is Stifled, Annihilus’ Obliterating Strike Chance is increased by {1}%",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_STIFLDUR",
+      "v": "Until the Opponent has 0 Stifles remaining, the duration of Stifle Debuffs is increased by {1}%",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_STIFLE",
+      "v": "Inflicts Stifle, reducing Offensive Power Rate by {1}% for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_STIFLEBACK",
+      "v": "While Annihilus is near his Opponent, Stifle Debuffs have a {0}% chance to be reapplied after expiring.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_STUNIMM",
+      "v": "Annihilus is Immune to incoming Stun Debuffs while launching an Obliterating Strike.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_UNSTP",
+      "v": "If the Opponent Dashes Back while Stifled, Annihilus removes 1 Stifle and gains 1 Unstoppable Buff lasting {2} seconds.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_ARMORBUFFSCONVERT",
       "v": "{2} Armor Up Buff(s) are consumed to create one permanent Armor Up Buff, increasing Armor Rating by [16982bff]{1}[-].",
       "vn": "13.1"
@@ -17871,6 +18968,11 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_BURST_DMG2",
+      "v": "Deal an additional {1}% of damage dealt as a burst of Energy Damage when striking an opponent with an Armor Break Debuff.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_FURY",
       "v": "Gain a Permanent Fury Buff increasing Attack by [16982bff]{1}[-] for every 5 stacks of Energy Charge. All Fury Buffs are removed when Energy Charges fall to zero.",
       "vn": 22
@@ -17926,6 +19028,16 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PAUSE",
+      "v": "Energy Charge",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PAUSE_DESC",
+      "v": "Gains Charges when Blocking Physical or Energy Attacks. Each Charge lasts for a short duration in Binary Ignition.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PERSIST",
       "v": "Captain Marvel gains [37bfff]Persistent Energy Charges[-] by Blocking Physical Attacks and when Struck by Energy Attacks. Any Energy Charges that Captain Marvel ends a fight with persists between fights. Max 25 stacks.",
       "vn": 22
@@ -17954,6 +19066,16 @@
       "k": "ID_UI_STAT_FORMAT_CPTMRV_PVE_MIGHT_PAUSE_DESC",
       "v": "While Binary Ignition is active, Captain Marvel fights more aggressively.",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_PV_PAUSE",
+      "v": "Persistent Energy Charges",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_PV_PAUSE_DESC",
+      "v": "Starts this fight with 100% Energy Charges from the previous fight.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_RESIST_POISON",
@@ -18712,6 +19834,11 @@
       "v": "Hulk has a [16982bff]{0}%[-] chance to Rage, strengthening his attacks and Physical Resistance by [16982bff]{1}%[-] per Rage charge. Rage charges expire every [16982bff]{2}[-] seconds and 50% faster against female Champions."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_IMM_FBCS",
+      "v": "Immune to Incinerate, Coldsnap and Frostbite.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_INSTANTKO",
       "v": "This attack instantly knocks out the opponent. Damage from this Attack cannot be prevented or reduced.",
       "vn": 13
@@ -19195,7 +20322,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
-      "v": "MISS BYPASSED",
+      "v": "MISS FAILED",
       "vn": 22
     },
     {
@@ -19245,8 +20372,8 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_NFURY_SIG_A",
-      "v": "When Nick would be knocked out, his [37bfff]Life Model Decoy[-] is destroyed instead and he returns to the fight with a permanent Fury’s Fury Buff and Stun Immunity. However, Nick loses his Infinity Formula and begins Degenerating [16982bff]{1}%[-] of his health per second for the rest of the quest while above 30% max health. The destruction of Nick’s decoy Removes all Effects and isn't affected by Ability Accuracy reduction.",
-      "vn": 22
+      "v": "When Nick would be knocked out, his [37bfff]Life Model Decoy[-] is destroyed instead and he returns to the fight with a permanent Fury’s Fury Buff and Stun Immunity. However, Nick loses his Infinity Formula and begins Degenerating [ff0000]{1}%[-] of his health per second for the rest of the quest while above 30% max health. The destruction of Nick’s decoy Removes all Effects and isn't affected by Ability Accuracy reduction.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_NFURY_SP1_A",
@@ -19639,6 +20766,11 @@
       "k": "ID_UI_STAT_FORMAT_PROXIMA_HVYATK_2",
       "v": "Against Tech opponents, Proxima Midnight inflicts Petrify whenever an Armor Break refreshes it’s duration, reducing the effectiveness of Power Gain and Regeneration by {1}% for {2} seconds. Max Stacks: 3",
       "vn": "17.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_PROXIMA_HVYATK_2_FIX",
+      "v": "Against Tech opponents, Proxima Midnight inflicts a Petrify Debuff whenever an Armor Break refreshes its duration, reducing Regeneration and Power Gain Rate by a flat {1}% for {2} seconds. Max Stacks: 3",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_PROXIMA_MISSION1",
@@ -20077,6 +21209,11 @@
       "vn": "17.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SENTINELOID_SCIENCE_3_FIX",
+      "v": "Inflicts a Petrify Debuff reducing Regeneration and Power Gain Rate by a flat {1}% for {2} seconds.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_SCIENCE_4",
       "v": "{0}% chance to inflict an Petrify and Agility Debuff per hit.",
       "vn": "17.1"
@@ -20502,6 +21639,11 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_SP2_PETRIFY_LONG_FIX",
+      "v": "Activating this Special Attack inflicts a Petrify Debuff on the opponent for {2} seconds, reducing their Regeneration and Power Gain Rate by a flat {1}%.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_SP2_PROTECTION_HUD",
       "v": "SAFEGUARD",
       "vn": 18
@@ -20762,6 +21904,151 @@
       "vn": "21.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_TORCH_ENG",
+      "v": "If the hit dealt Energy Damage, Temperature increases by {1}, and Human Torch Smoulders.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_IMM_INCIN",
+      "v": "Whenever Human Torch would be Incinerated, he places a Smoulder Passive on himself. Smoulder Passives deal 0 damage and last indefinitely.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_BLEED",
+      "v": "While Human Torch is Bleeding, the duration of all his Incinerate effects is reduced by [f71817]{1}[-] second(s).",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_DMGUP",
+      "v": "The damage of all of Human Torch's Incinerate effects increases by [16982bff]{1}%[-] for each Incinerate or Smoulder on either Champion.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_FX",
+      "v": "Incinerate removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_HEAL",
+      "v": "For each Incinerate on the Opponent, their Regeneration Rate is reduced by {1}%.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_HIT_DMG",
+      "v": "Human Torch Incinerates the Opponent with his first and last Light hits, and all his Medium and Heavy hits. These Incinerate Debuffs deal [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_STRUCK",
+      "v": "[f71817]0%[-] chance to Incinerate the Opponent for [16982bff]{1}[-] damage over {2} seconds. This chance increases by a flat {0}% for each Incinerate or Smoulder on either Champion.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_MYS",
+      "v": "All Attacks from Mystic Champions are considered as Energy Attacks towards this ability.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_NOVA_A",
+      "v": "When Temperature is at {0} and the Opponent has {1} Incinerate effects, for the next {2} second(s) instead of placing Incinerate Debuffs on the Opponent, Human Torch places Nova Flame Passives instead.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_NOVA_B",
+      "v": "Nova Flame deals Energy damage over time, removes Perfect Block Chance, reduces Block Proficiency to 0, and inflicts Power Sting.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_NOVA_C",
+      "v": "An Opponent with Power Sting takes [16982bff]{1}[-] Direct Damage when activating a Special Attack. Power Sting is removed when Nova Flame expires.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_NOVA_D",
+      "v": "Nova Flame Passives are treated as Incinerate Debuffs for all of Human Torch's abilities.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_PF_A",
+      "v": "If Human Torch has at least [37bfff]{1} Persistent Charge(s)[-], he can consume them to activate this ability before the Fight.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_PF_B",
+      "v": "For the entire Fight, all of Human Torch's Incinerates are Nova Flames, last {2} second(s) longer, and deal an additional [16982bff]+{1}%[-] damage. This ability does not stack.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_PF_C",
+      "v": "Human Torch starts the Quest with [37bfff]{1} Persistent Charge(s)[-].",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SIG_A",
+      "v": "If Human Torch has [37bfff]0 Persistent Charges[-] and his [EE9700FF]Pre-Fight Ability[-] is not active, he has a [16982bff]{1}%[-] chance to gain [37bfff]{2} Persistent Charge(s)[-].",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SIG_B",
+      "v": "This chance increases by a flat [16982bff]{1}%[-] every time the ability fails to activate.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP1",
+      "v": "The first hit of this attack increases Temperature by {1}, and it cannot decrease for {2} second(s).",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP1_BLK",
+      "v": "If the last hit is blocked, it places a Smoulder Passive on Human Torch.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP2",
+      "v": "The last two hits of this Attack each have a {0}% chance to Incinerate the Opponent, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP2_BLK",
+      "v": "If the last two hits are blocked, they each place a Smoulder on Human Torch instead.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP3",
+      "v": "Inflict a Nova Flame, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_SP3_INCIN",
+      "v": "Human Torch enters his Nova Form for {2} second(s) and places {1} Smoulder Passives on himself.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_TEMP_A",
+      "v": "While Charging a Heavy Attack, Human Torch increases his Temperature.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_TEMP_B",
+      "v": "The duration of all of Human Torch's Incinerate effects increases by up to {1} second(s) depending on his Temperature.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_TEMP_C",
+      "v": "Temperature decreases constantly over time. Temperature decreases slower for each Incinerate or Smoulder on either Champion.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_TEMP_D",
+      "v": "At {1} Temperature, the heat from Human Torch’s attacks is so intense, they cannot Miss.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_TORCH_TEMP_E",
+      "v": "At {1} Temperature, Temperature cannot decrease for {2} second(s), then it is set to {0}.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_UNSTOP",
       "v": "{0}% chance to gain an Unstoppable Buff which lasts for {2} seconds.",
       "vn": 15
@@ -20807,6 +22094,11 @@
       "k": "ID_UI_STAT_FORMAT_VOID_INTIMIDATE_PETRIFY",
       "v": "Petrify Debuff - Reduces the effectiveness of Power Gain and Regeneration by {1}%. Max Stacks: {2}",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VOID_INTIMIDATE_PETRIFY_FIX",
+      "v": "Petrify Debuff - Reduces opponent's Regeneration and Power Gain Rate by a flat {1}%. Max Stacks: {2}",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_VOID_INTIMIDATE_PURIFY",
@@ -20866,6 +22158,11 @@
       "k": "ID_UI_STAT_FORMAT_WASP_PETRIFY",
       "v": "Sting will Petrify opponents after lasting its full duration, reducing the effectiveness of Power Gain and Regeneration by {1}% for each hit on Wasp’s Combo Meter for {2} seconds.",
       "vn": 19
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_WASP_PETRIFY_FIX",
+      "v": "After lasting its full duration, Sting will convert into a Petrify Debuff for {2} seconds, reducing the opponent's Regeneration and Power Gain Rate by a flat {1}% for each hit on Wasp’s Combo Meter.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_SIG_LONG",
@@ -21128,6 +22425,11 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_PETRIFY_DEBUFF_LONG_FIX",
+      "v": "{0}% chance to inflict a Petrify Debuff for {2} seconds, reducing the opponent's Regeneration and Power Gain Rate by a flat {1}%.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_STAT_PSN_RESIST_SHORT",
       "v": "[b4b4b4ff]Poison Resistance[-]",
       "vn": "21.2"
@@ -21326,6 +22628,15 @@
       "k": "ID_UI_STAT_SENTRY_REGEN",
       "v": "When Health is below 50%, Sentry consumes one Reality Warp to Heal [16982bff]{1}[-] over {2} seconds.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_SENTRY_SP1",
+      "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}[-] for [16982bff]{2}[-] seconds."
+    },
+    {
+      "k": "ID_UI_STAT_SENTRY_SP12",
+      "v": "[16982bff]{0}%[-] chance for Fury, increasing your Attack by [16982bff]{1}[-] for [16982bff]{2}[-] seconds.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_SENTRY_SP2",
@@ -23079,6 +24390,21 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_HULK_TITLE_LOWER",
       "v": "Hulk Rage"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_HUMANTORCH_SHORT",
+      "v": "Rekindle {0}",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_HUMANTORCH_SIMPLE",
+      "v": "Human Torch is able to regain his [37bfff]Persistent Charge[-] when he enters a fight.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_HUMANTORCH_TITLE",
+      "v": "REKINDLE",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_HYPERION_DESC",

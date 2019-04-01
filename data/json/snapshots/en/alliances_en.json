@@ -6,11 +6,11 @@
       "alliances",
       "client"
     ],
-    "hash": "55acdeb4aacb68eda643ea4c7a9bce78aaa8bdbe",
-    "ts": 1548364054,
+    "hash": "874c4ee9b887f007258931c072ed3a93f673724b",
+    "ts": 1551990998,
     "string_count": 373,
     "post_processed": true,
-    "versionLock": "22.0"
+    "versionLock": "22.1"
   },
   "strings": [
     {
@@ -1218,22 +1218,22 @@
     },
     {
       "k": "ID_UI_AVA_BUFF_SET_TAP_SELECT",
-      "v": "TAP TO SELECT BUFF SETS",
+      "v": "TAP TO SELECT DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_UI_AVA_BUFF_SET_TAP_VIEW",
-      "v": "TAP TO VIEW BUFF SETS",
+      "v": "TAP TO VIEW DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_UI_AVA_BUFF_SET_WARNING_INCOMPLETE",
-      "v": "Some Buff Sets are unselected. Leaders can select a Buff Set for each Battlegroup. Any Buff Sets left unselected will be randomized.",
+      "v": "Some Defense Tactics are unselected. Leaders can select a Defense Tactic for each Battlegroup. Any Defense Tactics left unselected will be randomized.",
       "vn": 22
     },
     {
       "k": "ID_UI_AVA_BUFF_SET_WARNING_SELECT",
-      "v": "No Buff Sets have been selected yet. Leaders can select  a Buff Sets for each Battlegroup. If no Buff Sets are selected, it will be randomized.",
+      "v": "No Defense Tactics have been selected yet. Leaders can select a Defense Tactic for each Battlegroup. If no Defense Tactics are selected, it will be randomized.",
       "vn": 22
     },
     {
@@ -1463,27 +1463,27 @@
     },
     {
       "k": "ID_UI_SEASON_WARBUFFS_CURRENT_TAB",
-      "v": "CURRENT SEASON BUFFS",
+      "v": "CURRENT SEASON DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_UI_SEASON_WARBUFFS_CUSTOM_TAB",
-      "v": "SEASON {0} BUFFS",
+      "v": "UPCOMING DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_UI_SEASON_WARBUFFS_DESCRIPTION",
-      "v": "These are the Buff Sets available to choose from for the ongoing Alliance War Season. Leadership can pick Buff Sets per Battlegroup during the Placement Phase.",
+      "v": "These are the Defense Tactics available to choose from for the ongoing Alliance War Season. Leadership can pick Defense Tactics per Battlegroup during the Placement Phase.",
       "vn": 22
     },
     {
       "k": "ID_UI_SEASON_WARBUFFS_PENDING_BUFFS",
-      "v": "The next Buff Sets are still being researched by The Grandmaster.\n\nCheck back soon for updates!",
+      "v": "The next Defense Tactics are still being researched by The Grandmaster. Check back soon for updates!",
       "vn": 22
     },
     {
       "k": "ID_UI_SEASON_WARBUFFS_PENDING_DESC",
-      "v": "Once the current Season ends, the Buff Sets will change to the below choices. Use this time to begin to plan potential team compositions!",
+      "v": "Once the current Season ends, the Defense Tactics will change to the below choices. Use this time to begin to plan potential team compositions!",
       "vn": 22
     },
     {
@@ -1522,17 +1522,17 @@
     },
     {
       "k": "ID_UI_WARBUFF_POPUP_HEADER_TOOLTIP",
-      "v": "If no Buff Sets are selected by the time Attack Phase begins, a set will be chosen at random for each Battlegroup.",
+      "v": "If no Defense Tactics are selected by the time Attack Phase begins, one will be chosen at random for each Battlegroup.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_BUFF_SET",
-      "v": "DEFENSIVE BUFF SETS",
+      "v": "DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_GLOBAL_BUFFS",
-      "v": "GLOBAL BUFFS",
+      "v": "DEFENSE TACTICS",
       "vn": 22
     },
     {
@@ -1542,42 +1542,42 @@
     },
     {
       "k": "ID_WARBUFF_POPUP_DESCRIPTION_NOT_SELECTED",
-      "v": "Alliance Leadership is able to select a Buff Set for each Battlegroup participating in this Alliance War.",
+      "v": "Alliance Leadership is able to select a Defense Tactic for each Battlegroup participating in this Alliance War.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_DESCRIPTION_OPPONENT",
-      "v": "The opposing Alliance selected the following Buff Sets for each Battlegroup participating in this Alliance War.",
+      "v": "The opposing Alliance selected the following Defense Tactics for each Battlegroup participating in this Alliance War.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_DESCRIPTION_PLAYER",
-      "v": "Alliance Leadership selected the following Buff Sets for each Battlegroup participating in this Alliance War.",
+      "v": "Alliance Leadership selected the following Defense Tactics for each Battlegroup participating in this Alliance War.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_EDIT_BUFF_SET",
-      "v": "EDIT BUFF SET:",
+      "v": "EDIT DEFENSE TACTIC:",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_EMPTY_BUFF_SET",
-      "v": "Leadership has not yet selected a Buff Set for this Battlegroup.",
+      "v": "Leadership has not yet selected a Defense Tactic for this Battlegroup.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_HEADER_ALLIANCE",
-      "v": "{0} BUFF SETS",
+      "v": "{0} DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_HEADER_GENERAL",
-      "v": "ALLIANCE WAR BUFF SETS",
+      "v": "ALLIANCE WAR DEFENSE TACTICS",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_POPUP_SELECT_BUFF_SET",
-      "v": "SELECT BUFF SET:",
+      "v": "SELECT DEFENSE TACTIC:",
       "vn": 22
     },
     {
@@ -1587,27 +1587,27 @@
     },
     {
       "k": "ID_WARBUFF_VIEW_POPUP_DESCRIPTION",
-      "v": "Alliance Leadership has selected the following Buff Set for your Battlegroup's Defense Placements.",
+      "v": "Alliance Leadership has selected the following Defense Tactic for your Battlegroup's Defense Placements.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_VIEW_POPUP_DESC_PENDING",
-      "v": "Alliance Leadership has not yet selected a Buff Set for this Battlegroup's Defense Placements.",
+      "v": "Alliance Leadership has not yet selected a Defense Tactic for this Battlegroup's Defense Placements.",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_VIEW_POPUP_HEADER",
-      "v": "ALLIANCE WAR BUFF SET",
+      "v": "ALLIANCE WAR DEFENSE TACTIC",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_VIEW_POPUP_HEADER_GROUP",
-      "v": "BATTLEGROUP {0} BUFF SET",
+      "v": "BATTLEGROUP {0} DEFENSE TACTIC",
       "vn": 22
     },
     {
       "k": "ID_WARBUFF_VIEW_POPUP_OPPONENT",
-      "v": "The opposing Alliance has selected the following Buff Set to defend with.",
+      "v": "The opposing Alliance has selected the following Defense Tactic to defend with.",
       "vn": 22
     },
     {

@@ -6,11 +6,9 @@
       "special_attacks",
       "client"
     ],
-    "hash": "fe60c6d5a793c811662bbc302195ac133b665860",
-    "ts": 1541723400,
-    "string_count": 904,
-    "post_processed": true,
-    "versionLock": "21.1"
+    "hash": "94e689bdadfb4f14fc11eb4f151359de7b8799ad",
+    "ts": 1552939613,
+    "string_count": 933
   },
   "strings": [
     {
@@ -51,6 +49,21 @@
       "k": "ID_SPECIAL_ATTACK_ANGELA_2",
       "v": "Martial Mastery",
       "vn": "12.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_ANNIHILUS_0",
+      "v": "Control Infestation",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_ANNIHILUS_1",
+      "v": "Cosmic Obliteration",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_ANNIHILUS_2",
+      "v": "The Living Death That Walks",
+      "vn": "22.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_ANTMAN_0",
@@ -489,6 +502,21 @@
       "vn": "12.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ANNIHILUS_0",
+      "v": "Annihilus pounces onto his prey with two quick strikes, then fires a swarm of Control bugs to infest and dominate their mind.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ANNIHILUS_1",
+      "v": "Annihlus cripples his Opponent with a burst of wind before unleashing a Devastating blast of energy from the Cosmic Control Rod.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ANNIHILUS_2",
+      "v": "Annihilus projects a horrific aura of fear, capable of crippling the minds of even the strongest willed Champions in the Realm.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ANTMAN_0",
       "v": "With the help of his Pym Particles, Ant-Man delivers a micro-sized uppercut punch."
     },
@@ -886,6 +914,21 @@
       "v": "I'm calling that red-suited imposter!"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_0",
+      "v": "Splashing the opponent with a scalding elixir, Diablo creates enough space to drink the remainder to heal his wounds.",
+      "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_1",
+      "v": "A special mixture spawns a wave of arcane energy to engulf Diablo’s foe.",
+      "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DIABLO_2",
+      "v": "Experimentation yields power, as Diablo quaffs an unknown set of elixirs then lets fly with a barrage of arcane might.",
+      "vn": "21.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DOCTORSTRANGE_0",
       "v": "A humble beginning to any wizard's duel."
     },
@@ -1113,6 +1156,21 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GWENPOOL_2",
       "v": "In the immortal words of anyone about to do something really cool, that in no way could go horribly wrong!."
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_0",
+      "v": "Havok releases waves of raw plasma energy, to batter his foes while building up dangerous levels of residual energy in their very cells.",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_1",
+      "v": "Havok harnesses the energy within himself, propelling into the air before releasing a blast of plasma channeled directly towards his opponent.",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAVOK_2",
+      "v": "Nearly losing control Havok burns bright enough to compete with the very stars, before unleashing a devastating series of plasma blasts!",
+      "vn": "21.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HAWKEYE_0",
@@ -1587,6 +1645,21 @@
       "vn": "15.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_0",
+      "v": "Mister Sinister sends a pulse of energy, infusing his opponent with faulty genetic material.",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_1",
+      "v": "Disabling several important genes can render the opponent powerless, in this case, it also leaves the opponent in a catatonic state.",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MISTERSINISTER_2",
+      "v": "Once an exciting genetic structure is discovered, Mister Sinister takes great pleasure negating its beneficial effects and extracting its essence for himself.",
+      "vn": "21.3"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MODOK_0",
       "v": "M.O.D.O.K. fires a Mental Bolt from the jewel on his forehead.",
       "vn": "16.1"
@@ -1870,10 +1943,6 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SHEHULK_2",
       "v": "Opponent found guilty. Case closed."
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERGWEN_0",
-      "v": "With a graceful, acrobatic display, Spider Gwen backflips away from her foe, focusing her Spider Sense in the process."
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERGWEN_1",
@@ -2380,6 +2449,21 @@
       "vn": 13
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DIABLO_0",
+      "v": "Double-Edged Elixir",
+      "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DIABLO_1",
+      "v": "Whelming Surge",
+      "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DIABLO_2",
+      "v": "Epic Experimentation",
+      "vn": "21.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DOCTORSTRANGE_0",
       "v": "Magic Missile"
     },
@@ -2609,6 +2693,21 @@
     {
       "k": "ID_SPECIAL_ATTACK_GWENPOOL_2",
       "v": "Watch This!"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HAVOK_0",
+      "v": "Blast Waves",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HAVOK_1",
+      "v": "Focused Blast",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_HAVOK_2",
+      "v": "Overwhelming Power",
+      "vn": "21.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_HAWKEYE_0",
@@ -3082,6 +3181,21 @@
       "vn": "15.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_0",
+      "v": "Genetic Disruption",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_1",
+      "v": "Genetic Negation",
+      "vn": "21.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MISTERSINISTER_2",
+      "v": "Genetic Extraction",
+      "vn": "21.3"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_MODOK_0",
       "v": "SILENCE!",
       "vn": "16.1"
@@ -3296,10 +3410,6 @@
       "v": "Skin-to-skin"
     },
     {
-      "k": "ID_SPECIAL_ATTACK_ROGUE_1",
-      "v": "Face Punch"
-    },
-    {
       "k": "ID_SPECIAL_ATTACK_ROGUE_2",
       "v": "Lethal Kiss"
     },
@@ -3365,10 +3475,6 @@
     {
       "k": "ID_SPECIAL_ATTACK_SHEHULK_2",
       "v": "Clear the Courtroom"
-    },
-    {
-      "k": "ID_SPECIAL_ATTACK_SPIDERGWEN_0",
-      "v": "Spider Senses, Tingling"
     },
     {
       "k": "ID_SPECIAL_ATTACK_SPIDERGWEN_1",
@@ -3872,6 +3978,76 @@
       "k": "ID_SPECIAL_ATTACK_YONDU_2",
       "v": "Yaka Attacka",
       "vn": 13
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_COSROD",
+      "v": "Cosmic Control Rod - Buff",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ITMINE",
+      "v": "IT'S MIIIIINE--!",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOESC",
+      "v": "Amusement Accepted",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OBLITDBF",
+      "v": "Obliteration - Passive (Max 8)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OBLITSTRK",
+      "v": "Obliterating Strikes",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STIFLE",
+      "v": "Stifle (Max 12)",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_CRITDAM",
+      "v": "When this attack ends, Annihilus gains a Cruelty buff, increasing Critical Damage Rating by [16982bff]{1}[-] for {2} second(s).",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_OCHANCE",
+      "v": "Remove all Stacks of Obliteration from the opponent, each Obliteration removed this way drains {1}% of a bar of Power.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP1_TITLE",
+      "v": "Control Infestation",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_FURY",
+      "v": "When this attack ends, Annihilus gains a Fury buff, increasing Attack Rating by [16982bff]{1}[-] for {2} second(s).",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_OCHANCE",
+      "v": " +{1}% damage for every stack of Obliteration on the opponent.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP2_TITLE",
+      "v": "Cosmic Obliteration",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_EXP",
+      "v": "Inflicts Stifle, reducing Offensive Power Rate by {0}% until the opponent spends {2} Bars of Power. While the opponent is Stifled, Annihlus' attacks have +{1}% chance to be an Obliterating Strike.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ANNI_SP3_TITLE",
+      "v": "Fear Broadcasting",
+      "vn": "22.1"
     }
   ]
 }

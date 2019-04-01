@@ -6,8 +6,8 @@
       "dungeons",
       "client"
     ],
-    "hash": "5c49170b7add41ed9f43eb851aa2546eebeea7aa",
-    "ts": 1539282314,
+    "hash": "3d3cef8e021616585f71e002c4b6b4862a2cc683",
+    "ts": 1551991005,
     "string_count": 299
   },
   "strings": [
@@ -1029,7 +1029,7 @@
     },
     {
       "k": "ID_UI_FRIENDSHIP_PROGRESS_INFO",
-      "v": "Your current Friendship Level with this friend and the number of rooms you must complete together to earn a Friendship Bonus. The number of rooms required to complete with the same friend increases after each Friendship Bonus earned together. Tip - play with different friends to earn Friendship Bonuses faster!",
+      "v": "Your current Friendship Level with this friend and the number of rooms you must complete together to earn a Friendship Bonus.",
       "vn": 21
     },
     {

@@ -6,11 +6,11 @@
       "tutorials",
       "client"
     ],
-    "hash": "bc0f576802d0161b33dad2fe38f99eddaae2a8e8",
-    "ts": 1547760910,
-    "string_count": 185,
+    "hash": "4ddf0bdffdc11ee4f62da570908b6838bbc0b6c7",
+    "ts": 1551208618,
+    "string_count": 187,
     "post_processed": true,
-    "versionLock": "22.0"
+    "versionLock": "22.1"
   },
   "strings": [
     {
@@ -479,6 +479,16 @@
       "vn": 15
     },
     {
+      "k": "ID_TUT_PREFIGHT_SCREEN_ABILITIES_DESC",
+      "v": "These champions have Pre-Fight Abilities which can be enabled before entering a Fight!\n\nTap on the Champion to access the Abilities button and enable this Champion's abilities.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TUT_PREFIGHT_SCREEN_ABILITIES_TITLE",
+      "v": "PRE-FIGHT ABILITIES",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_TUT_PRESTIGE_0",
       "v": "The higher your Alliance's Prestige, the more difficult the quest, but you'll receive more points and better rewards for completing it."
     },
@@ -607,12 +617,12 @@
     },
     {
       "k": "ID_TUT_ROTATING_BUFFS_DESCRIPTION",
-      "v": "During Placement Phase your Alliance Leadership must select a Buff Set to affect each Battlegroup during this Alliance War.\n\nThe selections can be changed until Attack Phase begins. If no choices are made, Buff Sets will be chosen at random.\n\nTap to view or edit the available Buff Sets.",
+      "v": "During Placement Phase your Alliance Leadership must select a Defense Tactic to affect each Battlegroup during this Alliance War.\n\nThe selections can be changed until Attack Phase begins. If no choices are made, Defense Tactics will be chosen at random.\n\nTap to view or edit the available Defense Tactics.",
       "vn": 22
     },
     {
       "k": "ID_TUT_ROTATING_BUFFS_TITLE",
-      "v": "ROTATING GLOBAL BUFFS",
+      "v": "DEFENSE TACTICS",
       "vn": 22
     },
     {

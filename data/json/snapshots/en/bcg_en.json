@@ -6,11 +6,11 @@
       "bcg",
       "client"
     ],
-    "hash": "dea3fd92676c028dcbd1f2f639ea38b1aa6e9729",
-    "ts": 1550188167,
-    "string_count": 988,
+    "hash": "6bafb3ccca44c6ba393eb2249477faaec1bbadec",
+    "ts": 1553298486,
+    "string_count": 1007,
     "post_processed": true,
-    "versionLock": "22.0"
+    "versionLock": "22.1"
   },
   "strings": [
     {
@@ -1280,6 +1280,16 @@
       "v": "FRIENDS Lv. 3"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_CHALLENGER",
+      "v": "CHALLENGER",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_CHALLENGER_LONG",
+      "v": "[64acff]Annihilus:[-] Every time Annihilus’ Opponent activates a Fury effect, Annihilus gains an Armor Up Buff increasing Armor Rating by 8% for 4 seconds.\n[64acff]Hulk (Ragnarok):[-] While Face Me is active, Hulk gains a Passive Fury boosting attack damage by {0}%.\n[f79f0e]Contingency Plan:[-] Whenever Hulk (Ragnarok) Strikes Annihilus with a SMASH attack, Annihilus gains 1 Fury Buff increasing Attack Rating by 100% for 4 seconds.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_COMPETITION",
       "v": "COMPETITION",
       "vn": 15
@@ -1595,6 +1605,26 @@
       "v": "Genetic Memory triggers {0} seconds faster."
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_HUMANTORCH_ENG",
+      "v": "[64acff]Human Torch and Iceman:[-]When the Opponent takes Energy damage, they take an additional burst of Energy damage equal to {0}% of the original damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_HUMANTORCH_FACES",
+      "v": "[64acff]Human Torch:[-] If the last hit of Special Attack 2 strikes a Block, Human Torch will avoid incoming attacks for 0.75 seconds, causing them to Miss.\\n[64acff]Captain America (Infinity War):[-] Increase the duration of Bleed Debuffs on the Opponent by {0} second(s).\\n[64acff]Killmonger:[-] Critical Hits are improved to have a 100% chance to cause Bleed.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_HUMANTORCH_INCIN",
+      "v": "[64acff]Human Torch:[-] Human Torch starts the fight with {0} Smoulder Passives, and his Temperature increases faster while charging a Heavy Attack.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_HUMANTORCH_SP",
+      "v": "[64acff]Other Synergy Members:[-] The last hit of Special Attack 1 Incinerates the Opponent for {0} second(s).\nThis also inflicts Heal Block if all other Champions in this Synergy are present.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DESC_IMSOUL",
       "v": "[64acff]Hela:[-] Nullify effects against Hela have a {0}% reduced chance to trigger.\n[64acff]Loki:[-] While they are Cursed, Loki always counts as having more Health than his Opponent.\n[64acff]Thor (Ragnarok):[-] Gains +100% Perfect Block Chance, when Autoblocking.\n[f79f0e]Unique Synergy[-] Does not stack with duplicate synergies.",
       "vn": 16
@@ -1693,7 +1723,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_POWER",
-      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is affected by a Power Steal, Power Lock or Power Drain effect he will drop a Power Kit, Removing the effect and granting 1 bar of power over {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with an effect that would reduce or block their Power Bar he will drop a Power Kit, Removing the effect and granting 1 bar of power over {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
     },
     {
@@ -1872,6 +1902,16 @@
       "k": "ID_UI_HERO_SYNERGY_DESC_WARRIORSOFASGARD_NEW",
       "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to Regenerate {0}% of missing Health instantly.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 20
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DOUBLENEG",
+      "v": "DOUBLE NEGATIVE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DOUBLENEG_LONG",
+      "v": "[64acff]Annihilus:[-] Annihilus is Taunted for 0.5 seconds when Striking an Auto Blocking Opponent while Cosmic Control Rod is active. While Taunted, his Attack Rating is reduced by 40%.\n[64acff]Darkhawk:[-] Attack Rating increased by 9% while in any mode.\n[f79f0e]Contingency Plan:[-] If Annihilus is fighting Darkhawk, Darkhawk's Armor Rating is decreased by 15% while in any mode.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_EARTH_DEFENDER_I",
@@ -2080,6 +2120,16 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_HARDCORE",
+      "v": "HARD CORE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HARDCORE_LONG",
+      "v": "[64acff]Annihilus:[-] All Heavy Attacks are Obliterating Strikes and apply 2 stacks of Obliteration. When Fighting against Korg, Annihilus’ Obliterating Strikes strip all of Korgs Rock Stacks",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_HEIGHTENEDSENSES",
       "v": "HEIGHTENED SENSES",
       "vn": "15.1"
@@ -2137,6 +2187,26 @@
       "k": "ID_UI_HERO_SYNERGY_HOMOSUP_LONG",
       "v": "[64acff]All Mutants:[-] Gain +{0}% Passive Fury when fighting with Class Disadvantage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUMANTORCH_ENG",
+      "v": "A SONG OF FIRE AND ICE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUMANTORCH_FACES",
+      "v": "FAMILIAR FACES",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUMANTORCH_INCIN",
+      "v": "TURN UP THE HEAT",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_HUMANTORCH_SP",
+      "v": "RAIN OF FIRE",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_IDOL_DESC",
@@ -2637,6 +2707,16 @@
       "k": "ID_UI_HERO_SYNERGY_QUEENOFHEL",
       "v": "QUEEN OF HEL",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_QUEENOFNOTHING",
+      "v": "QUEEN OF NOTHING",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_QUEENOFNOTHING_LONG",
+      "v": "[64acff]Annihilus:[-] Whenever Annihilus is Knocked Down, he Generates 1 Fury increasing Attack Rating by 10% for 4 seconds. When Fighting against Medusa, Annihilus' Obliterating Strike chance is increased to 100% while she has 3 or more active Fury Buffs",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_RAINBOWGUARDIAN",

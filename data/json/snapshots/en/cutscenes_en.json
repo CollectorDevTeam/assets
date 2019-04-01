@@ -6,9 +6,11 @@
       "cutscenes",
       "client"
     ],
-    "hash": "891ea81dff74d4699f2f182074de318b49add359",
-    "ts": 1542683329,
-    "string_count": 356
+    "hash": "9db729217ad01145fb2a63947b42fafae49ea1e9",
+    "ts": 1552939610,
+    "string_count": 371,
+    "post_processed": true,
+    "versionLock": "22.1"
   },
   "strings": [
     {

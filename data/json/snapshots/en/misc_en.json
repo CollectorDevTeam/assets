@@ -6,11 +6,11 @@
       "misc",
       "client"
     ],
-    "hash": "2a8de5501c977af1b403fe7808bdb7f2d9e62b7a",
-    "ts": 1547168832,
-    "string_count": 383,
+    "hash": "6c3adce2e43481973d9ea0de90ff8827afc6ce84",
+    "ts": 1552077874,
+    "string_count": 400,
     "post_processed": true,
-    "versionLock": "22.0"
+    "versionLock": "22.1"
   },
   "strings": [
     {
@@ -112,6 +112,21 @@
     {
       "k": "ID_SPARX_LOGIN_ACCOUNT_SELECT",
       "v": "Account Select"
+    },
+    {
+      "k": "ID_TUT_PREFIGHT_ABILITY_CHAMP_INFO",
+      "v": "This Champion has abilities which can be activated before a Fight. When this Champion is selected from the Pre-Fight Screen, you will be able to control certain abilities before the fight begins.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TUT_PREFIGHT_ABILITY_EDIT_TEAM",
+      "v": "Some Champions have abilities which you can enable before entering a fight. Look for the special icon which indicates this.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_TUT_PREFIGHT_ABILITY_TITLE",
+      "v": "PRE-FIGHT ABILITIES",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_ALLIANCE_MILESTONE",
@@ -1341,6 +1356,51 @@
       "v": "DON'T FORGET"
     },
     {
+      "k": "ID_UI_PREFIGHT_ABILITIES_ACTIVATED",
+      "v": "{0} ACTIVATED",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_ACTIVE",
+      "v": "ABILITY ACTIVE",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_COST_WARNING",
+      "v": "You do not meet the Cost requirements to activate this ability.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_DESCRIPTION",
+      "v": "This champion has special abilities which can be activated before the fight begins. Select the abilities you would like to activate.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_LABEL",
+      "v": "ABILITIES",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_REQUIREMENTS_NOT_MET",
+      "v": "You do not meet the cost requirements to activate this ability.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_TITLE",
+      "v": "{0} - FIGHT ABILITIES",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITIES_WRONG_CHAMP_WARNING",
+      "v": "You are about to enter the fight with a different Champion than the activated Pre-Fight Abilities apply to.\n\nAre you sure you want to use this Champion?",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_PREFIGHT_ABILITY_DESCRIPTION",
+      "v": "[FFFFFFFF]{0}:[-] {1}",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_QUEST_ENERGY_HEADING",
       "v": "Quest Energy",
       "vn": 16
@@ -1641,6 +1701,11 @@
       "k": "ID_UI_VALOR_SPEND_WARNING",
       "v": "Spending Valor will not affect Leaderboard score.",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_VIEW_RESULTS",
+      "v": "VIEW RESULTS",
+      "vn": "22.1"
     }
   ]
 }
