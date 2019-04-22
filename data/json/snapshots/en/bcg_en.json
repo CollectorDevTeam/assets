@@ -6,11 +6,11 @@
       "bcg",
       "client"
     ],
-    "hash": "6bafb3ccca44c6ba393eb2249477faaec1bbadec",
-    "ts": 1553298486,
-    "string_count": 1007,
+    "hash": "c79fa04bb3634ef822f1bbc5e42d2cc0b05ac591",
+    "ts": 1554748297,
+    "string_count": 1015,
     "post_processed": true,
-    "versionLock": "22.1"
+    "versionLock": "23.0"
   },
   "strings": [
     {
@@ -76,6 +76,36 @@
     {
       "k": "ID_BCG_ERROR_TEAM_SLOTS_FULL",
       "v": "Cannot add team.  All team slots are full."
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_CHARACTERDETAILS_0",
+      "v": "ALL tiers of this Champion that you own are being boosted by an Infinity Stone!\n\nTap on the active Infinity Stone boost to see the benefits on this Champion.",
+      "vn": 23
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_EQUIPPED",
+      "v": "{0} EQUIPPED!",
+      "vn": 23
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_INFOPOPUP_0",
+      "v": "Congratulations, you've acquired an Infinity Stone! Each Infinity Stone boosts a specific Avenger for the duration of the event.\n\nTap on any tier of the affected Avenger to see the benefits.",
+      "vn": 23
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_INFOPOPUP_1",
+      "v": "You can access this information again by tapping the Infinity Stone boost in the Summoner Boost popup or the details screen of the affected Avenger.",
+      "vn": 23
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_SUMMONERBOOST_0",
+      "v": "You have an active Infinity Stone boost!\n\nTap on the Infinity Stone boost to see the benefits on ALL tiers of the affected Champion!",
+      "vn": 23
+    },
+    {
+      "k": "ID_TUT_CHAMPSBUFF_SUMMONERPROFILE_0",
+      "v": "You have an active Infinity Stone boost!\n\nTap on the Infinity Stone boost to see the benefits on ALL tiers of the affected Champion!",
+      "vn": 23
     },
     {
       "k": "ID_UI_ASTONISHING",
@@ -650,6 +680,46 @@
       "v": "TIER {0} {1} CATALYST FRAGMENT"
     },
     {
+      "k": "ID_UI_CHAMPBUFF_BOOSTCHAMPTIERS",
+      "v": "Boost ALL tiers of {0} that you own!",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_SUBTITLE",
+      "v": "In the AVENGERS' LAST STAND events only:",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_MINDSTONE",
+      "v": "INFINITY MIND STONE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_POWERSTONE",
+      "v": "INFINITY POWER STONE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_REALITYSTONE",
+      "v": "INFINITY REALITY STONE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_SOULSTONE",
+      "v": "INFINITY SOUL STONE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_SPACESTONE",
+      "v": "INFINITY SPACE STONE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CHAMPBUFF_TITLE_TIMESTONE",
+      "v": "INFINITY TIME STONE",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_COMMON_PT",
       "v": "PT"
     },
@@ -954,6 +1024,11 @@
     {
       "k": "ID_UI_HEROESACTION_AVA",
       "v": "IN AN ALLIANCE WAR"
+    },
+    {
+      "k": "ID_UI_HEROESACTION_AVAILABLE_RARITIES",
+      "v": "AVAILABLE RARITIES",
+      "vn": 23
     },
     {
       "k": "ID_UI_HEROESACTION_CLOSE_AVAILABLE",
@@ -1606,7 +1681,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_HUMANTORCH_ENG",
-      "v": "[64acff]Human Torch and Iceman:[-]When the Opponent takes Energy damage, they take an additional burst of Energy damage equal to {0}% of the original damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Human Torch and Iceman:[-] When the Opponent takes Energy damage, they take an additional burst of Energy damage equal to {0}% of the original damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "22.1"
     },
     {
@@ -1910,7 +1985,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DOUBLENEG_LONG",
-      "v": "[64acff]Annihilus:[-] Annihilus is Taunted for 0.5 seconds when Striking an Auto Blocking Opponent while Cosmic Control Rod is active. While Taunted, his Attack Rating is reduced by 40%.\n[64acff]Darkhawk:[-] Attack Rating increased by 9% while in any mode.\n[f79f0e]Contingency Plan:[-] If Annihilus is fighting Darkhawk, Darkhawk's Armor Rating is decreased by 15% while in any mode.",
+      "v": "[64acff]Annihilus:[-] Annihilus is Taunted for 0.5 seconds when Striking an Auto Blocking Opponent. While Taunted, his Attack Rating is reduced by 40%.\n[64acff]Darkhawk:[-] Attack Rating increased by 9% while in any mode.\n[f79f0e]Contingency Plan:[-] If Annihilus is fighting Darkhawk, Darkhawk's Armor Rating is decreased by 15% while in any mode.",
       "vn": "22.1"
     },
     {
@@ -1924,6 +1999,26 @@
     {
       "k": "ID_UI_HERO_SYNERGY_EARTH_DEFENDER_III",
       "v": "COSMIC PARTNERS Lv. 3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_EBONYMAW_BLK_LONG",
+      "v": "[64acff]All Members of Thanos Army:[-] When the fight starts, gain a Precision Passive increasing Critical Rating by {0}% for 20 seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_EBONYMAW_BLK_TITLE",
+      "v": "Lieutenants of the Black Order",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_EBONYMAW_CULL_LONG",
+      "v": "[64acff]Ebony Maw:[-] Charging a Heavy Attack for 0.5 seconds grants the Opponent an indefinite Fury Buff, increasing their Attack Rating by 0%.\n\r\n[64acff]Cull Obsidian:[-] When 1 or more Thanos’ Favor Buffs expire, gain a Fury Buff granting 10% attack for {0} seconds. Fury Buffs gained in this way will not stack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_EBONYMAW_CULL_TITLE",
+      "v": "Cull of the Maw",
+      "vn": 23
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ELECTRICCHARGE",

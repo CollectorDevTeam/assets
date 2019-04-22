@@ -6,11 +6,9 @@
       "cutscenes",
       "client"
     ],
-    "hash": "9db729217ad01145fb2a63947b42fafae49ea1e9",
+    "hash": "ca989348035222258781c2934774cd839c160611",
     "ts": 1552939610,
-    "string_count": 371,
-    "post_processed": true,
-    "versionLock": "22.1"
+    "string_count": 371
   },
   "strings": [
     {
@@ -979,6 +977,11 @@
       "v": "CIVIL WAR EPILOGUE"
     },
     {
+      "k": "ID_UI_CUTSCENE_ENTROPYRISING",
+      "v": "Entropy Rising",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_CUTSCENE_INFINITYCHAOS",
       "v": "INFINITY CHAOS",
       "vn": "17.2"
@@ -1574,6 +1577,76 @@
       "k": "ID_UI_CUTSCENE_YET_PG_24_01",
       "v": "…And she will.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_01",
+      "v": "Look at THEM",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_02",
+      "v": "Colorful Pulsating IRRITATING beings",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_03",
+      "v": "Flickering in and out of existence",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_04",
+      "v": "So fast they are BARELY alive",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_05",
+      "v": "They are nothing ",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_06",
+      "v": "LESS than nothing",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_07",
+      "v": "Still they blemish my domain",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_08",
+      "v": "MY DOMAIN And I am exiled from it",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_09",
+      "v": "But time is on my side",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_10",
+      "v": "As I slip through the neck of the hourglass",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_11",
+      "v": "One grain at a time",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_12",
+      "v": "Until there’s only ORDER",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_13",
+      "v": "Only PEACE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_CUT_ENTROPY_14",
+      "v": "Only ME",
+      "vn": 23
     },
     {
       "k": "ID_UI_CUT_INFINITYCHAOS_01",

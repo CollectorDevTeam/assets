@@ -6,11 +6,9 @@
       "initial",
       "client"
     ],
-    "hash": "a12c636d2f1d046655d87da6ce306421cf36aa85",
-    "ts": 1552933026,
-    "string_count": 251,
-    "post_processed": true,
-    "versionLock": "22.1"
+    "hash": "95505239f03b560b46d096c610cf79ba6e4cfa85",
+    "ts": 1555105026,
+    "string_count": 252
   },
   "strings": [
     {
@@ -167,6 +165,11 @@
     {
       "k": "ID_SERVER_SIGNIN_KABAM",
       "v": "SIGN IN WITH KABAM"
+    },
+    {
+      "k": "ID_SERVER_SIGNIN_NETEASE",
+      "v": "SIGN IN WITH NETEASE",
+      "vn": 23
     },
     {
       "k": "ID_SPARX_CONTENT_CHECKING",
@@ -424,6 +427,11 @@
     {
       "k": "ID_SPARX_IAP_GOOGLE_ERROR_ACCOUNT",
       "v": "You must be signed into a Google Account on your device to purchase items."
+    },
+    {
+      "k": "ID_SPARX_IAP_NETEASE_ERROR_ACCOUNT",
+      "v": "You must be signed into a NetEase account on your device to purchase items.",
+      "vn": 23
     },
     {
       "k": "ID_SPARX_IAP_SAMSUNG_ERROR_ACCOUNT",
@@ -684,6 +692,11 @@
       "v": "Marvel Contest of Champions"
     },
     {
+      "k": "ID_UI_IAP_MISSING_USER_NAME",
+      "v": "You must have a valid name to make a purchase.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_LANGUAGE_SELECT_BUTTON",
       "v": "LANGUAGE SELECTION"
     },
@@ -715,6 +728,26 @@
     {
       "k": "ID_UI_LEGAL_TITLE",
       "v": "LEGAL"
+    },
+    {
+      "k": "ID_UI_NEED_STORE_AUTH_BODY",
+      "v": "You must be logged in via NetEase to make a purchase. To log in you must restart the app. Do you wish to restart now?",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_NEED_STORE_AUTH_TITLE",
+      "v": "LOGIN REQUIRED",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_NETEASE_INIT_ERROR_BODY",
+      "v": "The NetEase SDK was unable to initialize. The application will now terminate.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_NETEASE_INIT_ERROR_TITLE",
+      "v": "FATAL ERROR",
+      "vn": 23
     },
     {
       "k": "ID_UI_ODRERROR_LOWSPACEWARNING",
@@ -847,6 +880,11 @@
     {
       "k": "ID_UI_POPUP_WARNING_SLOW_DEVICE",
       "v": "This device is not officially supported. You may experience low performance and instability."
+    },
+    {
+      "k": "ID_UI_PURCHASE_ERR_NEED_STORE_AUTH",
+      "v": "Could not authenticate with NetEase.",
+      "vn": 23
     },
     {
       "k": "ID_UI_QUESTRESULTS_COMPLETE_HEADER",

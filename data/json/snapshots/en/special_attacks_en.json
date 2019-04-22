@@ -6,9 +6,11 @@
       "special_attacks",
       "client"
     ],
-    "hash": "94e689bdadfb4f14fc11eb4f151359de7b8799ad",
-    "ts": 1552939613,
-    "string_count": 933
+    "hash": "4ce549f7ac5df14825cb8ee5d96e78e2524ed6f3",
+    "ts": 1554772257,
+    "string_count": 942,
+    "post_processed": true,
+    "versionLock": "23.0"
   },
   "strings": [
     {

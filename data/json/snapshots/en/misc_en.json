@@ -6,11 +6,11 @@
       "misc",
       "client"
     ],
-    "hash": "6c3adce2e43481973d9ea0de90ff8827afc6ce84",
-    "ts": 1552077874,
-    "string_count": 400,
+    "hash": "0b0e14074e7fc825028dde90b9d417dba46d3727",
+    "ts": 1554916542,
+    "string_count": 402,
     "post_processed": true,
-    "versionLock": "22.1"
+    "versionLock": "23.0"
   },
   "strings": [
     {
@@ -331,6 +331,16 @@
     {
       "k": "ID_UI_CIVIL_WAR_TITLE",
       "v": "CIVIL WAR"
+    },
+    {
+      "k": "ID_UI_COLLECTION_OWNED",
+      "v": "OWNED",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_COLLECTION_UNOWNED",
+      "v": "UNOWNED",
+      "vn": 23
     },
     {
       "k": "ID_UI_COMMON_AVAILABLE_IN_LOCATION",
@@ -959,6 +969,11 @@
       "v": "CLASS"
     },
     {
+      "k": "ID_UI_FILTER_COLLECTION",
+      "v": "COLLECTION",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_FILTER_FILTER",
       "v": "FILTER"
     },
@@ -1052,6 +1067,16 @@
       "k": "ID_UI_GOTO_MAIN_SERVER",
       "v": "RETURN TO MAIN",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_HEROESACTION_GETCHAMPS",
+      "v": "GET MORE CHAMPIONS!",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HEROESACTION_VIEWCRYSTALS",
+      "v": "VIEW CRYSTAL VAULT",
+      "vn": 23
     },
     {
       "k": "ID_UI_HIDDEN_INFO_CLASS",
@@ -1392,7 +1417,7 @@
     },
     {
       "k": "ID_UI_PREFIGHT_ABILITIES_WRONG_CHAMP_WARNING",
-      "v": "You are about to enter the fight with a different Champion than the activated Pre-Fight Abilities apply to.\n\nAre you sure you want to use this Champion?",
+      "v": "You are about to enter the fight with a different Champion than an activated Pre-Fight Ability applies to. Are you sure you want to use this Champion?",
       "vn": "22.1"
     },
     {
@@ -1635,6 +1660,11 @@
       "k": "ID_UI_SPECIAL_EVENT_HEADING",
       "v": "Special Event",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_TEAM_MANAGEMENT_SORT_COLLECTION",
+      "v": "COLLECTION",
+      "vn": 23
     },
     {
       "k": "ID_UI_TEMPORARY_GIFTING_EXPIRY_STRING",

@@ -6,11 +6,11 @@
       "bcg_stat",
       "client"
     ],
-    "hash": "7c03aa3439ecd5bc7fb6743c2d385fca2b2301a4",
-    "ts": 1553550878,
-    "string_count": 6354,
+    "hash": "1ce1a2c553ec2ec4f04f41fba1e9c0bb1c998f34",
+    "ts": 1555102744,
+    "string_count": 6491,
     "post_processed": true,
-    "versionLock": "22.1"
+    "versionLock": "23.0"
   },
   "strings": [
     {
@@ -369,6 +369,16 @@
       "vn": 19
     },
     {
+      "k": "ID_AVA_METAL_CD_PD",
+      "v": "Defender cannot become Indestructible while this cooldown is active.",
+      "vn": 23
+    },
+    {
+      "k": "ID_AVA_METAL_CD_PT",
+      "v": "Bulwark Indestrucitible",
+      "vn": 23
+    },
+    {
       "k": "ID_AVOIDD",
       "v": "Avoids all incoming attacks except for Special Attack 3.",
       "vn": "22.1"
@@ -669,6 +679,16 @@
       "vn": 19
     },
     {
+      "k": "ID_BLKTNGD",
+      "v": "This Champion has been persuaded by Ebony Maw and now suffers from Power Gain reduction.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BLKTNGT",
+      "v": "Black Tongue",
+      "vn": 23
+    },
+    {
       "k": "ID_BLON219D",
       "v": "Inflicts Direct Damage over time and decreases defensive Ability Accuracy and Attack Rating.",
       "vn": 19
@@ -764,6 +784,76 @@
       "vn": 19
     },
     {
+      "k": "ID_BWTS1",
+      "v": "Black Widow gains [16982bff]{0}%[-] Power each time she attacks and opponent's abilities fail to trigger.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS10",
+      "v": "Once the Power consumption ends, Regenerate [16982bff]{1}%[-] of any Health lost while Power was being consumed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS1D",
+      "v": "Black Widow gains Power each time she attacks and opponent's abilities fail to trigger.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS1T",
+      "v": "Synchronized",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS2",
+      "v": "Gaining a Bar of Power Purifies all Debuffs on Black Widow.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS3",
+      "v": "Black Widow gains Auto-Evade chance equal to her Critical Rate.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS4",
+      "v": "Auto-Evades Nullify all True Strike and True Accuracy Buffs on the opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS5",
+      "v": "Auto-Evades refresh all of Black Widow’s Buffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS6",
+      "v": "Auto-Evading Basic Attacks has [16982bff]{0}%[-] chance to Stun the opponent for [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS7",
+      "v": "Special Attacks no longer consume Power instantly but instead steadily consume Power over [16982bff]{2}[-] seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS7D",
+      "v": "Special Attacks no longer consume Power instantly but instead steadily consume Power over time.",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS7T",
+      "v": "Power Consumption",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS8",
+      "v": "While Power is being consumed, Critical Hits increase the number of active Cruelty Buffs by [16982bff]{1}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_BWTS9",
+      "v": "While Power is being consumed, the durations of Cruelty Buffs are paused.",
+      "vn": 23
+    },
+    {
       "k": "ID_CAON192D",
       "v": "When the mutation ends, Carnage copies his current Symbiotic Creation as a permanent Buff.",
       "vn": 19
@@ -819,6 +909,16 @@
       "vn": "17.2"
     },
     {
+      "k": "ID_CHARACTER_BIOS_CULLOBSIDIAN",
+      "v": "A ferocious combatant like few others, Cull Obsidian is always seeking a truly challenging fight to impress his master, Thanos. Wielding his one-of-a-kind multi-weapon, Cull tears his opponent’s defenses apart and stops heroes in their tracks. Lord Thanos won’t be stopped so long as his imposing enforcer, Cull, stands by his side ready to strike down any opposition.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_EBONYMAW",
+      "v": "A master of manipulation and overall evil genius, Ebony Maw is Thanos’s most trusted lieutenant, never failing him even once. Focusing on his strong telekinetic abilities rather than raw physical strength, Ebony Maw curves and bends the environment around him with ease. Additionally, his superhumanly persuasive voice allows him to sway even the strongest minds.",
+      "vn": 23
+    },
+    {
       "k": "ID_CHARACTER_BIOS_EMMAFROST",
       "v": "Emma Frost is an incredibly powerful mutant, with a brilliant mind to match. She possesses staggering telepathic abilities, and is able to transform her body into organic diamond, rendering her almost indestructible. From White Queen of the Hellfire Club, to leader of the X-Men, she handles every challenge with grace, poise, and wit as sharp as diamond.",
       "vn": 20
@@ -847,6 +947,11 @@
       "k": "ID_CHARACTER_BIOS_REDSKULL",
       "v": "The Red Skull has managed to orchestrate the assassinations of his enemies, manipulate his way to power, and lead HYDRA in a plan to devastate the world's most influential countries. Using his scientific talents and knowledge of the occult to research what others considered only a myth: the Cosmic Cube. Now armed with knowledge of its deepest secrets, The Red Skull has been able to harness it to power his suit of Hydra armor.",
       "vn": "19.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_RONIN",
+      "v": "Following the events of Avengers: Infinity War, Clint Barton is drawn out of retirement to don a new alter ego, Ronin -- A lawless assassin with a piercing sword and incredible fighting skills who mercilessly brings criminals to justice around the world.",
+      "vn": 23
     },
     {
       "k": "ID_CHARACTER_BIOS_SENTINEL",
@@ -917,6 +1022,46 @@
       "k": "ID_CLBS353T",
       "v": "[b4b4b4ff]Clubs[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_CLFVPC",
+      "v": "Each Persistent Charge grants 1 Thanos's Favor Buff at the start of each fight.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CLFVPC1",
+      "v": "Increases attack rating. Gains more properties as more Persistent Charges are gained.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CLFVPC2",
+      "v": "Rout Cooldown",
+      "vn": 23
+    },
+    {
+      "k": "ID_CLFVPC3",
+      "v": "Rout is cooling down. Once this timer expires, Rout may be activated again.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CLFVPC4",
+      "v": "Attacks deal bonus energy damage. Opponent suffers -100% Auto-Block Ability Accuracy.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CMB_LGTD",
+      "v": "This Champion finished their last combo with a Light Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CMB_MEDD",
+      "v": "This Champion finished their last combo with a Medium Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CMB_T",
+      "v": "Combo Ender",
+      "vn": 23
     },
     {
       "k": "ID_COAP58403D",
@@ -1124,6 +1269,16 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_CRTRESD",
+      "v": "Decreases damage taken from critical strikes.",
+      "vn": 23
+    },
+    {
+      "k": "ID_CRTREST",
+      "v": "[b4b4b4ff]Critical Resistance[-]",
+      "vn": 23
+    },
+    {
       "k": "ID_CRTY68D",
       "v": "Increases the damage bonus of Critical Hits.",
       "vn": 19
@@ -1237,6 +1392,16 @@
       "k": "ID_DETE109T",
       "v": "[b4b4b4ff]Decreased Power Rate[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_DETED",
+      "v": "Increases the damage of Degeneration effects.",
+      "vn": 23
+    },
+    {
+      "k": "ID_DETET",
+      "v": "Deterioration",
+      "vn": 23
     },
     {
       "k": "ID_DETY81D",
@@ -1404,6 +1569,16 @@
       "vn": 19
     },
     {
+      "k": "ID_DNGGD",
+      "v": "When the Defender takes a hit that would knock them out, the Attacker instead receieves damage equal to the Defenders attack and a charge is removed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_DNGGT",
+      "v": "[b4b4b4ff]Damage Reflection Charge[-]",
+      "vn": 23
+    },
+    {
       "k": "ID_DOGE98D",
       "v": "Summoner Mastery. Inflicts Direct Damage over time.",
       "vn": 19
@@ -1452,6 +1627,46 @@
       "k": "ID_DSBT",
       "v": "[b4b4b4ff]Soul Bond[-]",
       "vn": "19.1"
+    },
+    {
+      "k": "ID_EBMFCSCD",
+      "v": "Ebony Maw is focused on his Opponent's mental state.",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMFCSD",
+      "v": "Ebony Maw is focusing on his Opponent's mental state.",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMFCST",
+      "v": "Focus",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMMSND",
+      "v": "Displays the Number of Missions completed in the fight.",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMMSNT",
+      "v": "Completed Mission",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMPSD",
+      "v": "Percentage of the Opponent's mind persuaded by Ebony Maw.",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMPST",
+      "v": "Persuasion",
+      "vn": 23
+    },
+    {
+      "k": "ID_EBMPVD",
+      "v": "When the fight begins, the Opponent is inflicted with Deterioration Passives equal to Ebony Maw's Persistent Charges.",
+      "vn": 23
     },
     {
       "k": "ID_ELNG75D",
@@ -1697,6 +1912,16 @@
       "k": "ID_FAAL_T",
       "v": "Fate Seal",
       "vn": 19
+    },
+    {
+      "k": "ID_FALTERD",
+      "v": "This Champion will Miss all their attacks.",
+      "vn": 23
+    },
+    {
+      "k": "ID_FALTERT",
+      "v": "Falter",
+      "vn": 23
     },
     {
       "k": "ID_FAME61D",
@@ -2379,6 +2604,16 @@
       "vn": 19
     },
     {
+      "k": "ID_KINSHD",
+      "v": "While this shield is active this Champion stores all the damage they receive. When the shield expires they take the stored damage, however striking the Opponent will release all stored damage onto them instead.",
+      "vn": 23
+    },
+    {
+      "k": "ID_KINSHT",
+      "v": "[b4b4b4ff]Kinetic Shield[-]",
+      "vn": 23
+    },
+    {
       "k": "ID_KLGE192D",
       "v": "Increases Attack Rating and Critical Damage until struck 5 times.",
       "vn": 19
@@ -2442,6 +2677,16 @@
       "k": "ID_LIDE8217T",
       "v": "[b4b4b4ff]Linked Node[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_LIFCYCD",
+      "v": "While this shield is active this Champion can't be knocked out.",
+      "vn": 23
+    },
+    {
+      "k": "ID_LIFCYCT",
+      "v": "[b4b4b4ff]Knockout Shield[-]",
+      "vn": 23
     },
     {
       "k": "ID_LIGE122D",
@@ -3333,6 +3578,11 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_PS_SGWN7",
+      "v": "Attacks have a chance to Enervate the opponent (reducing the amount of Power they gain when struck). Also increases Critical Hit Damage.",
+      "vn": 23
+    },
+    {
       "k": "ID_PS_SHL1",
       "v": "Citing Precedence",
       "vn": "21.3"
@@ -4068,6 +4318,26 @@
       "vn": 22
     },
     {
+      "k": "ID_SPECIAL_ATTACK_CULLOBSIDIAN_0",
+      "v": "Collision of Challenge",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_CULLOBSIDIAN_1",
+      "v": "Transformation Devastation",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_CULLOBSIDIAN_2",
+      "v": "Pummeling Eradication",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_1",
+      "v": "A deadly throwing star creates space for a high-flying acrobatic cutting maneuver.",
+      "vn": 23
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_0",
       "v": "Ægon releases the energy in his phantom limb as a blast of cosmic energy.",
       "vn": 21
@@ -4096,6 +4366,36 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINMARVEL_MOVIE_2",
       "v": "Harnessing the power of a Binary Star, Captain Marvel sends her foes into orbit before burying them in cosmic energy.",
       "vn": 22
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CULLOBSIDIAN_0",
+      "v": "A series of devastating strikes softens the opponent before Cull roars a challenge in their face to prove his dominance.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CULLOBSIDIAN_1",
+      "v": "A flurry of blows rain down upon Cull’s foe, delivering punishing hammer and claw strikes.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CULLOBSIDIAN_2",
+      "v": "With a fully-deployed whip-chain, Cull snags his opponent in a crushing grip before launching them into the wall.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EBONYMAW_0",
+      "v": "Ebony Maw forms sharp blades from the objects in his vicinity, slashing the opponent with multiple strikes.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EBONYMAW_1",
+      "v": "Ebony Maw manipulates the ground beneath his opponent, knocking them back and forming spikes from nearby debris to hurl at them.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EBONYMAW_2",
+      "v": "Ebony Maw uses his telekinetic abilities to lift his opponent into the air drawing them closer before impaling them with microsurgery needles.",
+      "vn": 23
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_0",
@@ -4203,6 +4503,21 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_RONIN_0",
+      "v": "A surprise smoke bomb throw allows an opening for a swift somersault and sword strike combination.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_RONIN_1",
+      "v": "A deadly throwing star creates space for a high-flying acrobatic cutting maneuver.",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_RONIN_2",
+      "v": "Utilizing his sword and bow, Ronin splits an arrow on his blade for a special two-for-one assault.",
+      "vn": 23
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SENTINEL_0",
       "v": "REGULATION: when superheated ISO exceeds safety regulations, disperse towards aggressors.",
       "vn": "17.1"
@@ -4251,6 +4566,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THING_2",
       "v": "Thing crushes the Opponent with a boulder, then rolls them into a rock-burrito and flings them into the wall.",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EBONYMAW_0",
+      "v": "Unseen blades",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EBONYMAW_1",
+      "v": "Environmental Manipulation",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_EBONYMAW_2",
+      "v": "Microsurgery Paralysis",
+      "vn": 23
     },
     {
       "k": "ID_SPECIAL_ATTACK_EMMAFROST_0",
@@ -4361,6 +4691,21 @@
       "k": "ID_SPECIAL_ATTACK_ROGUE_1",
       "v": "Southern Hospitality",
       "vn": 1
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_RONIN_0",
+      "v": "Ambush from the Mists",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_RONIN_1",
+      "v": "Split the River",
+      "vn": 23
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_RONIN_2",
+      "v": "Marksman's Revenge",
+      "vn": 23
     },
     {
       "k": "ID_SPECIAL_ATTACK_SENTINEL_0",
@@ -4926,6 +5271,56 @@
       "k": "ID_STAT_DOM_SP3_3",
       "v": "If the opponent is Unlucky, this attack inflicts Armor Break, removing one Armor Up and reducing Armor by [16982bff]{1}[-] for {2} seconds.",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_STAT_IMANMS1",
+      "v": "Every 3 seconds, Iron Man generates an Armor Up Buff for each Bar of Power, increasing Armor by [16982bff]{1}[-] for [16982bff]{2}[-] seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS10",
+      "v": "Refresh the duration of all Armor Up Buffs and increase their quantity by [16982bff]{1}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS2",
+      "v": "Heavy Attacks remove Iron Man’s Armor Buffs based on Heavy Charge time. For each Armor Buff removed, inflict a Shock Debuff on the Opponent, dealing [16982bff]{1}[-] Shock Damage over [16982bff]{2}[-] seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS3",
+      "v": "Offensive Power Gain is increased by [16982bff]{1}%[-] for each Shock on the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS4",
+      "v": "Power Burn up to [16982bff]{1}%[-] of the Opponents Max Power and deal Direct Damage proportionate to the amount of Power lost.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS5",
+      "v": "Opponents are Taunted for [16982bff]{2}[-] seconds, reducing their Attack by [16982bff]{1}%[-] and increasing the chances of them activating a Special Attack by [16982bff]{0}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS6",
+      "v": "Double the number of active Armor Buffs on Iron Man.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS7",
+      "v": "Arc Overload Regenerates [16982bff]{0}%[-] more Health and grants [16982bff]+{1}[-] Physical Resistance for [16982bff]{2}[-] seconds. Additionally, gain an Armor Buff for each Armor Buff consumed by charging Heavy Attacks this fight.",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS8",
+      "v": "Shock Charge",
+      "vn": 23
+    },
+    {
+      "k": "ID_STAT_IMANMS9",
+      "v": "If this attack is successful, inflict Shock for each active Shock Charge.",
+      "vn": 23
     },
     {
       "k": "ID_STAT_IMI1",
@@ -6515,6 +6910,46 @@
       "v": "Percentages displayed are based on facing a 4-Star Rank 5 Champion (Challenge Rating 100)."
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_1_CULLOBSIDIAN_LONG",
+      "v": "[64acff]Cull Obsidian:[-] [ffd426]New Mission: Disarm their Tech:[-] Knockout a Tech Champion. This Mission can only be completed once each Quest.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_1_CULLOBSIDIAN_TITLE",
+      "v": "Invasive Force",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_2_CULLOBSIDIAN_LONG",
+      "v": "[64acff]Cull Obsidian:[-] [ffd426]New Mission: Show your Might:[-] Knockout a Champion while the Rout Buff is active. This mission can only be completed once each Quest.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_2_CULLOBSIDIAN_TITLE",
+      "v": "Display of Strength",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_3_CULLOBSIDIAN_LONG",
+      "v": "[64acff]Cull Obsidian[-]: Launching a Special Attack grants a Fury Buff for 4 seconds, increasing attack by {0}%. This Buff gains +150% duration while fighting Hero Champions.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_3_CULLOBSIDIAN_TITLE",
+      "v": "Heroes Never Learn",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_4_CULLOBSIDIAN_LONG",
+      "v": "All Champions gain +X Critical Rating",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_4_CULLOBSIDIAN_TITLE",
+      "v": "Enemies",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_ANNOYANCES",
       "v": "ANNOYANCES! ASSEMBLE!",
       "vn": "18.1"
@@ -6761,6 +7196,16 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_LAST_HOPE",
+      "v": "LAST HOPE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LAST_HOPE_LONG",
+      "v": "[64acff]Ronin:[-] The duration of Bleed Debuffs is increased {0}% for each active Cruelty.\n[64acff]Captain Marvel:[-] Intercepting attacks have +150 Critical Rating.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_LEGACC",
       "v": "LEGION ACCURSED",
       "vn": "21.2"
@@ -6781,6 +7226,16 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_LIVE_DIE_BY_THE_SWORD",
+      "v": "LIVE AND DIE BY THE SWORD",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LIVE_DIE_BY_THE_SWORD_LONG",
+      "v": "[64acff]Ronin:[-] Blocking Attacks has a 50% chance to Bleed the opponent dealing {0}% of Attack as Direct Damage over 5 seconds.\n[64acff]Nightcrawler:[-] When switching Combat Modes, gain +350 Critical Damage Rating for 10 seconds.\n[64acff]Guillotine:[-] Striking an Opponent with the fourth Light Attack has a 30% chance to gain 1 Soul. Cooldown: 10 Seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_MADCAP",
       "v": "MADCAP EXPERIMENTALISTS",
       "vn": "21.2"
@@ -6799,6 +7254,16 @@
       "k": "ID_UI_HERO_SYNERGY_MARVELOUS_LONG",
       "v": "[64acff]Captain Marvel:[-] Blocking energy-based attacks grants 2% of Max Power.\n[64acff]Captain Marvel (Classic), Ms. Marvel:[-] While Fury is active, Beam Attacks are Unblockable.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_MASTERLESS",
+      "v": "MASTERLESS",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_MASTERLESS_LONG",
+      "v": "[64acff]Ronin:[-] Gain a Fury Buff increasing Attack Rating by {0}% for 4 seconds upon switching Stances.\n[64acff]Moon Knight:[-] 30% chance to instantly Regenerate 35% of damage taken when struck.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 23
     },
     {
       "k": "ID_UI_HERO_SYNERGY_PARTICLEPHYSICS",
@@ -6910,6 +7375,16 @@
       "k": "ID_UI_HERO_SYNERGY_UNENDAM_DESC",
       "v": "[64acff]Diablo:[-] Recover 1 Counterflow after winning 1 Fight.\n[64acff]Loki:[-] +{0}% Curse Debuff duration.\n[64acff]Red Skull:[-] +{0}% Shock Debuff damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_UNLIKELY_COMBINATION",
+      "v": "UNLIKELY COMBINATION",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_UNLIKELY_COMBINATION_LONG",
+      "v": "[64acff]Ronin:[-] Gain +25% Block Proficiency in Guard Stance.\n[64acff]Ant-Man:[-] 20% chance to inflict a Fatigue Debuff on the opponent when struck and increases the Potency of Poisons by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 23
     },
     {
       "k": "ID_UI_HERO_SYNERGY_WAKANDA",
@@ -8890,6 +9365,11 @@
       "v": "CRITICAL"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_CRITRESIST_HUD",
+      "v": "CRITICAL RESIST",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CRITTHRUBLOCKS",
       "v": "This Champion can strike with Critical Hits even while the opponent is Blocking. Critical Hit based abilities will not trigger through a Block.",
       "vn": "13.1"
@@ -9037,6 +9517,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_DELAYEDBLAST_HUD",
       "v": "DELAYED BLAST",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DET_HUD",
+      "v": "DETERIORATION",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DIMLNK_HUD",
@@ -9398,6 +9883,36 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DUALSTRIKE_VII",
       "v": "[b310e8]Dual Strike VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_BNS_A",
+      "v": "PAINFUL AREN'T THEY",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_BNS_B",
+      "v": "SHHHHHH",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_FOCUS_BRK_HUD",
+      "v": "FOCUS BROKEN",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_MISSION_COMP_HUD_A",
+      "v": "MISSION COMPLETE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_MISSION_COMP_HUD_B",
+      "v": "MISSIONS COMPLETE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_EBM_PERSUADE_HUD",
+      "v": "PERSUADED",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ELEMENTGUN",
@@ -9801,6 +10316,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_EXPLOITWEAKNESS_SHORT",
       "v": "Exploit Weakness",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FALTER",
+      "v": "[b4b4b4ff]Falter[-]",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FALTER_HUD",
+      "v": "FALTER",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FATESEAL",
@@ -12475,6 +13000,11 @@
       "v": "{0}% chance to Stun per Bleed active on target, lasting for {2} seconds."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_G_CRIT_HUD",
+      "v": "GUARANTEED CRIT",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_HEALBLOCK_HUD",
       "v": "HEAL BLOCK"
     },
@@ -13178,6 +13708,11 @@
       "v": "[b310e8]Incinerate VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_INCOMING_FALTER_HUD",
+      "v": "APPROACHING FALTER",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_INDESTRUCTIBLE",
       "v": "[b4b4b4ff]Indestructible[-]"
     },
@@ -13325,7 +13860,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_DAMN",
-      "v": "Judgement of Guilt: {0}% chance. \r\nSecondary: Inflicts Damnation upon the opponent through the Penance Stare for {2} seconds, dealing [16982bff]{1}%[-] of Ghost Rider’s Attack as direct damage. Opponent’s under Damnation are also Power Locked, Heal Blocked and Fate Sealed.",
+      "v": "Judgement of Guilt: {0}% chance. \nSecondary: Inflicts Damnation upon the opponent through the Penance Stare for {2} seconds, dealing [16982bff]{1}%[-] of Ghost Rider’s Attack as direct damage. Opponent’s under Damnation are also Power Locked, Heal Blocked and Fate Sealed.",
       "vn": "11.2"
     },
     {
@@ -13379,7 +13914,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_LIFEST",
-      "v": "Judgement of Malice: {0}% chance. \r\nSecondary: Gain a Lifesteal Passive effect for [16982bff]{2}[-] seconds, allowing Ghost Rider to steal [16982bff]{1}%[-] Health with each attack.",
+      "v": "Judgement of Malice: {0}% chance. \nSecondary: Gain a Lifesteal Passive effect for [16982bff]{2}[-] seconds, allowing Ghost Rider to steal [16982bff]{1}%[-] Health with each attack.",
       "vn": "11.2"
     },
     {
@@ -13767,6 +14302,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MANALOCK_VII",
       "v": "[b310e8]Power Lock VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MANASTEAL",
+      "v": "[b4b4b4ff]Power Steal[-]",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MASACRE_BLOCK_PEN",
@@ -16540,9 +17080,74 @@
       "vn": "17.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BWTS_EN_EVD",
+      "v": "False Strike",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BWTS_PUR",
+      "v": "Alternate Timeline",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BWTS_SP",
+      "v": "All in Good Time",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BWTS_SYNC",
+      "v": "Synchronized",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CHTHONSCUNNING",
       "v": "Chthon's Cunning - Passive",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_BK",
+      "v": "Bad Karma",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_FTG",
+      "v": "Fatigue",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_KB",
+      "v": "Karmic Blasts",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_LR",
+      "v": "Life Regeneration",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_PV",
+      "v": "Capture Souls",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CULL_FAVOR",
+      "v": "Thanos's Favor - Max Persistent Charges [37bfff]10[-]",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CULL_FAVORBUFFS",
+      "v": "Thanos’s Favor Buffs - Effects from Persistent Charge",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CULL_MISSIONS",
+      "v": "Missions from Thanos",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CULL_ROUT",
+      "v": "Dash Back and Hold Block for 1.2 Seconds - Once Per Fight",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CUNNING",
@@ -16553,6 +17158,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DEFMODE",
       "v": "Shield Mode",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DETERIORATIONS",
+      "v": "Deteriorations - Passive",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIAMOND_FORM",
@@ -16715,6 +17325,21 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GAUNTLETENWSP1",
+      "v": "Special 1 - Primeval Cocoon",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GAUNTLETENWSP2",
+      "v": "Special 2 - Ruthless Pandemonium",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GAUNTLETENWSP3",
+      "v": "Special 3 - Warmonger's Imperative",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GAUNTLETSP1",
       "v": "Special 1 - Genesis Stone",
       "vn": 18
@@ -16750,6 +17375,31 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_CTR",
+      "v": "Clarity Through Rage",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_EF",
+      "v": "Enhanced Fury",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_EM",
+      "v": "Energy Manipulation",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_HP",
+      "v": "Harnessing Power",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_SP",
+      "v": "Special Attacks",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HVKPLASMABU",
       "v": "Plasma Build Up - Debuff",
       "vn": "21.3"
@@ -16770,9 +17420,54 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_AR",
+      "v": "Alter Reality",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_AT",
+      "v": "All Attacks",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_SP1",
+      "v": "Special Attack 1 - Shock and Awe",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_SP2",
+      "v": "Special Attack 2 - Hot and Heavy",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_SP3",
+      "v": "Special Attack 3 - Bruised and Bloody",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HWKYRS_VUL",
+      "v": "Vulnerability",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_IGNITED",
       "v": "Ignited - Passive",
       "vn": "18.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_IMANMS_SE",
+      "v": "Stark Enhancements - Armor Ups",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_IMANMS_SIG",
+      "v": "Stark Enhancements - Arc Overload",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_IMANMS_SP",
+      "v": "Mind Stone - Mental Manipulation",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INCIN",
@@ -17394,6 +18089,11 @@
       "v": "Special Attacks"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONSTANCEENTER",
+      "v": "When Entering A Stance",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONSTART",
       "v": "Passive"
     },
@@ -17444,6 +18144,11 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ON_STA_ENTER",
+      "v": "When Entering A Stance",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OPBLW18",
       "v": "Opponent Below 18% Health",
       "vn": "20.1"
@@ -17462,6 +18167,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OVERPOWER",
       "v": "Overpower - Buff",
       "vn": 15
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PERSUASIVEVOICE",
+      "v": "Persuasive Voice",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PFTORCH",
@@ -17532,13 +18242,63 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STANCEAA",
+      "v": "Wraith Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STANCEBLD",
+      "v": "Demon Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STANCEDEF",
+      "v": "Guard Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STANCEPREP",
+      "v": "Stance Preparation",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STARKAI",
       "v": "Stark Tech AI"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STA_AA",
+      "v": "Wraith Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STA_BLD",
+      "v": "Demon Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STA_DEF",
+      "v": "Guard Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STA_PREP",
+      "v": "Stance Preparation",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SUPERSTRENGTH",
       "v": "Super Strength",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SWRD",
+      "v": "Sword Attacks",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SWRD_ATKS",
+      "v": "Sword Attacks",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TACCHARGE",
@@ -17569,6 +18329,21 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_THING_DEF_UI",
       "v": "Passive - Rock Stack",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_THORSS_HP",
+      "v": "High Pressure",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_THORSS_RHP",
+      "v": "Rock and a Hard Place",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_THORSS_SL",
+      "v": "Stun Locked",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TRUESIGHT",
@@ -17609,6 +18384,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WARNOVERLOAD",
       "v": "Warning: Power Overload!",
       "vn": "17.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WELLTIMED",
+      "v": "Well-Timed Block",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WELLTIMEDBLOCK",
@@ -17965,6 +18745,81 @@
       "k": "ID_UI_STAT_BLOODLETTING_HUD",
       "v": "BLOODLETTING",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_BK",
+      "v": "Bad Karma",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_BK_1",
+      "v": "Each time the Opponent is Fatigued, Power Lock the Opponent for [16982bff]{2}[-] second(s) and inflict a number of Power Sting(s) equal to [16982bff]{1}%[-] of the number of active Power Sting(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_KB",
+      "v": "Karmic Blasts",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_KB_1",
+      "v": "Stuns are enhanced to Karmic Blasts.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_KB_2",
+      "v": "All Stuns inflict Permanent Power Sting. An Opponent with Power Sting takes [16982bff]{1}[-] Direct Damage when activating a Special Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_LR",
+      "v": "Life Regeneration",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_LR_1",
+      "v": "Regenerates [16982bff]{1}%[-] of max HP every [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_LR_2",
+      "v": "Well-Timed Block regenerates health equal to [16982bff]{1}%[-] Damage mitigated.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV",
+      "v": "Capture Souls",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV6",
+      "v": "After Defeating any Champion, Captain America gains a permanent [16982bff]{0}%[-] increase to Physical Resistance and Attack Rating.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV_1",
+      "v": "[16982bff]{1}%[-] of Damage mitigated by Well-Timed Block is reflected back to the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV_2",
+      "v": "Striking Fatigued Opponent inflicts Power Sting. An Opponent with Power Sting takes [16982bff]{1}[-] Direct Damage when activating a Special Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV_3",
+      "v": "Special Attacks deals [16982bff]{1}%[-] additional Damage for every Power Sting on the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV_4",
+      "v": "Critical Strikes inflict Fatigue.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_CPAMSS_PV_5",
+      "v": "[16982bff]{0}%[-] chance a Power Sting is reapplied after triggering.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_DIABLO_ALCH",
@@ -18438,12 +19293,12 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_ANNI_COSR_OBLIT",
-      "v": "While the Cosmic Control Rod is active, all Attacks have a {1}% chance to be an Obliterating Strike.",
+      "v": "All Attacks have a {1}% chance to be an Obliterating Strike. This cannot be affected by Ability Accuracy Reduction.",
       "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_ANNI_COSR_PROTEC",
-      "v": "Whenever any Buff would be removed by a Nullify, Fate Seal, or Stagger, the effect is Purified and the Cosmic Control Rod is removed for {2} seconds.",
+      "v": "Whenever the opponent activates a Nullify, Fateseal, or Stagger ability, The effect is Purified and the Cosmic Control Rod is removed for {2} seconds.",
       "vn": "22.1"
     },
     {
@@ -18508,7 +19363,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_ANNI_OARMBRK",
-      "v": "Obliterating Strikes inflict Armor Break, reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "v": "Obliterating Strikes have a {0}% chance to inflict Armor Break, reducing Armor Rating by [16982bff]{1}[-] for {2} seconds.",
       "vn": "22.1"
     },
     {
@@ -19173,6 +20028,116 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CULL_ALLSP",
+      "v": "Cull Obsidian’s overwhelming presence reduces the opponent’s Armor Up Ability Accuracy by {1}% during his Special Attacks.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_CHARGE",
+      "v": "Cull Obsidian overcharges his weapon to gain a Rout Buff for {2} seconds. This causes his opponent to suffer -{0}% Auto-Block Ability Accuracy and also grants his attacks an additional burst of Energy Damage equal to {1}% of the damage dealt.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_CHARGE_TITLE",
+      "v": "Rout",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_1",
+      "v": "[37bfff]1+[-] Each Buff grants +{1}% Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_2",
+      "v": "[37bfff]3+[-] Each Buff grants [16982bff]+{1}[-] Critical Damage Rating.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_3",
+      "v": "[37bfff]5+[-] Each Buff provides True Accuracy, allowing attacks to ignore Evasion and Auto-Block.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_4",
+      "v": "[37bfff]8+[-] Each Buff grants +{1}% Rout Buff duration.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_TITLE",
+      "v": "Thanos’s Favor",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_1",
+      "v": "Cull Obsidian has [37bfff]{1}[-] Missions to complete, which may be done in any order. Each Mission can be completed multiple times and doing so grants [37bfff]1[-] Persistent Charge.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_2",
+      "v": "At the beginning of the fight, 1 Thanos’s Favor Buff is gained per [37bfff]Persistent Charge.[-] These Buffs last {2} seconds each and they gain effects based on the number of charges. These Buffs have their duration paused for {1} second(s) each time an attack is landed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_HUD",
+      "v": "THANOS'S FAVOR",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_TITLE",
+      "v": "Thanos's Favor",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_HEAVY",
+      "v": "{0}% chance per strike to inflict an Armor Break Debuff, reducing Armor by [16982bff]{1}[-] for {2} seconds. This effect gains +15% duration and Ability Accuracy for each [37bfff]Persistent Charge[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_MISSIONS_1",
+      "v": "[ffd426]Mission 1: Break their Defenses:[-] Knockout any Champion.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_MISSIONS_2",
+      "v": "[ffd426]Mission 2: Crush their Hope:[-] Knockout an Avenger.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_MISSIONS_3",
+      "v": "[ffd426]Mission 3: End their Resistance:[-] Knockout a Champion above {1}% Health without the Combo Meter resetting during the fight.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_PARRY",
+      "v": "Cull Obsidian’s unique shield allows him to use the Parry Mastery against Projectile attacks (only if the Mastery is unlocked & active).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_ROUT_HUD",
+      "v": "ROUT",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP1",
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
+      "cn": null
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP2",
+      "v": "Each strike has a {0}% chance to pause the duration of all Armor Break Debuffs on the opponent for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP3",
+      "v": "An influx of power from Thanos causes Cull Obsidian to re-trigger all of his Thanos’ Favor Buffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP3_B",
+      "v": "+{1}% Attack for each [37bfff]Persistent Charge[-]",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_DEBILITATE_PAUSE",
       "v": "Debilitate",
       "vn": "21.1"
@@ -19401,6 +20366,146 @@
     {
       "k": "ID_UI_STAT_FORMAT_EARTHQUAKE_STUNIMMUNE",
       "v": "Stun immunity is ineffective against Stuns inflicted by Earthquakes and Aftershocks."
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_BLKTNG",
+      "v": "At 100 Persuasion the Opponent is Persuaded and inflicted with a Black Tongue Passive, reducing Power Gain from all sources by {1}%. Black Tongue is not affected by Ability Accuracy and lasts for the rest of the fight.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_BLKTNG_B",
+      "v": "While Black Tongue is active the Opponent is inflicted with 1 Deterioration Passive every {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_DET_BASE",
+      "v": "Deterioration Passives last indefinitely until consumed, each reducing the potency of the Opponent's Fury effects by a flat {1}%, stacking up to a maximum of {0} times.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_FOCUS_A",
+      "v": "If Ebony Maw isn't focused, he begins focusing on the Opponent’s mind for {2} seconds understanding their mental state. This time is doubled if he's under the effect of 1 or more non-damaging Debuffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_FOCUS_B",
+      "v": "Once focused, the Opponent gains 1 Persuasion every {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_FOCUS_C",
+      "v": "When struck by the Opponent’s Heavy Attack or Special Attack 3, Ebony Maw's focus is broken.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_FOCUS_D",
+      "v": "For every 20 Persuasion the Opponent gains, they are inflicted with a Falter Passive lasting 3 seconds. Increasing to 5 seconds against Cosmics. Enemies inflicted with Falter have a 100% chance to Miss.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_GCRIT",
+      "v": "If the Opponent doesn’t have Class Advantage, Ebony Maw causes all guaranteed Critical Hits to Miss.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_1",
+      "v": "[ffd426]Mission 1: Mastermind[-]: Nullify a Buff from the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_2",
+      "v": "[ffd426]Mission 2: Manipulator[-]: Cause the Opponent to lose Power.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_3",
+      "v": "[ffd426]Mission 3: Unwavering[-]: Cause the Opponent to Falter and Miss.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_A",
+      "v": "Ebony Maw has 3 missions to complete. Each mission can only be completed once per fight. Completing all 3 missions in a single fight grants Ebony Maw 1 [37bfff]Persistent Charge[-], up to a maximum of 6.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_B",
+      "v": "Each time Ebony Maw completes a mission, he inflicts the Opponent with a Degeneration Passive, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_C",
+      "v": "When the fight starts, Ebony Maw inflicts the Opponent with 1 Deterioration Passive for every [37bfff]Persistent Charge[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_MSN_PAUSE",
+      "v": "When the fight starts, Ebony Maw inflicts the Opponent with 1 Weakness Debuff per persistent charge.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_NONCONTACT",
+      "v": "Ebony Maw’s first Light Attack is the only Basic hit to make contact with the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_POWERSTEAL",
+      "v": "Landing a Heavy Attack steals all the Opponent’s Power Gain Buffs and {1}% of their current Power.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SIG_A",
+      "v": "When the Opponent Misses an attack they are inflicted with a Degeneration Passive, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SIG_B",
+      "v": "Each time Ebony Maw Nullifies a Buff or Activates a Special Attack he places 1 Deterioration Passive on his Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SIG_C",
+      "v": "When Ebony Maw inflicts his Opponent with a Degeneration, all Deterioration Passives are consumed, each adding [16982bff]{1}[-] damage to the Degeneration.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP1NULL_A",
+      "v": "When activated and with each hit, Ebony Maw Nullifies 1 Fury, Cruelty, or Precision Buff from his Opponent. This expands to all Buffs if the Opponent is inflicted with Black Tongue.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP1NULL_B",
+      "v": "If no Buffs were Nullified during this attack, the Opponent gains a Fury Buff increasing their Attack Rating by {1} for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP1NULL_C",
+      "v": "The Opponent is inflicted with 1 Weakness Debuff for every Buff Nullified, each lowering their Attack Rating by 5% for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP2REFRESH",
+      "v": "Inflicts the Opponent with a Degeneration Passive, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP2REGEN",
+      "v": "If the Opponent has 6 or more Weakness Debuffs they are removed and replaced with a Degeneration Passive, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP3DEGEN_A",
+      "v": "If the Opponent is not suffering from a Degeneration Effect, Ebony Maw inflicts them with one, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP3DEGEN_B",
+      "v": "If the Opponent is suffering from a Degeneration Effect inflicted by Ebony Maw, it’s potency is doubled for the rest of the fight, this increase can stack up to {1} times.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_EBM_SP3PWRGAIN",
+      "v": "Ebony Maw reaches into his Opponent’s mind depleting all their current Power, gaining {1}% of the Power depleted for himself over the next {2} seconds.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_ELTOUCH_HUD",
@@ -19832,6 +20937,11 @@
     {
       "k": "ID_UI_STAT_FORMAT_HULK_DESC_UPDATED",
       "v": "Hulk has a [16982bff]{0}%[-] chance to Rage, strengthening his attacks and Physical Resistance by [16982bff]{1}%[-] per Rage charge. Rage charges expire every [16982bff]{2}[-] seconds and 50% faster against female Champions."
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_IMAN_ARMBUFF_GEN",
+      "v": "Every {0} seconds, Iron Man generates an Armor Up Buff increasing Armor by [16982bff]{1}[-] for {2} seconds. Each Full bar of Power provides an additional Armor Up Buff.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_IMM_FBCS",
@@ -21058,6 +22168,241 @@
       "v": "She is able to hold the opponent’s Buffs for [16982bff]{2}[-] more seconds."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_RONIN_LOCK_IN_MAX_CRIT",
+      "v": "When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_MISS_BUFF",
+      "v": "When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by [16982bff]{1}[-]. Max 7 stacks.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_STA_CHANGE",
+      "v": "Changing Winds",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_STA_CHANGE_DESC",
+      "v": "Ronin changes Stances every 6 seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_STA_CHANGE_PAUSE",
+      "v": "Changing Winds",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_STA_CHANGE_PAUSE_DESC",
+      "v": "Allows Ronin to switch stances every 6 seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_VIGOR",
+      "v": "Renewed Vigor",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_PVE_VIGOR_DESC",
+      "v": "Each time the Defender is Stunned, Ronin gains a Cruelty Passive.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_EVADE",
+      "v": "When at 4 Cruelty Buffs or above, Ronin gains Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes 4 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_EVADE_ALT",
+      "v": "While at 7 Cruelty Passives, Ronin gains Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes all Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_FURY_ALT",
+      "v": "When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_SHORT",
+      "v": "Unrelenting Agility {0}",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_SIMPLE",
+      "v": "Moving through his stances allows Ronin to hone his reflexes, keep focus and become untouchable.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_STUN",
+      "v": "When Evasion expires and the opponent has 6 or more Bleed Debuffs, inflict a Stun Debuff on the opponent for 1.5 seconds. If the opponent is performing a Special Attack, this Stun is inflicted after the Special Attack is executed. This Stun can be activated again after a [16982bff]{2}[-] second cooldown.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SIG_TITLE",
+      "v": "UNRELENTING AGILITY",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP1_DISORIENT",
+      "v": "Disorients the opponent reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP1_STA_TRIG",
+      "v": "Enters a prepared Stance.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP2_BLEED",
+      "v": "Inflicts a Bleed that deals [16982bff]{1}[-] Direct Damage over {2} seconds for each active Cruelty Passive.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP2_REM_CRUELTY",
+      "v": "Removes all Cruelty Passives.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP2_TRU_DMG_ALT",
+      "v": "While at 7 Cruelty Passives, the final Sword strike deals True Damage ignoring all Armor and Resistances.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP3_FURY",
+      "v": "Gain a Fury Passive increasing Attack Rating by [16982bff]{1}[-] for {2} seconds. Each active Cruelty Passsive increases the Attack Rating by an additional [16982bff]{1}[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP3_STA",
+      "v": "Enters all Stances for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SP3_STA_CRUELTY",
+      "v": "Ronin cannot lose Cruelty Passives while all Stances are active.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_AA",
+      "v": "All attacks reduce Defensive Ability Accuracy by {1}%.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_AA_PAUSE",
+      "v": "Wraith Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_AA_PAUSE_DESC",
+      "v": "Ronin's attacks reduce the opponents Defensive Ability Accuracy.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_ALL_PAUSE",
+      "v": "All Stance Abilities",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_ALL_PAUSE_DESC",
+      "v": "Ronin gains access to Guard, Wraith, and Demon Stance.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_BLD",
+      "v": "All Bleeds gain +{1}% Ability Accuracy and can be inflicted on Blocked hits.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_BLD_PAUSE",
+      "v": "Demon Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_BLD_PAUSE_DESC",
+      "v": "All Bleeds gain Ability Accuracy and can be inflicted on Blocked hits.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_DEF",
+      "v": "Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is projectile based. Ronin gains +{1}% chance to Perfect Block. ",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_DEF_PAUSE",
+      "v": "Guard Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_DEF_PAUSE_DESC",
+      "v": "Ronin gains Perfect Block Chance and the ability to Parry Projectiles.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_DEF_PUR",
+      "v": "Entering this stance has a {0}% chance to Purify a Debuff.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP",
+      "v": "Prepared Stance",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_AA_DESC",
+      "v": "Ronin enters Wraith Stance after dodging back.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_BLD_DESC",
+      "v": "Ronin enters Demon Stance after dodging back.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_CANCEL",
+      "v": "Ronin removes a Stance by executing his second Medium Attack.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_CRUELTY",
+      "v": "When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by [16982bff]{1}[-]. Max 7 stacks.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_DEF_DESC",
+      "v": "Ronin enters Guard Stance after dodging back.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_LOCK_CD",
+      "v": "Gain a Precision Passive increasing Critical Hit Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_LOCK_IN",
+      "v": "Dodging back after preparing a stance Ronin enters a Stance. Stances are not affected by Ability Accuracy Reduction.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_MOVES",
+      "v": "Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SWRD_BLD",
+      "v": "Attacks using the Sword have a {0}% chance to inflict Bleed dealing [16982bff]{1}[-] Direct Damage over {2} seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SWRD_BLD_IMM",
+      "v": "Against Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_RONIN_SWRD_INTRCPT",
+      "v": "Intercepting attacks has +[16982bff]{1}[-] Critical Rating.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SABRE_COLDIMMUNITY",
       "v": "Sabretooth can withstand incredibly cold temperatures, providing him Immunity to Cold Damage like Coldsnap and Frost bite.",
       "vn": "17.1"
@@ -21294,8 +22639,58 @@
       "v": "[b4b4b4ff]Shock[-]"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SIG_A",
+      "v": "At the start of the fight the Opponent is inflicted with a Degeneration Passive dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SIG_B",
+      "v": "Each time Ebony Maw activates a special attack or the Opponent has a Buff Nullified, the damage of Ebony Maw’s active Degeneration Effects are increased by [16982bff]{1}[-] if the Degeneration expires the increase is reset.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP1NULL_A",
+      "v": "Activating this attack immediately Nullifies up to 1 Fury, Cruelty, or Precision Buff from the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP1NULL_B",
+      "v": "Each hit of this attack Nullifies 1 Fury, Cruelty, or Precision Buff. If the Opponent is inflicted with Black Tongue, these Nullifies target all Buffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP1NULL_C",
+      "v": "If one or more Buffs were Nullified during this attack, the Opponent is inflicted with a Weakness Debuff, lowering their Attack Rating by {1}% for {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP2REFRESH",
+      "v": "Immediately refreshes the duration of all Weakness Debuffs and Degeneration Passives inflicted by Ebony Maw.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP2REGEN",
+      "v": "If the Opponent has 6 or more Weakness Debuffs they are Purified and Ebony Maw regenerates {1}% of his base health over {2} seconds.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SP3BUFFS",
       "v": "Activates {2} Buff per type that was Replicated during the fight. Buffs stay active as long as Rogue keeps touching the opponent. Opponents can not activate those Buffs as long as Rogue holds them."
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP3DEGEN_A",
+      "v": "If the Opponent is not suffering from a Degeneration Effect, Ebony Maw inflicts them with one, dealing [16982bff]{1}[-] damage over {2} seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP3DEGEN_B",
+      "v": "If the Opponent is suffering from a Degeneration Effect inflicted by Ebony Maw, the potency of all his Degeneration Effects are doubled for the rest of the fight up to a maximum of 1600% base increase.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SP3PWRGAIN",
+      "v": "Ebony Maw reaches into his Opponent’s mind depleting all their current power, gaining {1}% of the power depleted for himself over the next {2} seconds.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_SPMAN_MCU_AI",
@@ -21429,6 +22824,21 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_ENW_STAGE1",
+      "v": "PRIMEVAL COCOON",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_ENW_STAGE2",
+      "v": "RUTHLESS PANDEMONIUM",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_ENW_STAGE3",
+      "v": "WARMONGER'S IMPERATIVE",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_EVOLUTION_1",
       "v": "Thanos activates Evolution Armor for {2} seconds. Whenever the opponent’s attacks make contact with his Evolved Armor, {1}% of the damage taken will be dealt back as Bleed Damage.",
       "vn": 18
@@ -21475,6 +22885,11 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_ENW_LONG",
+      "v": "When dropping below 95% Health, Thanos activates his Primeval Cocoon, and has a maximum of 1 bar of Power.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_LONG",
       "v": "When dropping below 95% Health, Thanos activates his Genesis Stone and has a maximum of 1 bar of Power.",
       "vn": 18
@@ -21485,6 +22900,11 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY3_ENW_LONG",
+      "v": "When dropping below 65% Health, Thanos activates his Ruthless Pandemonium, instantly fills his first bar of Power, and increases his maximum Power to 2 bars.",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY3_LONG",
       "v": "When dropping below 65% Health, Thanos activates his Chaos Stone, instantly filling his first bar of Power and increasing his maximum Power to 2 bars.",
       "vn": 18
@@ -21493,6 +22913,11 @@
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY4_END_LONG",
       "v": "When dropping below 30% Health, Thanos activates his Death Stone, instantly filling his first 2 bars of Power and increasing his maximum Power to 3 bars.",
       "vn": 18
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY4_ENW_LONG",
+      "v": "When dropping below 30% Health, Thanos activates his Warmonger's Imperative, instantly fills his first 2 bars of Power, and increases his maximum Power to 3 bars.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY4_LONG",
@@ -21590,6 +23015,86 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_1",
+      "v": "Thanos surrounds himself in a Primeval Cocoon reflecting all damage and stuns back at the Attacker, and granting himself a 100% Chance to Perfect Block.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_2",
+      "v": "While Primeval Cocoon is active if the Attacker strikes Thanos's Block it grants them power as if it were a Hit.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_3",
+      "v": "If Thanos is struck by a Heavy or Special Attack, the Primeval Cocoon is lost until he activates it again.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_PD",
+      "v": "While active Thanos's Primeval Cocoon reflects all Damage and Stuns back at the Attacker, striking him with a Heavy or Special Attack disables the Cocoon.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_PDA",
+      "v": "Active",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_PDD",
+      "v": "Disabled",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_PT",
+      "v": "Primeval Cocoon",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_PRIMEVAL_PT2",
+      "v": "Primeval Cocoon State",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_1",
+      "v": "Thanos unleashes Ruthless Pandemonium granting him a Passive Safeguard from taking more than [16982bff]{1}%[-] of his Max Health in Damage, and Inverting the Attacker's Controls.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_2",
+      "v": "The Attacker's Inverted Controls are Removed when Thanos is Struck by a Light Combo Ender.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_3",
+      "v": "While the Attacker's controls are inverted, Thanos's attacks Cannot Miss, he receives True Strike, and [16982bff]+{1}[-] Attack Rating.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_4",
+      "v": "While the Attacker's controls are inverted, the Attacker increases their Attack by [16982bff]{1}%[-] of their Base Attack Rating.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_5",
+      "v": "If Thanos is struck by a Light Combo Ender, he removes the inverted Controls from his opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_INVERT_PD",
+      "v": "The Attacker's controls are inverted, and their Attack is significantly increased. This effect ends when Thanos is Struck by a Light Combo Ender.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_PD",
+      "v": "Creates illusionary projectiles as part of this Special Attack, and grants Safeguard. Grants Attack, True Strike, and Can't Miss while the Opponent's Control's are Inverted.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_RUTHLESS_PT",
+      "v": "Ruthless Pandemonium",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_SP2_BUFFS_LONG",
       "v": "Thanos activates True Strike, Fury and Safeguard Buffs for {2} seconds.",
       "vn": 18
@@ -21660,7 +23165,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_SP3_AVENGERS_LONG",
-      "v": "Members of the Avengers won’t lose more than 10% of their max Health when hit by this Special Attack.",
+      "v": "Members of the Avengers won’t lose more than {1}% of their max Health when hit by this Special Attack.",
       "vn": 18
     },
     {
@@ -21771,8 +23276,23 @@
       "v": "[b4b4b4ff]Illusionary Nightmare II[-]"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_PRIMEVAL",
+      "v": "[b4b4b4ff]Primeval Cocoon[-]",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_RUTHLESS",
+      "v": "[b4b4b4ff]Ruthless Pandemonium[-]",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_WAR",
       "v": "[b4b4b4ff]Unstoppable War[-]"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_WARMONGER",
+      "v": "[b4b4b4ff]Warmonger's Imperative[-]",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_WAR_I",
@@ -21781,6 +23301,51 @@
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_TITLE_WAR_II",
       "v": "[b4b4b4ff]Unstoppable War II[-]"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER",
+      "v": "Thanos places a Degeneration Passive on the Opponent for [16982bff]{2}[-] seconds dealing [16982bff]{1}%[-] of their Max Health for each Weakness Debuff active on them.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_1",
+      "v": "Thanos enters Warmonger's Imperative, gaining an Unstoppable Buff for {2} seconds, increasing the Power the Attacker gains for landing hits by {1}% but reducing their Critical Damage Rating to 0.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_1A",
+      "v": "Thanos enters Warmonger's Imperative, gaining an Unstoppable Buff for {2} seconds, going Indestructible, and increasing the Power the Attacker gains for landing hits by {1}% but reducing their Critical Damage Rating to 0.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_2",
+      "v": "Thanos places an Armor Break Debuff on the Attacker reducing their Armor Rating by [16982bff]{1}[-] every {2} second(s). The closer the Attacker is to Thanos, the faster these Armor Breaks are placed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_3",
+      "v": "Intercepting Thanos's Dash Attack places an Armor Break Debuff onto Thanos for each Armor Break Debuff on the Attacker. These Armor Breaks last {2} second(s) and reduce Armor Rating by [16982bff]{1}[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_3A",
+      "v": "Intercepting Thanos's Dash Attack places an Armor Break Debuff onto Thanos for each Armor Break Debuff on the Attacker. These Armor Breaks last {2} second(s), reduce Armor Rating by [16982bff]{1}[-], and remove Thanos's Indestructible Effect while active.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_PD",
+      "v": "Thanos goes Unstoppable, and Indestructible, while reducing the Attacker's Critical Damage Rating to 0, and Armor Breaking the Attacker repeatedly. Intercepting Thanos's Dash Attack removes the Unstoppable, and briefly copies the Armor Breaks from the Attacker to Thanos, making him vulnerable to damage for their duration.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_PDA",
+      "v": "Thanos Armor Breaks the Attacker repeatedly. Intercepting Thanos's Dash Attack removes Unstoppable, transfers Armor Breaks to Thanos, and briefly removes Indestructible.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_THANOS_WARMONGER_PT",
+      "v": "Warmonger's Imperative",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_THING_ATK",
@@ -22336,6 +23901,221 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_UI_STAT_HULKPS_CTR",
+      "v": "Clarity Through Rage",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_CTR_1",
+      "v": "Hulk can never lose more than [16982bff]{1}%[-] of his max Health from any source of damage.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_CTR_2",
+      "v": "Depending on his missing health, Hulk increases his Physical Resistance up to [16982bff]{1}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_CTR_3",
+      "v": "Depending on his missing health, Hulk increases the potency of any new Fury Buff by up to [16982bff]{1}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_CTR_4",
+      "v": "Every time Hulk loses [16982bff]{0}%[-] of his Health from a single source of damage, he gains Indestructible and Unstoppable for [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF",
+      "v": "Enhanced Fury",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF_1",
+      "v": "All Hulk's Fury Buffs are replaced by Enhanced Fury Buffs, increasing Hulk's Attack by [16982bff]{1}[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF_2",
+      "v": "Enhanced Fury does not expire and can stack up to 99 times.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF_3",
+      "v": "Every new Enhanced Fury has [16982bff]{1}%[-] increased Potency for each active Fury Buff.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF_4",
+      "v": "Maximum duration of Hulk's Stun is [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EF_5",
+      "v": "All Abilities that affect Fury Buffs also affect Enhanced Fury.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EM",
+      "v": "Energy Manipulation",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EM_1",
+      "v": "[16982bff]{1}%[-] Protection against Energy Damage.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_EM_2",
+      "v": "[16982bff]{0}%[-] chance to generate a Fury Buff increasing Attack by [16982bff]{1}[-] for [16982bff]{2}[-] second(s) when struck with Energy Attacks.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_HP",
+      "v": "Harnessing Power",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_HP_1",
+      "v": "Indestructible and Unstoppable Buffs last [16982bff]{1}%[-] longer for every full Bar of Power.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_HP_2",
+      "v": "Physical Resistance is increased by [16982bff]{1}%[-] for every full Bar of Power.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_HP_3",
+      "v": "When gaining Fury Buffs from non-special attacks, Hulk gains 1 additional Fury Buff for every full Bar of Power.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_SA",
+      "v": "Special Attacks",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HULKPS_SA_1",
+      "v": "When activating a Special Attack while Unstoppable or Indestructible, the Special Attack costs [16982bff]{1}%[-] less Power and doubles the number of Fury Buffs on Hulk.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_1",
+      "v": "Each Hit of the Combo Meter increases the Potency of new Damaging Debuffs by [16982bff]{1}%[-].",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_10",
+      "v": "All Shock and Bleed Debuffs are Removed and reapplied as Incineration Debuffs dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_11",
+      "v": "While Hot and Heavy is active, the Opponent generates up to [16982bff]{1}%[-] less Power when struck by Critical Hits, depending on the number of Incineration Debuffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_12",
+      "v": "All Shock and Incineration Debuffs are removed and reapplied as Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_13",
+      "v": "While Bruised and Bloody is active, Critical Hits have a [16982bff]{0}%[-] chance to inflict Bleed on the Opponent, dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_14",
+      "v": "[16982bff]{0}%[-] chance to inflict Bleed on the Opponent, dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_2",
+      "v": "Critical Hits refresh all Damaging Debuffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_3",
+      "v": "Guaranteed to be a Critical Hit.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_4",
+      "v": "If a the Opponent is immune to Shock, Bleed, or Incineration, those abilities instead inflict a Degeneration Debuff, dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_5",
+      "v": "Activating Special Attacks alters reality and generates 1 Combo Shield lasting for up to [16982bff]{2}[-] second(s), based on the number of Power Bars spent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_6",
+      "v": "While the Combo Shield is Active, Hawkeye gains [16982bff]{1}[-] Critical Rating.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_7",
+      "v": "Combo Shield is not applied if the same Special Attack is activated twice in a row.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_8",
+      "v": "All Bleed and Incineration Debuffs are Removed and reapplied as Shock Debuffs dealing [16982bff]{1}[-] Direct Damage over [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_9",
+      "v": "While Shock and Awe is active, Critical Hits generate up to [16982bff]{1}%[-] more Power, based on the number of Shock Debuffs on the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_BNB",
+      "v": "BRUISED AND BLOODY",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_HNH",
+      "v": "HOT AND HEAVY",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SNA",
+      "v": "SHOCK AND AWE",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP1_PD",
+      "v": "Critical Hits generate more Power, based on the number of Shock Debuffs on the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP1_PT",
+      "v": "Shock and Awe",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP2_PD",
+      "v": "Critical Hits generate less Power for the Opponent based on the number of Incineration Debuffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP2_PT",
+      "v": "Hot and Heavy",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP3_PD",
+      "v": "Critical Hits have a [16982bff]100%[-] chance to inflict Bleed on the Opponent.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_HWKY_RS_SP3_PT",
+      "v": "Bruised and Bloody",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_IMMUNITY_ARMORBREAK",
       "v": "[5baefc]Armor Break Immunity[-]"
     },
@@ -22433,6 +24213,16 @@
       "k": "ID_UI_STAT_PSN_RESIST_SHORT",
       "v": "[b4b4b4ff]Poison Resistance[-]",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_UI_STAT_PVE_CUL_PV",
+      "v": "Titan's Favor",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_PVE_CUL_PV_P_D",
+      "v": "When this timer expires, Cull Obsidian gains 1 Persistent Charge.",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_RSKULL_ABL00_01",
@@ -23278,6 +25068,31 @@
       "v": "HYDRA TRAINING"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_CULL_LONG_1",
+      "v": "Once Cull Obsidian’s Rout Buff has expired, it goes into cool down, and can be reactivated after [16982bff]{2}[-] seconds.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CULL_LONG_2",
+      "v": "When Rout enters cool down, Cull’s aggression is awarded with a Fury Buff, granting [16982bff]+{1}[-] Attack for {2} seconds. This Buff gains +{0} seconds duration for each hit landed while Rout was active.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CULL_SHORT",
+      "v": "Enforced Oblivion {0}",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CULL_SIMPLE",
+      "v": "When Rout enters cool down, Cull’s aggression is awarded with a Fury Buff.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CULL_TITLE",
+      "v": "ENFORCED OBLIVION",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_CYCLOPS_DESC",
       "v": "As his Combo count increases, Cyclops' knowledge of the battlefield prevents opponents from blocking him effectively. In addition, his beams reach up to [16982bff]{1}%[-] additional Critical Damage at high Power levels."
     },
@@ -23858,6 +25673,21 @@
       "v": "Counterspell"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_EBM_SHORT",
+      "v": "Deteriorating Mind {0}",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_EBM_SIMPLE",
+      "v": "Each time Ebony Maw Nullifies a Buff or Activates a Special Attack he places 1 Deterioration Passive on his Opponent. Additionally Ebony Maw's Deterioration Passives are converted into damage every time he inflicts a Degeneration.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_EBM_TITLE",
+      "v": "DETERIORATING MIND",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_ELECTRO_DESC",
       "v": "Building Power levels in both players charge the atmosphere, increasing Critical Hit Rate by up to [16982bff]{1}%[-] based on the stored Power in both Electro and his opponent.",
       "vn": "11.2"
@@ -24071,7 +25901,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_GHOSTRIDER_DESC",
-      "v": "Judgement of Corruption: {0}% chance. \r\nSecondary: Ghost Rider gains a burst of [16982bff]{1}%[-] Attack for {2} seconds.",
+      "v": "Judgement of Corruption: {0}% chance. \nSecondary: Ghost Rider gains a burst of [16982bff]{1}%[-] Attack for {2} seconds.",
       "vn": "11.2"
     },
     {
@@ -26118,6 +27948,26 @@
       "vn": 18
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_THANOSENW_LONG",
+      "v": "Abilities activated through his Special Attacks have [16982bff]{1}%[-] increased potency.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_THANOSENW_SHORT",
+      "v": "Master of a Dead Universe {0}",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_THANOSENW_SIMPLE",
+      "v": "Abilities activated by his Special Attacks have increased potency.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_THANOSENW_TITLE",
+      "v": "MASTER OF A DEAD UNIVERSE",
+      "vn": 23
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_THANOS_DESC",
       "v": "Granted near-immortality, Thanos the Mad Titan passively reduces his opponent's base Attack by [16982bff]{1}%[-]."
     },
@@ -27205,6 +29055,56 @@
       "k": "ID_UI_STAT_THECHAMP_UNIVERSE_HUD_PAUSE_LONG",
       "v": "The Champion considers the current opponent to be one of the Greatest Fighters in the universe, activating several additional bonuses.",
       "vn": 21
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_HP",
+      "v": "High Pressure",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_HP_1",
+      "v": "While near the Opponent, Thor gains a High Pressure Passive. If Thor is away from his Opponent, High Pressure is Removed.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_HP_2",
+      "v": "While High Pressure is active, the Opponent suffers 1 Armor Break Debuff every 5 second(s), lowering Armor Rating by [16982bff]{1}%[-] for [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_HP_3",
+      "v": "High Pressure pauses all Armor Break Debuffs on the Opponent and all Buffs on Thor.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_HP_P_D",
+      "v": "While High Pressure is active, the Opponent suffers 1 Armor Break every 5 second(s) and pauses Duration of Opponents Armor Break Debuffs and any Buffs on Thor.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_RHP",
+      "v": "Rock and a Hard Place",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_RHP_1",
+      "v": "When Landing a Heavy Attack on an Opponent whose is near the wall, Thor gains [16982bff]{1}%[-] more Aptitude Buffs.",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_SL",
+      "v": "Stun Locked",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_SL_1",
+      "v": "While the Opponent is Stunned, every [16982bff]{0}[-] hits generates an Armor Up Buff increasing Armor Rating by [16982bff]{1}%[-] for [16982bff]{2}[-] second(s).",
+      "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_THORSS_SL_2",
+      "v": "Every time Thor replaces 1 Stun with another Stun or 1 Fury Buff with another Fury Buff, he gains an Aptitude Buff increasing Potency of any new Fury, Armor Up, and Precision Buffs by [16982bff]{1}%[-] for [16982bff]{2}[-] second(s).",
+      "vn": 23
     },
     {
       "k": "ID_UI_STAT_TOXICARMOR_HUD",

@@ -6,9 +6,11 @@
       "character_bios",
       "client"
     ],
-    "hash": "b5aebf883961d825d7e9e73ca0d03b91232a9ee6",
-    "ts": 1552331691,
-    "string_count": 155
+    "hash": "8404d584be7eb2408a3f8e043c16480d7c7db3d0",
+    "ts": 1554772254,
+    "string_count": 156,
+    "post_processed": true,
+    "versionLock": "23.0"
   },
   "strings": [
     {
@@ -31,7 +33,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_ANNIHILUS",
-      "v": "After the Fantastic Four opened a portal to the Negative Zone in search of anti-particles, they encountered Annihilus. A vicious, raving, and paranoid insectoid creature ruling over the Negative Zone. Aided by his most prized possession, the Cosmic Control Rod, Annihilus has waged an all out war on every living thing in the Universe for it’s only way he can ensure nothing can ever threaten his life or his precious Cosmic Control Rod.",
+      "v": "After the Fantastic Four opened a portal to the Negative Zone in search of anti-particles, they encountered Annihilus. A vicious, raving, and paranoid insectoid creature ruling over the Negative Zone. Aided by his most prized possession, the Cosmic Control Rod, Annihilus has waged an all out war on every living thing in the Universe for it’s the only way he can ensure nothing can ever threaten his life or his precious Cosmic Control Rod.",
       "vn": "22.1"
     },
     {

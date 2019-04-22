@@ -6,9 +6,9 @@
       "tips",
       "client"
     ],
-    "hash": "24f293d8bee4cdcce6a8e84b19a56493e9cf36fb",
-    "ts": 1547484843,
-    "string_count": 216
+    "hash": "a504684d83d915ac7dc3fbd9c58777132daed0cf",
+    "ts": 1554399337,
+    "string_count": 214
   },
   "strings": [
     {
@@ -596,10 +596,6 @@
       "v": "Use communication and strategy in Alliance Quests.\nWork as a team to fully explore each one!"
     },
     {
-      "k": "ID_UI_LOADTIP_76",
-      "v": "Is an ally stuck in an Alliance Quest?\nSend them an item to help them on their way!"
-    },
-    {
       "k": "ID_UI_LOADTIP_77",
       "v": "Alliance Quests limit the number of items that\r\ncan be used per quest. Carefully choose which items you use!"
     },
@@ -682,11 +678,6 @@
     {
       "k": "ID_UI_LOADTIP_97",
       "v": "Individual effectiveness in Alliance Wars is represented by a percentage. The greater the percentage, the more that player contributed relative to others!"
-    },
-    {
-      "k": "ID_UI_LOADTIP_98",
-      "v": "Reminder: Sharing accounts with third parties can lead to your account being stolen or closed. Stay safe Summoner and keep The Contest fair!",
-      "vn": 22
     },
     {
       "k": "ID_UI_ODR_HINT_0",
