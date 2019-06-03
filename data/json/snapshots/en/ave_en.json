@@ -6,11 +6,9 @@
       "ave",
       "client"
     ],
-    "hash": "45975f4c376bdadb85f36452f8448151e1ad4820",
+    "hash": "5f71d0853becbbc2ac987817d20d229de2f8186f",
     "ts": 1554425148,
-    "string_count": 415,
-    "post_processed": true,
-    "versionLock": "23.0"
+    "string_count": 415
   },
   "strings": [
     {
@@ -1121,6 +1119,11 @@
     {
       "k": "ID_UI_AVE_HELP_TITLE5",
       "v": "OVERVIEW"
+    },
+    {
+      "k": "ID_UI_AVE_HELP_WATCH",
+      "v": "WATCH",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_AVE_HERO_EXCLUSION",

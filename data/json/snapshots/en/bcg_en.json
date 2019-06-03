@@ -6,11 +6,11 @@
       "bcg",
       "client"
     ],
-    "hash": "c79fa04bb3634ef822f1bbc5e42d2cc0b05ac591",
-    "ts": 1554748297,
-    "string_count": 1015,
+    "hash": "d854e06e0fb8aa9267af74a9198e518e8f0bdaec",
+    "ts": 1557879706,
+    "string_count": 1042,
     "post_processed": true,
-    "versionLock": "23.0"
+    "versionLock": "23.1"
   },
   "strings": [
     {
@@ -1278,6 +1278,16 @@
       "vn": 15
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_BEACHBOD",
+      "v": "BEACH BODS",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_BEACHBOD_LONG",
+      "v": "[64acff]All Champions: [-]Each member of this Synergy increases the teams Attack Rating by [16982bff]+12%[-] for as long as they are alive (max 36%).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_BELIEVER",
       "v": "BELIEVER",
       "vn": "13.1"
@@ -1710,6 +1720,46 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_1",
+      "v": "[64acff]Other Synergy Members:[-] Block Proficiency increased by 5%. Perfect Block chance increased by 10%.\\nIf all other Champions in this Synergy are present, Well-Timed Blocks inflict up to one {0}% Weakness Debuff on the Opponent for 6 second(s).\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_2",
+      "v": "[64acff]Invisible Woman:[-] When the Opponent activates a Special Attack, if the Force Field is active, it gains {0}% strength for each Bar of Power spent.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_3",
+      "v": "[64acff]Synergy Members:[-] When the Opponent Misses, generate {0}% of a Bar of Power.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_4",
+      "v": "Passive Fury, Prowess, Regeneration, Indestructible, and Limbo effects last {0}% longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_ENG",
+      "v": "[64acff]Human Torch and Iceman:[-]When the Opponent takes Energy damage, they take an additional burst of Energy damage equal to {0}% of the original damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_FACES",
+      "v": "[64acff]Human Torch:[-] If the last hit of Special Attack 2 strikes a Block, Human Torch will avoid incoming attacks for 0.75 seconds, causing them to Miss.\n[64acff]Captain America (Infinity War):[-] Increase the duration of Bleed Debuffs on the Opponent by {0} second(s).\n[64acff]Killmonger:[-] Critical Hits are improved to have a 100% chance to cause Bleed.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_INCIN",
+      "v": "[64acff]Human Torch:[-] Human Torch starts the fight with {0} Smoulder Passives, and his Temperature increases faster while charging a Heavy Attack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_INVWO_SP",
+      "v": "[64acff]Other Synergy Members:[-] The last hit of Special Attack 1 Incinerates the Opponent for {0} second(s).\nThis also inflicts Heal Block if all other Champions in this Synergy are present.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DESC_LOSTDAUGHTERS",
       "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to gain an infinite Duration Fury Buff increasing Attack by {0}% of Base Attack.",
       "vn": 19,
@@ -1935,7 +1985,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_THING_FURY",
-      "v": "[64acff]Champions other than Thing:[-] The last hit of Special Attack 2 grants a Fury Buff for 6 seconds, increasing Attack by {0}% of Base Attack.\\nThis effect is doubled if all other Champions in this Synergy are present.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Other Synergy Members:[-] The last hit of Special Attack 2 grants a Fury Buff for 6 seconds, increasing Attack by {0}% of Base Attack.\\nThis effect is doubled if all other Champions in this Synergy are present.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.2"
     },
     {
@@ -2387,6 +2437,51 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_1",
+      "v": "FORCE BLOCK",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_2",
+      "v": "TILL DEATH...",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_3",
+      "v": "UNPHASED",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_4",
+      "v": "ONE WAY OR ANOTHER",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_5",
+      "v": "JUST FRIENDS",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_ENG",
+      "v": "A SONG OF FIRE AND ICE",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_FACES",
+      "v": "FAMILIAR FACES",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_INCIN",
+      "v": "TURN UP THE HEAT",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_INVWO_SP",
+      "v": "RAIN OF FIRE",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_JUSTICEONWHEELS",
       "v": "JUSTICE ON WHEELS",
       "vn": "21.1"
@@ -2395,6 +2490,16 @@
       "k": "ID_UI_HERO_SYNERGY_JUSTICEONWHEELS_LONG",
       "v": "[64acff]Night Thrasher:[-] Night Thrasher becomes Unstoppable when Dashing towards the enemy.\n[64acff]Ghost Rider:[-] The durations of Bleed, Fate Seal, and Damnation are increased by 40%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_KINGOFTHEWORLD",
+      "v": "KINGS OF THE WORLD",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_KINGOFTHEWORLD_LONG",
+      "v": "[64acff]All Champions: [-]Each member of this Synergy increases the teams Special Attack damage by [16982bff]+18%[-] for as long as they are alive (max 54%).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KNOWSHARE",
@@ -3117,6 +3222,16 @@
     {
       "k": "ID_UI_HERO_SYNERGY_THUND_III",
       "v": "THUNDERBOLTS Lv. 3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_TIDETOGO",
+      "v": "TIDE TO GO",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_TIDETOGO_LONG",
+      "v": "[64acff]Namor:[-] Under a Full or New Moon, attacking or being attacked by Bleeding Opponents grants [16982bff]5%[-] of a bar of Power with each Strike. As the Moon waxes and wanes, Attack Rating is increased by [16982bff]+15%[-].\n[64acff]Moon Knight:[-] Under a Full or New Moon, Power Gain Rate is increased by [16982bff]10%[-]. As the Moon waxes and wanes, Bleed and Fury potency is increased by [16982bff]15%[-].\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_UNCANNYAVENGERS",
@@ -3918,6 +4033,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_VOODOO_SP3LEECH",
       "v": "{0}% chance of applying Power Leech to the target stealing [16982bff]{1}%[-] of Max Power over [16982bff]{2}[-] seconds.",
       "vn": 10
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREXTIME_PAUSE",
+      "v": "Namor activates IMPERIUS REX when the timer expires.",
+      "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREXTIME_PAUSE_TITLE",
+      "v": "IMPERIUS REX TIMER",
+      "vn": "22.1"
     },
     {
       "k": "ID_UI_SYNERGY_INFO",

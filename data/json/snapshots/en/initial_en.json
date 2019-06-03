@@ -6,9 +6,11 @@
       "initial",
       "client"
     ],
-    "hash": "95505239f03b560b46d096c610cf79ba6e4cfa85",
-    "ts": 1555105026,
-    "string_count": 252
+    "hash": "ad047c4aa895cb4d981786e3594324254aa346e4",
+    "ts": 1558114528,
+    "string_count": 253,
+    "post_processed": true,
+    "versionLock": "23.1"
   },
   "strings": [
     {
@@ -152,7 +154,7 @@
     },
     {
       "k": "ID_SERVER_POOR_CONNECTION",
-      "v": "Problems connecting to network.\r\nPlease check your connection."
+      "v": "Problems connecting to network.\nPlease check your connection."
     },
     {
       "k": "ID_SERVER_SIGNIN_FACEBOOK",

@@ -6,11 +6,11 @@
       "misc",
       "client"
     ],
-    "hash": "0b0e14074e7fc825028dde90b9d417dba46d3727",
-    "ts": 1554916542,
-    "string_count": 402,
+    "hash": "887ff11fcd2fbc5b0e2e309da9f2ecd330bcbdc0",
+    "ts": 1556215145,
+    "string_count": 412,
     "post_processed": true,
-    "versionLock": "23.0"
+    "versionLock": "23.1"
   },
   "strings": [
     {
@@ -837,6 +837,16 @@
     {
       "k": "ID_UI_COMMON_TOTAL",
       "v": "TOTAL"
+    },
+    {
+      "k": "ID_UI_COMMON_UNITSTORELOCKED_BODY",
+      "v": "Unit purchases are not supported in this version of The Contest",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_COMMON_UNITSTORELOCKED_TITLE",
+      "v": "UNIT STORE LOCKED",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_COMMON_UNLOCK_NOW",

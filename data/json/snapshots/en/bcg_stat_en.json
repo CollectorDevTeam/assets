@@ -6,11 +6,11 @@
       "bcg_stat",
       "client"
     ],
-    "hash": "1ce1a2c553ec2ec4f04f41fba1e9c0bb1c998f34",
-    "ts": 1555102744,
-    "string_count": 6491,
+    "hash": "949cb9eb30b72b10478809f324e22d9ba8a36b94",
+    "ts": 1557869774,
+    "string_count": 6698,
     "post_processed": true,
-    "versionLock": "23.0"
+    "versionLock": "23.1"
   },
   "strings": [
     {
@@ -375,8 +375,28 @@
     },
     {
       "k": "ID_AVA_METAL_CD_PT",
-      "v": "Bulwark Indestrucitible",
+      "v": "Bulwark Indestructible",
       "vn": 23
+    },
+    {
+      "k": "ID_AVE_TF_PD",
+      "v": "Heavy Attacks cannot cause Heal Block or Power Lock to the Defender while this cooldown is active.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_AVE_TF_PT",
+      "v": "Technological Revolution",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_AVE_UP_PD",
+      "v": "When the timer expires, the Defender gains a permanent Fury Buff for every Debuff the Defender suffered since the start of the fight.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_AVE_UP_PT",
+      "v": "UNLIMITED POWER!",
+      "vn": "23.1"
     },
     {
       "k": "ID_AVOIDD",
@@ -934,6 +954,11 @@
       "vn": "22.1"
     },
     {
+      "k": "ID_CHARACTER_BIOS_INVISIBLEWOMAN",
+      "v": "Susan \"Sue\" Storm-Richards became the \"Invisible Woman\" when she joined her brother and her husband on a spacecraft test flight. During the flight, their ship was bombarded by extreme levels of cosmic radiation, and after landing she found she had the ability to turn invisible and create force fields out of energy. Over time she learned to manipulate these force fields into constructs of any shape and size. Alongside the other members of the crew, she became one of the founding members of the Fantastic Four!",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_NICKFURY",
       "v": "Known across the battlerealm as a powerful leader and master tactician, Nick Fury is a seasoned combat veteran skilled in various martial arts including a black belt in Tae Kwon Do. Nick also has access to an arsenal of lethal weapons developed by S.H.I.E.L.D. and is a master of espionage, always equipped to fight should the situation arise.",
       "vn": 22
@@ -1002,6 +1027,46 @@
       "k": "ID_CHOS8482T",
       "v": "[b4b4b4ff]Chaos[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_CHPBS1",
+      "v": "Pre-Show",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS2",
+      "v": "Opening Bout",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS3",
+      "v": "Main Event",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS4",
+      "v": "Dark Match",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS5",
+      "v": "Begins the fight with Regeneration if below max Health. Otherwise, begins with Fury Buffs.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS6",
+      "v": "Light attacks are Unblockable. Striking the Champion while he is Unstoppable causes the attacker to become Stunned.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS7",
+      "v": "Medium attacks are Unblockable. Nullifying The Champion's Buffs causes Degeneration. High chance to remove Stun and Damage Over Time Debuffs.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_CHPBS8",
+      "v": "Has Indestructible charges that are removed by using the Dexterity Mastery. Can only be damage by Special Attacks once Indestructible charges are gone.",
+      "vn": "23.1"
     },
     {
       "k": "ID_CHTE69D",
@@ -1207,6 +1272,11 @@
       "k": "ID_COUNTD3",
       "v": "3…",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_CRCDD",
+      "v": "Increases Critical Damage and Critical Hit Rate.",
+      "vn": "23.1"
     },
     {
       "k": "ID_CREL209D",
@@ -1874,9 +1944,24 @@
       "vn": 19
     },
     {
+      "k": "ID_EXHPWR_D",
+      "v": "Decreases Critical Damage and reduces the effects of abilities that grant Power.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_EXHPWR_T",
+      "v": "[b4b4b4ff]Exhaustion[-]",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_EXON35D",
       "v": "Decreases Critical Damage and reduces the effects of abilities that grant Power.",
       "vn": 19
+    },
+    {
+      "k": "ID_EXON35D_V2",
+      "v": "Decreases Critical Damage.",
+      "vn": "23.1"
     },
     {
       "k": "ID_EXON35T",
@@ -1982,6 +2067,26 @@
       "k": "ID_FIGHT",
       "v": "FIGHT !",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_FORCEFCDD",
+      "v": "Force Field is on Cooldown.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_FORCEFCDT",
+      "v": "Force Field Cooldown",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_FORCEFD",
+      "v": "Force Field takes damage instead of Invisible Woman.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_FORCEFT",
+      "v": "Force Field",
+      "vn": "23.1"
     },
     {
       "k": "ID_FR149D",
@@ -2522,6 +2627,16 @@
       "k": "ID_INV2D",
       "v": "Tapping on the right side of the screen causes your Champion to Block instead of attack, and vice versa.",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_INVIS_CD_D",
+      "v": "Invisibility is on Cooldown and cannot be activated.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_INVIS_CD_T",
+      "v": "Invisibility Cooldown",
+      "vn": "23.1"
     },
     {
       "k": "ID_ISER8217D",
@@ -3259,6 +3374,16 @@
       "vn": 19
     },
     {
+      "k": "ID_PF_INVWO_DESC",
+      "v": "If the Force Field is active, Invisible Woman's Hits deal additional damage, but also drain the Force Field.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_PF_INVWO_TITLE",
+      "v": "THE BEST DEFENSE...",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_PF_TORCH_DESC",
       "v": "All of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional [16982bff]+75%[-] damage. This ability does not stack.",
       "vn": "22.1"
@@ -3938,6 +4063,16 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_PWRTHFD",
+      "v": "All Hits steal Power from the Opponent.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_PWRTHFT",
+      "v": "Power Thief",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_REAN42D",
       "v": "Decreases defensive Ability Accuracy.",
       "vn": 19
@@ -4443,6 +4578,36 @@
       "vn": "22.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVISIBLEWOMAN_0",
+      "v": "Invisible Woman launches an energy construct, sails into the air, then kicks a second construct at the Opponent.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVISIBLEWOMAN_1",
+      "v": "Invisible Woman knocks the Opponent off their feet with an energy platform, then slams into them with her Force Field.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVISIBLEWOMAN_2",
+      "v": "Sue vanishes before the Opponent's eyes, launches them into the air with an energy platform, then sends them flying into the wall.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVWO_0",
+      "v": "Energy Projectile, Launches self into air, kicks energy platform at Opponent",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVWO_1",
+      "v": "Ground spike into hamster ball",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVWO_2",
+      "v": "Much bubble",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NFURY_0",
       "v": "Nick throws a tracker onto his opponent, calling in multiple strikes from a helicarrier above.",
       "vn": 22
@@ -4626,6 +4791,36 @@
       "k": "ID_SPECIAL_ATTACK_HUMANTORCH_2",
       "v": "Supernova",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVISIBLEWOMAN_0",
+      "v": "Field Trip",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVISIBLEWOMAN_1",
+      "v": "Force Smash",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVISIBLEWOMAN_2",
+      "v": "Now you see me, now you don't",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVWO_0",
+      "v": "Flying Skateboard",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVWO_1",
+      "v": "Hamster Ball",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_INVWO_2",
+      "v": "So stealth",
+      "vn": "23.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_NFURY_0",
@@ -10992,6 +11187,11 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_DODGED_HUD",
+      "v": "DODGED",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_EFFECTACC_CROSSBONES",
       "v": "For each Fury effect active, Crossbones overpowers his opponent, decreasing their Defensive Ability Accuracy by [16982bff]{1}%[-] per Fury."
     },
@@ -11789,6 +11989,16 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PERFECT_BLOCK_MOD",
       "v": "[16982bff]{1}%[-] chance that a Block reduces all damage."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PERFECT_BLOCK_MOD_V2",
+      "v": "[16982bff]{1}%[-] chance that a Block is a Perfect Block, reducing all damage to 0.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PERFECT_BLOCK_V2",
+      "v": "[16982bff]{0}%[-] chance that a Block is a Perfect Block, reducing all damage to 0.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_PHOENIX_EMP1",
@@ -17100,6 +17310,26 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CBF_HP10TO0",
+      "v": "Between 10% and 0% Health - Dark Match",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CBF_HP10TO40",
+      "v": "Between 40% and 10% Health - Main Event",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CBF_HP40TO70",
+      "v": "Between 70% and 40% Health - Opening Bout",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CBF_HP70TO100",
+      "v": "Between 100% and 70% Health - Pre-Show",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CHTHONSCUNNING",
       "v": "Chthon's Cunning - Passive",
       "vn": "20.1"
@@ -17158,6 +17388,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DEFMODE",
       "v": "Shield Mode",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DEHYDRATED",
+      "v": "Dehydrated",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DETERIORATIONS",
@@ -17495,6 +17730,16 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INVIS",
+      "v": "Invisibility - Passive",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_INVWOFF",
+      "v": "Force Field - Passive",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_KINETICALLYCHARGED",
       "v": "Kinetically Charged - Passive",
       "vn": 18
@@ -17790,6 +18035,11 @@
       "v": "Passive"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONEVASION",
+      "v": "Evasion - Passive",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONEVENCOMBO",
       "v": "Even Combo"
     },
@@ -18032,6 +18282,11 @@
       "v": "Passive"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPREFIGHT",
+      "v": "[EE9700FF]Pre-Fight Ability[-]",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONPRESTART",
       "v": "Passive"
     },
@@ -18174,6 +18429,11 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PFINVWO",
+      "v": "[EE9700FF]The Best Defense... - Pre-Fight Ability[-]",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PFTORCH",
       "v": "[EE9700FF]Flame On! - Pre-Fight Ability[-]",
       "vn": "22.1"
@@ -18182,6 +18442,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PHOTOREFLEXES",
       "v": "Photographic Reflexes - Passive",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_POWERSTONE",
+      "v": "Power Stone",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PSYCHARGES",
@@ -18206,6 +18471,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_RAVAGER",
       "v": "Ravager - Passive",
       "vn": 20
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_REGENERATION",
+      "v": "Regeneration",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_REPULSOR",
@@ -18381,6 +18651,11 @@
       "vn": "20.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_VULN",
+      "v": "Vulnerability - Debuff",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WARNOVERLOAD",
       "v": "Warning: Power Overload!",
       "vn": "17.1"
@@ -18506,6 +18781,16 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_VENOMBLAST_TCSK",
       "v": "Tech & Skill Champions: {0}% chance to Power Drain the opponent, removing {1}% of the opponent’s Max Power."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_VULNERABLE_HUD",
+      "v": "VULNERABLE",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_VULN_I",
+      "v": "Vulnerability",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_VULTURE_SIGNATURE_DESC_A",
@@ -19682,6 +19967,76 @@
       "v": "Excessive build-up of fatigue-producing toxins activates Black Panther's superhuman healing. Enabling him to shrug off any Fatigue, Exhaustion or Weakness effects and Regenerate [16982bff]{1}%[-] of his max health over [16982bff]{2}[-] seconds."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK",
+      "v": "The Champion Gains {1} Indestructible Charges. Avoiding a Special attack with the Dexterity Mastery removes one Charge (Cooldown: {2} seconds) and grants the Attacker Prowess. When all the Charges have been removed, The Champion is only able to be damaged from Special Attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK_B",
+      "v": "Any damage dealt that would push The Champion into Dark Match is capped until he enters the mode. Additionally, while he has any Indestructible effects, his Regeneration abilities will not activate.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK_HUD",
+      "v": "DARK MATCH",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_MAIN_HUD",
+      "v": "MAIN EVENT",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_MAIN_NULL",
+      "v": "The Champion deals {1}% of his Attack as Direct Damage to the Attacker every time they Stagger or Nullify a Buff on him.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_MAIN_PUR",
+      "v": "Whenever a Damage Over Time or Stun Debuff is placed on The Champion, he has a {0}% chance to shrug it off instantly.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_MAIN_UNBL",
+      "v": "All of The Champion’s Medium Attacks are Unblockable and he becomes very aggressive.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_OPBT_HUD",
+      "v": "OPENING BOUT",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_OPBT_STN",
+      "v": "While The Champion is Unstoppable, any contact with him leaves the Attacker Stunned for {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_OPBT_UNBL",
+      "v": "All of The Champion’s Light Attacks are Unblockable and he fights aggressive.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_POWERSTONE",
+      "v": "Tryco Slatterus channels the might of his Power Stone to strengthen and enhance his abilities based on how full his Health is. Only 1 Power Stone threshold may be active at a time.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_PRSHW_FRY",
+      "v": "If The Champion is already at 100% of his max Health, he instead begins the fight with {1} of his Fury Buffs active.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_PRSHW_RGN",
+      "v": "At the start of the fight, The Champion instantly regenerates {1}% of the Health Points his opponent is missing.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_PRSH_HUD",
+      "v": "PRE-SHOW",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_CIVWAR_REINFORCEDARMOR",
       "v": "Civil Warrior's Mk. II suit grants him {1}% Poison and Bleed damage resistance for each stack of Armor Up active. This does not function while fighting Cosmic champions.",
       "vn": "13.1"
@@ -20048,6 +20403,11 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_1_FIX",
+      "v": "[37bfff]1+[-] Each Buff grants [16982bff]+{1}[-] Attack.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_2",
       "v": "[37bfff]3+[-] Each Buff grants [16982bff]+{1}[-] Critical Damage Rating.",
       "vn": 23
@@ -20056,6 +20416,11 @@
       "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_3",
       "v": "[37bfff]5+[-] Each Buff provides True Accuracy, allowing attacks to ignore Evasion and Auto-Block.",
       "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_3_FIX",
+      "v": "[37bfff]5+[-] Each Buff provides True Accuracy, allowing attacks to ignore Evade and Auto-Block effects.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_FAVORBUFFS_4",
@@ -20076,6 +20441,11 @@
       "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_2",
       "v": "At the beginning of the fight, 1 Thanos’s Favor Buff is gained per [37bfff]Persistent Charge.[-] These Buffs last {2} seconds each and they gain effects based on the number of charges. These Buffs have their duration paused for {1} second(s) each time an attack is landed.",
       "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_2_FIX",
+      "v": "At the beginning of the fight, 1 Thanos’s Favor Buff is gained per [37bfff]Persistent Charge[-]. These Buffs last {2} seconds each and they gain effects based on the number of charges. These Buffs have their duration paused for {1} second each time an attack is landed.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_FAVOR_HUD",
@@ -20123,6 +20493,11 @@
       "cn": null
     },
     {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP1_FIX",
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting. Max: 10 Combo Shield Buffs.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_CULL_SP2",
       "v": "Each strike has a {0}% chance to pause the duration of all Armor Break Debuffs on the opponent for {2} seconds.",
       "vn": 23
@@ -20136,6 +20511,11 @@
       "k": "ID_UI_STAT_FORMAT_CULL_SP3_B",
       "v": "+{1}% Attack for each [37bfff]Persistent Charge[-]",
       "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CULL_SP3_B_FIX",
+      "v": "[16982bff]+{1}[-] Attack for each [37bfff]Persistent Charge[-].",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_DEBILITATE_PAUSE",
@@ -20954,6 +21334,156 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_FORMAT_INVWO_ATK",
+      "v": "For each Debuff on the Opponent, Invisible Woman’s Attacks deal an additional {1}% of the damage dealt as a burst of Physical Damage.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_DODGE",
+      "v": "While Dodging backward, Invisible Woman is not struck by attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_A",
+      "v": "Invisible Woman starts the Fight with a Force Field. The Force Field’s maximum strength is equal to [16982bff]{1}[-] Health, and scales with boosts and buffs.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_B",
+      "v": "Whenever Invisible Woman would take damage other than from Special Attack 3, the Force Field takes up to {1}% of the damage instead.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_C",
+      "v": "When the Force Field runs out, it goes into cooldown for {2} second(s), after which it will reform at {1}% strength. If the Force Field doesn’t reform for any reason, it goes into cooldown again for {0} second(s).",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_D",
+      "v": "Physical and Energy Resistance are increased by [16982bff]{1}[-].",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_E",
+      "v": "While under the effect of a Passive Damage over Time effect, the Force Field gains {1}% strength every {2} second(s).",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_FF_F",
+      "v": "If the Force Field is active, {0}% chance to Exhaust the Opponent, decreasing Critical Damage Rating by [16982bff]{1}[-] for {2} second(s). The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_A",
+      "v": "Invisible Woman turns Invisible whenever she Dodges an attack or the Force Field is depleted.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_B",
+      "v": "Invisibility lasts for {2} second(s), but starts Paused if Invisible Woman is not Bleeding.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_C",
+      "v": "Whenever Invisible Woman would turn Invisible, she places a Vulnerability Debuff on the Opponent, to a maximum of {1} Vulnerabilities.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_CD",
+      "v": "When Invisibility expires, it goes into cooldown for {2} second(s).",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_D",
+      "v": "Vulnerability decreases the Opponent's Block Proficiency by {0}% and increases Critical Damage Rating against them by [16982bff]{1}[-].",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_E",
+      "v": "While Invisible, incoming attacks have a 100% chance to Miss as long as Invisible Woman is not Blocking or Dodging, and Critical Rating is increased by [16982bff]{1}[-].",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_F",
+      "v": "Critical Rating is increased by [16982bff]{1}[-] while Invisible.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_G",
+      "v": "All Vulnerability Debuffs are Purified when Invisibility expires. Whenever a Vulnerability Debuff is Purified, Invisibility expires immediately.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_INVIS_H",
+      "v": "Invisibility is unpaused when Invisible Woman Blocks an Attack, an Opponent Misses, or an Opponent hits Invisible Woman.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_PF_A",
+      "v": "If the Force Field is active, Invisible Woman's Hits have [16982bff]+{1}[-] Attack Rating, but also drain the Force Field by {0}%.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_PRECIS_A",
+      "v": "{0}% chance to grant a Precision Passive for {2} second(s), increasing Critical Hit Rating by [16982bff]{1}[-].",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_PRECIS_B",
+      "v": "This chance increases by a flat {1}% for each Debuff on the Opponent.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_RESDWN",
+      "v": "Physical Resistance decreased by [f71817]-{1}[-].",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SIG_A",
+      "v": "Invisible Woman turns Invisible at the start of the fight, but it is not Paused.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SIG_B",
+      "v": "[16982bff]{1}%[-] chance to turn Invisible whenever Invisible Woman is knocked down.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SIG_C",
+      "v": "Whenever the Opponent Misses, the Force Field gains back [16982bff]{1}%[-] of its starting value.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP1_A",
+      "v": "On the last hit, if the Force Field is active, add a flat {1}% to its current strength.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP1_B",
+      "v": "On the last hit, if the Force Field is on Cooldown, {0}% chance for it to be restored at {1}% strength.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP2_A",
+      "v": "The first hit of this attack grants Fury for {2} second(s), increasing Attack Rating by [16982bff]{1}[-], scaling with the current Force Field strength. Then the Force Field is drained.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP2_B",
+      "v": "If this attack is Blocked, Invisible Woman has a {0}% chance to turn Invisible.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP3_A",
+      "v": "If the Force Field is active, add a flat {1}% to the Force Field's current strength. If the Force Field is on Cooldown, it is instead restored at {1}% strength.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_INVWO_SP3_B",
+      "v": "Pause Invisibility on Invisible Woman. It cannot unpause for {2} second(s).",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_KILLM_CRITICALRES",
       "v": "This Champion has additional Critical Resistance in its Base Attributes.",
       "vn": 17
@@ -21273,6 +21803,11 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_LUKECAGEU_EXHAUST_V2",
+      "v": "{0}% chance to Exhaust the opponent, reducing Critical Damage Rating by [16982bff]{1}[-] for {2} seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_LUKECAGEU_PHYSICAL",
       "v": "[16982bff]+{1}[-] Physical Resistance against non-Critical Hits.",
       "vn": "16.1"
@@ -21291,6 +21826,11 @@
       "k": "ID_UI_STAT_FORMAT_LUKECAGEU_SP3",
       "v": "Inflicts 4 Exhaustion Debuffs, each reducing Critical Hit Damage Rating by [16982bff]{1}[-] and the potency of their Power Gain effects by 25% for {2} seconds.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LUKECAGEU_SP3_V2",
+      "v": "Inflicts 4 Exhaustion Debuffs, each reducing Critical Damage Rating by [16982bff]{1}[-] for {2} seconds. The Opponent's Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_MEDUSA_ARMORSHATTERED",
@@ -21434,6 +21974,226 @@
       "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
       "v": "MISS FAILED",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_DEHYDRATED_CALLOUT",
+      "v": "DEHYDRATED",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_HVYPOW",
+      "v": "While IMPERIUS REX is active, launching a Heavy Attack consumes {1} stacks of Outrage to generate {0}% of a bar of Power.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IMPERIOUSREX_CALLOUT",
+      "v": "IMPERIOUS REX",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_COST",
+      "v": "Special Attacks cost {1}% less Power. However, Namor Drains {0}% of a bar of Power every second. Each Special Attack Namor launches applies an additional Drain of {2}% per second.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_END",
+      "v": "Once Namor has 0 Power remaining, all stacks of Outrage are removed and IMPERIUS REX ends.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_PAUSE",
+      "v": "Reduces the cost and enhances the effectiveness of all Special Attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_PROW",
+      "v": "Namor's Special Attacks deal up to {1}% additional damage based on active stacks of Outrage",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_TRIGGHIGH",
+      "v": "If Namor has {0} stacks of Outrage he instantly generates up to {1}% of his Max Power and activates IMPERIUS REX.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_IREX_TRIGGLOW",
+      "v": "If Namor has {1} stacks of Outrage he can Dash Back and hold Block for {2} seconds to instantly gain {0} bar of Power and activate IMPERIUS REX.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_MED",
+      "v": "{0}% chance to inflict Bleed dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_OUTRAGE_CALLOUT",
+      "v": "OUTRAGE",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEDEBUFF",
+      "v": "Generate {1} Passive Outrage whenever a Stun or Bleed Debuff fails to apply or is Shrugged off by the Opponent.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEDOT",
+      "v": "Namor generates {1} Outrage whenever he is affected by a Bleed or Incinerate Debuff.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEFAIL",
+      "v": "Namor generates {1} Outrage whenever he fails to apply a Bleed or Stun Debuff to the Opponent or whenever the Opponent Purifies a Debuff.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEGEN",
+      "v": "Every {0} seconds Namor gains {1} Outrage. Each time Namor is affected by a Stun Debuff, he reduces the time between each Outrage generated by {2} seconds. Once Namor activates IMPERIUS REX the timer is reset back to {0} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEMAX",
+      "v": "Namor can have a maximum of {1} Stacks of Outrage.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEPUR",
+      "v": "Namor gains {1} Outrage whenever the Opponent Purifies a Debuff.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGEROBOT",
+      "v": "Namor does not gain Outrage when failing to apply Bleed Debuffs to Robots. He does not hold them responsible for their lack of blood.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_RAGE_PAUSE",
+      "v": "Increases Special Attack Damage while IMPERIUS REX is active.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_REGEN",
+      "v": "Namor Regenerates {1}% of his missing Health.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SIG_PROTEC",
+      "v": "Namor takes [16982bff]{1}%[-] reduced damage from all sources while attacking his Opponent. When Namor ends an Attack, any damage prevented by Hydrokinetic Armor is captured and sent back to the Opponent as Energy Damage.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SIG_SHORT",
+      "v": "Hydrokinetic Armor {0}",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SIG_SIMPLE",
+      "v": "Namor uses his Hydrokinetic powers to protect his strikes from opponents who deal damage when struck by the Sub-Mariner.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SIG_TITLE",
+      "v": "Hydrokinetic Armor",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_BASIC",
+      "v": "First 4 hits have a {0}% chance to inflict a Bleed dealing  [16982bff]{1}[-] Direct Damage over {2} seconds. ",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_BLEED",
+      "v": "Each hit has a {0}% chance to inflict a Bleed dealing [16982bff]{1}[-] Direct Damage over {2} seconds",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_BONUS",
+      "v": "If Namor has both Prowess and Fury effects active when launching this attack, the Final Hit applies a Bleed dealing damage equal Damage dealt by this Special Attack over {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_ENERGY",
+      "v": "If a Bleed Debuff is Purified or prevented by the Opponent during this Special, deal a burst of {1} Energy Damage.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_INIT",
+      "v": "When initiating IMPERIOUS REX with this Special Attack, Namor instantly charges {1} Bars of Power and gains Unblockable for the first hit of each Special Attack until IMPERIOUS REX ends.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP1_IREX",
+      "v": "While IMPERIUS REX is active, Namor generates twice as much Outrage from all sources for the duration of this Special Attack.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_BONUS",
+      "v": "While this Prowess is active, Namor gains Unblockable for {1} second(s) when Launching Special Attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_ENERGY",
+      "v": "If a Stun Debuff is Purified or prevented by the Opponent during this Special, deal a burst of {1} Energy Damage.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_INIT",
+      "v": "When initiating IMPERIOUS REX with this Special Attack, Namor gains a Prowess increasing Special Attack damage by {1}% each time he launches a Special Attack until IMPERIOUS REX ends.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_IREX",
+      "v": "While IMPERIUS REX is active this attack is Unblockable",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_PROW",
+      "v": "Gain Prowess increasing Special Attack Damage by {1}% for {2} seconds. ",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP2_STUN",
+      "v": "Each hit has a {0}% chance to inflict Stun lasting {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP3_BONUS",
+      "v": "While this Fury is Active Namor’s Opponents gain 0 Power when Struck by Special Attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP3_FUR",
+      "v": "Gain a Passive Fury increasing Attack Rating by [16982bff]{1}[-] for {2} seconds. While this Fury is active, Namor's Opponents gain 0 Power when struck by Special Attacks.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP3_INIT",
+      "v": "When initiating IMPERIOUS REX with this Special Attack Namor’s Opponents gain 0 power when struck by Special Attacks until IMPERIOUS REX ends.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SPEC_REFRESH",
+      "v": "Refresh the Duration of any Fury or Prowess effects.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP_DOS",
+      "v": "Become Hydrated and Stun the Opponent for {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP_TRES",
+      "v": "Become Hydrated and Enervate the Opponent. Preventing them from generating Power when Struck for {2} seconds.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_SP_UNO",
+      "v": "The first 4 hits inflict Bleed, each dealing {1} Direct Damage over {2} seconds. The Final Hit Hydrates Namor if the Opponent is Bleeding.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAM_THORN",
+      "v": "Namor takes {0}% less damage from all sources while landing attacks on the Opponent. Increased to {1}% with Class Advantage. Any damage prevented by this Ability is dealt back to the Opponent as Energy Damage.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_NFURY_AB_IMMUNE",
@@ -22209,12 +22969,12 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_RONIN_SIG_EVADE",
-      "v": "When at 4 Cruelty Buffs or above, Ronin gains Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes 4 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+      "v": "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes all Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
       "vn": 23
     },
     {
       "k": "ID_UI_STAT_FORMAT_RONIN_SIG_EVADE_ALT",
-      "v": "While at 7 Cruelty Passives, Ronin gains Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes all Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
+      "v": "While at 7 Cruelty Passives, Ronin gains a Passive Evasion on the next incoming hit for [16982bff]{2}[-] seconds. Removes all Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.",
       "vn": 23
     },
     {
@@ -22379,7 +23139,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_RONIN_STA_PREP_LOCK_IN",
-      "v": "Dodging back after preparing a stance Ronin enters a Stance. Stances are not affected by Ability Accuracy Reduction.",
+      "v": "Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.",
       "vn": 23
     },
     {
@@ -23695,6 +24455,11 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_VULN_DESC",
+      "v": "When attacking a Vulnerable Opponent, increase Critical Damage Rating by [16982bff]{1}[-] and decrease their Block Proficiency by {0}%.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_WASP_ATKBONUS",
       "v": "[16982bff]+{1}[-] Attack Rating for each hit on her Combo Meter.",
       "vn": 19
@@ -23706,8 +24471,8 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_COUNTER_STING",
-      "v": "Wasp has a {0}% chance to shrug off all Damaging Debuffs other than Bleed, then shrink to Counter Attack, Evading the opponent’s attack and inflicting Shock, dealing [16982bff]{1}[-] Energy Damage over {2} seconds.",
-      "vn": 19
+      "v": "When attacked Wasp has a {0}% chance to Evade. Any time Wasp successfully Evades an attack she Purifies all Poison, Shock, Incinerate and Degeneration Debuffs then shrinks to Counter Attack, inflicting Shock, dealing [16982bff]{1}[-] Energy Damage over {2} seconds.",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_HVY_STUN",
@@ -23731,8 +24496,8 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_SIG_LONG",
-      "v": "{0}% increased chance to shrink and Counter Attack when attacked by the opponent. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by [16982bff]{1}%[-].",
-      "vn": 19
+      "v": "When attacked Wasp gains an additional {0}% chance to Evade then shrink to Counter Attack. Additionally, the duration that Counter Attack is disabled after shrinking is reduced by [16982bff]{1}%[-].",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_SIG_SHORT",
@@ -24183,6 +24948,11 @@
       "k": "ID_UI_STAT_JUGGER_STN",
       "v": "Juggernaut is immune to Stun Debuffs and if the opponent attempts to Stun him, he will instead apply his Heavy Attack Stagger to them.",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_LIONHEART",
+      "v": "LIONHEART",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_MLS_BLD",
@@ -26272,6 +27042,21 @@
       "k": "ID_UI_STAT_SIGNATURE_ICEMAN_TITLE",
       "v": "ABSOLUTE ZERO",
       "vn": 12
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_INVWO_SHORT",
+      "v": "Vanishing Act {0}",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_INVWO_SIMPLE",
+      "v": "Invisible Woman turns Invisible more often, and her Force Field gains strength when the Opponent Misses.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_INVWO_TITLE",
+      "v": "VANISHING ACT",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_IRONFIST_DESC",
@@ -28942,6 +29727,11 @@
       "vn": 21
     },
     {
+      "k": "ID_UI_STAT_THECHAMP_P_02_BOSS",
+      "v": "[64acff]Contest’s Greatest Fighters:[-] All of the Summoner's Champions.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_THECHAMP_SIG_01",
       "v": "While on a Boss Node and at least one of his Fury Buffs is active, The Champion unleashes the full potential of The Power Primordial. This increases the Potency of his Armor Break by [16982bff]{1}%[-], regenerates Health and activates an Unstoppable Buff, shrugging off the impact of the opponent’s Basic Attacks.",
       "vn": 21
@@ -29467,6 +30257,16 @@
       "vn": "19.1"
     },
     {
+      "k": "ID_VULND",
+      "v": "Decreased Block Proficiency, increased Critical Rating against this Champion.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_VULNT",
+      "v": "Vulnerable",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_WAON163D",
       "v": "As the moon Wanes, Moon Knight has an increased chance to gain Fury, and a decreased chance to gain Precision."
     },
@@ -29533,6 +30333,16 @@
       "k": "Once per quest when Nick is killed, his [008cff]Life Model Decoy[-] is killed instead and he returns to the fight in his true form with a permanent Fury’s Fury and Stun Immunity. However, Nick loses his Infinity Formula and Passively degenerates [ff0000]100%[-] of his Health over the next [16982bff]{2}[-] seconds of the quest. The destruction of Nick’s L.M.D. Purifies all Effects and isn't affected by Ability Accuracy reduction.",
       "v": "While Internal Bleed is active, all Basic Attacks have [ff0000]{0}%[-] chance to Stun the Opponent for {2} seconds. Stun chance increases by a flat [16982bff]1%[-] for each of Nick's Tactical Advantage charges.",
       "vn": 22
+    },
+    {
+      "k": "PRIMALD",
+      "v": "Primal Fury will activate when this expires.",
+      "vn": "23.1"
+    },
+    {
+      "k": "PRIMALT",
+      "v": "Primal Fury Cooldown",
+      "vn": "23.1"
     }
   ]
 }

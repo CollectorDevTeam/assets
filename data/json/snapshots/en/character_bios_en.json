@@ -6,11 +6,9 @@
       "character_bios",
       "client"
     ],
-    "hash": "8404d584be7eb2408a3f8e043c16480d7c7db3d0",
-    "ts": 1554772254,
-    "string_count": 156,
-    "post_processed": true,
-    "versionLock": "23.0"
+    "hash": "5aa46a39c95f72981a1a9c834e347f0b40ce402c",
+    "ts": 1555961904,
+    "string_count": 156
   },
   "strings": [
     {
@@ -431,6 +429,11 @@
     {
       "k": "ID_CHARACTER_BIOS_MSMARVEL_KAMALA",
       "v": "Self-proclaimed nerd and massive Captain Marvel fan Kamala Khan discovered something utterly amazing when the Terrigen mists fell upon her hometown of Jersey City. The cosmic mists reacted to her Inhuman DNA, triggering her superhuman transformation through the process that the Inhumans call Terrigenesis. Kamala soon discovered she had amazing powers to stretch and alter her body, which she now uses to protect others, just like her hero, Carol Danvers."
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_NAMOR",
+      "v": "To both heroes and villains alike, Namor has been a mighty ally and a formidable foe. The short-tempered Mutant King of Atlantis will stop at nothing to crush anyone and anything that threatens his Kingdom and its people. No matter who you are or what your intentions may have been.",
+      "vn": "23.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_NEBULA",

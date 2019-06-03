@@ -6,11 +6,9 @@
       "special_attacks",
       "client"
     ],
-    "hash": "4ce549f7ac5df14825cb8ee5d96e78e2524ed6f3",
-    "ts": 1554772257,
-    "string_count": 942,
-    "post_processed": true,
-    "versionLock": "23.0"
+    "hash": "a0832f5a39e667ac377968e521392237b9a04e2c",
+    "ts": 1556160498,
+    "string_count": 944
   },
   "strings": [
     {
@@ -1728,6 +1726,21 @@
       "v": "Coming in from the right! No, the left! Pow! Betcha didn’t see that coming."
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NAMOR_0",
+      "v": "Namor propels himself and his trident forward in a violent whirlpool of waves, destroying everything in his path.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NAMOR_1",
+      "v": "Namor leaps into the air then lobs his Trident into the Earth, creating an explosive geyser of water before landing a final devastating blow on his bewildered Opponent.",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NAMOR_2",
+      "v": "Namor unleashes the full power of Neptune’s Trident, summoning an ocean in places where oceans do not belong.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NEBULA_0",
       "v": "Striking first with her electroshock batons, Nebula then forms them into a staff for a devastating second strike.",
       "vn": 13
@@ -3264,6 +3277,21 @@
       "v": "Fake Out"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_NAMOR_0",
+      "v": "To the Point",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NAMOR_1",
+      "v": "Slam Dunk",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NAMOR_2",
+      "v": "Might of Neptune",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_NEBULA_0",
       "v": "Electric Encore"
     },
@@ -3982,9 +4010,24 @@
       "vn": 13
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ATK",
+      "v": "When Attacking",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_COSROD",
       "v": "Cosmic Control Rod - Buff",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HYDRATED",
+      "v": "Hydrated",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_IMPERIOUSREX",
+      "v": "IMPERIUS REX",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ITMINE",
@@ -4005,6 +4048,16 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OBLITSTRK",
       "v": "Obliterating Strikes",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONREGENERATION",
+      "v": "REGENERATION",
+      "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OUTRAGE",
+      "v": "Outrage",
+      "vn": "23.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_STIFLE",

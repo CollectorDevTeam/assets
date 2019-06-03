@@ -6,11 +6,11 @@
       "alliances",
       "client"
     ],
-    "hash": "874c4ee9b887f007258931c072ed3a93f673724b",
-    "ts": 1551990998,
-    "string_count": 373,
+    "hash": "29093b2a99b1a53688e2e7d2045aea1d948883b8",
+    "ts": 1556231700,
+    "string_count": 374,
     "post_processed": true,
-    "versionLock": "22.1"
+    "versionLock": "23.1"
   },
   "strings": [
     {
@@ -1487,6 +1487,11 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_SELECTED_BUFFS_TOOLTIP",
+      "v": "Your opponent has selected the following Defense tactic for this Battlegroup.",
+      "vn": "23.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_BLKCRIT_HUD",
       "v": "CRITICAL",
       "vn": "19.1"
@@ -1532,8 +1537,8 @@
     },
     {
       "k": "ID_WARBUFF_GLOBAL_BUFFS",
-      "v": "DEFENSE TACTICS",
-      "vn": 22
+      "v": "GLOBAL BUFFS",
+      "cn": null
     },
     {
       "k": "ID_WARBUFF_ITEM_DESCRIPTION_FORMAT",
