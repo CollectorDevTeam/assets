@@ -951,7 +951,7 @@
     "ranks": 4,
     "text": "Increase the duration of Fury by {0} second(s)."
   },
-  "glasscannon": {
+  "glasscanon": {
     "1": {
       "effects": [
         2.4,
@@ -975,8 +975,8 @@
       "runit": 2,
       "ucarbs": 0,
       "uclass": 0,
-      "ustony": 0,
-      "uunits": 15
+      "ustony": 2,
+      "uunits": 0
     },
     "3": {
       "effects": [
