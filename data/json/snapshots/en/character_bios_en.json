@@ -1,13 +1,13 @@
 {
   "meta": {
-    "format": "sparx",
     "language": "en",
+    "hash": "d4f9d6075d6555f7a8b011af4395d36e83d14dc2",
+    "format": "sparx",
+    "ts": 1559067361,
     "tagged": [
       "character_bios",
       "client"
     ],
-    "hash": "5aa46a39c95f72981a1a9c834e347f0b40ce402c",
-    "ts": 1555961904,
     "string_count": 156
   },
   "strings": [
@@ -405,8 +405,7 @@
     {
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
-      "vn": "21.3",
-      "cn": null
+      "vn": "21.3"
     },
     {
       "k": "ID_CHARACTER_BIOS_MODOK",
@@ -432,7 +431,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_NAMOR",
-      "v": "To both heroes and villains alike, Namor has been a mighty ally and a formidable foe. The short-tempered Mutant King of Atlantis will stop at nothing to crush anyone and anything that threatens his Kingdom and its people. No matter who you are or what your intentions may have been.",
+      "v": "To both Heroes and Villains alike, Namor has been a mighty ally and a formidable foe. The short-tempered mutant ruler of Atlantis will stop at nothing to crush anyone and anything that threatens his Kingdom and its people. No matter who you are or what your intentions may have been.",
       "vn": "23.1"
     },
     {
