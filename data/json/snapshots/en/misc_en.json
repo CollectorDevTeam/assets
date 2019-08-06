@@ -6,13 +6,18 @@
       "misc",
       "client"
     ],
-    "hash": "887ff11fcd2fbc5b0e2e309da9f2ecd330bcbdc0",
-    "ts": 1556215145,
-    "string_count": 412,
+    "hash": "c309ebc64b73b66543c206ea4872a1e36b539b4c",
+    "ts": 1559675936,
+    "string_count": 418,
     "post_processed": true,
-    "versionLock": "23.1"
+    "versionLock": "24.1"
   },
   "strings": [
+    {
+      "k": "ID_COMMON_VIEW",
+      "v": "VIEW",
+      "vn": "24.1"
+    },
     {
       "k": "ID_FAKE_TEAM_COLLECTOR_1",
       "v": "Collector's Team"
@@ -127,6 +132,16 @@
       "k": "ID_TUT_PREFIGHT_ABILITY_TITLE",
       "v": "PRE-FIGHT ABILITIES",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_ALLIANCE_DONATION_COOLDOWN_ALERT",
+      "v": "New Alliance members are eligible to donate to the Alliance Treasury after an 8-Day waiting period.",
+      "vn": 24
+    },
+    {
+      "k": "ID_UI_ALLIANCE_DONATION_COOLDOWN_NOTIFY",
+      "v": "As a new Alliance member, you are eligible to donate to the Alliance Treasury after an 8-Day waiting period.",
+      "vn": 24
     },
     {
       "k": "ID_UI_ALLIANCE_MILESTONE",
@@ -272,6 +287,11 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_BUTTON_COLLCRED_GETCREDITS",
+      "v": "GET CREDITS",
+      "vn": 24
+    },
+    {
       "k": "ID_UI_CHANGE_BADGE",
       "v": "CHANGE PROFILE PIC",
       "vn": 21
@@ -331,6 +351,16 @@
     {
       "k": "ID_UI_CIVIL_WAR_TITLE",
       "v": "CIVIL WAR"
+    },
+    {
+      "k": "ID_UI_COLLCRED_LEARNMORE_BODY",
+      "v": "Purchases made on your account have been refunded. These refund(s) are represented as a negative balance of Contest Credits. While your balance is negative, you will be unable to spend Units or purchase Special Offers. To remove these restrictions, purchase Contest Credits in the Unit Store. If you believe this to be in error, please contact Kabam Support through your Settings tab.",
+      "vn": 24
+    },
+    {
+      "k": "ID_UI_COLLCRED_LEARNMORE_TITLE",
+      "v": "WHAT'S A CONTEST CREDIT?",
+      "vn": 24
     },
     {
       "k": "ID_UI_COLLECTION_OWNED",
@@ -542,6 +572,11 @@
     {
       "k": "ID_UI_COMMON_LATER",
       "v": "LATER"
+    },
+    {
+      "k": "ID_UI_COMMON_LEARN_MORE",
+      "v": "LEARN MORE",
+      "vn": 24
     },
     {
       "k": "ID_UI_COMMON_LEVELUP",
@@ -909,6 +944,21 @@
       "v": "YOUR REWARDS"
     },
     {
+      "k": "ID_UI_CONTESTCRED_PURCHASESRESTRICTED_BODY",
+      "v": "While you have a negative amount of Contest Credits, you can’t spend Units or purchase special offers.",
+      "vn": 24
+    },
+    {
+      "k": "ID_UI_CONTESTCRED_PURCHASESRESTRICTED_TITLE",
+      "v": "PURCHASES RESTRICTED",
+      "vn": 24
+    },
+    {
+      "k": "ID_UI_CONTESTCRED_UNITSTORE_LEARNMORE_BODY",
+      "v": "You currently have a negative Contest Credit balance.",
+      "vn": 24
+    },
+    {
       "k": "ID_UI_CREATE_NAME_INFO",
       "v": "Create a unique user name so other players may recognize you."
     },
@@ -1123,6 +1173,16 @@
     {
       "k": "ID_UI_HOME_QUEST",
       "v": "QUEST"
+    },
+    {
+      "k": "ID_UI_INFOTIP_CONTEST_CREDITS_DESC",
+      "v": "Purchase Contest Credits to remove account purchasing restrictions",
+      "vn": 24
+    },
+    {
+      "k": "ID_UI_INFOTIP_CONTEST_CREDITS_TITLE",
+      "v": "CONTEST CREDITS",
+      "vn": 24
     },
     {
       "k": "ID_UI_KABAM_LOGIN_INCENTIVE_GOT_ACTION",
@@ -1474,6 +1534,11 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_REWARD_SPOTLIGHT_TITLE",
+      "v": "REWARD SPOTLIGHT",
+      "vn": 24
+    },
+    {
       "k": "ID_UI_SEASONS_HALTED_MESSAGE",
       "v": "Tap to view more information.",
       "vn": 17
@@ -1731,6 +1796,11 @@
       "k": "ID_UI_TOP_PEAK_MILESTONE_REACHED",
       "v": "MAX PEAK MILESTONE REACHED",
       "vn": 19
+    },
+    {
+      "k": "ID_UI_TUTORIAL_COLLECTOR_CREDITS_DESC",
+      "v": "It looks like some purchases on your account have been refunded. These refund(s) are represented as a negative balance of Contest Credits. While your balance is negative, you will be unable to spend Units or purchase Special Offers. \n\nTo remove these restrictions purchase Contest Credits. If you believe this to be in error, please contact Kabam Support through the Options tab.\r",
+      "vn": 24
     },
     {
       "k": "ID_UI_UPGRADE_ENABLE_SMART_SELECT",

@@ -6,11 +6,11 @@
       "items",
       "client"
     ],
-    "hash": "5a43d0c161983cd5e3fe13367b7127466064ce2e",
-    "ts": 1534967118,
-    "string_count": 337,
+    "hash": "fe8ea28677b6a43ecc775c506e7dee435c5e59e5",
+    "ts": 1557127578,
+    "string_count": 342,
     "post_processed": true,
-    "versionLock": "20.1"
+    "versionLock": "24.1"
   },
   "strings": [
     {
@@ -1209,12 +1209,27 @@
       "v": "[4bb4fe00]Owned: [b0b0b0]{0}[-]"
     },
     {
+      "k": "ID_UI_STORE_OWNED_BUFFED_MAX_CAPACITY",
+      "v": "[4bb4fe]Owned: {0}[-][ffba52]/{1}[-]",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_UI_STORE_OWNED_FORMAT",
       "v": "[4bb4fe]Owned: {0}[-]"
     },
     {
       "k": "ID_UI_STORE_OWNED_MAX_CAPACITY",
       "v": "[c21413]Owned: {0}/{1}[-]"
+    },
+    {
+      "k": "ID_UI_STORE_OWNED_NONE_MAX_CAPACITY",
+      "v": "[b0b0b0]Owned: {0}/{1}[-]",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_STORE_OWNED_OVERDRAWN_MAX_CAPACITY",
+      "v": "[c21413]Owned: {0}[-][b0b0b0]/{1}[-]",
+      "vn": "24.1"
     },
     {
       "k": "ID_UI_STORE_OWNED_WITH_MAX_ANIM_FORMAT",
@@ -1263,12 +1278,22 @@
       "v": "x{0}"
     },
     {
+      "k": "ID_UI_STORE_QUANTITY_WITH_BUFFED_MAX_FORMAT",
+      "v": "{0}[ffba52]/{1}[-]",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_UI_STORE_QUANTITY_WITH_MAX_FORMAT",
       "v": "{0}[b0b0b0]/{1}[-]"
     },
     {
       "k": "ID_UI_STORE_QUANTITY_WITH_MAX_MAXED_FORMAT",
       "v": "[c21413]{0}/{1}[-]"
+    },
+    {
+      "k": "ID_UI_STORE_QUANTITY_WITH_OVERDRAWN_MAX_FORMAT",
+      "v": "[c21413]{0}[-][b0b0b0]/{1}[-]",
+      "vn": "24.1"
     },
     {
       "k": "ID_UI_STORE_SALE_ENDS_FORMAT",

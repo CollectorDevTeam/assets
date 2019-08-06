@@ -1,14 +1,14 @@
 {
   "meta": {
-    "language": "en",
-    "hash": "a0832f5a39e667ac377968e521392237b9a04e2c",
     "format": "sparx",
-    "ts": 1556160498,
+    "language": "en",
     "tagged": [
       "special_attacks",
       "client"
     ],
-    "string_count": 944
+    "hash": "683a630bab938b94787e49eefd47903c4d488d2c",
+    "ts": 1561742907,
+    "string_count": 956
   },
   "strings": [
     {
@@ -321,6 +321,21 @@
       "v": "Unbreakable"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_COLOSSUS_BETA_0",
+      "v": "Russian Rushdown",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_COLOSSUS_BETA_1",
+      "v": "Piotr's Powerful Pummelling",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_COLOSSUS_BETA_2",
+      "v": "Utterly Unbreakable",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_COLOSSUS_UNSTOPPABLE_0",
       "v": "Dropkick"
     },
@@ -335,7 +350,8 @@
     {
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_0",
       "v": "Atomic Fissure",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent."
     },
     {
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_1",
@@ -770,6 +786,21 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_COLOSSUS_2",
       "v": "In flesh form he is a man; in steel form he is a hero, increasing his damage based on his current Armor level."
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_COLOSSUS_BETA_0",
+      "v": "A titanic gut punch softens them up and a charging overhand haymaker sends them flying.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_COLOSSUS_BETA_1",
+      "v": "Colossus demonstrates hand to hand combat with enough superhuman strength to careen 100 tons.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_COLOSSUS_BETA_2",
+      "v": "In flesh form he is a man; in steel form he is a hero. Who dares strike the mighty Colossus?",
+      "vn": "24.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_COLOSSUS_UNSTOPPABLE_0",
@@ -1765,6 +1796,21 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NIGHTCRAWLER_2",
       "v": "He’s coming in from every direction. Lieber Gott!"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OLDMANLOGAN_BETA_0",
+      "v": "Wolverine delivers a signature slash with unbreakable Adamantium claws.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OLDMANLOGAN_BETA_1",
+      "v": "No words, just teeth and claws.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OLDMANLOGAN_BETA_2",
+      "v": "Only two things are certain in life, an' this ain't taxes.",
+      "vn": "24.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OMEGARED_0",
@@ -3317,6 +3363,21 @@
       "v": "Bamf! Bamf! Bamf!"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_OLDMANLOGAN_BETA_0",
+      "v": "X-Slash",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_OLDMANLOGAN_BETA_1",
+      "v": "Primal Rage",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_OLDMANLOGAN_BETA_2",
+      "v": "Kill-Frenzy",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_OMEGARED_0",
       "v": "Draining Experience",
       "vn": 20
@@ -3356,7 +3417,8 @@
     {
       "k": "ID_SPECIAL_ATTACK_PROXIMAMIDNIGHT_2",
       "v": "Black Light Brutality",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)"
     },
     {
       "k": "ID_SPECIAL_ATTACK_PSYLOCKE_0",

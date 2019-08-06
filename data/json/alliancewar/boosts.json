@@ -1,615 +1,1202 @@
 {
-	"cornered" : {
-		"img" : "cornered",
-		"title" : "Cornered",
-		"text" : "Whenever a damage over time Debuff is applied to the Champion, they gain {0}% mode power for the duration of the Debuff."
-	},
-	"dismay" : {
-		"img" : "dismay",
-		"title" : "Dismay",
-		"text" : "Whenever the Attacker loses their highest achieved Combo in a fight, they gain a Degeneration Debuff that deals damage every second equal to {0} times the lost Combo."
-	},
-	"aspectofevolution" : {
-		"img" : "aspectofevolution",
-		"title" : "Aspect of Evolution",
-		"text" : "Whenever this defender fills a bar of Power, they raise their Attack, Armor, Critical Rating, Critical Resistance, Block Penetration, Power Rate, and Ability Accuracy attributes by 5% for the remainder of the fight."
-	},
-	"aggression" : {
-		"img" : "aggression",
-		"title" : "Aggression",
-		"text" : "Every 2 seconds on a timer gain a {0} passive increasing Attack by 50% per stack.  When struck reset the timer and remove the {0} passive stack"
-	},
-	"masochism" : {
-		"img" : "masochism",
-		"title" : "Masochism",
-		"text" : "Every 7 seconds the next Debuff triggered on this Champion is immedieatly removed. Each time the efect triggers they Regenerate 5% of their Max Health."
-	},
-	"buffet" : {
-		"img" : "buffet",
-		"title" : "Buffet",
-		"text" : "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {0} of their Max Health."
-	},
-	"powerreserve" : {
-		"img" : "powerreserve",
-		"title" : "Power Reserve",
-		"text" : "Special Attacks for both Champions cost 50% less Power."
-	},
-	"burdenofmight" : {
-		"img" : "burdenofmight",
-		"title" : "Burden of Might",
-		"text" : "The Opponent's Power Gained by striking or being struck by their opponent is reduced by 15% for each Buff currently active on them. Additionally each time a Buff activates on them for any reason, they lose 25% of their Max Power."
-	},
-	"powershield" : {
-		"img" : "powershield",
-		"title" : "Power Shield",
-		"text" : "The Attackers basic attacks deal no damage, but still generate power, and their Special Attacks deal 400% mode damage."
-	},
-	"breakthrough" : {
-		"img" : "breakthrough",
-		"title" : "Breakthrough",
-		"text" : "The Champion starts with +5,000 Armor Rating, but the Opponent reduces their Armor Rating by 200 with each hit."
-	},
-	"bruteforce" : {
-		"img" : "bruteforce",
-		"title" : "Brute Force",
-		"text" : "If the Opponent hasn't landed a hit in 6 seconds they begin to Degenerate losing 100% of their total Health over 30 seconds. Landing a hit removes the Degeneration and resets the timer. The strength of this Degeneration is affected by Class Relationships."
-	},
-	"arcoverload2" : {
-		"img" : "arcoverload2",
-		"title" : "Arc Overload 2.0",
-		"text" : "An Arc Overload triggers every 20 seconds."
-	},
-	"mysticwardII" : {
-		"img" : "mysticwardII",
-		"title" : "Mystic Ward II",
-		"text" : "Enemy Nullify effects have a 80% chance to fail."
-	},
-	"flare" : {
-		"img" : "flare",
-		"title" : "Flare",
-		"text" : "The Opponent gains +300% Attack, but Degenerates 100% of their Max Health over 60 seconds. The strength of the Degeneration is affected by Class Relationships."
-	},
-	"spite" : {
-		"img" : "spite",
-		"title" : "Spite",
-		"text" : "While opponents has active Buffs, this champion activates Power Flood out of spite, granting 18% Power per second and Special Attacks a 100% chance to be Unblockable."
-	},
-	"bane" : {
-		"img" : "bane",
-		"title" : "Bane",
-		"text" : "The Attacker begins under the effect of a Curse, which deals 2.50% of the opponents current health as Direct Damage per second.  Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for 10 seconds, it passes to the other Champion."
-	},
-	"stun" : {
-		"img" : "stun",
-		"title" : "Stun",
-		"text" : "A 10% chance to inflict Stun for 1.5 seconds."
-	},
-	"stupefy" : {
-		"img" : "stypefy",
-		"title" : "Stupefy",
-		"text" : "Increase the duration of Stun effects by 100%"
-	},
-	"bloodletting" : {
-		"img" : "bloodletting",
-		"title" : "Bloodletting",
-		"text" : "Increase duration of Bleed effects by 100%"
-	},
-	"martialmastery" : {
-		"img" : "stun",
-		"title" : "Martial Mastery",
-		"text" : "Every 6 hits inflict Stun."
-	},
-	"stunimmune" : {
-		"img" : "stun",
-		"title" : "Stun Immunity",
-		"text" : "This Champion is immune to the effects of Stun."
-	},
-	"poisonimmune" : {
-		"img" : "imune",
-		"title" : "Poison Immunity",
-		"text" : "Immune to Poison."
-	},
-	"bleedimmune" : {
-		"img" : "imune",
-		"title" : "Immunity",
-		"text" : "Imune to Bleed."
-	},
-	"limber" : {
-		"img" : "limber",
-		"title" : "Limber",
-		"text" : "Each time this enemy is Stunned, they reduce the duration of Stuns by {0} seconds."
-	},
-	"limber_percent" : {
-		"img" : "limber",
-		"title" : "Limber",
-		"text" : "Each time this enemy is Stunned, they reduce the duration of Stuns by {0}%."
-	},
-	"heavyhanded" : {
-		"img" : "heavy",
-		"title" : "Heavy-Handed",
-		"text" : "Special Damage increased based on Armor."
-	},
-	"debilitate" : {
-		"img" : "debilitate",
-		"title" : "Debilitate",
-		"text" : "Debuff effects last 100% longer"
-	},
-	"attack" : {
-		"img" : "attack",
-		"title" : "Attack",
-		"text" : "+{0}% Attack"
-	},
-	"boost" : {
-		"img" : "health",
-		"title" : "Champion Boost",
-		"text" : "+{0}% Attack & Health"
-	},
-	"health" : {
-		"img" : "health",
-		"title" : "Health",
-		"text" : "+{0}% Health"
-	},
-	"iso" : {
-		"img" : "boost",
-		"title" : "Iso-Infused",
-		"text" : "+{0}% Attack and Health"
-	},
-	"healblock" : {
-		"img" : "healblock",
-		"title" : "Heal Block",
-		"text" : "Prevent the target from recovering Health."
-	},
-	"recovery" : {
-		"img" : "regen",
-		"title" : "Recovery",
-		"text" : "Healing and Regeneration abilities recover {0}% more health."
-	},
-	"healblock_special" : {
-		"img" : "healblock",
-		"title" : "Heal Block",
-		"text" : "Special Attacks inflict Heal Block, preventing the target from recovering health for 10 seconds."
-	},
-	"regen" : {
-		"img" : "regen",
-		"title" : "Regeneration",
-		"text" : "Regenerates 1% Health permanently."
-	},
-	"loss" : {
-		"img" : "death",
-		"title" : "Degeneration",
-		"text" : "Inflicts health degeneration, draining 100% health per second."
-	},
-	"starburst" : {
-		"img" : "death",
-		"title" : "Starburst",
-		"text" : "Suffer Degeneration proportionate to this Champions's missing Health."
-	},
-	"infinityblast" : {
-		"img" : "powertrend",
-		"title" : "Infinity Blast",
-		"text" : "Blasts a portion of remaning Health. Effectiveness changes to match the Class Relationship of both Champions."
-	},
-	"degeneration" : {
-		"img" : "death",
-		"title" : "Degeneration",
-		"text" : "Inflicts Health Degeneration, draining 0.6% health per second."
-	},
-	"degeneration08" : {
-		"img" : "death",
-		"title" : "Degeneration",
-		"text" : "Inflicts Health Degeneration, draining 0.8% health per second."
-	},
-	"rollingthunder" : {
-		"img" : "rollingthunder",
-		"title" : "Rolling Thunder",
-		"text" : "This enemy raises Special Attack Damage by 10% for every 10 Seconds that pass"
-	},
-	"poison" : {
-		"img" : "poison",
-		"title" : "Poison",
-		"text" : "Inflicts Poison."
-	},
-	"poison100" : {
-		"img" : "poison",
-		"title" : "Poison",
-		"text" : "Inflicts Poison draining 100% Health over 60 seconds."
-	},
-	"enhancedpoison" : {
-		"img" : "poison",
-		"title" : "Enhanced Poison",
-		"text" : "Poison abilities are 40% more effective."
-	},
-	"enhancedincinerate" : {
-		"img" : "",
-		"title" : "Enhanced Incinerate",
-		"text" : "Incinerate abilities are {0}% more effective."
-	},
-	"enhancedenergyattack" : {
-		"img" : "energy",
-		"title" : "Enhanced Energy Attacks",
-		"text" : "Energy Attacks inflict 40% more damage."
-	},
-	"bleed" : {
-		"img" : "bleed",
-		"title" : "Bleed",
-		"text" : "Inflicts Bleed."
-	},
-	"bleed100" : {
-		"img" : "bleed",
-		"title" : "Bleed",
-		"text" : "Inflicts Bleed draining 100% Health over 60 seconds."
-	},
-	"enhancedbleed" : {
-		"img" : "bleed",
-		"title" : "Enhanced Bleed",
-		"text" : "Bleed  abilities are 40% more effective."
-	},
-	"power" : {
-		"img" : "power",
-		"title" : "Power Gain",
-		"text" : "Increase all Power Gain by {0}%."
-	},
-	"powerstart1" : {
-		"img" : "power",
-		"title" : "Power Start 1",
-		"text" : "Start with 1 bar of Power."
-	},
-	"powerstart2" : {
-		"img" : "power",
-		"title" : "Power Start 2",
-		"text" : "Start with 2 bars of Power"
-	},
-	"specialbias1" : {
-		"img" : "powertrend",
-		"title" : "Special 1 Bias",
-		"text" : "This defender is more likely to activate Special Attack 1."
-	},
-	"specialbias2" : {
-		"img" : "powertrend",
-		"title" : "Special 2 Bias",
-		"text" : "This defender is more likely to activate Special Attack 2."
-	},
-	"enhancedsp1" : {
-		"img" : "powertrend",
-		"title" : "Enhanced Special 1",
-		"text" : "Special 1 deals 30% more damage and cannot be Blocked."
-	},
-	"enhancedsp2" : {
-		"img" : "powertrend",
-		"title" : "Enhanced Special 2",
-		"text" : "Special 2 deals 20% more damage and cannot be Blocked."
-	},
-	"enhancedcritbuff" : {
-		"img" : "enhancedcritbuff",
-		"title" : "Enhanced Critical Buffs",
-		"text" : "Critical Rate and Damage abilities are 40% more effective."
-	},
-	"weakness" : {
-		"img" : "attack",
-		"title" : "Weakness",
-		"text" : "Special attacks drain 100% power."
-	},
-	"strikeback" : {
-		"img" : "response",
-		"title" : "Strike Back",
-		"text" : "When damaged by a Special Attack, this enemy gains 1 bar of Power."
-	},
-	"kineticreactor" : {
-		"img" : "power",
-		"title" : "Kinetic Reactor",
-		"text" : "This enemy generates Power when stiking a Blocking target."
-	},
-	"allornothing" : {
-		"img" : "powertrend",
-		"title" : "All or Nothing",
-		"text" : "This Champion stores Power until its third Special Attack is ready."
-	},
-	"plaguedmind" : {
-		"img" : "anguish",
-		"title" : "Plagued Mind",
-		"text" : "Attacker's Power is drained every {0} seconds."
-	},
-	"powerleak" : {
-		"img" : "power",
-		"title" : "Power Leak",
-		"text" : "A 50% chance for Critical Hits to cause Power to leak from opponents over time."
-	},
-	"resonancecascade" : {
-		"img" : "resonancecascade",
-		"title" : "Resonance Cascade",
-		"text" : "Critical Hists increase Critical Hit Rate by 100%"
-	},
-	"unblockable" : {
-		"img" : "powertrend",
-		"title" : "Unblockable",
-		"text" : "All Special Attacks are Unblockable."
-	},
-	"unblockable_start" : {
-		"img" : "powertrend",
-		"title" : "Unblockable",
-		"text" : "All attacks are Unblockable for the first 6 seconds of the fight."
-	},
-	"powerdrain" : {
-		"img" : "anguish",
-		"title" : "Power Drain",
-		"text" : "Special Attacks drain up to 100% Power."
-	},
-
-	"speciallock1" : {
-		"img" : "speciallock",
-		"title" : "Special Lock 1",
-		"text" : "Attackers suffer from Power Lock after acquiring one bar of Power."
-	},
-	"mystic_ward" : {
-		"img" : "ward",
-		"title" : "Mystic Ward",
-		"text" : "Enemy Nullify effects have a {0}% chance to fail."
-	},
-	"presistance" : {
-		"img" : "presistance",
-		"title" : "Physical-Resistance",
-		"text" : "+{0}% Physical-Resistance"
-	},
-	"eresistance" : {
-		"img" : "eresistance",
-		"title" : "Energy-Resistance",
-		"text" : "+{0}% Energy-Resistance"
-	},
-	"immune" : {
-		"img" : "immune",
-		"title" : "Immunity",
-		"text" : "Immune to Debuff effects."
-	},
-	"adaptive" : {
-		"img" : "presistance",
-		"title" : "Adaptive",
-		"text" : "Cycles between building up Physical Resistance or Energy Resistance every 8 seconds."
-	},
-	"armor" : {
-		"img" : "armor",
-		"title" : "Armor",
-		"text" : "+{0}% Armor"
-	},
-
-	"enhancedarmorup" : {
-		"img" : "armor",
-		"title" : "Enhanced Armor Up",
-		"text" : "Armor Up abilities are 40% more effective."
-	},
-	"enhancedarmorbreak" : {
-		"img" : "armorbreak",
-		"title" : "Enhanced Armor Break",
-		"text" : "Armor Break abilities are 40% more effective."
-	},
-	"outlast" : {
-		"img" : "armor",
-		"title" : "Outlast",
-		"text" : "Reduces damage by up to 20% proportionate to missing health."
-	},
-	"fissure" : {
-		"img" : "armorbreak",
-		"title" : "Fissure",
-		"text" : "Every attack tears and ruptures enemy Armor, inflicting a stacking 1% Armor Break."
-	},
-	"softguard" : {
-		"img" : "softguard",
-		"title" : "Soft Guard",
-		"text" : "Each Blocked attack reduces Block Proficiency by 2%, up to a maximum of 80% reduction."
-	},
-	"greatererosion" : {
-		"img" : "softguard",
-		"title" : "Greater Block Erosion",
-		"text" : "Whenever Block Proficiency or Perfect Block Chance exceeds 66%, up to 2% is lost per second until 66% remains."
-	},
-	"enhancedcrits" : {
-		"img" : "enhancedcrits",
-		"title" : "Enhanced Crits",
-		"text" : "40% Critical Rate and Damage."
-	},
-	"transducer" : {
-		"img" : "transducer",
-		"title" : "Transducer",
-		"text" : "The enemy rewards more power when struck, but its presence drains your power."
-	},
-	"strike" : {
-		"img" : "strike",
-		"title" : "True Strike",
-		"text" : "Attacks ignore Armor, Resistance and Evasion."
-	},
-	"critdmg100" : {
-		"img" : "critrate",
-		"title" : "Critical",
-		"text" : "+100% Critical Damage"
-	},
-	"critrate" : {
-		"img" : "",
-		"title" : "Critical",
-		"text" : "+{0}% Critical Rate"
-	},
-	"fury10" : {
-		"img" : "attack",
-		"title" : "Fury",
-		"text" : "A 10% chance to gain Fury, boosting Attack by 100% for 8 seconds."
-	},
-	"enhancedfury" : {
-		"img" : "attack",
-		"title" : "Enhanced Fury",
-		"text" : "Fury abilities are 40% more effective."
-	},
-	"nullify65" : {
-		"img" : "attack",
-		"title" : "Nullify",
-		"text" : "65% chance to nullify."
-	},
-	"optimist" : {
-		"img" : "attack",
-		"title" : "Optimist",
-		"text" : "Gains Fury, Armor Up, Health Steal as long as they remain below 25% HP."
-	},
-	"pessimist" : {
-		"img" : "attack",
-		"title" : "Pessimist",
-		"text" : "Gains Fury, Armor Up, and Health Steal as long as they remain above 75% HP"
-	},
-	"enhancedabilities" : {
-		"img" : "skills",
-		"title" : "Enhanced Abilities",
-		"text" : "All abilities trigger 20% more often."
-	},
-
-	"combolock" : {
-		"img" : "sword",
-		"title" : "Combo Lost",
-		"text" : "The Combo Meter is not reset while fighting this enemy."
-	},
-	"checkmate" : {
-		"img" : "strike",
-		"title" : "Checkmate",
-		"text" : "Attacks ignore Armor and Evasion with a Combo of 15 or more."
-	},
-	"slashedtires" : {
-		"img" : "slashedtires",
-		"title" : "Slashed Tires",
-		"text" : "Dashing backwards causes enemy to take 50% of your attack as direct damage."
-	},
-	"caltrops" : {
-		"img" : "slashedtires",
-		"title" : "Caltrops",
-		"text" : "Dashing backwards against this enemy causes you to Bleed for 6 seconds."
-	},
-	"thorns" : {
-		"img" : "slashedtires",
-		"title" : "Thorns",
-		"text" : "Retaliates with 15% attack as Physical Damage when struck by opponent."
-	},
-	"mirrorimage" : {
-		"img" : "response",
-		"title" : "Mirror Image",
-		"text" : "Automatically mirrors the beneficial effects of enemies."
-	},
-	"buffduration" : {
-		"img" : "clock",
-		"title" : "Buff Duration",
-		"text" : "All Buffs for this champion last {0}% longer."
-	},
-	"linked" : {
-		"img" : "linked",
-		"title" : "Linked Boost",
-		"text" : "Shielded by nearby Linked Nodes."
-	},
-	"thirdspecial":{
-		"img" : "powertrend",
-		"title" : "WARNING",
-		"text" : "A third special attack has been activated!"
-	},
-	"maximumoverdrive":{
-		"img" : "powertrend",
-		"title" : "Maximum Overdrive",
-		"text" : "When Punisher 2099 Batter reaches intervals of exactly 25%, he gains 25% of his Max Power over 5 seconds."
-	},
-	"lifetransfer":{
-		"img" : "powertrend",
-		"title" : "Life Transfer",
-		"text" : "The opponent suffers a permanent Degeneration effect losing 2% of their Max Health per second, but Lifestealing 125% of their Damage done. The Lifesteal percentage is affected by Class Relationships."
-	},
-	"enhancedweakening":{
-		"img" : "powertrend",
-		"title" : "Enhanced Weakening",
-		"text" : "Weakness and Fatigue abbilities are {0}% more effective."
-		},
-	"featsofpower":{
-		"img" : "powertrend",
-		"title" : "Feats of Power",
-		"text" : "When above 1 Bar or Power, gain a Fury Buff. When above 2 Bars of Power, gain a Precision Buff. When at 3 Bars of Power, gain a Cruelty Buff."
-		},
-	"shatter":{
-		"img" : "powertrend",
-		"title" : "Shatter",
-		"text" : "Nullify abilities shatter theirt argets, dealing 1300 direct damage for each effect Nullified in this way."
-		},
-	"rage":{
-		"img" : "powertrend",
-		"title" : "Rage",
-		"text" : "Damage take in a single hit is capped at 2.5% of Max Health.  When damage cap is reached, gain a Fury Buff. Upon reaching 5 Fury Buffs activated by Rage, attacks become Unblockable."
-	 },
-	 "agressive":{
-		"img" : "powertrend",
-		"title" : "Agressive",
-		"text" : "This defender is more agfressive and excels at offensive abilities like Heavy and Dash Attacks."
-	 },
-	 "godslayer":{
-		"img" : "powertrend",
-		"title" : "Godslayer",
-		"text" : "Special Attacks benefit from 50% incresed Critical Hit Damage."
-	 },
-	"vigor":{
-		"img" : "powertrend",
-		"title" : "Vigor",
-		"text" : "Every 15 seconds after the start of the fight.  Regenerate for 50% of Base Health over 5 seconds. The timer refreshes when the Champion reaches intervals of 25% missing Health."
-	},
-	"replicate":{
-		"img" : "powertrend",
-		"title" : "Replicate",
-		"text" : "Special attacks have a 90% chance to copy up to 2 effect(s)."
-	},
-	"baneofdamballah":{
-		"img" : "powertrend",
-		"title" : "Bane of Damballah",
-		"text" : "The defender deals 50% additional damage and has 10% Life Steal as long as their target is under a beneficial effect."
-	},
-	"spiritofjustice":{
-		"img" : "powertrend",
-		"title" : "Spirit of Justice",
-		"text" : "Ghost Rider gains +50% Judgment Ability Accuracy."
-	},
-	"kingofhellskitchen":{
-		"img" : "powertrend",
-		"title" : "King of Hell's Kitchen",
-		"text" : "Heavy Attacks gain +60% Attack and cannot trigger a Passive Evade."
-	},
-	"resistor":{
-		"img" : "powertrend",
-		"title" : "Resistor",
-		"text" : "When struck with an Energy or Physical Attack, activate a corresponding Resistance Buff increasing respective Ressistance by 20%. When and Energy Resistance Buff is activated, remove a Physical Resistance Buff, and vice-versa."
-	},
-	"stackeddeck":{
-		"img" : "powertrend",
-		"title" : "Stacked Deck",
-		"text" : "Joe Fixit's Double Down ability becomes perminent"
-	},
-	"biohazard":{
-		"img" : "powertrend",
-		"title" : "biohazard",
-		"text" : "When stuck, 20% chance to inflict Bleed, dealing 100% of Attack as direct damage over 7.50 seconds. When Blocking an attack 50% chance to inflict Poison, dealing 100% of Attack as direct damage over 7.50 seconds."
-	},
-	"oppressivecurse":{
-		"img" : "powertrend",
-		"title" : "Oppressive Curse",
-		"text" : "When Morningstar is Blocked, she gains a Soul Charge. Slight delay between Opressive Curse activations."
-	},
-	"tyranny":{
-		"img" : "powertrend",
-		"title": "Tyranny",
-		"text": "Villains in this arena attain absolute Power. Heroes do not gain Power."
-	},
-	"villainy":{
-		"img": "powertrend",
-		"title": "Villainy",
-		"text": "Villains in this arena periodically gain Cruelty, increasing Critical Damage by 250% for 7 seconds."
-	},
-	"countertactics": {
-		"img": "powertrend",
-		"title" : "Counter Tactics",
-		"text" : "The Defender increases Base Attack by 20% for each hit of the Attacker's Combo Meter."
-	},
-	"explosivepersonality":{
-		"img": "powertrend",
-		"title" : "Explosive Personality",
-		"text" : "When the Defender Blocks an attack they activate an Armor Up Buff boosting Armor by 25%. Upon reaching 5 stacks of Armor Up generated by Explosive Personality, Armor Up stacks explode and remove 25% of the Attacker's Max Health."
-	},
-	"defensive":{
-		"img": "powertrend",
-		"title" : "Defensive",
-		"text" : "This defender is more passive and excels at defensive abilities like Blocking and Dodging."
-	}
+  "adaptive": {
+    "img": "presistance",
+    "text": "Cycles between building up Physical Resistance or Energy Resistance every 8 seconds.",
+    "title": "Adaptive"
+  },
+  "aggression": {
+    "img": "aggression",
+    "text": "Every 2 seconds on a timer gain a {0} passive increasing Attack by 50% per stack.  When struck reset the timer and remove the {0} passive stack",
+    "title": "Aggression"
+  },
+  "agressive": {
+    "img": "powertrend",
+    "text": "This defender is more agfressive and excels at offensive abilities like Heavy and Dash Attacks.",
+    "title": "Agressive"
+  },
+  "allornothing": {
+    "img": "powertrend",
+    "text": "This Champion stores Power until its third Special Attack is ready.",
+    "title": "All or Nothing"
+  },
+  "arcoverload2": {
+    "img": "arcoverload2",
+    "text": "An Arc Overload triggers every 20 seconds.",
+    "title": "Arc Overload 2.0"
+  },
+  "armor": {
+    "img": "armor",
+    "text": "+{0}% Armor",
+    "title": "Armor"
+  },
+  "aspectofevolution": {
+    "img": "aspectofevolution",
+    "text": "Whenever this defender fills a bar of Power, they raise their Attack, Armor, Critical Rating, Critical Resistance, Block Penetration, Power Rate, and Ability Accuracy attributes by 5% for the remainder of the fight.",
+    "title": "Aspect of Evolution"
+  },
+  "attack": {
+    "img": "attack",
+    "text": "+{0}% Attack",
+    "title": "Attack"
+  },
+  "bane": {
+    "img": "bane",
+    "text": "The Attacker begins under the effect of a Curse, which deals 2.50% of the opponents current health as Direct Damage per second.  Whenever a Champion with the Curse strikes the other Champion or if the Curse has been on the same Champion for 10 seconds, it passes to the other Champion.",
+    "title": "Bane"
+  },
+  "baneofdamballah": {
+    "img": "powertrend",
+    "text": "The defender deals 50% additional damage and has 10% Life Steal as long as their target is under a beneficial effect.",
+    "title": "Bane of Damballah"
+  },
+  "biohazard": {
+    "img": "powertrend",
+    "text": "When stuck, 20% chance to inflict Bleed, dealing 100% of Attack as direct damage over 7.50 seconds. When Blocking an attack 50% chance to inflict Poison, dealing 100% of Attack as direct damage over 7.50 seconds.",
+    "title": "biohazard"
+  },
+  "bleed": {
+    "img": "bleed",
+    "text": "Inflicts Bleed.",
+    "title": "Bleed"
+  },
+  "bleed100": {
+    "img": "bleed",
+    "text": "Inflicts Bleed draining 100% Health over 60 seconds.",
+    "title": "Bleed"
+  },
+  "bleedimmune": {
+    "img": "imune",
+    "text": "Imune to Bleed.",
+    "title": "Immunity"
+  },
+  "bloodletting": {
+    "img": "bloodletting",
+    "text": "Increase duration of Bleed effects by 100%",
+    "title": "Bloodletting"
+  },
+  "boost": {
+    "img": "health",
+    "text": "+{0}% Attack & Health",
+    "title": "Champion Boost"
+  },
+  "breakthrough": {
+    "img": "breakthrough",
+    "text": "The Champion starts with +5,000 Armor Rating, but the Opponent reduces their Armor Rating by 200 with each hit.",
+    "title": "Breakthrough"
+  },
+  "bruteforce": {
+    "img": "bruteforce",
+    "text": "If the Opponent hasn't landed a hit in 6 seconds they begin to Degenerate losing 100% of their total Health over 30 seconds. Landing a hit removes the Degeneration and resets the timer. The strength of this Degeneration is affected by Class Relationships.",
+    "title": "Brute Force"
+  },
+  "buffduration": {
+    "img": "clock",
+    "text": "All Buffs for this champion last {0}% longer.",
+    "title": "Buff Duration"
+  },
+  "buffet": {
+    "img": "buffet",
+    "text": "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {0} of their Max Health.",
+    "title": "Buffet"
+  },
+  "burdenofmight": {
+    "img": "burdenofmight",
+    "text": "The Opponent's Power Gained by striking or being struck by their opponent is reduced by 15% for each Buff currently active on them. Additionally each time a Buff activates on them for any reason, they lose 25% of their Max Power.",
+    "title": "Burden of Might"
+  },
+  "caltrops": {
+    "img": "slashedtires",
+    "text": "Dashing backwards against this enemy causes you to Bleed for 6 seconds.",
+    "title": "Caltrops"
+  },
+  "checkmate": {
+    "img": "strike",
+    "text": "Attacks ignore Armor and Evasion with a Combo of 15 or more.",
+    "title": "Checkmate"
+  },
+  "combolock": {
+    "img": "sword",
+    "text": "The Combo Meter is not reset while fighting this enemy.",
+    "title": "Combo Lost"
+  },
+  "cornered": {
+    "img": "cornered",
+    "text": "Whenever a damage over time Debuff is applied to the Champion, they gain {0}% mode power for the duration of the Debuff.",
+    "title": "Cornered"
+  },
+  "countertactics": {
+    "img": "powertrend",
+    "text": "The Defender increases Base Attack by 20% for each hit of the Attacker's Combo Meter.",
+    "title": "Counter Tactics"
+  },
+  "critdmg100": {
+    "img": "critrate",
+    "text": "+100% Critical Damage",
+    "title": "Critical"
+  },
+  "critrate": {
+    "img": "",
+    "text": "+{0}% Critical Rate",
+    "title": "Critical"
+  },
+  "debilitate": {
+    "img": "debilitate",
+    "text": "Debuff effects last 100% longer",
+    "title": "Debilitate"
+  },
+  "defensive": {
+    "img": "powertrend",
+    "text": "This defender is more passive and excels at defensive abilities like Blocking and Dodging.",
+    "title": "Defensive"
+  },
+  "degeneration": {
+    "img": "death",
+    "text": "Inflicts Health Degeneration, draining 0.6% health per second.",
+    "title": "Degeneration"
+  },
+  "degeneration08": {
+    "img": "death",
+    "text": "Inflicts Health Degeneration, draining 0.8% health per second.",
+    "title": "Degeneration"
+  },
+  "dismay": {
+    "img": "dismay",
+    "text": "Whenever the Attacker loses their highest achieved Combo in a fight, they gain a Degeneration Debuff that deals damage every second equal to {0} times the lost Combo.",
+    "title": "Dismay"
+  },
+  "enhancedabilities": {
+    "img": "skills",
+    "text": "All abilities trigger 20% more often.",
+    "title": "Enhanced Abilities"
+  },
+  "enhancedarmorbreak": {
+    "img": "armorbreak",
+    "text": "Armor Break abilities are 40% more effective.",
+    "title": "Enhanced Armor Break"
+  },
+  "enhancedarmorup": {
+    "img": "armor",
+    "text": "Armor Up abilities are 40% more effective.",
+    "title": "Enhanced Armor Up"
+  },
+  "enhancedbleed": {
+    "img": "bleed",
+    "text": "Bleed  abilities are 40% more effective.",
+    "title": "Enhanced Bleed"
+  },
+  "enhancedcritbuff": {
+    "img": "enhancedcritbuff",
+    "text": "Critical Rate and Damage abilities are 40% more effective.",
+    "title": "Enhanced Critical Buffs"
+  },
+  "enhancedcrits": {
+    "img": "enhancedcrits",
+    "text": "40% Critical Rate and Damage.",
+    "title": "Enhanced Crits"
+  },
+  "enhancedenergyattack": {
+    "img": "energy",
+    "text": "Energy Attacks inflict 40% more damage.",
+    "title": "Enhanced Energy Attacks"
+  },
+  "enhancedfury": {
+    "img": "attack",
+    "text": "Fury abilities are 40% more effective.",
+    "title": "Enhanced Fury"
+  },
+  "enhancedincinerate": {
+    "img": "",
+    "text": "Incinerate abilities are {0}% more effective.",
+    "title": "Enhanced Incinerate"
+  },
+  "enhancedpoison": {
+    "img": "poison",
+    "text": "Poison abilities are 40% more effective.",
+    "title": "Enhanced Poison"
+  },
+  "enhancedsp1": {
+    "img": "powertrend",
+    "text": "Special 1 deals 30% more damage and cannot be Blocked.",
+    "title": "Enhanced Special 1"
+  },
+  "enhancedsp2": {
+    "img": "powertrend",
+    "text": "Special 2 deals 20% more damage and cannot be Blocked.",
+    "title": "Enhanced Special 2"
+  },
+  "enhancedweakening": {
+    "img": "powertrend",
+    "text": "Weakness and Fatigue abbilities are {0}% more effective.",
+    "title": "Enhanced Weakening"
+  },
+  "eresistance": {
+    "img": "eresistance",
+    "text": "+{0}% Energy-Resistance",
+    "title": "Energy-Resistance"
+  },
+  "explosivepersonality": {
+    "img": "powertrend",
+    "text": "When the Defender Blocks an attack they activate an Armor Up Buff boosting Armor by 25%. Upon reaching 5 stacks of Armor Up generated by Explosive Personality, Armor Up stacks explode and remove 25% of the Attacker's Max Health.",
+    "title": "Explosive Personality"
+  },
+  "featsofpower": {
+    "img": "powertrend",
+    "text": "When above 1 Bar or Power, gain a Fury Buff. When above 2 Bars of Power, gain a Precision Buff. When at 3 Bars of Power, gain a Cruelty Buff.",
+    "title": "Feats of Power"
+  },
+  "fissure": {
+    "img": "armorbreak",
+    "text": "Every attack tears and ruptures enemy Armor, inflicting a stacking 1% Armor Break.",
+    "title": "Fissure"
+  },
+  "flare": {
+    "img": "flare",
+    "text": "The Opponent gains +300% Attack, but Degenerates 100% of their Max Health over 60 seconds. The strength of the Degeneration is affected by Class Relationships.",
+    "title": "Flare"
+  },
+  "fury10": {
+    "img": "attack",
+    "text": "A 10% chance to gain Fury, boosting Attack by 100% for 8 seconds.",
+    "title": "Fury"
+  },
+  "godslayer": {
+    "img": "powertrend",
+    "text": "Special Attacks benefit from 50% incresed Critical Hit Damage.",
+    "title": "Godslayer"
+  },
+  "greatererosion": {
+    "img": "softguard",
+    "text": "Whenever Block Proficiency or Perfect Block Chance exceeds 66%, up to 2% is lost per second until 66% remains.",
+    "title": "Greater Block Erosion"
+  },
+  "healblock": {
+    "img": "healblock",
+    "text": "Prevent the target from recovering Health.",
+    "title": "Heal Block"
+  },
+  "healblock_special": {
+    "img": "healblock",
+    "text": "Special Attacks inflict Heal Block, preventing the target from recovering health for 10 seconds.",
+    "title": "Heal Block"
+  },
+  "health": {
+    "img": "health",
+    "text": "+{0}% Health",
+    "title": "Health"
+  },
+  "heavyhanded": {
+    "img": "heavy",
+    "text": "Special Damage increased based on Armor.",
+    "title": "Heavy-Handed"
+  },
+  "immune": {
+    "img": "immune",
+    "text": "Immune to Debuff effects.",
+    "title": "Immunity"
+  },
+  "infinityblast": {
+    "img": "powertrend",
+    "text": "Blasts a portion of remaning Health. Effectiveness changes to match the Class Relationship of both Champions.",
+    "title": "Infinity Blast"
+  },
+  "iso": {
+    "img": "boost",
+    "text": "+{0}% Attack and Health",
+    "title": "Iso-Infused"
+  },
+  "kineticreactor": {
+    "img": "power",
+    "text": "This enemy generates Power when stiking a Blocking target.",
+    "title": "Kinetic Reactor"
+  },
+  "kingofhellskitchen": {
+    "img": "powertrend",
+    "text": "Heavy Attacks gain +60% Attack and cannot trigger a Passive Evade.",
+    "title": "King of Hell's Kitchen"
+  },
+  "lifetransfer": {
+    "img": "powertrend",
+    "text": "The opponent suffers a permanent Degeneration effect losing 2% of their Max Health per second, but Lifestealing 125% of their Damage done. The Lifesteal percentage is affected by Class Relationships.",
+    "title": "Life Transfer"
+  },
+  "limber": {
+    "img": "limber",
+    "text": "Each time this enemy is Stunned, they reduce the duration of Stuns by {0} seconds.",
+    "title": "Limber"
+  },
+  "limber_percent": {
+    "img": "limber",
+    "text": "Each time this enemy is Stunned, they reduce the duration of Stuns by {0}%.",
+    "title": "Limber"
+  },
+  "linked": {
+    "img": "linked",
+    "text": "Shielded by nearby Linked Nodes.",
+    "title": "Linked Boost"
+  },
+  "loss": {
+    "img": "death",
+    "text": "Inflicts health degeneration, draining 100% health per second.",
+    "title": "Degeneration"
+  },
+  "martialmastery": {
+    "img": "stun",
+    "text": "Every 6 hits inflict Stun.",
+    "title": "Martial Mastery"
+  },
+  "masochism": {
+    "img": "masochism",
+    "text": "Every 7 seconds the next Debuff triggered on this Champion is immedieatly removed. Each time the efect triggers they Regenerate 5% of their Max Health.",
+    "title": "Masochism"
+  },
+  "maximumoverdrive": {
+    "img": "powertrend",
+    "text": "When Punisher 2099 Batter reaches intervals of exactly 25%, he gains 25% of his Max Power over 5 seconds.",
+    "title": "Maximum Overdrive"
+  },
+  "mirrorimage": {
+    "img": "response",
+    "text": "Automatically mirrors the beneficial effects of enemies.",
+    "title": "Mirror Image"
+  },
+  "mystic_ward": {
+    "img": "ward",
+    "text": "Enemy Nullify effects have a {0}% chance to fail.",
+    "title": "Mystic Ward"
+  },
+  "mysticwardII": {
+    "img": "mysticwardII",
+    "text": "Enemy Nullify effects have a 80% chance to fail.",
+    "title": "Mystic Ward II"
+  },
+  "nullify65": {
+    "img": "attack",
+    "text": "65% chance to nullify.",
+    "title": "Nullify"
+  },
+  "oppressivecurse": {
+    "img": "powertrend",
+    "text": "When Morningstar is Blocked, she gains a Soul Charge. Slight delay between Opressive Curse activations.",
+    "title": "Oppressive Curse"
+  },
+  "optimist": {
+    "img": "attack",
+    "text": "Gains Fury, Armor Up, Health Steal as long as they remain below 25% HP.",
+    "title": "Optimist"
+  },
+  "outlast": {
+    "img": "armor",
+    "text": "Reduces damage by up to 20% proportionate to missing health.",
+    "title": "Outlast"
+  },
+  "pessimist": {
+    "img": "attack",
+    "text": "Gains Fury, Armor Up, and Health Steal as long as they remain above 75% HP",
+    "title": "Pessimist"
+  },
+  "plaguedmind": {
+    "img": "anguish",
+    "text": "Attacker's Power is drained every {0} seconds.",
+    "title": "Plagued Mind"
+  },
+  "poison": {
+    "img": "poison",
+    "text": "Inflicts Poison.",
+    "title": "Poison"
+  },
+  "poison100": {
+    "img": "poison",
+    "text": "Inflicts Poison draining 100% Health over 60 seconds.",
+    "title": "Poison"
+  },
+  "poisonimmune": {
+    "img": "imune",
+    "text": "Immune to Poison.",
+    "title": "Poison Immunity"
+  },
+  "power": {
+    "img": "power",
+    "text": "Increase all Power Gain by {0}%.",
+    "title": "Power Gain"
+  },
+  "powerdrain": {
+    "img": "anguish",
+    "text": "Special Attacks drain up to 100% Power.",
+    "title": "Power Drain"
+  },
+  "powerleak": {
+    "img": "power",
+    "text": "A 50% chance for Critical Hits to cause Power to leak from opponents over time.",
+    "title": "Power Leak"
+  },
+  "powerreserve": {
+    "img": "powerreserve",
+    "text": "Special Attacks for both Champions cost 50% less Power.",
+    "title": "Power Reserve"
+  },
+  "powershield": {
+    "img": "powershield",
+    "text": "The Attackers basic attacks deal no damage, but still generate power, and their Special Attacks deal 400% mode damage.",
+    "title": "Power Shield"
+  },
+  "powerstart1": {
+    "img": "power",
+    "text": "Start with 1 bar of Power.",
+    "title": "Power Start 1"
+  },
+  "powerstart2": {
+    "img": "power",
+    "text": "Start with 2 bars of Power",
+    "title": "Power Start 2"
+  },
+  "presistance": {
+    "img": "presistance",
+    "text": "+{0}% Physical-Resistance",
+    "title": "Physical-Resistance"
+  },
+  "rage": {
+    "img": "powertrend",
+    "text": "Damage take in a single hit is capped at 2.5% of Max Health.  When damage cap is reached, gain a Fury Buff. Upon reaching 5 Fury Buffs activated by Rage, attacks become Unblockable.",
+    "title": "Rage"
+  },
+  "recovery": {
+    "img": "regen",
+    "text": "Healing and Regeneration abilities recover {0}% more health.",
+    "title": "Recovery"
+  },
+  "regen": {
+    "img": "regen",
+    "text": "Regenerates 1% Health permanently.",
+    "title": "Regeneration"
+  },
+  "replicate": {
+    "img": "powertrend",
+    "text": "Special attacks have a 90% chance to copy up to 2 effect(s).",
+    "title": "Replicate"
+  },
+  "resistor": {
+    "img": "powertrend",
+    "text": "When struck with an Energy or Physical Attack, activate a corresponding Resistance Buff increasing respective Ressistance by 20%. When and Energy Resistance Buff is activated, remove a Physical Resistance Buff, and vice-versa.",
+    "title": "Resistor"
+  },
+  "resonancecascade": {
+    "img": "resonancecascade",
+    "text": "Critical Hists increase Critical Hit Rate by 100%",
+    "title": "Resonance Cascade"
+  },
+  "rollingthunder": {
+    "img": "rollingthunder",
+    "text": "This enemy raises Special Attack Damage by 10% for every 10 Seconds that pass",
+    "title": "Rolling Thunder"
+  },
+  "shatter": {
+    "img": "powertrend",
+    "text": "Nullify abilities shatter theirt argets, dealing 1300 direct damage for each effect Nullified in this way.",
+    "title": "Shatter"
+  },
+  "slashedtires": {
+    "img": "slashedtires",
+    "text": "Dashing backwards causes enemy to take 50% of your attack as direct damage.",
+    "title": "Slashed Tires"
+  },
+  "softguard": {
+    "img": "softguard",
+    "text": "Each Blocked attack reduces Block Proficiency by 2%, up to a maximum of 80% reduction.",
+    "title": "Soft Guard"
+  },
+  "specialbias1": {
+    "img": "powertrend",
+    "text": "This defender is more likely to activate Special Attack 1.",
+    "title": "Special 1 Bias"
+  },
+  "specialbias2": {
+    "img": "powertrend",
+    "text": "This defender is more likely to activate Special Attack 2.",
+    "title": "Special 2 Bias"
+  },
+  "speciallock1": {
+    "img": "speciallock",
+    "text": "Attackers suffer from Power Lock after acquiring one bar of Power.",
+    "title": "Special Lock 1"
+  },
+  "spiritofjustice": {
+    "img": "powertrend",
+    "text": "Ghost Rider gains +50% Judgment Ability Accuracy.",
+    "title": "Spirit of Justice"
+  },
+  "spite": {
+    "img": "spite",
+    "text": "While opponents has active Buffs, this champion activates Power Flood out of spite, granting 18% Power per second and Special Attacks a 100% chance to be Unblockable.",
+    "title": "Spite"
+  },
+  "stackeddeck": {
+    "img": "powertrend",
+    "text": "Joe Fixit's Double Down ability becomes perminent",
+    "title": "Stacked Deck"
+  },
+  "starburst": {
+    "img": "death",
+    "text": "Suffer Degeneration proportionate to this Champions's missing Health.",
+    "title": "Starburst"
+  },
+  "strike": {
+    "img": "strike",
+    "text": "Attacks ignore Armor, Resistance and Evasion.",
+    "title": "True Strike"
+  },
+  "strikeback": {
+    "img": "response",
+    "text": "When damaged by a Special Attack, this enemy gains 1 bar of Power.",
+    "title": "Strike Back"
+  },
+  "stun": {
+    "img": "stun",
+    "text": "A 10% chance to inflict Stun for 1.5 seconds.",
+    "title": "Stun"
+  },
+  "stunimmune": {
+    "img": "stun",
+    "text": "This Champion is immune to the effects of Stun.",
+    "title": "Stun Immunity"
+  },
+  "stupefy": {
+    "img": "stypefy",
+    "text": "Increase the duration of Stun effects by 100%",
+    "title": "Stupefy"
+  },
+  "thirdspecial": {
+    "img": "powertrend",
+    "text": "A third special attack has been activated!",
+    "title": "WARNING"
+  },
+  "thorns": {
+    "img": "slashedtires",
+    "text": "Retaliates with 15% attack as Physical Damage when struck by opponent.",
+    "title": "Thorns"
+  },
+  "transducer": {
+    "img": "transducer",
+    "text": "The enemy rewards more power when struck, but its presence drains your power.",
+    "title": "Transducer"
+  },
+  "tyranny": {
+    "img": "powertrend",
+    "text": "Villains in this arena attain absolute Power. Heroes do not gain Power.",
+    "title": "Tyranny"
+  },
+  "unblockable": {
+    "img": "powertrend",
+    "text": "All Special Attacks are Unblockable.",
+    "title": "Unblockable"
+  },
+  "unblockable_start": {
+    "img": "powertrend",
+    "text": "All attacks are Unblockable for the first 6 seconds of the fight.",
+    "title": "Unblockable"
+  },
+  "vigor": {
+    "img": "powertrend",
+    "text": "Every 15 seconds after the start of the fight.  Regenerate for 50% of Base Health over 5 seconds. The timer refreshes when the Champion reaches intervals of 25% missing Health.",
+    "title": "Vigor"
+  },
+  "villainy": {
+    "img": "powertrend",
+    "text": "Villains in this arena periodically gain Cruelty, increasing Critical Damage by 250% for 7 seconds.",
+    "title": "Villainy"
+  },
+  "weakness": {
+    "img": "attack",
+    "text": "Special attacks drain 100% power.",
+    "title": "Weakness"
+  },
+  "aegisheavy1": {
+    "img": "",
+    "title": "Aegis (Heavy) 1",
+    "text": "Start the fight with Indestructible charges. Being Struck by Heavy Attacks removes 1 charge."
+  },
+  "aegisheavy2": {
+    "img": "",
+    "title": "Aegis (Heavy) 2",
+    "text": "Start the fight with Indestructible charges. Being Struck by Heavy Attacks removes 2 charge."
+  },
+  "aegisheavy3": {
+    "img": "",
+    "title": "Aegis (Heavy) 3",
+    "text": "Start the fight with Indestructible charges. Being Struck by Heavy Attacks removes 3 charges."
+  },
+    "aegisintercept1": {
+    "img": "",
+    "title": "Aegis (Intercept) 1",
+    "text": "Start the fight with Indestructible charges. Dash Attacks from this champion that are Intercepted remove 1 charge."
+  },
+  "aegisintercept2": {
+    "img": "",
+    "title": "Aegis (Intercept) 2",
+    "text": "Start the fight with Indestructible charges. Dash Attacks from this champion that are Intercepted remove 2 charge."
+  },
+  "aegisintercept3": {
+    "img": "",
+    "title": "Aegis (Intercept) 3",
+    "text": "Start the fight with Indestructible charges. Dash Attacks from this champion that are Intercepted remove 3 charge."
+  },
+  "aspectofwar": {
+    "img": "",
+    "text": "Block Proficiency has reached zero, preventing Blocking from reducing any attack damage.",
+    "title": "Aspect of War"
+  },
+  "backuprecovery1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "backuprecovery2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "backuprecovery3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bane1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bane2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bane3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bleedimmunity": {
+    "img": "",
+    "text": "Bleed Immunity",
+    "title": "Bleed Immunity"
+  },
+  "boostarmorup1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "boostarmorup2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "boostarmorup3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "boostunstoppable2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "boostunstoppable3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bubbleshield1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bubbleshield2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bubbleshield3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "buffduration1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "buffduration2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "buffduration3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunblockable1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunblockable2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunblockable3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunstoppable1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunstoppable2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "bufftoggleunstoppable3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "buffet1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "closeencounters": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "comboshield": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "confusion1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "confusion2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "confusion3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "criticalresistance": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "electricfluctuations1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "energyresistance": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "encroachingstun": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "extend": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "fisticuffs1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "fisticuffs2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "fisticuffs3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "forceofwill": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "fury": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "greaterconfusion": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "healblock1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "healblock2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "heavyhitter": {
+    "img": "",
+    "text": "Heavy Attacks are Unstoppable.",
+    "title": "Heavy Hitter"
+  },
+  "hurtlocker": {
+    "img": "",
+    "text": "Using the same type of Special Attack twice in a row gives the Attacker a Delayed Blast charge for 5 seconds which may be removed by landing a Heavy Attack. If the Blast expires, the Attacker takes 50% of their Health as direct damage.\n",
+    "title": "Hurt Locker"
+  },
+  "immunity": {
+    "img": "",
+    "text": "Immune to detremental status effects.",
+    "title": "Immunity"
+  },
+  "immunityall": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "immunitybleed": {
+    "img": "",
+    "text": "The defender is immune to Bleed debuffs.",
+    "title": "Immunity (Bleed)"
+  },
+  "immunitypoison": {
+    "img": "",
+    "text": "The defender is immune to Poison debuffs.",
+    "title": "Immunity (Bleed)"
+  },
+  "improvedpowergain": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "indomitable": {
+    "img": "",
+    "text": "Whenever the Defender’s healing abilities would be reversed, they are instead only Heal Blocked.",
+    "title": "Indomitable"
+  },
+  "invertedimmunitybleed1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "invertedimmunitybleed2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "invertedimmunitybleed3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "kineticinstigator": {
+    "img": "",
+    "text": "The opponent generates power when striking this champion's Block.",
+    "title": "Kinetic Instigator"
+  },
+  "kinetictransference1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "kinetictransference2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "kinetictransference3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "lazarus": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "limberflat": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "limitedimmunity1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "limitedimmunity2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "limitedimmunity3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "longdistancerelationship": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "mightycharge1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "mightycharge2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "mightycharge3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "nanoplague": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "noretreat": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "opportunist1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "opportunist2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "opportunist3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "oscillate": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "physicalresistance": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "plaguedmind1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "plaguedmind2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "plaguedmind3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "powerbond": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "powerfocus1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "powerfocus2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "powergain": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "preyontheweak": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "protectionshielding1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "protectionshielding2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "protectionshielding3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "proveyourself": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "psychicthorns1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "psychicthorns2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "psychicthorns3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "quicknullifyregen1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "quicknullifyregen2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "quicknullifyregen3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "redoubleddetermination2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "redoubleddetermination3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "sadist3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "safeguard": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "shank": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "softguard1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "special1bias": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "special2bias": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "specialdelivery": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "speciallock2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "stupefey": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "tankbuster1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "tankbuster2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "tankbuster3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "thebestdefense1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "thebestdefense2": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "thebestdefense3": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "tranquility1": {
+    "img": "",
+    "text": "",
+    "title": ""
+  },
+  "truestrike": {
+    "img": "",
+    "text": "",
+    "title": ""
+  }
 }

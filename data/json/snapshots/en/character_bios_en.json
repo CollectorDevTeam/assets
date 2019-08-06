@@ -1,14 +1,16 @@
 {
   "meta": {
-    "language": "en",
-    "hash": "d4f9d6075d6555f7a8b011af4395d36e83d14dc2",
     "format": "sparx",
-    "ts": 1559067361,
+    "language": "en",
     "tagged": [
       "character_bios",
       "client"
     ],
-    "string_count": 156
+    "hash": "f51493b1c39c9b2eee5e933305d5af2fe43242f2",
+    "ts": 1563211140,
+    "string_count": 160,
+    "post_processed": true,
+    "versionLock": "24.1"
   },
   "strings": [
     {
@@ -121,6 +123,9 @@
       "v": "Piotr \"Peter\" Rasputin was the child of Russian farmers, born with big shoulders and strong spirit. When his mutant powers emerged, his body became encased in living steel and he became one of the mightiest heroes of the Marvel Universe. Peter moved to America to join the X-Men, serving as both the heart and conscience of the team."
     },
     {
+      "k": "ID_CHARACTER_BIOS_COLOSSUS_BETA",
+      "v": "In an alternate timeline, the villains of Earth and beyond worked together to bring about the downfall of Super Heroes everywhere. Manipulated into hurting his fellow mutants, Wolverine took on a vow of pacifism, swearing to never again pop his claws. 50 years later, when an old friend knocked on his door asking for help on a mission to overthrow the ruling villains, Logan chose to once again do what he did best.\t",
+      "vn": "24.1"
       "k": "ID_CHARACTER_BIOS_COLOSSUS_UNSTOPPABLE",
       "v": "During an event known as Fear Itself, the X-Man known as Colossus touched the Crimson Gem of the demon Cyttorak, gaining the demon’s favor in place of his sister Magik. Attaining the same Mystical power that enhanced Juggernaut, Russia’s favorite mutant hero became an Unstoppable artist of destruction."
     },
@@ -405,7 +410,8 @@
     {
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
-      "vn": "21.3"
+      "vn": "21.3",
+      "cn": null
     },
     {
       "k": "ID_CHARACTER_BIOS_MODOK",
@@ -442,6 +448,9 @@
     {
       "k": "ID_CHARACTER_BIOS_NIGHTCRAWLER",
       "v": "Raised from childhood in an Eastern European circus, Half-Demon Mutant Kurt Wagner has always existed on the outside. Gifted with the power to teleport at will, but marred with his father’s demonic appearance, Kurt eventually found a place for himself amongst Xavier’s X-Men. Despite his intimidating outward appearance, Nightcrawler remains positive and optimistic, always using his powers for the betterment of both mankind and mutantkind."
+      "k": "ID_CHARACTER_BIOS_OLDMANLOGAN_BETA",
+      "v": "Piotr \"Peter\" Rasputin was the child of Russian farmers, born with big shoulders and strong spirit. When his mutant powers emerged, his body became encased in living steel and he became one of the mightiest heroes of the Marvel Universe. Peter moved to America to join the X-Men, serving as both the heart and conscience of the team.        ",
+      "vn": "24.1"
     },
     {
       "k": "ID_CHARACTER_BIOS_OMEGARED",
@@ -647,6 +656,9 @@
       "vn": 14
     },
     {
+      "k": "ID_CHARACTER_BIOS_WARLOCK",
+      "v": "Greetings <entity-designateSummoner>! Self is referred to as Warlock. Self is capable of many wondrous feats, including changing shape and making jokes! Transmode virus also used to transfer lifeglow from <entity-designateOpponents>. Self will not harm any in the <Champion_Contest>! Hilarious falsehood! Much harm will come to any who attempt to harm Self or SelfFriends.<HumorComplete>",
+      "vn": "24.1"
       "k": "ID_CHARACTER_BIOS_WARMACHINE",
       "v": "James “Rhodey” Rhodes, decorated U.S. Air Force pilot and longtime ally of Tony Stark, combats evil and injustice as the armored War Machine. True to his codename, Rhodes’ armor delivers heavy metal power via its wrist-mounted machine guns and shoulder-mounted artillery cannon."
     },

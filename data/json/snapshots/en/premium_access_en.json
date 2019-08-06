@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "format": "sparx",
+    "language": "en",
+    "tagged": [
+      "premium_access",
+      "client"
+    ],
+    "hash": "ba3545e27050a095e69797a6b8fc0d0153742e9a",
+    "ts": 1562804823,
+    "string_count": 36
+  },
+  "strings": [
+    {
+      "k": "ID_PREMIUM_ACCESS_REWARDS",
+      "v": "REWARDS",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_PREMIUM_ACCESS_REWARD_LEVEL",
+      "v": "NEXT STORY MILESTONE",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_MILESTONES_COMPLETE",
+      "v": "MILESTONES COMPLETE",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_MILESTONE_PREMIUM_ACCESS_PROGRESS",
+      "v": "Progress through Story Quests to upgrade the SIGIL SOLO EVENT, THE GOLDEN CIRCLE Quest, and the BLACK ISO MARKET.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_MILESTONE_PREMIUM_ACCESS_WARNING",
+      "v": "Purchase the SUMMONER’S SIGIL to claim rewards from this Event.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_NEXT_MILESTONE",
+      "v": "NEXT MILESTONE",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUMACCESS_OFFER_BENEFITS_HEADER",
+      "v": "ACTIVATE PERKS {0}",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_ACTIVATED",
+      "v": "ACTIVATED",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_ACTIVATED_POPUP_TITLE",
+      "v": "SIGIL ACTIVATED!",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_ACTIVATION_TIMER_FORMAT",
+      "v": "FOR {0}",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_AWESOME",
+      "v": "AWESOME!",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_BUY_NOW_FORMAT",
+      "v": "BUY NOW\n{0}",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_EVENT_WARNING",
+      "v": "Purchase the SUMMONER’S SIGIL to claim rewards from this Event.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_EVENT_WARNING_EXPIRY",
+      "v": "Complete this event before your SIGIL expires.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_EVENT_WARNING_FINISHED",
+      "v": "You cannot claim milestones from expired SIGIL events, unless the SIGIL was activated during the event.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_EVENT_WARNING_FUTURE",
+      "v": "You have to purchase the SUMMONER'S SIGIL to claim future rewards you may earn from this event.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_EVENT_WARNING_TIMER",
+      "v": "Your SIGIL will end in {0}. Unclaimed rewards earned while your Sigil was active will be sent to your stash.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_FTE",
+      "v": "Review perks and Event Milestone progress of the SUMMONER’S SIGIL in your Summoner Profile.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_HEADER",
+      "v": "SUMMONER’S SIGIL",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_INACTIVE_DESC",
+      "v": "Activate to earn extra Gold, rewards and more!",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_INVENTORY_BANNER_DESCRIPTION",
+      "v": "Increase inventory for Catalysts, ISO, and select items by activating the SUMMONER’S SIGIL.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_INVENTORY_BANNER_TOOLTIP",
+      "v": "Increase inventory for items by 25% (rounded-up). Does not include special or temporary items.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_ITEM_DESC_WITH_NO_MAX_BUFF_EFFECT",
+      "v": "{0} [c21413]Limit not affected by SUMMONER’S SIGIL.[-]",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_NO_THANKS",
+      "v": "NO THANKS",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_QUEST_REWARDS_BANNER_DESCRIPTION",
+      "v": "Earn [4280BDFF]MORE XP[-] and unlock Mastery Points faster with the SUMMONER’S SIGIL in future Quests.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_RENEW",
+      "v": "RENEW",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_RENEW_DESC",
+      "v": "Renew your SIGIL!",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_RENEW_FORMAT",
+      "v": "RENEW\n{0}",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_STORE_BANNER_DESCRIPTION",
+      "v": "Activate the GRANDMASTER'S SEAL to access exclusive offers.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_UNCLAIMED_DESC",
+      "v": "Claim your bonus rewards!",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_UNCLAIMED_REWARDS",
+      "v": "{0} UNCLAIMED REWARDS",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_UNLOCKED_MILESTONES",
+      "v": "YOU HAVE UNLOCKED {0} MILESTONE REWARDS",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_PREMIUM_ACCESS_VIEW",
+      "v": "VIEW",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_REWARDS_LOCKED_TOOLTIP_PREMIUM_ACCESS",
+      "v": "Go to Unit Store and buy the SUMMONER'S SIGIL to unlock this event rewards.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_REWARDS_MILESTONE_UNAVAILABLE_PREMIUM_ACCESS",
+      "v": "Only SIGIL-bearers can claim these rewards.",
+      "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_REWARDS_READY_TO_CLAIM",
+      "v": "READY TO CLAIM",
+      "vn": "24.1"
+    }
+  ]
+}

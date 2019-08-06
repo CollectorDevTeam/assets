@@ -6,17 +6,22 @@
       "quests",
       "client"
     ],
-    "hash": "026ff73bc77e9a55391334e7835c048dd3af5440",
-    "ts": 1555363776,
-    "string_count": 335,
+    "hash": "63ad8309a433311dcbbd64f1488ce42fb96170c4",
+    "ts": 1562878638,
+    "string_count": 338,
     "post_processed": true,
-    "versionLock": "23.1"
+    "versionLock": "24.1"
   },
   "strings": [
     {
       "k": "ID_MILESTONES_COMPLETE_MILESTONES_TO_PROGRESS",
       "v": "Complete previous Milestone to progress",
       "vn": 22
+    },
+    {
+      "k": "ID_QUESTS_NO_EVENT_QUESTS_AVAILIBLE_FORMAT",
+      "v": "There are no {0} currently running. Please check back later.",
+      "vn": "24.1"
     },
     {
       "k": "ID_UI_ACTIVE_BUFFS_SHORT_TITLE",
@@ -228,12 +233,12 @@
     },
     {
       "k": "ID_UI_ENTRYLIMIT_OOETOOLTIP_ACT",
-      "v": "You've used up all the Entries, Wait for the Entry timer to reset and you can play the Quests again.",
+      "v": "Quest entries are limited in this event! Wait for the entry timer to reset if you've used up all your entries.",
       "vn": "16.1"
     },
     {
       "k": "ID_UI_ENTRYLIMIT_OOETOOLTIP_CHAPTER",
-      "v": "You've used up all the Entries, Wait for the Entry timer to reset and you can play the Quests again.",
+      "v": "Quest entries are limited in this event! Wait for the entry timer to reset if you've used up all your entries.",
       "vn": "16.1"
     },
     {
@@ -1202,8 +1207,13 @@
       "v": "VIEW REWARDS"
     },
     {
+      "k": "ID_UI_TEAM_MANAGEMENT_BONUSPANEL_QUEST_RESTRICTED",
+      "v": "This Champion does not meet the Champion Requirements.",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_UI_TEAM_SELECT_QUEST_GATE_TYPES_FORMAT",
-      "v": "GATE \n TYPES :",
+      "v": "GATE\nTYPES:",
       "vn": "23.1"
     },
     {

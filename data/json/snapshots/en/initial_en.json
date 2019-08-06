@@ -6,11 +6,9 @@
       "initial",
       "client"
     ],
-    "hash": "ad047c4aa895cb4d981786e3594324254aa346e4",
-    "ts": 1558114528,
-    "string_count": 253,
-    "post_processed": true,
-    "versionLock": "23.1"
+    "hash": "3c4f7ba5be83a6547a8f48b1d09d06cfb132778e",
+    "ts": 1562268408,
+    "string_count": 253
   },
   "strings": [
     {
@@ -391,6 +389,11 @@
       "v": "Profanities are not allowed."
     },
     {
+      "k": "ID_SPARX_ERROR_PROTECT",
+      "v": "Unable to log in.",
+      "vn": 24
+    },
+    {
       "k": "ID_SPARX_ERROR_REASON",
       "v": "Reason: {0}"
     },
@@ -517,7 +520,7 @@
     },
     {
       "k": "ID_UI_BLOCKING_REASON_BLOCKINGODR",
-      "v": "DOWNLOADING..."
+      "v": "UPDATING..."
     },
     {
       "k": "ID_UI_BLOCKING_REASON_FILELOAD",
@@ -770,7 +773,7 @@
     },
     {
       "k": "ID_UI_ODR_DOWNLOAD_PROGRESS_FORMAT",
-      "v": "[{0}MB/{1}MB]"
+      "v": "Downloading: [{0}MB/{1}MB]"
     },
     {
       "k": "ID_UI_ODR_ESTIMATE_MINUTE",
