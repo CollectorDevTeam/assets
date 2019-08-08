@@ -32241,11 +32241,6 @@
       "vn": 24
     },
     {
-      "k": "MS_ID_CHARACTER_BIOS_SUNS",
-      "v": "Stuff about Sunspot",
-      "vn": "24.1"
-    },
-    {
       "k": "Once per quest when Nick is killed, his [008cff]Life Model Decoy[-] is killed instead and he returns to the fight in his true form with a permanent Fury’s Fury and Stun Immunity. However, Nick loses his Infinity Formula and Passively degenerates [ff0000]100%[-] of his Health over the next [16982bff]{2}[-] seconds of the quest. The destruction of Nick’s L.M.D. Purifies all Effects and isn't affected by Ability Accuracy reduction.",
       "v": "While Internal Bleed is active, all Basic Attacks have [ff0000]{0}%[-] chance to Stun the Opponent for {2} seconds. Stun chance increases by a flat [16982bff]1%[-] for each of Nick's Tactical Advantage charges.",
       "vn": 22
