@@ -6,9 +6,9 @@
       "initial",
       "client"
     ],
-    "hash": "3c4f7ba5be83a6547a8f48b1d09d06cfb132778e",
-    "ts": 1562268408,
-    "string_count": 253
+    "hash": "9a58b1d068f44070357654cf0c0900dd44511a84",
+    "ts": 1563925646,
+    "string_count": 254
   },
   "strings": [
     {
@@ -782,6 +782,11 @@
     {
       "k": "ID_UI_ODR_ESTIMATE_MINUTES",
       "v": "This may take {0} minutes"
+    },
+    {
+      "k": "ID_UI_ODR_INSTALLING_UPDATE",
+      "v": "Installing Update",
+      "vn": "24.1"
     },
     {
       "k": "ID_UI_ODR_MB_REMAINING",

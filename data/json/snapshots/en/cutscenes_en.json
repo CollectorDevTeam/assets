@@ -6,8 +6,8 @@
       "cutscenes",
       "client"
     ],
-    "hash": "ca989348035222258781c2934774cd839c160611",
-    "ts": 1552939610,
+    "hash": "a54f716d64ebe846710d41b5c250fb265ab33ba5",
+    "ts": 1564520838,
     "string_count": 371
   },
   "strings": [
@@ -695,7 +695,7 @@
     },
     {
       "k": "ID_UI_CUTSCENE_AEGON_28",
-      "v": "“The very existence of Ægon irritated the Master.” ",
+      "v": "“The very existence of Ægon irritated the Master.”",
       "vn": 21
     },
     {
@@ -710,7 +710,7 @@
     },
     {
       "k": "ID_UI_CUTSCENE_AEGON_30",
-      "v": "“In a fit of rage, he plucked Ægon’s arm from its socket, as if looking for a hidden source of power in his mortal flesh.” ",
+      "v": "“In a fit of rage, he plucked Ægon’s arm from its socket, as if looking for a hidden source of power in his mortal flesh.”",
       "vn": 21
     },
     {

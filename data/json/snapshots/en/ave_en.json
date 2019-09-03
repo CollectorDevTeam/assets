@@ -6,11 +6,11 @@
       "ave",
       "client"
     ],
-    "hash": "112741bae0cd30b302cffd34434076d7b45fb680",
-    "ts": 1562256069,
-    "string_count": 416,
+    "hash": "90841a4991d6d1698a88b003992902261fc753f1",
+    "ts": 1564767059,
+    "string_count": 436,
     "post_processed": true,
-    "versionLock": "24.1"
+    "versionLock": "24.2"
   },
   "strings": [
     {
@@ -1318,7 +1318,7 @@
     },
     {
       "k": "ID_UI_AVE_PEAK_MILESTONE_TOOLTIP",
-      "v": "",
+      "v": "Earn Peak Milestone rewards by reaching point thresholds in this event.",
       "vn": 19
     },
     {

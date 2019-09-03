@@ -6,8 +6,8 @@
       "items",
       "client"
     ],
-    "hash": "fe8ea28677b6a43ecc775c506e7dee435c5e59e5",
-    "ts": 1557127578,
+    "hash": "0a775ae9d43469dda5a09647d56973f9cb0a32d3",
+    "ts": 1563910712,
     "string_count": 342,
     "post_processed": true,
     "versionLock": "24.1"
@@ -1017,7 +1017,7 @@
     },
     {
       "k": "ID_UI_RESOURCE_MAX_WARNING_AVE",
-      "v": "Claiming this reward will exceed the maximum Glory of [c21413]{0}[-]. Redeem Glory for exclusive items in the Store!\n\n[b86a17]Any Glory claimed beyond the maximum will not be stored in the Stash and will be permanently lost.",
+      "v": "Claiming this reward will exceed the maximum Glory of [c21413]{0}[-]. Redeem Glory for exclusive items in the Store!\r\n\r\n[b86a17]Any Glory claimed beyond the maximum will not be stored in the Stash and will be permanently lost.",
       "vn": 13
     },
     {

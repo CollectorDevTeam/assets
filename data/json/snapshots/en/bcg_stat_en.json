@@ -1,16 +1,16 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "df476fb2958c88096758fa29a6818993306eba9a",
     "language": "en",
+    "post_processed": true,
+    "string_count": 7268,
     "tagged": [
       "bcg_stat",
       "client"
     ],
-    "hash": "dab624a1b6673ba3d4dd389495f7c38c23e60e4d",
-    "ts": 1563413223,
-    "string_count": 7192,
-    "post_processed": true,
-    "versionLock": "24.1"
+    "ts": 1565390283,
+    "versionLock": "24.2"
   },
   "strings": [
     {
@@ -234,6 +234,36 @@
       "vn": 19
     },
     {
+      "k": "ID_AOL42",
+      "v": "Slap Happy!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL43",
+      "v": "Constantly set to 1 Bar of Power. High chance to launch Special 1.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL44",
+      "v": "Dance Fever!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL45",
+      "v": "Constantly set to 2 Bars of Power. High chance to launch Special 2.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL46",
+      "v": "Opposite Day!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL47",
+      "v": "Controls are Reversed. Venompool's Special Attacks can be Blocked.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_APDE338D",
       "v": "Increases the effectiveness of Fury, Armor, and Precision Buffs.",
       "vn": 19
@@ -307,6 +337,16 @@
       "k": "ID_ARMO64T",
       "v": "[b4b4b4ff]Armor Piercing Ammo[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_ARMSHAT_D",
+      "v": "Armor Rating is reduced, and cannot gain Armor Up Buffs nor Armor Break Debuffs. Robots suffer reduced Ability Accuracy and Power Gain.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_ARMSHAT_T",
+      "v": "Armor Shattered",
+      "vn": "24.2"
     },
     {
       "k": "ID_ARUP113D",
@@ -582,6 +622,16 @@
       "k": "ID_BELE38T",
       "v": "[b4b4b4ff]Belle[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_BFIMD",
+      "v": "This champion is immune to all Buff effects.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_BFIMT",
+      "v": "Buff Immunity",
+      "vn": "24.2"
     },
     {
       "k": "ID_BFND48",
@@ -939,6 +989,11 @@
       "vn": 21
     },
     {
+      "k": "ID_CHARACTER_BIOS_BLACKWIDOW_TIMELY",
+      "v": "Claire Voyant was a spirit medium who communicated with the dead through supernatural means. Killed by a client in a job gone wrong, Voyant is sent to Hell where Satan gives her the ability to kill with a single touch, sending her back to Earth to avenge her own death. After avenging her murder, Voyant returns to Satan who, no longer content to wait for evil souls to die a natural death, charges her with bringing more souls to him.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_CAPTAINMARVEL_MOVIE",
       "v": "After crash landing on Earth without any memory of her past, Air Force pilot, Carol Danvers slowly uncovers the events of her past. Rescued by the Kree and reborn as a noble Kree warrior, Carol learns to control her new powers under the guidance of Mar-Vell, commander of the Starforce. When she finds herself on Earth again Carol Danvers becomes one of the universe's most powerful heroes when the Earth is caught in the middle of a galactic war between two alien races.",
       "vn": 22
@@ -1027,6 +1082,11 @@
       "k": "ID_CHARACTER_BIOS_THING",
       "v": "Benjamin Grimm, also known as \"Thing\", served as the pilot on the starship expedition led by Reed Richards. During the voyage, the ship encountered unprecedented levels of radiation, granting the crew extraordinary powers. Ben gained incredible physical strength, and his body was covered in a flexible, rock-like hide. After returning to earth, the team banded together to form the Fantastic Four. It’s clobberin’ time!",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_CHARACTER_BIO_SUNS",
+      "v": "Roberto Da Costa is a hot-headed, suave Brazilian millionaire, and a highly respected leader to mutants and heroes alike. Backed up with the ability to absorb, store, and unleash enormous amounts of solar energy at will, Sunspot is a force to be reckoned with both behind the scenes and on the battlefield. ",
+      "vn": "24.1"
     },
     {
       "k": "ID_CHCH103D",
@@ -1152,6 +1212,16 @@
       "k": "ID_CLFVPC4",
       "v": "Attacks deal bonus energy damage. Opponent suffers -100% Auto-Block Ability Accuracy.",
       "vn": 23
+    },
+    {
+      "k": "ID_CLRT1",
+      "v": "Rout Charger Timer",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CLRT2",
+      "v": "When timer expires, Rout Buff is gained. Release Block to remove.",
+      "vn": "24.2"
     },
     {
       "k": "ID_CMB_LGTD",
@@ -1437,6 +1507,66 @@
       "k": "ID_CUSE241T",
       "v": "[b4b4b4ff]Curse[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_CVBWCBD",
+      "v": "Grants Bleed immunity and causes certain curse effects to trigger Bleed on the Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCBT",
+      "v": "Curse of Blood",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCFD",
+      "v": "Grants Incinerate immunity and causes certain curse effects to trigger Incinerate on the Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCFT",
+      "v": "Curse of Hellfire",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCLKD",
+      "v": "Upon expiry, grants",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCLKT",
+      "v": "Clairvoyance Timer",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCPD",
+      "v": "Grants Poison immunity and causes certain curse effects to trigger Poison on the Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCPT",
+      "v": "Curse of Plague",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCVCD",
+      "v": "While at 1 or more charges, landing or receiving attacks Nullifies a buff from the Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWCVCT",
+      "v": "Clairvoyance Charge",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWDTD",
+      "v": "Increases the potency of all curse effects.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_CVBWDTT",
+      "v": "Death Touch",
+      "vn": "24.2"
     },
     {
       "k": "ID_DAGY8224D",
@@ -1757,6 +1887,16 @@
       "k": "ID_DSBT",
       "v": "[b4b4b4ff]Soul Bond[-]",
       "vn": "19.1"
+    },
+    {
+      "k": "ID_DTHIMD",
+      "v": "This champion is immune to death and regenerates health over time.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_DTHIMT",
+      "v": "Death Immunity",
+      "vn": "24.2"
     },
     {
       "k": "ID_EBMFCSCD",
@@ -2964,6 +3104,16 @@
       "vn": 19
     },
     {
+      "k": "ID_MANARATEIMND",
+      "v": "Immune to effects that modify Power Rate.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_MANARATEIMNT",
+      "v": "Power Rate Immune",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_MASS57D",
       "v": "With more Madness than Cunning, or if the two are equal, Green Goblin recovers a portion of Basic Attack damage and opponents' Special Attack damage is decreased.",
       "vn": 19
@@ -3512,6 +3662,16 @@
       "k": "ID_PAZE60T",
       "v": "[b4b4b4ff]Paralyze[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_PDID",
+      "v": "While attacking, this Champion is safe from Passive Damage effects",
+      "vn": 24
+    },
+    {
+      "k": "ID_PDIT",
+      "v": "Passive Damage Immunity",
+      "vn": 24
     },
     {
       "k": "ID_PECK66D",
@@ -4653,6 +4813,21 @@
       "vn": 21
     },
     {
+      "k": "ID_SPECIAL_ATTACK_BLACKWIDOW_TIMELY_0",
+      "v": "Curse of Damnation",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_BLACKWIDOW_TIMELY_1",
+      "v": "Wrath of the Widow",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_BLACKWIDOW_TIMELY_2",
+      "v": "Soul Reaver",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_CAPTAINMARVEL_MOVIE_0",
       "v": "\"Photon\" Blast",
       "vn": 22
@@ -4701,6 +4876,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_AEGON_2",
       "v": "Ægon charges up his Iso-belt beyond his own limits, and releases the energy in a violent blast, tearing up the ground and sending his Opponent flying",
       "vn": 21
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_BLACKWIDOW_TIMELY_0",
+      "v": "Summoning a blast from the underworld, Claire curses her Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_BLACKWIDOW_TIMELY_1",
+      "v": "Leaping forward, Claire uses her shadow limbs to slash the Opponent with a series of devastating blows.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_BLACKWIDOW_TIMELY_2",
+      "v": "Claire seals the Opponent’s fate marking their forehead with the touch of death and sentencing their soul to Hell.",
+      "vn": "24.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINMARVEL_MOVIE_0",
@@ -5026,6 +5216,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THING_2",
       "v": "Thing crushes the Opponent with a boulder, then rolls them into a rock-burrito and flings them into the wall.",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VISION_TIMELY_0",
+      "v": "Aarkus rises up on a tornado of smoke and vapor, then slams into his Opponent, knocking them back with the force of a gale.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VISION_TIMELY_1",
+      "v": "Aarkus conjures a blast of frozen energy, snow, and ice, chilling his Opponents to the core.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VISION_TIMELY_2",
+      "v": "Aarkus vanishes into the ground in a puff of smoke, then uses the energy of Smokeworld to grow his hand to gargantuan size. He toys with the Opponent for a brief time, before picking them up and slamming them into the wall.",
+      "vn": "24.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WARLOCK_0",
@@ -5358,6 +5563,11 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_SUNS_SP1_LEVEL_FIX",
+      "v": "Gain an additional stack of Flare State.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_SUNS_SP1_REFRESH",
       "v": "Refresh the duration of any active Solar State.",
       "vn": "24.1"
@@ -5421,6 +5631,21 @@
       "k": "ID_SPECIAL_ATTACK_TITLE_SUNS_SP3",
       "v": "SPF 10,000",
       "vn": "24.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_VISION_TIMELY_0",
+      "v": "Spiral of Smoke",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_VISION_TIMELY_1",
+      "v": "Blizzard Blast",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_VISION_TIMELY_2",
+      "v": "Talk to the Hand",
+      "vn": "24.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_WARLOCK_0",
@@ -6286,10 +6511,10 @@
       "vn": "16.1"
     },
     {
+      "cn": "charge(s)",
       "k": "ID_STAT_MODOK_FF3",
       "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields cannot trigger Parry.",
-      "vn": "16.1",
-      "cn": "charge(s)"
+      "vn": "16.1"
     },
     {
       "k": "ID_STAT_MODOK_FF4",
@@ -6535,7 +6760,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_AIM2_DESC",
-      "v": "[64acff]Domino:[-] If Domino never hit with a Special Attack while both Lucky and Unlucky were active, then she has +{0}% chance to activate them during her next fight.[-]\n[64acff]M.O.D.O.K. or Taskmaster:[-] Bleed abilities last {0} second(s) longer.[-]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] If Domino never hit with a Special Attack while both Lucky and Unlucky were active, then she has +{0}% chance to activate them during her next fight.\r\n[64acff]M.O.D.O.K. or Taskmaster:[-] Bleed abilities last {0} second(s) longer.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "18.1"
     },
     {
@@ -6550,7 +6775,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_CODERED_DESC",
-      "v": "[64acff]Domino:[-] Heavy Attacks inflict an Incinerate that deals damage equal to that Heavy Attack’s damage over 2 second(s).\n[64acff]Red Hulk:[-] Special 2 Regeneration consumes 1 less Heat Charge and recovers {0}% more Health.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] Heavy Attacks inflict an Incinerate that deals damage equal to that Heavy Attack’s damage over 2 second(s). \r\n[64acff]Red Hulk:[-] Special 2 Regeneration consumes 1 less Heat Charge and recovers {0}% more Health. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "18.1"
     },
     {
@@ -6560,7 +6785,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_IC2_DESC",
-      "v": "[64acff]Domino:[-] Start the fight with either Lucky or Unlucky active for 7 seconds.[-]\n[64acff]Cable:[-] +{0} Armor Rating and +3% Power Gain.[-]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] Start the fight with either Lucky or Unlucky active for 7 seconds.[-] \r\n[64acff]Cable:[-] +{0} Armor Rating and +3% Power Gain.[-] \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "18.1"
     },
     {
@@ -6575,7 +6800,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_MERCS_DESC",
-      "v": "[64acff]Masacre:[-] When Ignited expires, gain between 1 and 5 Ignition Charges.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Masacre:[-] When Ignited expires, gain between 1 and 5 Ignition Charges. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "18.1"
     },
     {
@@ -6590,7 +6815,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_SIXPACK_DESC",
-      "v": "[64acff]Domino:[-] +10% damage against Champions that aren’t female or robots.\n[64acff]Deadpool:[-] Special 1 has a {0}% chance to Stun Champions that aren’t female or robots for 2 second(s).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] +10% damage against Champions that aren’t female or robots. \r\n[64acff]Deadpool:[-] Special 1 has a {0}% chance to Stun Champions that aren’t female or robots for 2 second(s). \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "18.1"
     },
     {
@@ -6600,7 +6825,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_WEPX_DESC",
-      "v": "[64acff]Domino:[-] Each time Domino avoids an attack by Dashing Back, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power.\n[64acff]Old Man Logan or Sabretooth:[-] Regeneration and Fury are 12% more effective.[-]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] Each time Domino avoids an attack by Dashing Back, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. \r\n[64acff]Old Man Logan or Sabretooth:[-] Regeneration and Fury are 12% more effective.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "18.1"
     },
     {
@@ -6610,7 +6835,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_XFORCE_DESC",
-      "v": "[64acff]Domino:[-] Each time Domino performs a well-timed Block, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power.\n[64acff]Deadpool:[-] Bleed deals 20% more damage.[-]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] Each time Domino performs a well-timed Block, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. \r\n[64acff]Deadpool:[-] Bleed deals 20% more damage.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "18.1"
     },
     {
@@ -6710,7 +6935,7 @@
     },
     {
       "k": "ID_STAT_SYNERGY_CHRONAL_LONG",
-      "v": "[64acff]Bishop and Psylocke:[-] Opponents are Petrified for 1 second after they fill a bar of Power, reducing their Regeneration and Power Gain effectiveness by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Bishop and Psylocke:[-] Opponents are Petrified for 1 second after they fill a bar of Power, reducing their Regeneration and Power Gain effectiveness by {0}%.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "17.1"
     },
     {
@@ -6795,7 +7020,7 @@
     },
     {
       "k": "ID_STAT_SYNERGY_ESOTERIC_LONG",
-      "v": "[64acff]Iron Man:[-] Molecular Armor is {0}% more effective at reducing Power Drain, Power Steal, and Power Burn effectiveness.\n[64acff]Vision:[-] Power Burn deals 20% more damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Iron Man (Infinity War):[-] Molecular Armor is {0}% more effective at reducing Power Drain, Power Steal, and Power Burn effectiveness.\n[64acff]Vision:[-] Power Burn deals 20% more damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 18
     },
     {
@@ -6805,7 +7030,7 @@
     },
     {
       "k": "ID_STAT_SYNERGY_FAMILIAR_LONG",
-      "v": "[64acff]Iron Man:[-] Blocking reduces {0}% more damage.\n[64acff]Captain America:[-] Weakness, Fatigue, Bleed, and Petrify Debuffs last 15% longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Iron Man (Infinity War):[-] Blocking reduces {0}% more damage.\n[64acff]Captain America:[-] Weakness, Fatigue, Bleed, and Petrify Debuffs last 15% longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 18
     },
     {
@@ -7390,6 +7615,11 @@
       "v": "POWER GAIN"
     },
     {
+      "k": "ID_UI_ATTIRBUTE_PWRSURGE",
+      "v": "POWER SURGE",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_ATTIRBUTE_RALLY",
       "v": "ADRENALINE",
       "vn": "15.1"
@@ -7750,10 +7980,10 @@
       "vn": "24.1"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION3_LONG",
-      "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
+      "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CULTURE_SHOCK",
@@ -7772,7 +8002,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CYBERASS_DESC",
-      "v": "+{0}% Fury & Cruelty Buff Potency.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "v": "+{0}% Fury & Cruelty Buff Potency. \r\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
       "vn": 22
     },
     {
@@ -7782,12 +8012,12 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CYBERTACT_DESC",
-      "v": "Godslayer Strike recharges {0}% faster and Special Attacks gain +{0}% Attack.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "v": "Godslayer Strike recharges {0}% faster and Special Attacks gain +{0}% Attack. \r\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.\t",
       "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DEADLYPRESENCE_LONG",
-      "v": "[64acff]Omega Red:[-] The Death Field deals {0}% more damage.\n[64acff]Mephisto:[-] The Aura of Incineration deals 15% more damage.\n[64acff]Void:[-] Intimidating Presence debuffs deal 10% more damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Omega Red:[-] The Death Field deals {0}% more damage. \r\n[64acff]Mephisto:[-] The Aura of Incineration deals 15% more damage. \r\n[64acff]Void:[-] Intimidating Presence debuffs deal 10% more damage. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": 20
     },
     {
@@ -7807,7 +8037,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_BIOCHEM",
-      "v": "[64acff]Doctor Octopus:[-] Start with {0} Chemistry Research.\n[64acff]Ant-Man:[-] Glancing Hits reflect {0}% of Physical Damage done, by attacks that make Contact.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Doctor Octopus:[-] Start with {0} Chemistry Research. \r\n[64acff]Ant-Man:[-] Glancing Hits reflect {0}% of Physical Damage done, by attacks that make Contact. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "14.1"
     },
     {
@@ -7842,7 +8072,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_ENGINEERING",
-      "v": "[64acff]Doctor Octopus:[-] Research Categories no longer fall off over time.\n[64acff]Vulture:[-] Gain an additional +{0} Chitauri Charge on Critical Hit.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Doctor Octopus:[-] Research Categories no longer fall off over time. [64acff]Vulture:[-] Gain an additional +{0} Chitauri Charge on Critical Hit. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "14.1"
     },
     {
@@ -7851,8 +8081,13 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_MUTANT_FIX",
+      "v": "Mutants landed strikes during Special Attacks gain +{0}% Attack rating.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DESC_PARTICLEPHYSICS",
-      "v": "[64acff]Doctor Octopus:[-] When a Breakthrough expires, Research Categories reset to {0}.\n[64acff]Electro:[-] Gains {0}% additional Power from Critical Hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Doctor Octopus:[-] When a Breakthrough expires, Research Categories reset to {0}. [64acff]Electro:[-] Gains {0}% additional Power from Critical Hits. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "14.1"
     },
     {
@@ -7862,7 +8097,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_SPIRITUALSTRENGTH",
-      "v": "[64acff]Masacre:[-] Gain a 10% chance to Evade, against an Incinerated Opponent, while not Blocking.\n[64acff]Daredevil (Classic):[-] Evading a Projectile grants a Passive Precision, increasing Crit Rate by {0} for 10 seconds.\n[64acff]Daredevil:[-] Armor Break Debuffs have their Duration increased by 25%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Masacre:[-] Gain a 10% chance to Evade, against an Incinerated Opponent, while not Blocking. \r\n[64acff]Daredevil (Classic):[-] Evading a Projectile grants a Passive Precision, increasing Crit Rate by {0} for 10 seconds. \r\n[64acff]Daredevil:[-] Armor Break Debuffs have their Duration increased by 25%. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
     },
     {
@@ -7877,7 +8112,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ENGULFEDBYTHEVOID_LONG",
-      "v": "[64acff]Void:[-] When activating his Special 3, The Void gains a Reality Warp charge for {0} seconds, increasing the duration of any Fury effects activated afterward by 20 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Void:[-] When activating his Special 3, The Void gains a Reality Warp charge for {0} seconds, increasing the duration of any Fury effects activated afterward by 20 seconds. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "16.1"
     },
     {
@@ -7907,7 +8142,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_FAN_CLUB_LONG_ALT",
-      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 10% increased potency.\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by +{0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 10% increased potency. \r\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by +{0}%. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": 22
     },
     {
@@ -7952,7 +8187,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY01_LONG",
-      "v": "[64acff]Thor Ragnarok, Korg:[-] +15% Attack Rating and +{0}% Fury Buff for 8 seconds when using a Medium Attack to end a Basic Attack Combo while their opponent is pinned against the wall.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]Thor Ragnarok, Korg:[-] +15% Attack Rating and +{0}% Fury Buff for 8 seconds when using a Medium Attack to end a Basic Attack Combo while their opponent is pinned against the wall. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": "19.1"
     },
     {
@@ -7967,7 +8202,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY02_LONG_B",
-      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds.\n[64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break lasts 20 seconds instead. Max Stack: 1.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds. [64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break lasts 20 seconds instead. Max Stack: 1. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": "19.1"
     },
     {
@@ -7977,7 +8212,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY03_LONG",
-      "v": "[64acff]Iceman:[-] While Ice Armor is reforming, Iceman’s Attack Rating is increased by 15% as long as he does not get hit.\n[64acff]Korg:[-] If Korg is awakened, +{0}% chance to shrug off a Debuff while Rock Shield is active.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]Iceman:[-] While Ice Armor is reforming, Iceman’s Attack Rating is increased by 15% as long as he does not get hit. [64acff]Korg:[-] If Korg is awakened, +{0}% chance to shrug off a Debuff while Rock Shield is active. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": "19.1"
     },
     {
@@ -8002,7 +8237,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_LEGACC_DESC",
-      "v": "[64acff]Diablo:[-] Recover 1 Ironskin after winning 1 Fight.\n[64acff]Mephisto:[-] Gain {0}% of a Power bar when a Poison Debuff would be gained. Cooldown: 10 seconds.\n[64acff]Juggernaut:[-] +2000 Armor during Heavy Attacks.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Diablo:[-] Recover 1 Ironskin after winning 1 Fight. \r\n[64acff]Mephisto:[-] Gain {0}% of a Power bar when a Poison Debuff would be gained. Cooldown: 10 seconds. \r\n[64acff]Juggernaut:[-] +2000 Armor during Heavy Attacks. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "21.2"
     },
     {
@@ -8032,7 +8267,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_MADCAP_DESC",
-      "v": "[64acff]Diablo:[-] Recover 1 Lifestitch after winning 1 Fight.\n[64acff]Dock Ock:[-] +{0}% Heal Block Debuff duration.\n[64acff]Green Goblin:[-] +1% Attack per Cunning / Madness charge.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Diablo:[-] Recover 1 Lifestitch after winning 1 Fight. \r\n[64acff]Dock Ock:[-] +{0}% Heal Block Debuff duration.\r\n[64acff]Green Goblin:[-] +1% Attack per Cunning / Madness charge. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": "21.2"
     },
     {
@@ -8042,7 +8277,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_MARVELOUS_LONG",
-      "v": "[64acff]Captain Marvel:[-] Blocking energy-based attacks grants 2% of Max Power.\n[64acff]Captain Marvel (Classic), Ms. Marvel:[-] While Fury is active, Beam Attacks are Unblockable.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Captain Marvel:[-] Blocking energy-based attacks grants 2% of Max Power. \r\n[64acff]Captain Marvel (Classic), Ms. Marvel:[-] While Fury is active, Beam Attacks are Unblockable. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": 22
     },
     {
@@ -8086,6 +8321,11 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_OVERCOMINGFEAR_LONG_FIX",
+      "v": "[64acff]Void:[-] Fear of the Void activates at the start of the fight for {0} seconds against the Avengers. \n[64acff]Avengers:[-] +15% Attack Rating. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "24.1"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_PARTICLEPHYSICS",
       "v": "PARTICLE PHYSICS",
       "vn": "14.1"
@@ -8097,7 +8337,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_PARTNERS_IN_SHIELD_LONG",
-      "v": "[64acff]Captain Marvel:[-] Each Energy Charge lasts an additional 1 second while in Binary Ignition.\n[64acff] Nick Fury:[-] Each Tactical Advantage charge lasts an additional 1 second.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Captain Marvel:[-] Each Energy Charge lasts an additional 1 second while in Binary Ignition. \r\n[64acff] Nick Fury:[-] Each Tactical Advantage charge lasts an additional 1 second. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": 22
     },
     {
@@ -8106,14 +8346,14 @@
       "vn": "22.1"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
-      "v": "[64acff]Proxima Midnight:[-] Ultimate Mission’s Combo Meter requirement goes down to {0} hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
+      "v": "[64acff]Proxima Midnight:[-] Ultimate Mission’s Combo Meter requirement goes down to {0} hits. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY_KARNAK",
-      "v": "[64acff]Medusa:[-] Heavy Attacks inflict up to 4 permanent Armor Breaks.\n[64acff]Karnak:[-] Becomes Focused {0}% faster and True Strike lasts {0}% longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Medusa:[-] Heavy Attacks inflict up to 4 permanent Armor Breaks. [64acff]Karnak:[-] Becomes Focused {0}% faster and True Strike lasts {0}% longer. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": 15
     },
     {
@@ -8138,7 +8378,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SMASH_DESC",
-      "v": "[64acff]She-Hulk:[-] +{0}% Potency for personal Passive Fury effects.\n[64acff]Hulk (Ragnarok):[-] SMASH attacks gain +15% attack.\n[64acff]Red Hulk:[-] +2% attack for each Heat charge.\n[64acff]Hulk:[-] +{0}% Fury Buff Duration & Potency.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]She-Hulk:[-] +{0}% Potency for personal Passive Fury effects. [64acff]Hulk (Ragnarok):[-] SMASH attacks gain +15% attack. [64acff]Red Hulk:[-] +2% attack for each Heat charge. [64acff]Hulk:[-] +{0}% Fury Buff Duration & Potency. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
     },
     {
@@ -8173,7 +8413,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_STOLEN_MEMORIES_LONG_ALT",
-      "v": "[64acff]Captain Marvel:[-] When entering Binary Ignition, become Unstoppable for 4 seconds.\n[64acff]Rogue:[-] All Physical attacks deal an additional 15% of Damage dealt as Energy Damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Captain Marvel:[-] When entering Binary Ignition, become Unstoppable for 4 seconds. \r\n[64acff]Rogue:[-] All Physical attacks deal an additional 15% of Damage dealt as Energy Damage. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
     },
     {
@@ -8293,7 +8533,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_TWIARC_DESC",
-      "v": "[64acff]Diablo:[-] Recover 1 Emberboon after winning 1 Fight.\n[64acff]Symbiote Supreme:[-] +{0}% attack for each Stagger on the opponent.\n[64acff]Dormammu:[-] +500 Energy Resistance while Dark Energy is at 100.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Diablo:[-] Recover 1 Emberboon after winning 1 Fight. \r\n[64acff]Symbiote Supreme:[-] +{0}% attack for each Stagger on the opponent. \r\n[64acff]Dormammu:[-] +500 Energy Resistance while Dark Energy is at 100. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "21.2"
     },
     {
@@ -8303,7 +8543,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_UNENDAM_DESC",
-      "v": "[64acff]Diablo:[-] Recover 1 Counterflow after winning 1 Fight.\n[64acff]Loki:[-] +{0}% Curse Debuff duration.\n[64acff]Red Skull:[-] +{0}% Shock Debuff damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Diablo:[-] Recover 1 Counterflow after winning 1 Fight. \r\n[64acff]Loki:[-] +{0}% Curse Debuff duration. \r\n[64acff]Red Skull:[-] +{0}% Shock Debuff damage. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "21.2"
     },
     {
@@ -8323,7 +8563,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_WAKANDA_LONG",
-      "v": "[64acff]Killmonger:[-] Starts the fight with 3 of his Indestructible and Counterpunch Charges.\n[64acff]Black Panther CW[-] Well Timed Blocks provides a +{0}% Fury Buff for 15 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]Killmonger:[-] Starts the fight with 3 of his Indestructible and Counterpunch Charges. [64acff]Black Panther CW[-] Well Timed Blocks provides a +{0}% Fury Buff for 15 seconds. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
       "vn": 17
     },
     {
@@ -8418,9 +8658,9 @@
       "v": "SIGNATURE ABILITY"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133",
       "k": "ID_UI_SIG_ABILITY_UNLOCK_DESC",
-      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133"
+      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!"
     },
     {
       "k": "ID_UI_SIG_ABILITY_UNLOCK_NEW_DESC",
@@ -8431,6 +8671,61 @@
       "k": "ID_UI_STAT_ABERRATION_SHORT",
       "v": "[b4b4b4ff]Aberration[-]",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_QUAKE_B",
+      "v": "[ff99ff]Striking Quake with a Critical Hit reduces her Earthquake meter by {1}. Inflicting a Bleed Debuff on Quake reduces her Earthquake meter by {0}.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VENOMTHEDUCK_B",
+      "v": "[ff99ff]While Venom the Duck has at least 1 of his RNA Bank Buffs active, he fights very erratically.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_A",
+      "v": "[ff99ff]Every {2} seconds, Deadpool will become bored and make a random declaration, altering the fight for a random amount of time.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_DNC",
+      "v": "[ff99ff]Dance Fever! - Venompool is set to 2 Bars of Power over and over and has a high chance to launch a Special 2.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_DNC_HUD",
+      "v": "DANCE FEVER!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_OPPDAY",
+      "v": "[ff99ff]Opposite Day! - The Attacker's controls are Reversed.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_OPPDAY_HUD",
+      "v": "OPPOSITE DAY!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_SLAP",
+      "v": "[ff99ff]Slap Happy! - Venompool is set to 1 Bar of Power over and over and has a high chance to launch Special 1.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_SLAP_HUD",
+      "v": "SLAP HAPPY!",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_SP2",
+      "v": "[ff99ff]If Venompool is able to finish his fiery dance moves, then the Attacker gains an Incinerate Debuff from the intense heat, dealing 999999 damage over 3 seconds. Burn, baby! Burn![-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VPOOL_SPEC",
+      "v": "[ff99ff]Special Attacks are all Unblockable, except on Opposite Day![-]",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_AMBUSH_LONG",
@@ -9429,12 +9724,22 @@
       "vn": "14.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_BUFFIMM",
+      "v": "BUFF IMMUNITY",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_BUFFSTEAL",
       "v": "[16982bff]{1}%[-] chance to Steal the Opponent's Fury, Armor Up, Regeneration, Cruelty, Precision or Resist Physical Buff effects for yourself."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_BUFFSTOLEN_DESC",
       "v": "Steals all of the opponent's Buffs. Stolen Buffs last for [16982bff]{1}[-] second(s)."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_BURSTDMG_HUD",
+      "v": "BURST DAMAGE",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_BELLE",
@@ -9458,10 +9763,10 @@
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, and Passive Evade effects."
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566",
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_SP3_UPDATED",
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, Auto-Block and all Evade effects.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_TOREGEN",
@@ -9666,9 +9971,9 @@
       "vn": "13.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_A_NEW",
-      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. ",
-      "cn": null
+      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. "
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_B",
@@ -9858,6 +10163,11 @@
       "v": "Deals [16982bff]{1}%[-] bonus damage when striking a charging enemy."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_CHILLAIR_HUD",
+      "v": "FROZEN AIR",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CHISTRIKE",
       "v": "[b4b4b4ff]Chi Strike[-]"
     },
@@ -9997,14 +10307,14 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_HVY_I",
-      "v": "This Attack Rating bonus is increased by [16982bff]{0}%[-] if the opponent is Stunned.",
+      "v": "If the opponent is Stunned, Colossus' Heavy Attacks will remove the stun. Removing a stun with this ability gives Colossus a Fury passive up to [16982bff]{0}%[-] Attack rating for 3 Seconds.",
       "vn": "24.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_IMN",
-      "v": "Colossus is Immune to all Bleed, Incinerate, Coldsnap & Frostbite  effects. Additionally, if he’s not fighting a Tech Champion, he’s also immune to Armor Break Debuffs.",
-      "vn": "24.1",
-      "cn": null
+      "v": "Colossus is Immune to all Bleed, Incinerate, Coldsnap & Frostbite  effects. Additionally, if he’s not fighting a Tech Champion, he’s also immune to Armor Break and Armor Shattered Debuffs.",
+      "vn": "24.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_PWR",
@@ -10401,6 +10711,41 @@
       "vn": "13.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_CRSBLD",
+      "v": "CURSE OF BLOOD",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_CRSFIR",
+      "v": "CURSE OF HELLFIRE",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_CRSPSN",
+      "v": "CURSE OF PLAGUE",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_DTHTCH",
+      "v": "DEATH TOUCH",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_EE_A",
+      "v": "WELL THIS IS AWKWARD...",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_EE_B",
+      "v": "YOUR TIME HAS COME...",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CVBW_GS",
+      "v": "GUILTY SOUL",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CYTTORAK",
       "v": "Cyttorak grants Juggernaut [16982bff]{1}%[-] increased Armor. Additionally, at the beginning of the fight, he becomes Unstoppable and shrugs off all attacks for [16982bff]{2}[-] seconds.",
       "vn": "11.2"
@@ -10458,6 +10803,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DANCEBREAK_HUD_III",
       "v": "POP N' LOCK"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DEATHTOUCH",
+      "v": "[b4b4b4ff]Death Touch[-]",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DEBILITATE_HUD",
@@ -10878,6 +11228,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_DORM_IMNPSN",
       "v": "As a being of pure mystical energy, Dormammu, is immune to all known poisons of the Battlerealm.",
       "vn": "11.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DTHIMM",
+      "v": "DEATH IMMUNITY",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DUALSTRIKE_HUD",
@@ -13456,10 +13811,10 @@
       "v": "[16982bff]{0}%[-] chance to inflict Weakness, decreasing the target's Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
     {
+      "cn": "Taskmaster",
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_WE_HUD",
       "v": "WEAKNESS EXPLOITED",
-      "vn": "16.1",
-      "cn": "Taskmaster"
+      "vn": "16.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ZERO_POISON_AO",
@@ -13515,6 +13870,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FROSTBITE_APPLY",
       "v": "{0}% chance to place a Frostbite charge on the opponent. Frostbite charges are Passive and deal [16982bff]{1}[-] Energy Damage when they expire.",
       "vn": 12
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FROSTBITE_APPLY_V2",
+      "v": "{0}% chance to place a Frostbite charge on the opponent. Frostbite charges are Passive, last for {2} second(s), and deal [16982bff]{1}[-] Energy Damage when they expire.",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FROSTBITE_CHARGES",
@@ -14938,9 +15298,9 @@
       "v": "The duration of each Judgment’s Secondary Effect is increased by {1}% for each Judgment already active."
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE",
-      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds.",
-      "cn": null
+      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE_REVISED",
@@ -15583,9 +15943,9 @@
       "vn": 12
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_MLS_CRITCHANCE",
-      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating.",
-      "cn": null
+      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
@@ -18246,6 +18606,16 @@
       "vn": "23.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CCURSEA",
+      "v": "Curse of the Black Widow",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CCURSEB",
+      "v": "Curse of Damnation",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CHEMICALGAS",
       "v": "Chemical Gas - Passive",
       "vn": 24
@@ -18254,6 +18624,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CHTHONSCUNNING",
       "v": "Chthon's Cunning - Passive",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CLAIRVOYANCE",
+      "v": "Clairvoyance Charge - Passive",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_BK",
@@ -18983,6 +19358,11 @@
       "vn": 19
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONDEATHTOUCH",
+      "v": "While Death Touch is Active",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONELEMENTGUN",
       "v": "Element Gun Effects",
       "vn": 12
@@ -19029,6 +19409,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONFIVECOMBOENDMEDIUM",
       "v": "Finish a 5 Hit Combo with a Medium Attack"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONFREEZEAIR",
+      "v": "Frozen Air",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONFURY",
@@ -19280,6 +19665,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONSCIENTIFICMETHOD",
       "v": "Scientific Method - Passive",
       "vn": "14.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONSMOKEWORLD",
+      "v": "Power of Smokeworld - Buff - Max: 5",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONSPECIAL1ACTIVATE",
@@ -20128,6 +20518,21 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_DEADPOOLISCOOL",
+      "v": "[64acff]Whoah whoah whoah, you expect me to just TELL you how to beat my boss fight? No way! I spent way too long on this for you to show up and 1-shot it.[-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_DEADPOOLISCOOL2",
+      "v": "[64acff]ALRIGHT! FINE! HERE'S YOUR HINT! Ahem...\nWhile his Hearts remain, he shant be hurt.\nDodge his attacks to...to uh...Stun him....\nAnd then...Wow this is a lot harder than I thought.\nLook, just Dex his attacks and punish him when he's Stunned. But you gotta I-Frame it, bro! Git Gud! Become L337![-]",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_DEADPOOLISCOOL3",
+      "v": "[64acff]OH! Also, before I forget, YOU can't Stun him. Only I can. No Parry for you on this one.\nAlso also! You're gonna want Dexterity!\nK Bye![-]",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_DIABLO_ALCH",
       "v": "A master Alchemist, Diablo begins each Quest with a selection of Concoctions ready to be brewed. Throwing Light attacks allows Diablo to switch which Concoction to brew. By finishing a combo with a Medium attack, Diablo begins brewing the selected Concoction. ",
       "vn": "21.2"
@@ -20918,6 +21323,11 @@
       "vn": "13.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_ARMORSHATTERED_B",
+      "v": "While Armor Shattered is active, Opponents cannot suffer from further Armor Break Debuffs nor activate their Armor Buffs. Additionally, this Debuff shatters Robot Champions' systems, reducing their Ability Accuracy and Power Gain by {1}%.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_AUTOBLOCK_FAIL",
       "v": "AUTO BLOCK FAILED",
       "vn": "17.2"
@@ -21001,6 +21411,11 @@
       "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK_B",
       "v": "Any damage dealt that would push The Champion into Dark Match is capped until he enters the mode. Additionally, while he has any Indestructible effects, his Regeneration abilities will not activate.",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK_B_NEW",
+      "v": "Any damage dealt that would push The Champion into Dark Match is capped until he enters the mode. Additionally, while he is in this mode, he is Heal Blocked.",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CHAMPBOSS_DARK_HUD",
@@ -21097,10 +21512,10 @@
       "vn": "18.1"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346",
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVECHARGE",
       "v": "At the start of the fight, Corvus gains {1} permanent Glaive charges, granting him True Damage and guaranteed Critical Hits with his glaive as long as Glaive’s Immunity is active. A charge is spent every time Corvus hits with Basic Attack using his glaive.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVEDELAY",
@@ -21113,10 +21528,10 @@
       "vn": "17.2"
     },
     {
+      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326",
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY",
       "v": "Corvus Glaive does not take damage from Cold Snap, Bleed and Shock Debuffs while Glaive’s Immunity is active. When Glaive’s immunity reactivates or is disabled, all Debuffs listed above are Purified and Corvus takes [16982bff]{1}[-] damage.",
-      "vn": "17.2",
-      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_EXTRA",
@@ -21168,10 +21583,10 @@
       "vn": "17.2"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364",
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP2",
       "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP3",
@@ -21524,9 +21939,9 @@
       "vn": 23
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_CULL_SP1",
-      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
-      "cn": null
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting."
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_SP1_FIX",
@@ -21552,6 +21967,61 @@
       "k": "ID_UI_STAT_FORMAT_CULL_SP3_B_FIX",
       "v": "[16982bff]+{1}[-] Attack for each [37bfff]Persistent Charge[-].",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_CBW_A",
+      "v": "Claire has {2} types of curses each providing her with a different immunity, however only {1} curse can be active at a time.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_CBW_B",
+      "v": "By default the Curse of Blood is active. Landing a fourth Light Attack casts the next curse in the following order.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_CBW_C",
+      "v": "[d900ff]Curse of Blood:[-] Bleed immunity. \n[d900ff]Curse of Plague:[-] Poison immunity. \n[d900ff]Curse of Hellfire:[-] Incinerate immunity.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_COD_A",
+      "v": "Finishing a combo with a Medium attack inflicts {0} Debuff. Throwing a Heavy Attack or Special 1 inflicts up to {1} Debuffs. These Debuffs are determined by Claire’s active curse and last for {2} seconds.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_COD_B",
+      "v": "[d900ff]Curse of Blood:[-] Bleed, dealing [16982bff]{1}[-] direct damage. \n[d900ff]Curse of Plague:[-] Poison, dealing [16982bff]{1}[-] damage and reducing health recovery by 30%. \n[d900ff]Curse of Hellfire:[-] Incinerate, dealing [16982bff]{1}[-] damage, removing Perfect Block Chance and reducing Block Proficiency by 50%.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_CV_A",
+      "v": "Claire starts with {0} charge(s). Each time she or her Opponent are immune to any effect, or an immunity Purifies a preexisting effect she gains 1 charge and {1}% of her max Power. Charges stack up to {2}.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_CV_B",
+      "v": "If the Opponent has 1 or more Buffs, landing or receiving a Light or Medium attack consumes a charge and Nullifies 1 of their Buffs.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_SP2_A",
+      "v": "100% chance to inflict the Opponent with Buff Immunity for {2} seconds. Decreasing to 50% against Science Champions.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_SP2_B",
+      "v": "Each hit grants an effect determined by Claire’s active curse. \n[d900ff]Curse of Blood:[-] Regenerate {0}% of the damage dealt. \n[d900ff]Curse of Plague:[-] Steal {2}% of the Opponent’s current Power. \n[d900ff]Curse of Hellfire:[-] Deal a burst of [16982bff]{1}[-] direct energy damage.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_SP3_A",
+      "v": "All Clairvoyance charges are removed, each increasing her Attack Rating during this attack by [16982bff]{1}[-].",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CVBW_SP3_B",
+      "v": "Claire gains Death Touch, lasting for {1} seconds per Clairvoyance charge removed, Death Touch increases the Potency of all [d900ff]Curse effects[-] by {0}% and is not affected by Ability Accuracy reduction.",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_DEBILITATE_PAUSE",
@@ -22639,10 +23109,10 @@
       "vn": "19.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_EVD",
       "v": "The crowd dislikes cowards, cheering for Korg when opponents Evade or Dexterity his Basic Attacks, increasing Crowd Excitement by {1} for {2} seconds. Only {0} Crowd Excitement charges can be gained through this ability.",
-      "vn": "19.1",
-      "cn": null
+      "vn": "19.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_TITLE",
@@ -23053,7 +23523,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_MYSTO_CHEM_B",
-      "v": "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing [16982bff]{1}[-] direct damage per Chemical Gas consumed over {2} seconds and reducing health recovery by 30%.",
+      "v": "Landing a Heavy Attack with 1 or more Chemical Gas consumes them and inflicts the Opponent with a single Poison Debuff, dealing [16982bff]{1}[-] direct damage scaling with Base Attack, per Chemical Gas consumed over {2} seconds and reducing health recovery by 30%.",
       "vn": 24
     },
     {
@@ -23824,10 +24294,10 @@
       "vn": 13
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383",
       "k": "ID_UI_STAT_FORMAT_PROXIMA_BLACKORDER",
       "v": "Proxima Midnight has {0} missions to accomplish, one at a time, in random order.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_PROXIMA_DMGREDUCTION",
@@ -24385,7 +24855,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_RONIN_SWRD_INTRCPT",
-      "v": "Intercepting attacks has +[16982bff]{1}[-] Critical Rating.",
+      "v": "Intercepting attacks has [16982bff]+{1}[-] Critical Rating.",
       "vn": 23
     },
     {
@@ -24459,10 +24929,10 @@
       "vn": "17.1"
     },
     {
+      "cn": "Switched to Sentinel instead - By V",
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE",
       "v": "Sentinel gains {2} Adaptation charge(s) when an Opponent performs the same action consecutively. Actions include Light Attacks, Medium Attacks, Heavy Attacks, Dashing, Dodging, and Blocking an Attack. Max: 50 charges.",
-      "vn": "17.1",
-      "cn": "Switched to Sentinel instead - By V"
+      "vn": "17.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE_2",
@@ -24849,6 +25319,11 @@
       "k": "ID_UI_STAT_FORMAT_STLSPIDER_REFDUR",
       "v": "The duration increase lasts until a Web Cartridge Debuff expires. Debuffs that are replaced do not expire.",
       "vn": 24
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_STLSPIDER_REFDUR_V2",
+      "v": "The duration increase lasts until a Web Cartridge Debuff expires. Debuffs that are replaced do not count as having expired.",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_STLSPIDER_SIG_MOD_FURY",
@@ -25251,6 +25726,11 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SUNS_WTBLOCK_PUR_FIX",
+      "v": "When Sunspot performs a Perfect Block he Purifies {1} Incinerate Debuff on his Opponent.",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_TAUNT_SHORT",
       "v": "[b4b4b4ff]Taunt[-]"
     },
@@ -25325,10 +25805,10 @@
       "vn": 18
     },
     {
+      "cn": "From a infinity stone to an Infinity Stone instead",
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY1_LONG",
       "v": "Thanos permanently generates Power after activating an Infinity Stone, at the rate of 1 bar of Power over {1} seconds. This is the only way Thanos gains Power in this fight.",
-      "vn": 18,
-      "cn": "From a infinity stone to an Infinity Stone instead"
+      "vn": 18
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_END_LONG",
@@ -25849,10 +26329,10 @@
       "vn": "21.2"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_THING_IMM",
       "v": "Immune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.",
-      "vn": 21,
-      "cn": null
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_FORMAT_THING_RES",
@@ -26072,6 +26552,86 @@
     {
       "k": "ID_UI_STAT_FORMAT_UNSTOPPABLE_SHORT",
       "v": "[b4b4b4ff]Unstoppable[-]"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_FRZ_A",
+      "v": "While the Opponent is near Aarkus and they have an Armor Break or Armor Shattered Debuff, they also gain a Coldsnap Debuff, dealing [16982bff]{1}[-] Energy damage every 0.50 second(s). Opponents under a Coldsnap cannot Evade attacks.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_FRZ_B",
+      "v": "While Aarkus has a Power Gain Buff, he freezes the area near him. Every {0} second(s) the Opponent spends near Aarkus, they gain an Armor Break Debuff, decreasing Armor Rating by [16982bff]{1}[-] for {2} second(s). These Armor Breaks are capped at 10.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_FRZ_C",
+      "v": "Armor Break Debuffs on the Opponent are Paused while they are near Aarkus.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWRCNTRL",
+      "v": "Aarkus reduces the potency of Power Drain effects by {0}%, and the duration of Power Lock effects by {1}%.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_A",
+      "v": "Aarkus draws strength from the Smokeworld dimension at all times. He starts the fight with a Power Gain Buff, and gains {1} every {2} second(s).",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_B",
+      "v": "He also gains one whenever his Power is Drained or he receives a Power Lock Debuff.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_C",
+      "v": "These Buffs last indefinitely. The first one grants Aarkus {1}% of a Bar of Power every {2} second(s), and every subsequent Power Gain Buff is {0}% less effective.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_D",
+      "v": "Aarkus gains 15% less Power from landing and receiving Hits.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SIG_B",
+      "v": "Whenever Aarkus gains a non-Damaging Debuff, he has a [16982bff]{1}%[-] chance to Purify one of each non-Damaging Debuff on him. This cannot trigger more than once every {2} second(s).",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP1_A",
+      "v": "Each hit refreshes all Armor Break Debuffs on the Opponent.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP1_B",
+      "v": "If the Opponent is Armor Shattered, this Attack deals [16982bff]{1}[-] bonus Energy damage.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP2_A",
+      "v": "Replace all Armor Break Debuffs on the Opponent with one Armor Shattered Debuff. For each Armor Break removed, this Debuff lasts {2} second(s) and reduces Armor Rating by [16982bff]{1}[-].",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP2_B",
+      "v": "If the Opponent was already Armor Shattered, instead this Attack deals [16982bff]{1}[-] bonus Energy damage.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP3_A",
+      "v": "Aarkus increases the area his abilities affect to cover the entire field for {2} second(s).",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP3_B",
+      "v": "If the Opponent is Armor Shattered when this Attack is activated, gain a Fury Buff increasing Attack Rating by [16982bff]{1}[-] for {2} second(s).",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP_A",
+      "v": "Hits from Special Attacks Pause all Armor Break Debuffs on the Opponent until the end of the Special Attack.",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_VOID_DARKSTING_TITLE",
@@ -26421,10 +26981,10 @@
       "vn": "19.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_HEIM_TS_ACT",
       "v": "While True Strike is active Heimdall’s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against projectiles, and has a {0}% chance to Auto-Block Basic Attacks, this will trigger Parry.",
-      "vn": 19,
-      "cn": null
+      "vn": 19
     },
     {
       "k": "ID_UI_STAT_HEIM_TS_ACT_ALT",
@@ -26777,7 +27337,7 @@
     },
     {
       "k": "ID_UI_STAT_RSKULL_ABL01_01",
-      "v": "Gain +[16982bff]{1}[-] Critical Resistance and +[16982bff]{1}[-] Energy Resistance for each Buff on Red Skull.",
+      "v": "Gain [16982bff]+{1}[-] Critical Resistance and [16982bff]+{1}[-] Energy Resistance for each Buff on Red Skull.",
       "vn": "19.1"
     },
     {
@@ -27276,7 +27836,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_BLACKPANTHER_UNSTOPPABLE_DESC",
-      "v": "Black Panther begins the fight with his Reflective state active. Additionally, Black Panther's Armor passively has a [16982bff]{0}%[-] chance to absorb heavy attack impacts by going Unstoppable for {2} seconds, and consuming {1} Armor Up effects.",
+      "v": "Black Panther begins the fight with his Reflective state active. Additionally, Black Panther's Armor passively has a [16982bff]{0}%[-] chance to absorb heavy attack impacts by going Unstoppable for {2} seconds, and consuming {1} Armor Up effect(s).",
       "vn": "18.1"
     },
     {
@@ -27672,6 +28232,26 @@
       "k": "ID_UI_STAT_SIGNATURE_CULL_TITLE",
       "v": "ENFORCED OBLIVION",
       "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CVBW_SHORT",
+      "v": "Death Immunity {0}",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CVBW_SIG",
+      "v": "When receiving damage that would knock her out, Death Touch is removed instead and Claire gains a Death Immunity Buff, preventing death and healing [16982bff]{1}%[-] of her max health over {2} seconds.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CVBW_SIMPLE",
+      "v": "Grants Immunity to Death under certain circumstances.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_CVBW_TITLE",
+      "v": "DEATH IMMUNITY",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_CYCLOPS_DESC",
@@ -30882,12 +31462,12 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_C",
-      "v": "+[16982bff]{1}%[-] siphon damage during Special 1.",
+      "v": "[16982bff]+{1}%[-] siphon damage during Special 1.",
       "vn": "20.1"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_VENTHEDUCK_DESC_D",
-      "v": "Toxic Armor gains +[16982bff]{1}%[-] duration.",
+      "v": "Toxic Armor gains [16982bff]+{1}%[-] duration.",
       "vn": "20.1"
     },
     {
@@ -31022,6 +31602,21 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_VISION_SIMPLE",
       "v": "The only known Synthezoid, the Vision is capable of synthesizing Power periodically during battle."
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VISION_TIMELY_SHORT",
+      "v": "Smoke and Mirrors {0}",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VISION_TIMELY_SIMPLE",
+      "v": "Vision uses his connection to the Smokeworld to shrug off non-Damaging Debuffs.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_VISION_TIMELY_TITLE",
+      "v": "SMOKE AND MIRRORS",
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_VISION_TITLE",
@@ -31495,7 +32090,7 @@
     {
       "k": "ID_UI_STAT_SYMS_NS_ENTER_FIXED",
       "v": "{0}% chance when this Blessing is triggered to gain a Protection Buff preventing Symbiote Supreme from taking more than {1}% of his Max Health per hit, lasting for {2} seconds. This Protection threshold is reduced by 50% if the Opponent has an active Buff.",
-      "vn": "24.1"
+      "vn": "24.2"
     },
     {
       "k": "ID_UI_STAT_SYMS_NS_STAGGER",
@@ -31859,7 +32454,7 @@
     },
     {
       "k": "ID_UI_STAT_VENTHEDUCK_ARMUP",
-      "v": "Armor Up: +[16982bff]{1}[-] Armor Rating for {2} seconds.",
+      "v": "Armor Up: [16982bff]+{1}[-] Armor Rating for {2} seconds.",
       "vn": "20.1"
     },
     {
@@ -31874,7 +32469,7 @@
     },
     {
       "k": "ID_UI_STAT_VENTHEDUCK_FURY",
-      "v": "Fury: +[16982bff]{1}[-] Attack for {2} seconds.",
+      "v": "Fury: [16982bff]+{1}[-] Attack for {2} seconds.",
       "vn": "20.1"
     },
     {
@@ -31899,7 +32494,7 @@
     },
     {
       "k": "ID_UI_STAT_VENTHEDUCK_PREC",
-      "v": "Precision: +[16982bff]{1}[-] Critical Rating for {2} seconds.",
+      "v": "Precision: [16982bff]+{1}[-] Critical Rating for {2} seconds.",
       "vn": "20.1"
     },
     {
@@ -31989,7 +32584,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S1_SHORT",
-      "v": "[64acff]The Champion:[-] The Champion is Unstoppable when using a Light and Medium Attack.\n[64acff]Luke Cage:[-] +{0}% chance to inflict Debuffs as long as Luke Cage never dashes back in a fight.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]The Champion:[-] The Champion is Unstoppable when using a Light and Medium Attack.\r\n[64acff]Luke Cage:[-] +{0}% chance to inflict Debuffs as long as Luke Cage never dashes back in a fight. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": 21
     },
     {
@@ -31999,7 +32594,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S2_SHORT",
-      "v": "[64acff]The Champion:[-] When The Champion has 3 or more Persistent Charges, he starts the fight with an Indestructible Buff, ignoring all incoming damage for 8 seconds.\n[64acff]Mephisto:[-] +{0}% Attack Rating for each Persistent Charge.\n[64acff]Sentry:[-] +12% Attack Rating for each Reality Warp.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]The Champion:[-] When The Champion has 3 or more Persistent Charges, he starts the fight with an Indestructible Buff, ignoring all incoming damage for 8 seconds. \r\n[64acff]Mephisto:[-] +{0}% Attack Rating for each Persistent Charge. \r\n[64acff]Sentry:[-] +12% Attack Rating for each Reality Warp.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
       "vn": 21
     },
     {
@@ -32009,7 +32604,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S3_SHORT",
-      "v": "[64acff]The Champion:[-] Gains a Persistent Charge for every {0} hits in his Combo Meter.\n[64acff]Thor (Ragnarok):[-] +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]The Champion:[-] Gains a Persistent Charge for every {0} hits in his Combo Meter. \r\n[64acff]Thor (Ragnarok):[-] +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": 21
     },
     {
@@ -32128,6 +32723,46 @@
       "vn": 19
     },
     {
+      "k": "ID_VISAARK_ARMTMR_D",
+      "v": "Gain an Armor Break Debuff when this expires.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_ARMTMR_T",
+      "v": "Armor Break Timer",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_FULLFIELD_D",
+      "v": "Aarkus' abilities affect the entire field.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_FULLFIELD_T",
+      "v": "Full Coverage",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_PWRTMR_D",
+      "v": "Gain a Power Gain Buff when this expires.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_PWRTMR_T",
+      "v": "Power Gain Timer",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_SIGCD_D",
+      "v": "Vision's Signature Ability is on Cooldown.",
+      "vn": "24.2"
+    },
+    {
+      "k": "ID_VISAARK_SIGCD_T",
+      "v": "Signature Ability Cooldown",
+      "vn": "24.2"
+    },
+    {
       "k": "ID_VSIGED",
       "v": "Whenever Power is gained, a portion of that Power is drained and Vulture gains Chitauri Energy.",
       "vn": "19.1"
@@ -32239,6 +32874,11 @@
       "k": "MS_ID_CHARACTER_BIOS_MYSTERIO",
       "v": "Quentin Beck always dreamed of making it big in the film industry. However, even as one of the most accomplished special effects designers in the business he never received the spotlight he rightfully deserved. Craving recognition, Beck took on the persona “Mysterio”, using his expertise in special effects and illusions to become a Super-Villain with the goal of taking down a costumed hero and thus proving his capabilities to the world.  ",
       "vn": 24
+    },
+    {
+      "k": "MS_ID_CHARACTER_BIOS_SUNS",
+      "v": "Stuff about Sunspot",
+      "vn": "24.1"
     },
     {
       "k": "Once per quest when Nick is killed, his [008cff]Life Model Decoy[-] is killed instead and he returns to the fight in his true form with a permanent Fury’s Fury and Stun Immunity. However, Nick loses his Infinity Formula and Passively degenerates [ff0000]100%[-] of his Health over the next [16982bff]{2}[-] seconds of the quest. The destruction of Nick’s L.M.D. Purifies all Effects and isn't affected by Ability Accuracy reduction.",

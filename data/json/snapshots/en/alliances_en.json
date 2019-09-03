@@ -6,11 +6,11 @@
       "alliances",
       "client"
     ],
-    "hash": "29093b2a99b1a53688e2e7d2045aea1d948883b8",
-    "ts": 1556231700,
-    "string_count": 374,
+    "hash": "9ff632d564b3beb503c83148c712697885226b06",
+    "ts": 1564424999,
+    "string_count": 375,
     "post_processed": true,
-    "versionLock": "23.1"
+    "versionLock": "24.2"
   },
   "strings": [
     {
@@ -524,6 +524,11 @@
     {
       "k": "ID_UI_ALLIANCES_JOIN_REQUEST_DENIED",
       "v": "You have denied this request to join the Alliance."
+    },
+    {
+      "k": "ID_UI_ALLIANCES_JOIN_REWARD_COOLDOWN_WARNING",
+      "v": "When joining a new Alliance, you may not immediately qualify for certain Rank and Milestone rewards.\n\nYou are eligible to donate to the Alliance Treasury after an 8-Day waiting period.",
+      "vn": 24
     },
     {
       "k": "ID_UI_ALLIANCES_KICKED_POPUP_MESSAGE",
@@ -1345,17 +1350,17 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CONNOOBS_DESC",
-      "v": "[64acff]Spider Man (Stark Enhanced):[-] Stun, Shock and Ensnare Debuffs last {0}% longer.\n[64acff]Ms. Marvel (Kamala Khan):[-] Fury Buffs gain +{0}% Potency.\n[64acff]Spider-Man (Miles Morales):[-] Begin the fight with 2 additional Spider-Sense charges.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Spider Man (Stark Enhanced):[-] Stun, Shock and Ensnare Debuffs last {0}% longer. \r\n[64acff]Ms. Marvel (Kamala Khan):[-] Fury Buffs gain +{0}% Potency. \r\n[64acff]Spider-Man (Miles Morales):[-] Begin the fight with 2 additional Spider-Sense charges. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 19
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DEMONHUNTER_LONG",
-      "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Mystic Champions. Danger Sense's Ability Accuracy reduction does not ignore the Immunities from Mystic Champions.\n[64acff]Mephisto, Dormammu:[-] Opponent's Energy Resistance is reduced by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Mystic Champions. Danger Sense's Ability Accuracy reduction does not ignore the Immunities from Mystic Champions. [64acff]Mephisto, Dormammu:[-] Opponent's Energy Resistance is reduced by {0}%. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": 19
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SPIRITOFJUSTICE_LONG",
-      "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Villain Champions. Danger Sense's Ability Accuracy reduction does not ignore the Immunities from Villain Champions.\n[64acff]Ghost Rider:[-] +{0}% chance to place a Judgment.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Villain Champions. Danger Sense's Ability Accuracy reduction does not ignore the Immunities from Villain Champions. [64acff]Ghost Rider:[-] +{0}% chance to place a Judgment. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
       "vn": 19
     },
     {
