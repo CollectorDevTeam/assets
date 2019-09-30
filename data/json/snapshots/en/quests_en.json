@@ -6,22 +6,17 @@
       "quests",
       "client"
     ],
-    "hash": "63ad8309a433311dcbbd64f1488ce42fb96170c4",
-    "ts": 1562878638,
-    "string_count": 338,
+    "hash": "f9c79949da5f1ad8b1f3548ca9726c9fc9616cd0",
+    "ts": 1549575789,
+    "string_count": 321,
     "post_processed": true,
-    "versionLock": "24.1"
+    "versionLock": "22.0"
   },
   "strings": [
     {
       "k": "ID_MILESTONES_COMPLETE_MILESTONES_TO_PROGRESS",
       "v": "Complete previous Milestone to progress",
       "vn": 22
-    },
-    {
-      "k": "ID_QUESTS_NO_EVENT_QUESTS_AVAILIBLE_FORMAT",
-      "v": "There are no {0} currently running. Please check back later.",
-      "vn": "24.1"
     },
     {
       "k": "ID_UI_ACTIVE_BUFFS_SHORT_TITLE",
@@ -233,12 +228,12 @@
     },
     {
       "k": "ID_UI_ENTRYLIMIT_OOETOOLTIP_ACT",
-      "v": "Quest entries are limited in this event! Wait for the entry timer to reset if you've used up all your entries.",
+      "v": "You've used up all the Entries, Wait for the Entry timer to reset and you can play the Quests again.",
       "vn": "16.1"
     },
     {
       "k": "ID_UI_ENTRYLIMIT_OOETOOLTIP_CHAPTER",
-      "v": "Quest entries are limited in this event! Wait for the entry timer to reset if you've used up all your entries.",
+      "v": "You've used up all the Entries, Wait for the Entry timer to reset and you can play the Quests again.",
       "vn": "16.1"
     },
     {
@@ -801,70 +796,20 @@
       "v": "BLOCKED"
     },
     {
-      "k": "ID_UI_QUEST_BLOCK_MULTIPLE_NEED_CLASS",
-      "v": "You need {1} or more {0} Champions in your party to pass.",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_MULTIPLE_NO_CLASS",
-      "v": "{1} {0} Champions cannot pass through this gate.",
-      "vn": "23.1"
-    },
-    {
       "k": "ID_UI_QUEST_BLOCK_NEED_CLASS",
       "v": "You need a {0} Champion in your party to pass."
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NEED_CLASS_AND_RARITY",
-      "v": "You need a {1}-star {0} Champion in your party to pass.",
-      "vn": "23.1"
     },
     {
       "k": "ID_UI_QUEST_BLOCK_NEED_HERO",
       "v": "You need {0} in your party to pass."
     },
     {
-      "k": "ID_UI_QUEST_BLOCK_NEED_HERO_AND_RARITY",
-      "v": "You need {1}-star {0} in your party to pass.",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NEED_MULTIPLE_CLASS_AND_RARITY",
-      "v": "You need {2} or more {1}-star {0} Champions in your party to pass.",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NEED_MULTIPLE_RARITY",
-      "v": "You need {1} or more {0}-star Champions in your party to pass.",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NEED_RARITY",
-      "v": "You need a {0}-star Champion in your party to pass.",
-      "vn": "23.1"
-    },
-    {
       "k": "ID_UI_QUEST_BLOCK_NO_CLASS",
       "v": "{0} Champions cannot pass through this gate."
     },
     {
-      "k": "ID_UI_QUEST_BLOCK_NO_CLASS_AND_RARITY",
-      "v": "{1}-star {0} Champions cannot pass through this gate.",
-      "vn": "23.1"
-    },
-    {
       "k": "ID_UI_QUEST_BLOCK_NO_HERO",
       "v": "{0} cannot pass through this gate."
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NO_HERO_AND_RARITY",
-      "v": "{1}-star {0} cannot pass through this gate.",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_QUEST_BLOCK_NO_RARITY",
-      "v": "{0}-star Champions cannot pass through this gate.",
-      "vn": "23.1"
     },
     {
       "k": "ID_UI_QUEST_BLOCK_VS",
@@ -951,11 +896,6 @@
     {
       "k": "ID_UI_QUEST_INFOBOX_REQUIRED",
       "v": "REQUIRED"
-    },
-    {
-      "k": "ID_UI_QUEST_REQUIREMENTS_MET",
-      "v": "GATE REQUIREMENTS MET",
-      "vn": "23.1"
     },
     {
       "k": "ID_UI_QUEST_STORAGE_COUNT_FORMAT",
@@ -1205,26 +1145,6 @@
     {
       "k": "ID_UI_REWARDS_VIEW_REWARDS",
       "v": "VIEW REWARDS"
-    },
-    {
-      "k": "ID_UI_TEAM_MANAGEMENT_BONUSPANEL_QUEST_RESTRICTED",
-      "v": "This Champion does not meet the Champion Requirements.",
-      "vn": "24.1"
-    },
-    {
-      "k": "ID_UI_TEAM_SELECT_QUEST_GATE_TYPES_FORMAT",
-      "v": "GATE\nTYPES:",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_TEAM_SELECT_QUEST_GATE_TYPES_HELP",
-      "v": "Gates block your access to a specific path unless you meet the stated requirements. Below are the Gates present in this quest:",
-      "vn": "23.1"
-    },
-    {
-      "k": "ID_UI_TEAM_SELECT_QUEST_GATE_TYPES_INFO",
-      "v": "Gates are an area in a Quest than can only be passed if you met certain requirements. Gates may be specific towards one Champion, Class and/or Rarity.",
-      "vn": "23.1"
     },
     {
       "k": "ID_UI_TRIGGERED_QUESTS_ALLIANCE_WARNING",

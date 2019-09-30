@@ -985,6 +985,8 @@
       "k": "ID_UI_CUTSCENE_GUILLOTINE2099",
       "v": "Guillotine: Future Prometheus",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUTSCENE_INFINITYCHAOS",
       "v": "INFINITY CHAOS",
       "vn": "17.2"
@@ -1655,93 +1657,153 @@
       "k": "ID_UI_CUT_GUIL2099_01",
       "v": "Your efforts are pitiful, mortals. I cannot be stopped for long… I AM ETERNAL!",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_02",
       "v": "You might be, démon… But you’re not above the law.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_03",
       "v": "What are you talking about? What law?",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_04",
       "v": "The only one you respect… Your own.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_05",
       "v": "La Fleur du Mal, the sword of my ancestors, and Queen Haasen before that, was not forged by human hands…",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_06",
       "v": "…It was shaped by the demonic entity now inhabiting the blade.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_07",
       "v": "The magic that powers the blade was created by that demon, and its signature is unique in this dimension. You said so yourself, Lord of Hades.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_08",
       "v": "Your point being?",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_09",
       "v": "By hijacking that same magic to create Morningstar, you infringed on another demon’s “mystical property”.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_10",
       "v": "That’s forbidden among you hell types, n'est-ce pas?",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_11",
       "v": "Your contract with Queen Haasen was signed under false pretences. I demand you to cease and desist, and free her from her iron prison!",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_12",
       "v": "But you can’t…",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_13",
       "v": "Very well, mortal… You have won this one. Your little Queen is released from her obligations. I grow tired of her mewling anyway.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_14",
       "v": "I am… free?",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_15",
       "v": "Yes, you dumb medieval peasant.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_16",
       "v": "But don’t think this is over… not by a long shot. I hereby declare WAR against you and the Guillotine lineage, from now until the end of time.\r\n",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_17",
       "v": "You must think you’re so smart… But time is on my side.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_18",
       "v": "I will crush your small-time operation, dismember it and devour it for my own enjoyment …Then you’ll learn that MEPHISTO has the monopoly in soul damnation!!",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_19",
       "v": "Jeannine… something’s happening…",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_20",
       "v": "Don’t worry. The sword told me what I have to do next.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_21",
       "v": "Close your eyes. This might hurt a bit.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_22",
       "v": "UGH!",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_23",
       "v": "The pain- the pain is…",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_24",
       "v": "Settle down, now. You’ll still feel echoes of the pain for some time.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_25",
       "v": "Your mind still needs time to be convinced it’s not being tortured anymore.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_26",
       "v": "I can… feel your skin at my fingertips… it’s- too much…",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_27",
       "v": "Baby steps, now. You don’t want to overload your new body.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_28",
       "v": "It’s capable of many human sensations, but your conscience needs to adapt to it.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_29",
       "v": "You have a long road ahead…But I’ll be right here to help you.",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_GUIL2099_30",
       "v": "GUILLOTINE 2099 WILL RETURN",
       "vn": "24.3"
+    },
+    {
       "k": "ID_UI_CUT_INFINITYCHAOS_01",
       "v": "Forgiveness Master... we have failed you.",
       "vn": "17.2"
