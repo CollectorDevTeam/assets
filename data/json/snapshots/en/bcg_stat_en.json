@@ -1,16 +1,16 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "df476fb2958c88096758fa29a6818993306eba9a",
+    "hash": "f7e1b4c29ec13b02605bd136a408060a9814c1d3",
     "language": "en",
     "post_processed": true,
-    "string_count": 7268,
+    "string_count": 7442,
     "tagged": [
       "bcg_stat",
       "client"
     ],
-    "ts": 1565390283,
-    "versionLock": "24.2"
+    "ts": 1568224831,
+    "versionLock": "24.3"
   },
   "strings": [
     {
@@ -1014,6 +1014,9 @@
       "vn": 23
     },
     {
+      "k": "ID_CHARACTER_BIOS_ELSABLOODSTONE",
+      "v": "Elsa Bloodstone is the second of her name, daughter of legendary Vampire Hunter Ulysses Bloodstone. Elsa possesses the ancient Bloodgem artifact, granting her superhuman capabilities and the ability to destroy any vampire foolish enough to drink her blood.",
+      "vn": "24.3"
       "k": "ID_CHARACTER_BIOS_EMMAFROST",
       "v": "Emma Frost is an incredibly powerful mutant, with a brilliant mind to match. She possesses staggering telepathic abilities, and is able to transform her body into organic diamond, rendering her almost indestructible. From White Queen of the Hellfire Club, to leader of the X-Men, she handles every challenge with grace, poise, and wit as sharp as diamond.",
       "vn": 20
@@ -1022,6 +1025,9 @@
       "k": "ID_CHARACTER_BIOS_GHOST",
       "v": "You can't fight what you don't know, and nobody seems to know anything about who Ghost is or how she can do the things she can do. Feared and admired in the criminal underworld for her ability to phase through solid walls, Ghost's true intentions are as elusive as she is, though one thing is for sure: she's interested in getting her hands on all the Pym Tech she can find. Her advanced technology combined with her skill in combat make her a force to be reckoned with.​",
       "vn": 19
+      "k": "ID_CHARACTER_BIOS_GUILLOTINE_2099",
+      "v": "In the future world of 2099, the Alchemax Corporation acquires “La fleur du mal”, the ancient demon sword of the Guillotine lineage. Using future technology and corporate mystical arts, they reverse-engineer the demonic forces inhabiting the sword, creating a new weapon capable of “digitizing” human souls. Born out of an unholy blend of cutting-edge technology and ancient dark magic, Guillotine 2099 is developed as the blueprint for an army of sword-wielding robotic warriors.",
+      "vn": "24.3"
     },
     {
       "k": "ID_CHARACTER_BIOS_HUMANTORCH",
@@ -1334,6 +1340,9 @@
       "vn": 19
     },
     {
+      "k": "ID_COOLDOWN",
+      "v": "This ability is on Cooldown and will become available for use after this timer expires.",
+      "vn": "24.3"
       "k": "ID_COON91D",
       "v": "Decreases the chance for abilities to trigger.",
       "vn": 19
@@ -1530,7 +1539,7 @@
     },
     {
       "k": "ID_CVBWCLKD",
-      "v": "Upon expiry, grants",
+      "v": "Upon expiry, grants a Clairvoyance charge.",
       "vn": "24.2"
     },
     {
@@ -1607,6 +1616,9 @@
       "k": "ID_DEON94D",
       "v": "Inflicts Direct Damage over time.",
       "vn": 19
+      "k": "ID_DEON94D_ELSA",
+      "v": "Inflicts Direct Damage over time and Prevents the use of Healing abilities.",
+      "vn": "24.3"
     },
     {
       "k": "ID_DEON94T",
@@ -2419,6 +2431,13 @@
       "vn": 19
     },
     {
+      "cn": null,
+      "k": "ID_FS_REGEN_D",
+      "v": "Nullifies all Regen Buffs and prevents new Regen Buffs from activating.",
+      "vn": "24.3"
+      "k": "ID_FS_REGEN_T",
+      "v": "[b4b4b4ff]Fate Seal Regen[-]",
+      "vn": "24.3"
       "k": "ID_FUED107D",
       "v": "Activates to increase Attack Rating if a Debuff is inflicted.",
       "vn": 19
@@ -2467,6 +2486,30 @@
       "k": "ID_FURY_T",
       "v": "Fury",
       "vn": 19
+      "k": "ID_G99CMBD",
+      "v": "The Combo Shield granted when struck is on cooldown and can't re-trigger until this timer expires.",
+      "vn": "24.3"
+      "k": "ID_G99DCD",
+      "v": "Causes the Opponent's unblockable attacks to Miss.",
+      "vn": "24.3"
+      "k": "ID_G99DCT",
+      "v": "Digi-Cloak",
+      "vn": "24.3"
+      "k": "ID_G99DSD",
+      "v": "Enhances specific abilities depending on the number of active souls.",
+      "vn": "24.3"
+      "k": "ID_G99DST",
+      "v": "Digi-Soul",
+      "vn": "24.3"
+      "k": "ID_G99PVD",
+      "v": "Each Persistent Charge represents a Digi-Soul, these are used to enhance some of Guillotine 2099's abilities.",
+      "vn": "24.3"
+      "k": "ID_G99SPD",
+      "v": "Reduces the Opponent's Regeneration Rate.",
+      "vn": "24.3"
+      "k": "ID_G99SPT",
+      "v": "Spectre",
+      "vn": "24.3"
     },
     {
       "k": "ID_GAMGODD",
@@ -3704,9 +3747,30 @@
       "vn": 19
     },
     {
+      "k": "ID_PF_G99_ALT_DESC",
+      "v": "As an Attacker, Guillotine 2099's Medium attacks Power Burn a percentage of the Defender's current Power after 99 hits in her Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_PF_G99_ALT_TITLE",
+      "v": "ASSAULT FUNCTION",
+      "vn": "24.3"
+      "k": "ID_PF_G99_HNT_DESC",
+      "v": "As an Attacker, Guillotine 2099 has guaranteed Critical Hits for every 20th hit in her Combo Meter, if this hit is a Special Attacks, all hits of the Special are Critical.",
+      "vn": "24.3"
+      "k": "ID_PF_G99_HNT_TITLE",
+      "v": "HUNTRESS FUNCTION",
+      "vn": "24.3"
+      "k": "ID_PF_G99_STB_DESC",
+      "v": "As an Attacker, Guillotine 2099's Medium attacks Life Steal a percentage of the damage dealt to the Defender after 99 hits in her Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_PF_G99_STB_TITLE",
+      "v": "STABILITY FUNCTION",
+      "vn": "24.3"
       "k": "ID_PF_INVWO_DESC",
       "v": "If the Force Field is active, Invisible Woman's Hits deal additional damage, but also drain the Force Field.",
       "vn": "23.1"
+      "k": "ID_PF_INVWO_DESC_V2",
+      "v": "As an Attacker, if Invisible Woman's Force Field is active, her Hits deal additional damage but drain the Force Field.",
+      "vn": "24.3"
     },
     {
       "k": "ID_PF_INVWO_TITLE",
@@ -3719,6 +3783,9 @@
       "vn": 24
     },
     {
+      "k": "ID_PF_STLSPIDER_FLASH_DESC_V2",
+      "v": "Spider-Man (Stealth Suit) can inflict a Vulnerability Debuff on the Defender, increasing his Critical Damage Rating and decreasing their Block Proficiency.",
+      "vn": "24.3"
       "k": "ID_PF_STLSPIDER_FLASH_TITLE",
       "v": "FLASH BANG",
       "vn": 24
@@ -3727,6 +3794,9 @@
       "k": "ID_PF_STLSPIDER_FOAM_DESC",
       "v": "Inflicts a Slow Debuff, reducing Ability Accuracy of Unstoppable and Evade effects. While the Opponent is Slowed, Spider-Man cannot Miss.",
       "vn": 24
+      "k": "ID_PF_STLSPIDER_FOAM_DESC_V2",
+      "v": "Spider-Man (Stealth Suit) can inflict a Slow Debuff on the Defender, reducing Ability Accuracy of Unstoppable and Evade effects. While the Defender is Slowed, Spider-Man cannot Miss.",
+      "vn": "24.3"
     },
     {
       "k": "ID_PF_STLSPIDER_FOAM_TITLE",
@@ -3739,6 +3809,9 @@
       "vn": 24
     },
     {
+      "k": "ID_PF_STLSPIDER_TRANQ_DESC_V2",
+      "v": "Spider-Man (Stealth Suit) can inflict an Enervate Debuff on the Defender, preventing them from gaining Power when struck.",
+      "vn": "24.3"
       "k": "ID_PF_STLSPIDER_TRANQ_TITLE",
       "v": "TRANQUILIZER",
       "vn": 24
@@ -3747,6 +3820,9 @@
       "k": "ID_PF_TORCH_DESC",
       "v": "All of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional [16982bff]+75%[-] damage. This ability does not stack.",
       "vn": "22.1"
+      "k": "ID_PF_TORCH_DESC_V2",
+      "v": "As an Attacker, all of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional [16982bff]+75%[-] damage. This ability does not stack.",
+      "vn": "24.3"
     },
     {
       "k": "ID_PF_TORCH_TITLE",
@@ -4938,6 +5014,15 @@
       "vn": 23
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ELSABLOODSTONE_0",
+      "v": "Elsa slashes the enemy with her Winchester's bayonet before unloading two rounds into the bewildered Opponent.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ELSABLOODSTONE_1",
+      "v": "Elsa plunges a stiletto stake into her Opponent then unloads a devastating volley of bullets.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ELSABLOODSTONE_2",
+      "v": "Elsa unloads the entire arsenal at her disposal unto any entity unfortunate enough to be caught in her crosshairs. ",
+      "vn": "24.3"
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EMMAFROST_0",
       "v": "Emma assails the Opponent's mind directly with a pair of telepathic strikes.",
       "vn": 20
@@ -4966,6 +5051,15 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GHOST_2",
       "v": "Ghost advances on the opponent, quickly Phasing in and out, avoiding their attacks and countering with her own.",
       "vn": 19
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GUILLOTINE_2099_0",
+      "v": "Guillotine 2099 slashes her opponent before releasing a powerful blast of excess soul energy from within her Soulsplitter.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GUILLOTINE_2099_1",
+      "v": "Guillotine 2099 temporarily splits her blade in two, unleashing a series of devastating blows in rapid succession.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_GUILLOTINE_2099_2",
+      "v": "Using the blades from her Soulsplitter as projectiles, Guillotine 2099 pierces deep within the opponent’s soul before holding them in place and scanning their soul for digitization.",
+      "vn": "24.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HUMANTORCH_0",
@@ -5293,6 +5387,30 @@
       "vn": 23
     },
     {
+      "k": "ID_SPECIAL_ATTACK_ELSABLOODSTONE_0",
+      "v": "Focused Fire",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSABLOODSTONE_1",
+      "v": "The Bigger They Are",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSABLOODSTONE_2",
+      "v": "From Dust to Dust",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSA_SP1_PREC",
+      "v": "On Activation gain a Precision Buff increasing Critical Rating by [16982bff]{1}[-] for {2} seconds. This Precision is paused until Elsa activates her next Special Attack.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSA_SP2_SWITCH",
+      "v": "If Elsa runs out of [3d9ec4]Behemoth Busters[-] she will fire her [fc7f03]Hellfire Rounds[-] instead.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSA_SP3_CRUELTY",
+      "v": "Gain up to 3 Cruelty Buffs, each increasing Elsa’s Critical Damage Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSA_SP3_EXPIRE",
+      "v": "These Cruelty Buffs expire 1 at a time. Each time Elsa triggers a Reloading effect, she refreshes their duration. ",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_ELSA_SP3_PREC",
+      "v": "Gain a Precision Buff increasing Critical Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "24.3"
       "k": "ID_SPECIAL_ATTACK_EMMAFROST_0",
       "v": "Mental Assault",
       "vn": 20
@@ -5321,6 +5439,18 @@
       "k": "ID_SPECIAL_ATTACK_GHOST_2",
       "v": "Relentless Onslaught",
       "vn": 19
+      "k": "ID_SPECIAL_ATTACK_GUILLOTINE2099_0",
+      "v": "Soul Slash",
+      "vn": 22
+      "k": "ID_SPECIAL_ATTACK_GUILLOTINE_2099_0",
+      "v": "Soul Slash",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_GUILLOTINE_2099_1",
+      "v": "LFM 99 Soulsplitter",
+      "vn": "24.3"
+      "k": "ID_SPECIAL_ATTACK_GUILLOTINE_2099_2",
+      "v": "Soul Digitizer",
+      "vn": "24.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_HUMANTORCH_0",
@@ -8021,6 +8151,12 @@
       "vn": 20
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_ABILITYPOWERBWQ_2",
+      "v": "Quake and Black Widow gain +{0}% Ability Accuracy, Duration and Potency.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "24.3"
+      "k": "ID_UI_HERO_SYNERGY_DESC_ABILITYPOWER_2",
+      "v": "All Champions gain +{0}% Ability Accuracy.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "24.3"
       "k": "ID_UI_HERO_SYNERGY_DESC_AEGCOSMIC_V2",
       "v": "[64acff]Ægon, Angela, Proxima Midnight, Captain Marvel (Classic):[-] +{0}% Potency to Fury effects. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
@@ -8099,6 +8235,18 @@
       "k": "ID_UI_HERO_SYNERGY_DESC_SPIRITUALSTRENGTH",
       "v": "[64acff]Masacre:[-] Gain a 10% chance to Evade, against an Incinerated Opponent, while not Blocking. \r\n[64acff]Daredevil (Classic):[-] Evading a Projectile grants a Passive Precision, increasing Crit Rate by {0} for 10 seconds. \r\n[64acff]Daredevil:[-] Armor Break Debuffs have their Duration increased by 25%. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
+      "k": "ID_UI_HERO_SYNERGY_ELSA_BNB_DESC",
+      "v": "[64acff]Elsa Bloodstone:[-] The Cooldown for Elsa’s Evade counter attack is reduced by 2 seconds.\n[64acff]Beast:[-] Beast’s Special 3 Fury is maintained until his Combo count is reset.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "24.3"
+      "k": "ID_UI_HERO_SYNERGY_ELSA_BNB_TITLE",
+      "v": "BEAUTY AND THE BEAST",
+      "vn": "24.3"
+      "k": "ID_UI_HERO_SYNERGY_ELSA_PARTY_DESC",
+      "v": "[64acff]Elsa Bloodstone:[-] When fighting Villains, Elsa gains the effects of the level 1 Assassin Mastery. If the Assassin Mastery is already acquired, it instead activates when the Opponent is below 25% of their Maximum Health.\n[64acff]Darkhawk:[-] Darkhawk instantly charges 50% of a bar of Power when entering a mode from a different mode.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "24.3"
+      "k": "ID_UI_HERO_SYNERGY_ELSA_PARTY_TITLE",
+      "v": "HUNTING PARTY",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_EMMACOLO_DESC_1_BETA",
@@ -8392,6 +8540,9 @@
       "vn": 24
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_SPIRITOFJUSTICE_LONG_V2",
+      "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Villain Champions. However, its Ability Accuracy reduction does not bypass Villains' immunities to Ability Accuracy reduction.\n[64acff]Ghost Rider:[-] +{0}% chance to place a Judgment.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "24.3"
       "k": "ID_UI_HERO_SYNERGY_STARK_INTERNSHIP",
       "v": "STARK INTERNSHIP",
       "vn": 24
@@ -8614,7 +8765,10 @@
     {
       "k": "ID_UI_ORED_DTHSPR_SHORT",
       "v": "Lowers Physical Resistance and the chance to Purify debuffs.",
-      "vn": 20
+      "vn": "24.3"
+      "k": "ID_UI_ORED_DTHSPR_SHORT_NEW",
+      "v": "Lowers Armor Rating and chance to Purify debuffs.",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_ORED_DTHSPR_TITLE",
@@ -10307,7 +10461,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_HVY_I",
-      "v": "If the opponent is Stunned, Colossus' Heavy Attacks will remove the stun. Removing a stun with this ability gives Colossus a Fury passive up to [16982bff]{0}%[-] Attack rating for 3 Seconds.",
+      "v": "If the opponent is Stunned, Colossus' Heavy Attacks will remove the stun. Removing a stun with this ability gives Colossus an Attack Rating Fury Passive up to [16982bff]{1}[-] Attack rating for 3 Seconds.",
       "vn": "24.1"
     },
     {
@@ -10905,6 +11059,9 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_DIGISOUL",
+      "v": "[37bfff]Digi-Souls[-]",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_DIMLNK_HUD",
       "v": "DIMENSION LINK",
       "vn": "11.2"
@@ -14138,6 +14295,72 @@
       "v": "The chance to trigger a Fury Buff increases by {1}% for every {2} seconds that have passed in the fight. Maximum {0}% increase."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_ALT",
+      "v": "ASSAULT ACTIVE",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CLK",
+      "v": "DIGI-CLOAK ACTIVE",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODA",
+      "v": "<CODE:>MOGARIP101</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODB",
+      "v": "<CODE:>AMABOSAR102</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODC",
+      "v": "<CODE:>FALKAROTH105</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODD",
+      "v": "<CODE:>PHUL201</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODE",
+      "v": "<CODE:>BETHOR203</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODF",
+      "v": "<CODE:>OPHIEL205</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODG",
+      "v": "<CODE:>GALAS301</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODH",
+      "v": "<CODE:>HORLWN303</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODI",
+      "v": "<CODE:>THAOTH305</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_CODJ",
+      "v": "<CODE:>AAOTH306</>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_DSH",
+      "v": "DEADLY BLOW",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_FLA",
+      "v": "<ERROR: TARGET INVALID>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_FLB",
+      "v": "<ERROR: A.I. MALFUNCTION>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_FLC",
+      "v": "<I AM THE BETTER ROBOT>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_FLD",
+      "v": "<TRIVIAL TARGET DETECTED>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_FLE",
+      "v": "<SUPERIOR TARGET DETECTED>",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_HNT",
+      "v": "HUNTRESS ACTIVE",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_STB",
+      "v": "STABILITY ACTIVE",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_SUL",
+      "v": "DIGITIZED SOUL CONSUMED",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_G99_SWD",
+      "v": "EMPOWERED SWORD",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_GAMBLERSRUIN",
       "v": "[b4b4b4ff]Gambler's Ruin[-]"
     },
@@ -15720,6 +15943,81 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_AS",
+      "v": "Each time Man-Thing makes Contact it has up to a {0}% chance based on its current Agitation to Nullify a Buff off the Opponent.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_A",
+      "v": "Man-Thing reacts to powerful emotions, gaining +{1} Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of {0}.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_B",
+      "v": "Agitation falls off over time, falling off faster the longer it’s been since it last increased.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_C",
+      "v": "If the Opponent is a #Villain or has an active Buff, Man-Thing will wait {2} second(s) after each increase before Agitation begins to fall off.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_FURY",
+      "v": "As Man-Thing’s Agitation grows so does its Attack, gaining up to [16982bff]{1}[-] Attack based on Agitation.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_PAUSE",
+      "v": "Man-Thing's Agitation level, granting it a scaling Attack bonus, and a chance to Nullify on Contact.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_EA_PAUSE_TITLE",
+      "v": "[b4b4b4ff]Empathic Agitation[-]",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_HVYCHRG",
+      "v": "{0}% Chance to gain an Unstoppable Buff for {2} second(s). Cooldown: {1} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_HVYHIT",
+      "v": "{0}% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have {1}% increase potency.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_IMN_AB",
+      "v": "Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing bonus Damage.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_IMN_BLD",
+      "v": "Man-Thing’s lack of blood also makes it Immune to Bleed effects.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_ONSP",
+      "v": "When Activating a Special Attack Man-Thing has a {0}% Chance to place a Toxic Pustule Buff on the Opponent lasting {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP1",
+      "v": "{0}% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP2_A",
+      "v": "{0}% Chance to Nullify up to 2 Buff(s) per Hit.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP2_B",
+      "v": "The last hit of this Attack has a {0}% Chance, to place a Toxic Pustule Buff on the Opponent lasting {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP3_A",
+      "v": "{0}% Chance to grant a Fury Buff increasing Attack by up to [16982bff]{1}[-] based on Agitation for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP3_B",
+      "v": "{0}% Chance to place a Poison Debuff on the Opponent causing up to [16982bff]{1}[-] damage based on Agitation over {2} seconds, and reducing all Regeneration by 30%.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP3_C",
+      "v": "{0}% Chance to place an Armor Break Debuff on the Opponent reducing their Armor by up to [16982bff]{1}[-] damage based on Agitation for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_SP3_D",
+      "v": "{0}% Chance to place {1} Toxic Pustule Buffs on the Opponent lasting {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_A",
+      "v": "Any Buff other than a Toxic Pustule Nullified on the Opponent has a {0}% chance to become a Toxic Pustule lasting for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_B",
+      "v": "Whenever a Toxic Pustule Buff is Nullified it has a {0}% chance to burst becoming a Poison Debuff and an Armor Break Debuff.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_C",
+      "v": "The Poison Debuff does [16982bff]{1}[-] damage over {2} seconds, and reduces Regeneration effects by 30%.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_D",
+      "v": "The Armor Break Debuff reduces Armor by [16982bff]{1}[-] and lasts {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_PAUSE",
+      "v": "A Buff caused by Man-Thing, it doesn't seem to do anything by itself.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_TP_PAUSE_TITLE",
+      "v": "[b4b4b4ff]Toxic Pustule[-]",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_MASACRE_BLOCK_PEN",
       "v": "Bat attacks have [16982bff]{1}[-] Block Penetration. This doubles when the bat is Ignited.",
       "vn": "18.1"
@@ -18517,7 +18815,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_100P8SECONDS",
-      "v": "100% Chance every 10 seconds.",
+      "v": "100% Chance every 20 seconds.",
       "vn": "24.1"
     },
     {
@@ -18534,6 +18832,9 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ALWAYS",
       "v": "Always Active",
       "vn": "21.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ATK_LIGHTMED",
+      "v": "When Attacked by a Light or Medium Attack",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BAGOFTRICKS",
@@ -18564,6 +18865,12 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BLACKORDER",
       "v": "Missions From Thanos",
       "vn": "17.2"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BLOODGEM",
+      "v": "Bloodgem Protection",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BUSTER",
+      "v": "Revolver: [3d9ec4]Behemoth Busters[-] (Light Combo Ender and Special 2): ",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BWTS_EN_EVD",
@@ -18696,6 +19003,9 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DGS",
+      "v": "Digi-Souls",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIAMOND_FORM",
       "v": "Passive - Diamond Form",
       "vn": 20
@@ -18764,6 +19074,9 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIA_LFST5",
       "v": "Lifestitch Concoction - [37bfff]5[-] Available each Quest",
       "vn": "21.2"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DIGISOULS",
+      "v": "[37bfff]Digi-Souls - Persistent Charge[-]",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_DOMFIELD",
@@ -18931,6 +19244,9 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HELLFIRE",
+      "v": "Winchester: [fc7f03]Hellfire Rounds[-] (Medium Combo Ender and Special 1):",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HULKPS_CTR",
       "v": "Clarity Through Rage",
       "vn": 23
@@ -19096,6 +19412,18 @@
       "vn": "14.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MANTAS",
+      "v": "Acidic Secretions - Passive",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MANTEA",
+      "v": "Empathic Agitation - Passive",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MANTMUSH",
+      "v": "Made of Mush - Passive",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MANTTP",
+      "v": "Toxic Pustules - Buff",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MEDIUMHEAVY",
       "v": "Medium and Heavy Attacks",
       "vn": 15
@@ -19119,6 +19447,9 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MOLREGEN",
       "v": "Molecular Regeneration - Passive",
       "vn": "21.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MUNITION",
+      "v": "Enhanced Munitions",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NEUROTOXIN",
@@ -19499,6 +19830,9 @@
       "v": "Light Attacks"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONLIGHTMEDIUM",
+      "v": "When Attacked by a Light or Medium Attack",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONLIMBO",
       "v": "Limbo"
     },
@@ -19820,6 +20154,12 @@
       "vn": "23.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PREFF",
+      "v": "[EE9700FF]Pre-Fight Functions[-]",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PREFIGHTSWORD",
+      "v": "[EE9700FF]Pre-Fight - Sword Empowerment[-] - Costs 1 [37bfff]Digi-Soul[-] each.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PSYCHARGES",
       "v": "Psi-Charges"
     },
@@ -19844,6 +20184,9 @@
       "vn": 20
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_RBT",
+      "v": "Robotics",
+      "vn": "24.3"
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_REGENERATION",
       "v": "Regeneration",
       "vn": "23.1"
@@ -19852,6 +20195,9 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_REPULSOR",
       "v": "Repulsor Attacks",
       "vn": 18
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ROBOTICS",
+      "v": "Robotics",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SETSFANGS",
@@ -21374,6 +21720,9 @@
       "vn": "15.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_BLADE_DANGERSENSE_LONG_V2",
+      "v": "When against Dimensional Beings, Danger Sense activates and grants Blade [16982bff]{1}[-] Attack Rating while also reducing the opponent's Ability Accuracy by {0}%. The Ability Accuracy reduction bypasses immunities to Ability Accuracy reduction.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_BLADE_IMMUNITY",
       "v": "Blade’s immune system attacks alien substances, shrugging off Debuffs up to {1}% faster based on current Power.",
       "vn": "15.1"
@@ -21487,6 +21836,9 @@
       "v": "[5baefc]Cold Immunity[-]"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_COL_DMG",
+      "v": "Attack Rating is increased by [16982bff]{1}[-] for the duration of this attack.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_CORVUS_ARMBREAK",
       "v": "Inflicts an Armor Break, reducing the opponents Armor Rating by [16982bff]{1}[-] for {2} seconds. Additional Armor Breaks are inflicted for each active Armor Up effect on the opponent.",
       "vn": "17.2"
@@ -22000,7 +22352,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_CVBW_CV_B",
-      "v": "If the Opponent has 1 or more Buffs, landing or receiving a Light or Medium attack consumes a charge and Nullifies 1 of their Buffs.",
+      "v": "After landing or receiving a Light or Medium attack and the Opponent has 1 or more Buffs, a charge is consumed and 1 Buff is Nullified.",
       "vn": "24.2"
     },
     {
@@ -22399,6 +22751,81 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_BUSTER_DEBUFF",
+      "v": "[3d9ec4]On Hit:[-] Inflict a Busted Debuff, increasing the Potency of incoming Incinerate or Coldsnap Debuffs by {0}% for {2} seconds. Additionally, each time the Opponent is Struck by a Critical Hit, deal [16982bff]{1}[-] Direct Damage for each Busted Debuff. This Damage scales with base attack only. ",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_BUSTER_HIT",
+      "v": "Any abilities triggered by this Hit deal [16982bff]{1}[-] Direct Damage plus an additional [16982bff]{1}[-] Direct Damage for each Busted Debuff.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_CRIT",
+      "v": "Enhanced Munition attacks land Critical Hits through Blocking Opponents and apply their on Hit effects. Additionally, any time Elsa lands a Critical hit with her Enhanced Munitions they have {0}% increased Potency.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_HELLFIRE_EVADE",
+      "v": "If the Opponent has triggered an Evade or they are Immune to Incinerate, a matching Coldsnap Debuff is inflicted instead, which prevents Evade from activating. ",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_HELLFIRE_HIT",
+      "v": "[fc7f03]On Hit:[-] Inflict an Incinerate Debuff, dealing [16982bff]{1}[-] Energy Damage over {2} seconds. This also removes Perfect Block Chance and reduces Block Proficiency by 50%.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_RELOAD",
+      "v": "Reloading lasts {2} seconds. Each stack of Reloading increases Elsa’s offensive Power Rate by {1}%.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_AMMO_TYPES",
+      "v": "Elsa loads her Winchester with [fc7f03]Hellfire Rounds[-] and her Revolvers with [3d9ec4]Behemoth Busters[-]. Each gun can fire {1} rounds before Reloading.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_BUSTED_CALL",
+      "v": "BUSTED",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_BUSTED_PAUSE_DESC",
+      "v": "Increases potency of Incinerate and Coldsnap effects and deals bonus damage on Critical Hits.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_BUSTED_PAUSE_TITLE",
+      "v": "Busted",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_BUSTED_SHORT",
+      "v": "Behemoth Busters",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_BUST_PAUSE_DESC",
+      "v": "Increases potency of Incinerate and Coldsnap effects.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_CDOWN_PAUSE_DESC",
+      "v": "Elsa cannot preform her well-timed block evade until this cooldown expires.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_CDOWN_PAUSE_TITLE",
+      "v": "Evade Cooldown",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_DEGEN",
+      "v": "When Elsa is affected by a Bleed Debuff, Non-Mutant Champions gain a Passive Degeneration dealing [16982bff]{1}[-] Direct Damage every 0.5 seconds until all Bleed Debuffs on Elsa end. While this Degen is active Opponents are also Heal Blocked.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_FURYCRIT",
+      "v": "Elsa’s Attack Rating is by up to [16982bff]{1}[-] based on her Critical Rating.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_HELLFIRE_SHORT",
+      "v": "Hellfire Rounds",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_HFIREAMMO_PAUSE_DESC",
+      "v": "Inflicts either Incinerates or Coldsnaps on Hit.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_PUREFFECT",
+      "v": "After Purifying a Debuff, Elsa gains a Precision Buff increasing Critical Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_PURTRIGG",
+      "v": "While suffering from a Non-Damaging Debuff, Elsa has a {0}% chance to Purify 1 of any Debuff every {2} seconds. ",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_RELOAD_CALL",
+      "v": "RELOADING",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_RELOAD_PAUSE_DESC",
+      "v": "While Reloading Elsa increases her Offensive Power Rate.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_RELOAD_PAUSE_TITLE",
+      "v": "Reloading",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_WTBLOCK_CDOWN",
+      "v": "When performing an Evade, Elsa counter attacks with her Revolver and deals [16982bff]{1}[-] Direct Physical Damage on Hit. This attack generates no Power for the Opponent.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_ELSA_WTBLOCK_EVADE",
+      "v": "When performing a Well-Timed block on basic attacks, Elsa has a {1}% chance to Evade. This ability goes on Cooldown for {2} seconds.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_ELTOUCH_HUD",
       "v": "ELECTRIC TOUCH",
       "vn": "18.1"
@@ -22664,6 +23091,78 @@
       "vn": "17.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_G99_BLD",
+      "v": "Guillotine can’t land Critical Hits naturally, however every time she would have landed a Critical Hit her sword strikes deep into the Opponent's soul, inflicting a Degeneration Debuff, dealing [16982bff]{1}[-] direct damage over {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CLK",
+      "v": "{0}% chance to activate Digi-Cloak, lasting {2} seconds per [37bfff]Digi-Soul[-] and causing all unblocked attacks to Miss. Cooldown: {1} seconds after each use, and each time Guillotine is knocked down.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CLKB",
+      "v": "While fighting Mutant Opponents the Digi-Cloak’s cooldown is reduced by {1}% and its chance to activate is doubled.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_A",
+      "v": "Guillotine’s Attack Rating increases by [16982bff]+{1}[-] with each hit in her Combo Meter, capping after {0} hits.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_B",
+      "v": "At a Combo of {2}+ Guillotine’s sword becomes empowered, dealing a burst of [16982bff]{1}[-] direct energy damage for each hit above {2}, scaling with base attack and capping after {0} hits.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_C",
+      "v": "11 - 30 Hits: [16982bff]+{1}[-] Attack per hit on the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_D",
+      "v": "31 - 50 Hits: [16982bff]+{1}[-] Attack per hit on the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_E",
+      "v": "51 - 70 Hits: [16982bff]+{1}[-] Attack per hit on the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_F",
+      "v": "71 - 99 Hits: [16982bff]+{1}[-] Attack per hit on the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_G",
+      "v": "100+ Hits: [16982bff]+{1}[-] Attack per hit on the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_CMB_THR",
+      "v": "Each time Guillotine reaches a Combo threshold she gains a Combo Shield Passive lasting until Struck. Max Stacks {0}.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_DISL_A",
+      "v": "Guillotine begins the quest with {0} [37bfff]Digi-Souls[-], each providing +{1}% defensive Power Rate. [37bfff]Digi-Souls[-] are refunded after each fight and can be spent to enhance Guillotines sword on the [EE9700FF]Pre-Fight[-] screen.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_DISL_B",
+      "v": "At the start of the fight if Guillotine has at least 1 [37bfff]Digi-Soul[-], she gains an Armor Up Buff granting [16982bff]+{1}[-] Armor Rating per Digi-Soul and lasting indefinitely. If removed, this Armor reactivates after {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_HVY",
+      "v": "{0}% chance to gain a Combo Shield Passive lasting indefinitely. Max stacks {1}, plus an additional {1} for every [37bfff]Digi-Soul[-]. When struck, a Combo Shield is removed.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_PREF_A",
+      "v": "[EE9700FF]Stability Function:[-] While above {2} hits in the Combo Meter, Medium attacks Life Steal {0}% of the damage dealt.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_PREF_B",
+      "v": "[EE9700FF]Huntress Function:[-] Every {2}th attack on the Combo Meter is a guaranteed Critical Hit, if this Attack is a Special 1 or 2 all hits of the Attack are guaranteed to be Critical.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_PREF_C",
+      "v": "[EE9700FF]Assault Function:[-] While above {0} hits in the Combo Meter, Medium attacks Burn {2}% of the Opponent’s Current Power.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_RBT_A",
+      "v": "Advanced Robotics provides Immunity to Bleed & Poison effects.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_RBT_B",
+      "v": "Once per fight, when Guillotine drops below {0}% health and she has at least 1 [37bfff]Digi-Soul[-], Self-Repair is activated, recovering [16982bff]{1}[-] health per [37bfff]Digi-Soul[-] over {2} seconds. This ability triggers instantly when starting a fight below {0}% health. If Stunned during repair, connection is lost and the Repair immediately ends.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_SP1",
+      "v": "The final strike of this attack drains {1}% of the Opponent’s current Power per [37bfff]Digi-Soul[-], increasing to {2}% per [37bfff]Digi-Soul[-] if the attack doesn’t make contact with the Opponent.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_SP2A",
+      "v": "On activation: {0}% chance to inflict a Spectre Debuff, reducing the Opponent's Regeneration Rate by {1}% for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_SP2B",
+      "v": "If activated while the Opponent is dashing, Guillotine lands a deadly blow, increasing Attack Rating by [16982bff]+{1}[-] and granting no Power.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_SP3A",
+      "v": "If Guillotine uses this attack to knock out her Opponent, their soul is digitized and absorbed, allowing her to start the next fight with {0} hits in her Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_G99_SP3B",
+      "v": "If the Opponent is at or below {2}% of their max health this attack knocks them out. This damage can be prevented or reduced.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_GOBLIN_BAGTRICKS_INCINERATE",
       "v": "Incinerate - deals [16982bff]{1}[-] Energy Damage.",
       "vn": "14.1"
@@ -25261,6 +25760,12 @@
       "v": "Opponents that make contact with you receive a Shock for [16982bff]{1}%[-] of the damage they inflicted as Energy Damage over [16982bff]{2}[-] seconds. This damage is Science based, dealing increased damage to Mystic Champions and reduced damage to Skill Champions."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_STIFLEPAUSE_DESC",
+      "v": "Stifles become unpaused when this timer expires",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_FORMAT_STIFLEPAUSE_TITLE",
+      "v": "Stifle Pause",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_STLSPIDER_EMPTY_AMMO_PAUSE_DESC",
       "v": "Activate SP3 to reload Web Cartridges.",
       "vn": 24
@@ -26420,6 +26925,9 @@
       "vn": "22.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_DMGUP_V2",
+      "v": "The damage of all of Human Torch's Incinerate effects increases by {1}% for each Incinerate or Smoulder on either Champion.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_FORMAT_TORCH_INCIN_FX",
       "v": "Incinerate removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.",
       "vn": "22.1"
@@ -26473,6 +26981,9 @@
       "k": "ID_UI_STAT_FORMAT_TORCH_PF_B",
       "v": "For the entire Fight, all of Human Torch's Incinerates are Nova Flames, last {2} second(s) longer, and deal an additional [16982bff]+{1}%[-] damage. This ability does not stack.",
       "vn": "22.1"
+      "k": "ID_UI_STAT_FORMAT_TORCH_PF_B_V2",
+      "v": "For the entire Fight, all of Human Torch's Incinerates are Nova Flames, last {2} second(s) longer, and deal an additional +{1}% damage. This ability does not stack.",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_FORMAT_TORCH_PF_C",
@@ -28909,6 +29420,24 @@
       "v": "No Loose Ends"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_SHORT",
+      "v": "Huntress of the Contest {0}",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_SIG_A",
+      "v": "When Fighting Science Champions, Critical Hits with Hellfire Rounds deal an additional [16982bff]{1}[-] damage.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_SIG_B",
+      "v": "When Fighting #Large or #Extra Large Champions, Critical Hits with Behemoth Busters deal an additional [16982bff]{1}[-] damage.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_SIG_C",
+      "v": "Elsa’s Critical Damage Rating is increased by [16982bff]{1}[-] when fighting the final node in a Quest.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_SIMPLE",
+      "v": "Elsa is set up to take down the toughest Champions of the Contest.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_ELSA_TITLE",
+      "v": "Huntress of the Contest",
+      "vn": "24.3"
       "k": "ID_UI_STAT_SIGNATURE_EMMAFROST_SHORT",
       "v": "White Queen {0}",
       "vn": 20
@@ -28967,6 +29496,21 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_FORMAT_PHOENIX_SIG_TITLE",
       "v": "RITE OF THE PHOENIX"
+      "k": "ID_UI_STAT_SIGNATURE_G99_SHORT",
+      "v": "Advanced A.I. Integration {0}",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_G99_SIG_A",
+      "v": "When Guillotine would be struck she has a [16982bff]{0}%[-] chance to gain a Combo Shield Passive lasting {2} seconds, plus {2} additional seconds per [37bfff]Digi-Soul[-]. Cooldown: {1} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_G99_SIG_B",
+      "v": "While under the effect of a Combo Shield, damage from incoming attacks excluding Special 3 is capped at {1}% of Guillotine's max health.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_G99_SIMPLE",
+      "v": "When attacked this ability grants a chance to activate a Combo Shield, protecting from incoming damage and saving the Combo Meter.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_G99_TITLE",
+      "v": "ADVANCED A.I. INTEGRATION",
+      "vn": "24.3"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_GAMBIT_DESC",
@@ -30021,6 +30565,21 @@
       "v": "Urgent Refraction"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_MANTHING",
+      "v": "STRENGTH OF THE SWAMP",
+      "vn": "21.3"
+      "k": "ID_UI_STAT_SIGNATURE_MANTHING_LONG_A",
+      "v": "If Man-Thing is at or above 50% Health it has a {0}% Chance to trigger a Fury Buff, increasing its Attack by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_MANTHING_LONG_B",
+      "v": "If Man-Thing is below 50% Health it has a {0}% Chance to trigger a Regeneration Buff regaining [16982bff]{1}[-] Health over {2} seconds.",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_MANTHING_SHORT",
+      "v": "Strength of the Swamp {0}",
+      "vn": "24.3"
+      "k": "ID_UI_STAT_SIGNATURE_MANTHING_SIMPLE",
+      "v": "Man-Thing draws power from the swamp around it empowering its strikes or healing its wounds.",
+      "vn": "24.3"
       "k": "ID_UI_STAT_SIGNATURE_MEDUSA_AUTOBLOCK_HUD",
       "v": "AUTO BLOCK",
       "vn": 15

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "language": "en",
-    "hash": "01258217c3b27e68517ff834c31981c47e454d25",
     "format": "sparx",
-    "ts": 1563211140,
+    "hash": "1c54c66d4e02b3d6dc9aa06b3c0d5e9f24bdc022",
+    "language": "en",
+    "string_count": 161,
     "tagged": [
       "character_bios",
       "client"
     ],
-    "string_count": 160
+    "ts": 1566937650
   },
   "strings": [
     {
@@ -393,6 +393,11 @@
       "v": "The Master of Magnetism has embraced a self-proclaimed role of detective, judge, jury, and executioner against those who harm mutants. One of the greatest Marvel anti-heroes ever, Magneto exacts his own form of mutant justice, by any means necessary."
     },
     {
+      "k": "ID_CHARACTER_BIOS_MANTHING",
+      "v": "The Man-Thing was once the brilliant biochemist Dr. Ted Sallis. While working for S.H.I.E.L.D. to replicate the Super Soldier Serum, Dr. Sallis was forced to flee due to an A.I.M. plot to steal his work. Injecting himself with the only remaining sample of his serum before crashing his car into the swamp while on the run. Rather than dying from that crash, he was reformed into a creature made of the swamp itself, The Man-Thing!",
+      "vn": "24.3"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_MASACRE",
       "v": "Deadpool once visited a church in Mexico, stopping to give confession. The priest who took his confession was convinced by it that the world needed to be punished, becoming the mercenary Masacre. Extracting information from the reluctant Inspector Jaime Gordón, Masacre tracks down and takes out the crime lord Calavera de Jade. The very next day Masacre rides off to New York, joining Deadpool’s Mercs for Money.",
       "vn": "18.1"
@@ -408,6 +413,7 @@
       "vn": "15.1"
     },
     {
+      "cn": null,
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
       "vn": "21.3"

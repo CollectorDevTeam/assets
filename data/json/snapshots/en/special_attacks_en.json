@@ -1,14 +1,14 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "b35e8e32bc40b0a1bef0cb16a4f6619e0ca4c94b",
     "language": "en",
+    "string_count": 962,
     "tagged": [
       "special_attacks",
       "client"
     ],
-    "hash": "683a630bab938b94787e49eefd47903c4d488d2c",
-    "ts": 1561742907,
-    "string_count": 956
+    "ts": 1566787960
   },
   "strings": [
     {
@@ -348,10 +348,10 @@
       "v": "Unbreakable"
     },
     {
+      "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent.",
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_0",
       "v": "Atomic Fissure",
-      "vn": "17.2",
-      "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent."
+      "vn": "17.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_1",
@@ -1628,6 +1628,21 @@
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MAGNETO_MARVELNOW_2",
       "v": "Encased in a metal prison, Magneto's target implodes. Peace was never an option."
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MANTHING_0",
+      "v": "Man-Thing uses a part of itself as a weapon, splattering its opponent with caustic slime.",
+      "vn": "24.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MANTHING_1",
+      "v": "Man-Thing unleashes blasts of toxic swamp sludge, slamming its opponents away.",
+      "vn": "24.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MANTHING_2",
+      "v": "Man-Thing reacts to the aggression in its opponent’s heart, attempting to burn it away, before striking them down.",
+      "vn": "24.3"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MASACRE_0",
@@ -3196,6 +3211,21 @@
       "v": "Cold-Blooded Fusion"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_MANTHING_0",
+      "v": "Armed and Dangerous",
+      "vn": "24.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MANTHING_1",
+      "v": "Toxic Burst",
+      "vn": "24.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MANTHING_2",
+      "v": "Evil’s Bane",
+      "vn": "24.3"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_MASACRE_0",
       "v": "Fuel for the Fire",
       "vn": "18.1"
@@ -3415,10 +3445,10 @@
       "vn": "17.2"
     },
     {
+      "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)",
       "k": "ID_SPECIAL_ATTACK_PROXIMAMIDNIGHT_2",
       "v": "Black Light Brutality",
-      "vn": "17.2",
-      "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)"
+      "vn": "17.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_PSYLOCKE_0",

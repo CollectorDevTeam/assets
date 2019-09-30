@@ -1,14 +1,14 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "e934505c3bcb5e095b09f8d6d8c80cdfcc80e519",
     "language": "en",
+    "string_count": 215,
     "tagged": [
       "tips",
       "client"
     ],
-    "hash": "a504684d83d915ac7dc3fbd9c58777132daed0cf",
-    "ts": 1554399337,
-    "string_count": 214
+    "ts": 1567627329
   },
   "strings": [
     {
@@ -245,10 +245,10 @@
       "v": "Battle Chips are earned in Versus battles. They may be used to unlock Versus Arenas or purchase exclusive crystals."
     },
     {
+      "cn": null,
       "k": "ID_UI_INFOTIP_PYM_CANISTERS_DESC",
       "v": "Earn Pym Canisters by participating in Special Events, Daily Quests and Arenas. Pym Canisters can be used to purchase various items in the Pym Store.",
-      "vn": 19,
-      "cn": null
+      "vn": 19
     },
     {
       "k": "ID_UI_INFOTIP_PYM_CANISTERS_TITLE",
@@ -596,6 +596,8 @@
       "v": "Use communication and strategy in Alliance Quests.\nWork as a team to fully explore each one!"
     },
     {
+      "k": "ID_UI_LOADTIP_76",
+      "v": "Reminder: Sharing accounts with third parties can lead to your account being stolen or closed. Stay safe Summoner and keep The Contest fair!"
       "k": "ID_UI_LOADTIP_77",
       "v": "Alliance Quests limit the number of items that\r\ncan be used per quest. Carefully choose which items you use!"
     },
