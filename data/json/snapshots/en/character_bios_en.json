@@ -1,14 +1,14 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "1c54c66d4e02b3d6dc9aa06b3c0d5e9f24bdc022",
     "language": "en",
-    "string_count": 161,
     "tagged": [
       "character_bios",
       "client"
     ],
-    "ts": 1566937650
+    "hash": "326abc2811e4af62aa36598ef3f5fd634d2418e0",
+    "ts": 1571269636,
+    "string_count": 162
   },
   "strings": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_ABOMINATION",
-      "v": "When Russian spy Emil Blonksy exposed himself to gamma radiation, he was transformed forever into the monstrous Abomination! Bigger than the Hulk, the Abomination retains his cunning and intellect – but cannot return to his human form. Enormous, powerful, and angry, the Abomination is a fearsome foe – even to one as strong as the Hulk!"
+      "v": "When Russian spy Emil Blonsky exposed himself to gamma radiation, he was transformed forever into the monstrous Abomination! Bigger than the Hulk, the Abomination retains his cunning and intellect – but cannot return to his human form. Enormous, powerful, and angry, the Abomination is a fearsome foe – even to one as strong as the Hulk!"
     },
     {
       "k": "ID_CHARACTER_BIOS_AGENTVENOM",
@@ -343,7 +343,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_KANG",
-      "v": "THE FINAL VICTORY BELONGS TO YOU, BRAVE SUMMONER. I, KANG THE CONQUERER, PHARAOH OF THE AGES, LORD OF THE TIMESTREAM ITSELF, GENIUS COMMANDER OF ALL TECHNOLOGY IN THE UNIVERSE, ACKNOWLEDGE YOUR POWER… for now. LONG LIVE KANG!"
+      "v": "THE FINAL VICTORY BELONGS TO YOU, BRAVE SUMMONER. I, KANG THE CONQUEROR, PHARAOH OF THE AGES, LORD OF THE TIMESTREAM ITSELF, GENIUS COMMANDER OF ALL TECHNOLOGY IN THE UNIVERSE, ACKNOWLEDGE YOUR POWER… for now. LONG LIVE KANG!"
     },
     {
       "k": "ID_CHARACTER_BIOS_KARLMORDO",
@@ -413,10 +413,10 @@
       "vn": "15.1"
     },
     {
-      "cn": null,
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
-      "vn": "21.3"
+      "vn": "21.3",
+      "cn": null
     },
     {
       "k": "ID_CHARACTER_BIOS_MODOK",
@@ -431,6 +431,11 @@
       "k": "ID_CHARACTER_BIOS_MORNINGSTAR",
       "v": "Queen Haasen conquered and ruthlessly ruled over her kingdom of Languria with only a few mercenaries, and a demonic sword. But her people rebelled against the Queen’s reign of fire and blood, and sealed her within a mystical iron maiden to suffer for all time. When Mephisto offered her a chance for vengeance, the Prince of Lies granted her new life in the tortured form of her walking iron tomb, and the weapon for which she is named: Morningstar.",
       "vn": "15.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_MRFANTASTIC",
+      "v": "Reed Richards is a brilliant scientist, who spearheaded an experimental voyage into space accompanied by his friends and family. An accident occurred during the trip, and the ship was flooded with cosmic rays. After crashing back to Earth, Reed found that he could stretch and elongate his body in impossible ways. He became the leader of the Fantastic Four, and uses both his powers of elasticity and his genius intellect to deftly handle all threats, galactic to microscopic.",
+      "vn": 25
     },
     {
       "k": "ID_CHARACTER_BIOS_MSMARVEL",

@@ -1,16 +1,16 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "f7e1b4c29ec13b02605bd136a408060a9814c1d3",
     "language": "en",
-    "post_processed": true,
-    "string_count": 7442,
     "tagged": [
       "bcg_stat",
       "client"
     ],
-    "ts": 1568224831,
-    "versionLock": "24.3"
+    "hash": "bdb8179a2e5530056882b48d452a6a788073f892",
+    "ts": 1571849724,
+    "string_count": 7670,
+    "post_processed": true,
+    "versionLock": "25.0"
   },
   "strings": [
     {
@@ -300,8 +300,8 @@
     },
     {
       "k": "ID_ARAK64D",
-      "v": "Removes an Armor Up and then Decreases Armor to increase damage from attacks.",
-      "vn": 19
+      "v": "Removes an Armor Up Buff and then Decreases Armor to increase damage from attacks.",
+      "vn": 25
     },
     {
       "k": "ID_ARAK64T",
@@ -622,6 +622,16 @@
       "k": "ID_BELE38T",
       "v": "[b4b4b4ff]Belle[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_BFFLXD1",
+      "v": "Flux Dispersal Charge",
+      "vn": 25
+    },
+    {
+      "k": "ID_BFFLXD2",
+      "v": "Reduces all incoming damage from Hits. Removed when struck by a Heavy Attack.",
+      "vn": 25
     },
     {
       "k": "ID_BFIMD",
@@ -1009,13 +1019,18 @@
       "vn": 23
     },
     {
+      "k": "ID_CHARACTER_BIOS_DOCTORDOOM",
+      "v": "Leaving his tribe in Latveria, Victor Von Doom moved to the United States to study at the Empire State University where he combined sorcery and technology to create fantastic inventions. Disregarding the warnings of fellow classmate Reed Richards, one of his inventions malfunctioned resulting in an explosion that severely damaged his face. Expelled after the incident, Victor began traveling the world eventually collapsing exhausted, on a Tibetan mountainside where he was rescued by a clan of monks. Mastering their discipline and forging himself a suit of armor, Victor took on the mantle Doctor Doom, his mission to serve revenge on those he holds responsible for his accident.",
+      "vn": 25
+    },
+    {
       "k": "ID_CHARACTER_BIOS_EBONYMAW",
       "v": "A master of manipulation and overall evil genius, Ebony Maw is Thanos’s most trusted lieutenant, never failing him even once. Focusing on his strong telekinetic abilities rather than raw physical strength, Ebony Maw curves and bends the environment around him with ease. Additionally, his superhumanly persuasive voice allows him to sway even the strongest minds.",
       "vn": 23
     },
     {
       "k": "ID_CHARACTER_BIOS_ELSABLOODSTONE",
-      "v": "Elsa Bloodstone is the second of her name, daughter of legendary Vampire Hunter Ulysses Bloodstone. Elsa possesses the ancient Bloodgem artifact, granting her superhuman capabilities and the ability to destroy any vampire foolish enough to drink her blood.",
+      "v": "Elsa Bloodstone is the second of her name, daughter of legendary Vampire Hunter Ulysses Bloodstone. Elsa possesses the ancient Bloodgem artifact, granting her superhuman capabilities and the ability to destroy any vampire foolish enough to drink her blood. ",
       "vn": "24.3"
     },
     {
@@ -1301,12 +1316,12 @@
     {
       "k": "ID_COLARMD",
       "v": "Increases Armor and Critical Damage Rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_COLARMT",
       "v": "Armor Up",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_COLD119D",
@@ -1612,6 +1627,16 @@
       "k": "ID_DASE221T",
       "v": "[b4b4b4ff]Danger Sense[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_DDAOHD",
+      "v": "Provides multiple benefits when contact is made with the Opponent and become Unstoppable, Stun Immune, and reduce damage against the last hit of incoming Special 1, Special 2, and Heavy attacks",
+      "vn": 25
+    },
+    {
+      "k": "ID_DDAOHT",
+      "v": "[20c76b]Aura of Haazareth[-]",
+      "vn": 25
     },
     {
       "k": "ID_DEATHD",
@@ -2439,10 +2464,10 @@
       "vn": 19
     },
     {
-      "cn": null,
       "k": "ID_FS_REGEN_D",
       "v": "Nullifies all Regen Buffs and prevents new Regen Buffs from activating.",
-      "vn": "24.3"
+      "vn": "24.3",
+      "cn": null
     },
     {
       "k": "ID_FS_REGEN_T",
@@ -2568,6 +2593,11 @@
       "k": "ID_GEWL75T",
       "v": "[b4b4b4ff]Get Ready to Brawl[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_GHOSTRIDER_LIFESTEAL_PAUSE_DESC",
+      "v": "Each landed strike Regenerates Health points.",
+      "vn": 25
     },
     {
       "k": "ID_GIOA242D",
@@ -3632,12 +3662,12 @@
     {
       "k": "ID_OLMNLG3",
       "v": "Deep Bleed",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_OLMNLG4",
       "v": "Inflicts direct damage over time. Opponent's attacks ignore Physical Resistance and have increased Critical Rating. Counts as a Bleed.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_OPENWD",
@@ -3652,12 +3682,12 @@
     {
       "k": "ID_ORGSTLD",
       "v": "Increases Damage Reduction and is Unstoppable while Blocking.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_ORGSTLT",
       "v": "Organic Steel",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_OSGE97D",
@@ -3818,6 +3848,146 @@
       "k": "ID_PF_INVWO_TITLE",
       "v": "THE BEST DEFENSE...",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_PF_REED_DB_SIPH_D",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs, and increase the potency of those effects against them.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_DB_SIPH_T",
+      "v": "DEBUFF SIPHONER",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_CM",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 15%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_EP",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 30%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_LEG",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 35%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_RAR",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 25%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_T6",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 40%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_D_UN",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by 20%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_PET_T",
+      "v": "PETRIFICATION RAY",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs, and increase the potency of those effects against them. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_CM",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 10%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_EP",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 19%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_LEG",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 22%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_RAR",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 16%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_T6",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 25%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_D_UN",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by 13%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SIPH_T",
+      "v": "DEBUFF SIPHONER",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D",
+      "v": "Decrease the Defender's Defensive Power Rate.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_CM",
+      "v": "Decrease the Defender's Defensive Power Rate by 10%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_EP",
+      "v": "Decrease the Defender's Defensive Power Rate by 19%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_LEG",
+      "v": "Decrease the Defender's Defensive Power Rate by 22%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_RAR",
+      "v": "Decrease the Defender's Defensive Power Rate by 16%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_T6",
+      "v": "Decrease the Defender's Defensive Power Rate by 25%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_D_UN",
+      "v": "Decrease the Defender's Defensive Power Rate by 13%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_SUPP_T",
+      "v": "SUPPRESSION FIELD",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_WEAK_D",
+      "v": "Decrease the Defender's Attack Rating, except while being struck by them.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PF_REED_WEAK_T",
+      "v": "WEAKNESS",
+      "vn": 25
     },
     {
       "k": "ID_PF_STLSPIDER_FLASH_DESC",
@@ -4239,6 +4409,26 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_PS_SIPH_D",
+      "v": "Reduce the potency of this Champion's Damage over Time Debuffs, and increase the potency of those effects against them.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PS_SIPH_T",
+      "v": "Debuff Siphon",
+      "vn": 25
+    },
+    {
+      "k": "ID_PS_SUPP_D",
+      "v": "Generate less Power when Attacked.",
+      "vn": 25
+    },
+    {
+      "k": "ID_PS_SUPP_T",
+      "v": "Suppress",
+      "vn": 25
+    },
+    {
       "k": "ID_PS_VNM1",
       "v": "[b4b4b4ff]Klyntar Mutation[-]",
       "vn": "20.1"
@@ -4582,6 +4772,61 @@
       "k": "ID_REED114T",
       "v": "[b4b4b4ff]Regeneration Deactivated[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_REED_CF_D_1",
+      "v": "Attack Rating reduced during SP1.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_D_2",
+      "v": "Attack Rating reduced during SP2.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_D_3",
+      "v": "Attack Rating reduced during SP3.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_FULL_1",
+      "v": "This Champion's Attack Rating is reduced during Special Attack 1.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_FULL_2",
+      "v": "This Champion's Attack Rating is reduced during Special Attack 2.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_FULL_3",
+      "v": "This Champion's Attack Rating is reduced during Special Attack 3.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_T_1",
+      "v": "Weakness - SP1",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_T_2",
+      "v": "Weakness - SP2",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_CF_T_3",
+      "v": "Weakness - SP3",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_PWRLCK_D",
+      "v": "Mister Fantastic's Power Lock synergy is on cooldown.",
+      "vn": 25
+    },
+    {
+      "k": "ID_REED_PWRLCK_T",
+      "v": "Power Lock Cooldown",
+      "vn": 25
     },
     {
       "k": "ID_REER72D",
@@ -5049,6 +5294,21 @@
       "vn": 23
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DOCTORDOOM_0",
+      "v": "Channeling his knowledge of sorcery, Doom blasts his opponent with a mystical beam, burning their energy and absorbing it for himself.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DOCTORDOOM_1",
+      "v": "Syphoning cosmic energy from the Battlerealm, Doom supercharges his armor capacitors, unleashing a destructive blast onto his opponent.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_DOCTORDOOM_2",
+      "v": "Teleporting the opponent to Castle Doom, Doom combines both sorcery and technology to devastate them with an incredible blast.",
+      "vn": 25
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_EBONYMAW_0",
       "v": "Ebony Maw forms sharp blades from the objects in his vicinity, slashing the opponent with multiple strikes.",
       "vn": 23
@@ -5167,6 +5427,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_INVWO_2",
       "v": "Much bubble",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MRFANTASTIC_0",
+      "v": "Mister Fantastic catches his Opponent off-guard with an unnervingly long range punch, followed up with some more elastically-enhanced fists to the face.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MRFANTASTIC_1",
+      "v": "Mister Fantastic sends a swarm of nanobots to restrain and paralyze his Opponent, then sends them back to the Paleolithic Era with a massive two-fisted ground smash.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MRFANTASTIC_2",
+      "v": "Mister Fantastic summons H.E.R.B.I.E., who surrounds the Opponent with dozens of portals to different spaces of the Multiverse. Reed then stretches his fist through the portals, attacking the Opponent with a flurry of blows from all angles.",
+      "vn": 25
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MYSTERIO_0",
@@ -5434,6 +5709,21 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DOCTORDOOM_0",
+      "v": "Invocation of Sorcery",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DOCTORDOOM_1",
+      "v": "Cosmic Energy Absorption",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DOCTORDOOM_2",
+      "v": "Hassenstadt Tour",
+      "vn": 25
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_EBONYMAW_0",
       "v": "Unseen blades",
       "vn": 23
@@ -5582,6 +5872,21 @@
       "k": "ID_SPECIAL_ATTACK_INVWO_2",
       "v": "So stealth",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MRFANTASTIC_0",
+      "v": "Aggressive Hypothesis",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MRFANTASTIC_1",
+      "v": "Rigorous Experimentation",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MRFANTASTIC_2",
+      "v": "Thinking with Portals",
+      "vn": 25
     },
     {
       "k": "ID_SPECIAL_ATTACK_MYSTERIO_0",
@@ -6727,10 +7032,10 @@
       "vn": "16.1"
     },
     {
-      "cn": "charge(s)",
       "k": "ID_STAT_MODOK_FF3",
       "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields cannot trigger Parry.",
-      "vn": "16.1"
+      "vn": "16.1",
+      "cn": "charge(s)"
     },
     {
       "k": "ID_STAT_MODOK_FF4",
@@ -8092,7 +8397,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_1_CULLOBSIDIAN_TITLE",
-      "v": "Invasive Force",
+      "v": "INVASIVE FORCE",
       "vn": 23
     },
     {
@@ -8102,7 +8407,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_2_CULLOBSIDIAN_TITLE",
-      "v": "Display of Strength",
+      "v": "DISPLAY OF STRENGTH",
       "vn": 23
     },
     {
@@ -8112,7 +8417,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_3_CULLOBSIDIAN_TITLE",
-      "v": "Heroes Never Learn",
+      "v": "HEROES NEVER LEARN",
       "vn": 23
     },
     {
@@ -8188,18 +8493,18 @@
     {
       "k": "ID_UI_HERO_SYNERGY_COLOSSUS_1",
       "v": "FASTBALL SPECIAL",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_COLOSSUS_2",
       "v": "FEEL CYTTORAK'S EMBRACE",
-      "vn": "24.1"
+      "vn": 25
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION3_LONG",
       "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CULTURE_SHOCK",
@@ -8268,13 +8573,13 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_COLOSSUS_1",
-      "v": "[64acff]Colossus:[-] Gain a Fastball Fury Buff at the start of the fight, granting +{0}% Attack and +{0}% Special Attack rating for 15 seconds. \n[64acff]Wolverine and Oldman Logan:[-] Begin the fight with 1 Bar of Power. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-      "vn": "24.1"
+      "v": "[64acff]Colossus:[-] Gain a Fastball Fury Buff at the start of the fight, granting +{0}% Attack and +{0}% Special Attack rating for 15 seconds. \n[64acff]Wolverine and Old Man Logan:[-] Begin the fight with 1 Bar of Power. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_COLOSSUS_2",
       "v": "[64acff]Colossus:[-] Armor Up Buffs also grant +{0}% Attack Rating. \n[64acff]Juggernaut:[-] The first Unstoppable Buff each fight gains +2 seconds duration. \n[64acff]Unstoppable Colossus:[-] Gain +20% Fury and Armor Up Buff Potency. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_COMP_AO",
@@ -8323,7 +8628,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_SPIRITUALSTRENGTH",
-      "v": "[64acff]Masacre:[-] Gain a 10% chance to Evade, against an Incinerated Opponent, while not Blocking. \r\n[64acff]Daredevil (Classic):[-] Evading a Projectile grants a Passive Precision, increasing Crit Rate by {0} for 10 seconds. \r\n[64acff]Daredevil:[-] Armor Break Debuffs have their Duration increased by 25%. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Masacre:[-] Gain a 10% chance to Evade, against an Incinerated Opponent, while not Blocking. \r\n \r\n [64acff]Daredevil (Classic):[-] Evading a Projectile grants a Passive Precision, increasing Crit Rate by {0} for 10 seconds. \r\n \r\n [64acff]Daredevil:[-] Armor Break Debuffs have their Duration increased by 25%. \r\n \r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
     },
     {
@@ -8383,12 +8688,12 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_FAN_CLUB_LONG",
-      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 30% increased potency.\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 30% increased potency.\r\n [64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by {0}%.\r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
     },
     {
       "k": "ID_UI_HERO_SYNERGY_FAN_CLUB_LONG_ALT",
-      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 10% increased potency. \r\n[64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by +{0}%. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
+      "v": "[64acff]Captain Marvel:[-] Fury Buffs in Binary Ignition have 10% increased potency. \r\n \r\n [64acff]Ms. Marvel (Kamala Khan):[-] All melee attacks have 20% chance to Armor Break for each stack of active Fury reducing Armor Rating by +{0}%. \r\n \r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 22
     },
     {
@@ -8438,22 +8743,22 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY01_TITLE",
-      "v": "Pit Fighters",
+      "v": "PIT FIGHTERS",
       "vn": "19.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY02_LONG",
-      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds.\n[64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break inflicted is permanent. Max Stack: 1.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds.\r\n [64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break inflicted is permanent. Max Stack: 1.\r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
       "vn": "19.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY02_LONG_B",
-      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds. [64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break lasts 20 seconds instead. Max Stack: 1. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
+      "v": "[64acff]Hulk Ragnarok:[-] Crowd Excitement is locked at 100 for an additional {0} seconds. [64acff]Korg:[-] When Korg spends 13 or more Crowd Excitement charges through his Heavy Attack, the Armor Break lasts 20 seconds instead. Max Stack: 1. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
       "vn": "19.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY02_TITLE",
-      "v": "Grandmaster’s Champions",
+      "v": "GRANDMASTER’S CHAMPIONS",
       "vn": "19.1"
     },
     {
@@ -8463,7 +8768,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_KORG_SY03_TITLE",
-      "v": "Elemental Hide",
+      "v": "ELEMENTAL HIDE",
       "vn": "19.1"
     },
     {
@@ -8538,8 +8843,8 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_METALMAYHEM_LONG_BETA",
-      "v": "[64acff]Omega Red:[-] +{0}% Critical Damage for each Death Spore on the opponent. [64acff]Wolverine:[-] +20% Stronger Bleeds and +5% Critical Rating. [64acff]Colossus:[-] +2% Attack Rating for each Armor Up Buff and Well Timed Blocks grant an Armor Buff.[Max 1 Stack] [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-      "vn": "24.1"
+      "v": "[64acff]Omega Red:[-] +{0}% Critical Damage for each Death Spore on the opponent.\n[64acff]Wolverine:[-] +20% Stronger Bleeds and +5% Critical Rating.\n[64acff]Colossus:[-] +2% Attack Rating for each Armor Up Buff and Well Timed Blocks grant an Armor Buff.[Max 1 Stack]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_NEMESIS_99",
@@ -8548,23 +8853,23 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OLDLOGAN_NEW_1",
-      "v": "[64acff]M.O.D.O.K.:[-] +{0} Energy Resistance if Force Field is active.\n[64acff]X-23:[-] Enemy Bleed Debuffs suffer -25% Potency.\n[64acff]Old Man Logan:[-] +10% Attack rating and attacks have a 20% chance to remove 1 Rock Stack or Rock Shield.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
-      "vn": "24.1"
+      "v": "[64acff]M.O.D.O.K.:[-] +{0} Energy Resistance if Force Field is active.\n[64acff]Wolverine (X-23):[-] Enemy Bleed Debuffs suffer -25% Potency.\n[64acff]Old Man Logan:[-] +10% Attack rating and attacks have a 20% chance to remove 1 Rock Stack or Rock Shield.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OLDLOGAN_NEW_1_TITLE",
-      "v": "Enhanced Adamantium",
-      "vn": "24.1"
+      "v": "ENHANCED ADAMANTIUM",
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OLDLOGAN_NEW_2",
       "v": "[64acff]Mysterio:[-] When Regenerating from the use of Reflection Gas, Mysterio heals an additional, flat +10% health.\n[64acff]Old Man Logan:[-] The first time Logan gains a 0 Damage Passive Bleed each fight, he gains 2 more. Additionally, his Regeneration Rate is increased by +{0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OLDLOGAN_NEW_2_TITLE",
-      "v": "No...Not You…",
-      "vn": "24.1"
+      "v": "NO...NOT YOU…",
+      "vn": 25
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OVERCOMINGFEAR_LONG_FIX",
@@ -8592,10 +8897,10 @@
       "vn": "22.1"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
       "v": "[64acff]Proxima Midnight:[-] Ultimate Mission’s Combo Meter requirement goes down to {0} hits. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY_KARNAK",
@@ -8914,9 +9219,9 @@
       "v": "SIGNATURE ABILITY"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133",
       "k": "ID_UI_SIG_ABILITY_UNLOCK_DESC",
-      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!"
+      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133"
     },
     {
       "k": "ID_UI_SIG_ABILITY_UNLOCK_NEW_DESC",
@@ -10019,10 +10324,10 @@
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, and Passive Evade effects."
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566",
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_SP3_UPDATED",
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, Auto-Block and all Evade effects.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_TOREGEN",
@@ -10227,9 +10532,9 @@
       "vn": "13.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_A_NEW",
-      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. "
+      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. ",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_B",
@@ -10273,7 +10578,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARN_RAV_BLDIMN",
-      "v": "If one of his Bleeds fails to apply due to an Immunity he has a {0}% chance to Armor Break his opponent instead, reducing their Armor by [16982bff]{1}[-] lasting  for {2} seconds. The Armor Break doesn’t stack.",
+      "v": "If one of his Bleeds fails to apply due to an Immunity he has a {0}% chance to Armor Break his opponent instead, reducing their Armor by [16982bff]{1}[-] lastingfor {2} seconds. The Armor Break doesn’t stack.",
       "vn": 20
     },
     {
@@ -10529,17 +10834,22 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOSARMOR_DESC",
       "v": "Unless otherwise stated, Colossus’s Armor Up Buffs provide [16982bff]{1}[-] Armor Rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOSARMOR_DESC_CRITDAM",
       "v": "Additionally for each Armor Up Buff Colossus has, he gains an additional [16982bff]{1}[-] Critical Damage Rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOSARM_STRT",
       "v": "At the start of a fight, Colossus gains an indefinite Armor Up Buff for each X-Men Champion on his team, including himself.",
       "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COLOSARM_STRT_B",
+      "v": "At the start of the fight, Colossus gains a number of indefinite Armor Up Buffs equal to {1} plus the number of X-Men Champions on his team, including himself.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOSARM_STRT_I",
@@ -10549,12 +10859,12 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_CRITS",
       "v": "Damage is capped at {1}% of the opponent's Attack rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_CRITS_I",
-      "v": "Each time this damage cap is hit, the duration of Colossus' Armor Up Buffs are refreshed.  Additionally he has a {0}% chance to gain an additional Armor Up Buff lasting {2} seconds.",
-      "vn": "24.1"
+      "v": "Each time this damage cap is hit, the duration of Colossus' Armor Up Buffs are refreshed. Additionally he has a {0}% chance to gain an additional Armor Up Buff lasting {2} seconds.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_HVY",
@@ -10563,64 +10873,69 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_HVY_I",
-      "v": "If the opponent is Stunned, Colossus' Heavy Attacks will remove the stun. Removing a stun with this ability gives Colossus an Attack Rating Fury Passive up to [16982bff]{1}[-] Attack rating for 3 Seconds.",
-      "vn": "24.1"
+      "v": "If the Opponent has a Stun Debuff, Colossus’s Heavy Attacks have a 100% chance to Purify the Stun and grant a Passive Fury increasing Attack by up to [16982bff]+{1}[-], based on Colossus’s Armor, for 3 seconds.",
+      "vn": 25
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_IMN",
       "v": "Colossus is Immune to all Bleed, Incinerate, Coldsnap & Frostbite  effects. Additionally, if he’s not fighting a Tech Champion, he’s also immune to Armor Break and Armor Shattered Debuffs.",
-      "vn": "24.1"
+      "vn": 25,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_PWR",
-      "v": "If Colossus' Ability Accuracy is below 100%, he gains [16982bff]{1}%[-] Power Rate for the duration of the attack.",
-      "vn": "24.1"
+      "v": "If Colossus' Ability Accuracy is below 100%, he gains +{1}% Power Rate for the duration of the attack.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP1",
       "v": "Gain an indefinite Armor Up Buff.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP1_I",
       "v": "Flat {1}% chance per Armor Up Buff to inflict a Stun Debuff for {2} seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP2",
       "v": "This attack is Unblockable.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP2_I",
-      "v": "When activated, and for each Armor Up Buff, Colossus has a {0}% chance to gain another lasting {2} seconds. These Buffs do not count towards the Max Stack limit, allowing Colossus to temporarily go above his Armor Up Buff limit.",
-      "vn": "24.1"
+      "v": "When activated, for each Armor Up Buff, Colossus has a {0}% chance to gain another lasting {2} seconds. These Buffs do not count towards the Max Stack limit, allowing Colossus to temporarily go above his Armor Up Buff limit.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP3",
       "v": "{0}% chance to inflict an indefinite Passive Fatigue on the opponent, reducing their Critical Rating by [16982bff]{1}[-].",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP3_I",
-      "v": "Colossus activates Organic Steel increasing the amount of Damage reduced by Armor and Resistances by [16982bff]{1}%[-] per Armor Up Buff.  Additionally while Organic Steel is active, Colossus is Unstoppable while Blocking allowing him to shrug off attacks.",
-      "vn": "24.1"
+      "v": "Colossus activates Organic Steel increasing the amount of Damage reduced by Armor and Resistances by {1}% per Armor Up Buff.  Additionally while Organic Steel is active, Colossus is Unstoppable while Blocking allowing him to shrug off attacks.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_COLOS_SP_FRY",
+      "v": "Attack rating is increased by up to [16982bff]+{1}[-], based on Colossus’s Armor Rating.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_WTB",
       "v": "{0}% chance to gain an Armor Up Buff, lasting {2} seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_WTB_I",
       "v": "If contact is made by basic attacks, Colossus has a {0}% chance to inflict a Stun Debuff lasting {2} seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_WTB_II",
-      "v": "If Colossus has the Parry Mastery, this will also deal [16982bff]{1}[-] Direct Damage.",
-      "vn": "24.1"
+      "v": "If Colossus has the Parry Mastery, this Stun Debuff is disabled and instead a successful Parry also deals [16982bff]{1}[-] direct damage.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COMBOREADY_HUD",
@@ -10967,6 +11282,11 @@
       "vn": "13.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_CROSSFIGHT",
+      "v": "[d31e15ff]Cross-Fight Ability[-]",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CVBW_CRSBLD",
       "v": "CURSE OF BLOOD",
       "vn": "24.2"
@@ -11059,6 +11379,111 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DANCEBREAK_HUD_III",
       "v": "POP N' LOCK"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DBFSIPH_HUD",
+      "v": "DEBUFF SIPHON",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_GSAY1",
+      "v": "YOU LOOK LIKE",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_GSAY2",
+      "v": "WAR MACHINE IN A HOODIE",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_GSAY3",
+      "v": "THIS WILL NOT GO UNPUNISHED!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_MSAY1",
+      "v": "DOLT!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_MSAY2",
+      "v": "INSOLENCE!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_MSAY3",
+      "v": "I DO AS I CHOOSE!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_MSAY4",
+      "v": "IMBECILE!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY1",
+      "v": "THAT SHELL! WHAT IS IT?",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY2",
+      "v": "THE SEA HORN!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY3",
+      "v": "DO NOT USE IT!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY4",
+      "v": "DOOM TOOTS AS HE PLEASES!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY5",
+      "v": "TOOT!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY6",
+      "v": "HA-HA!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_NSAY7",
+      "v": "I AM MASTER OF THE WORLD!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY1",
+      "v": "RICHARDS!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY2",
+      "v": "DOOM…",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY3",
+      "v": "I SALUTE YOUR COURAGE",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY4",
+      "v": "A PITY YOU HAVE NOT",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY5",
+      "v": "THE POWER TO MATCH IT!",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DD_RSAY6",
+      "v": "LET'S SETTLE THIS…",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DEATHTOUCH",
@@ -14072,10 +14497,10 @@
       "v": "[16982bff]{0}%[-] chance to inflict Weakness, decreasing the target's Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
     {
-      "cn": "Taskmaster",
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_WE_HUD",
       "v": "WEAKNESS EXPLOITED",
-      "vn": "16.1"
+      "vn": "16.1",
+      "cn": "Taskmaster"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ZERO_POISON_AO",
@@ -15669,9 +16094,9 @@
       "v": "The duration of each Judgment’s Secondary Effect is increased by {1}% for each Judgment already active."
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE",
-      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds."
+      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE_REVISED",
@@ -16131,6 +16556,16 @@
       "vn": "24.3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_HVYCHRG_CD_PAUSE",
+      "v": "Untoppable on Heavy Attack Charge Cooldown",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MANT_HVYCHRG_CD_PAUSE_TITLE",
+      "v": "[b4b4b4ff]Unstoppable Cooldown[-]",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_MANT_HVYHIT",
       "v": "{0}% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have {1}% increase potency.",
       "vn": "24.3"
@@ -16439,9 +16874,9 @@
       "vn": 12
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_MLS_CRITCHANCE",
-      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating."
+      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
@@ -17008,13 +17443,13 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ORGANIC_DESC_ARM",
-      "v": " [16982bff]{1}[-] Armor Rating.",
-      "vn": "24.1"
+      "v": "[16982bff]{1}[-] Armor Rating.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ORGANIC_DESC_CRTDMG",
-      "v": " [16982bff]{1}[-] Critical Damage Rating.",
-      "vn": "24.1"
+      "v": "[16982bff]{1}[-] Critical Damage Rating.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PACIFISM_CRUELTY_AO",
@@ -18739,6 +19174,11 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_SUPPRESS_HUD",
+      "v": "SUPPRESS",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_SYMBIOTESTEALTH",
       "v": "[b4b4b4ff]Symbiote Stealth[-]"
     },
@@ -19014,7 +19454,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_100P8SECONDS",
       "v": "100% Chance every 20 seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ADORATION",
@@ -19314,7 +19754,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ENEMYCRIT",
       "v": "Enemy Critical Hits",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ENERGYABSORPTION",
@@ -19450,6 +19890,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GOD",
       "v": "Goddess of Death - Passive",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HAAZARETHAURA",
+      "v": "[20c76b]Aura of Haazareth[-] - Passive",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HELLFIRE",
@@ -19604,7 +20049,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_LANDBLOCKSTRUCK",
       "v": "Landing Attacks, Blocking Attacks & Being Struck",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_LEARNTHEFOE",
@@ -19682,7 +20127,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOTFIGHTTECH",
       "v": "While Not Fighting Tech Champions",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_FORM",
@@ -19986,7 +20431,8 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONHEAVYCHARGE",
-      "v": "While Heavy Attack Charging"
+      "v": "When Charging a Heavy Attack:",
+      "vn": 1
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONHEAVYHIT",
@@ -20213,6 +20659,21 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONREEDCF",
+      "v": "[d31e15ff]Careful Study - Cross-Fight Ability[-]",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONREEDPF",
+      "v": "[ee9700ff]Prepared for Anything - Pre-Fight Ability[-]",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONREEDPFDEBUFFS",
+      "v": "[ee9700ff]Prepared for Anything - Pre-Fight Debuffs - Max: 3 Each[-]",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONROCKSHIELD",
       "v": "Passive - Rock Shield",
       "vn": "19.1"
@@ -20338,7 +20799,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OPPURBLD",
       "v": "Opponent Purifies a Bleed",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_OVERPOWER",
@@ -20348,7 +20809,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PERSONAL",
       "v": "Personal Armor Up Buffs - Max: 20",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PERSUASIVEVOICE",
@@ -20471,7 +20932,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SPHVY",
       "v": "Special and Heavy Attacks",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SPIDERSENSE",
@@ -20588,6 +21049,11 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TITANIUMARMOR",
+      "v": "Titanium Armor",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TOTV_INF",
       "v": "Techno-Organic Transmode Virus Infection - Passive",
       "vn": "24.1"
@@ -20650,7 +21116,7 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WHENATTACK",
       "v": "When Attacked or When Attacking",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WHUNSTOP",
@@ -20899,6 +21365,21 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_WEAKNESS_VII",
       "v": "[b310e8]Weakness VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_WEAKSP1_HUD",
+      "v": "WEAKNESS - SP 1",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_WEAKSP2_HUD",
+      "v": "WEAKNESS - SP 2",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_WEAKSP3_HUD",
+      "v": "WEAKNESS - SP 3",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_YND_ABILITYACC",
@@ -21589,6 +22070,11 @@
       "vn": "22.1"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_ANNI_COSR_OBLIT_NEW",
+      "v": "While the Cosmic Control Rod is active, all attacks have a {1}% chance to be an Obliterating Strike.",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_ANNI_COSR_PROTEC",
       "v": "Whenever the opponent activates a Nullify, Fateseal, or Stagger ability, The effect is Purified and the Cosmic Control Rod is removed for {2} seconds.",
       "vn": "22.1"
@@ -22098,10 +22584,10 @@
       "vn": "18.1"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346",
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVECHARGE",
       "v": "At the start of the fight, Corvus gains {1} permanent Glaive charges, granting him True Damage and guaranteed Critical Hits with his glaive as long as Glaive’s Immunity is active. A charge is spent every time Corvus hits with Basic Attack using his glaive.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVEDELAY",
@@ -22114,10 +22600,10 @@
       "vn": "17.2"
     },
     {
-      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326",
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY",
       "v": "Corvus Glaive does not take damage from Cold Snap, Bleed and Shock Debuffs while Glaive’s Immunity is active. When Glaive’s immunity reactivates or is disabled, all Debuffs listed above are Purified and Corvus takes [16982bff]{1}[-] damage.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_EXTRA",
@@ -22169,10 +22655,10 @@
       "vn": "17.2"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364",
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP2",
       "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP3",
@@ -22188,6 +22674,11 @@
       "k": "ID_UI_STAT_FORMAT_CPTMRV_ARM_BRK_INTRCPT",
       "v": "Intercepting an opponent’s Dash Attack has a 100% chance to inflict Armor Break reducing Armor Rating by [16982bff]{1}[-] for 7 seconds.",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CPTMRV_ARM_PULVERIZED_HUD",
+      "v": "ARMOR PULVERIZED",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_BIN_ARM_BRK_AA",
@@ -22276,8 +22767,8 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PERSIST",
-      "v": "Captain Marvel gains [37bfff]Persistent Energy Charges[-] by Blocking Physical Attacks and when Struck by Energy Attacks. Any Energy Charges that Captain Marvel ends a fight with persists between fights. Max 25 stacks.",
-      "vn": 22
+      "v": "Captain Marvel gains [37bfff]Persistent Energy Charges[-] by Blocking Physical Attacks and when receiving Energy Damage. Any Energy Charges that Captain Marvel ends a fight with persists between fights. Max 25 stacks.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_CPTMRV_NRG_PWRGAIN",
@@ -22525,9 +23016,9 @@
       "vn": 23
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_CULL_SP1",
-      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting."
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_SP1_FIX",
@@ -22622,7 +23113,7 @@
     {
       "k": "ID_UI_STAT_FORMAT_DEEPBLEED_HUD",
       "v": "DEEP BLEED",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_DHAWK_BROKEN",
@@ -22819,6 +23310,101 @@
       "v": "Inflicts Concussion, reducing the opponent’s Ability Accuracy by [16982bff]{1}%[-]."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_DOOM_ARMOR",
+      "v": "Doom’s resilient armor protects him, granting immunity to Armor Break, Armor Shatter and Shock effects.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_A",
+      "v": "The [20c76b]Aura of Haazareth[-] can’t trigger while Doom is suffering from a Slow or Petrify Debuff and is paused during his Special Attacks.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_B",
+      "v": "While active, Special Attack 1 and 2 are Unblockable and grant no Power.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_C",
+      "v": "Light Attacks grant no Power and steal {1}% of the Opponent’s current Power, gaining {0}% of the Power stolen.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_D",
+      "v": "Contact with the Opponent has a {0}% chance to Nullify up to 1 Buff.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_E",
+      "v": "Doom is Unstoppable, Indestructible, and Stun Immune against the last hit of incoming Special 1, Special 2, and Heavy Attacks.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_AURA_E_2",
+      "v": "Doom becomes Unstoppable and Stun Immune against the last hit of incoming Special 1, Special 2, and Heavy Attacks. Additionally, damage received from this hit can't exceed {1}% of the Opponent's Attack.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_BASIC_A",
+      "v": "If the Opponent isn’t already Shocked, Medium Attacks inflict a Shock Debuff dealing [16982bff]{1}[-] direct energy damage over {2} second(s).",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_BASIC_B",
+      "v": "While charging a Heavy Attack, if the Opponent is within striking distance and suffering from Shock their Shock effects are removed and replaced with a Passive Stun for {2} seconds. This can’t trigger during the Opponent’s Special Attacks.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_BASIC_C",
+      "v": "Landing a Heavy Attack has a {0}% chance to Stagger the Opponent for {2} seconds. A Staggered enemy has their next Buff Nullified.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_A",
+      "v": "The [20c76b]Aura of Haazareth[-] is activated for {2} seconds, this will not trigger if the Aura was already active.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B",
+      "v": "The first hit of this Attack steals {0}% of each Full Power Bar the Opponent has, gaining {2}% of the Power stolen up to a maximum of {1} Bars of Power.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B2",
+      "v": "The first hit of this Attack steals Power from the Opponent based on how many full bars of Power they had, gaining 200% of the Power stolen up to a maximum of 2 Bars of Power.\\nAt 1 Bar of Power Steal {0}% of each Power Bar.\\nAt 2 Bars of Power Steal {1}% of each Power Bar.\\nAt 3 Bars of Power Steal {2}% of each Power Bar.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B3",
+      "v": "The first hit of this Attack steals {0}% of each full Power Bar the Opponent has and Doom gains {1}% of the Power stolen, capping at a maximum of {2} Bars of Power",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B3_B",
+      "v": "The amount of Power stolen is increased by a flat +{0}% for each full Power Bar the Opponent has.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP1_C",
+      "v": "Each beam hit has a {0}% chance to Nullify up to 1 Buff.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP2_A",
+      "v": "Each beam hit has a {0}% chance to inflict an Incinerate Debuff, each dealing [16982bff]{1}[-] direct energy damage over {2} seconds.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP3_A",
+      "v": "{0}% chance to inflict a Passive Stun for {2} seconds.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_DOOM_SP3_B",
+      "v": "The [20c76b]Aura of Haazareth[-] is activated for {2} seconds and Doom gains a Fury Buff granting [16982bff]{1}[-] Attack Rating for the duration of the Aura, max stacks {0}. This will always refresh at maximum duration whether or not the Aura was already active.",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_EARTHQUAKE_DIZZINESS",
       "v": "[16982bff]{0}%[-] chance to inflict Concussion, reducing the opponent’s Ability Accuracy by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
@@ -22901,7 +23487,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_EBM_MSN_A",
-      "v": "Ebony Maw has 3 missions to complete. Each mission can only be completed once per fight. Completing all 3 missions in a single fight grants Ebony Maw 1 [37bfff]Persistent Charge[-], up to a maximum of 6.",
+      "v": "Ebony Maw has {2} missions to complete. Each mission can only be completed once per fight. Completing all {2} missions in a single fight grants Ebony Maw {0} [37bfff]Persistent Charge(s)[-], up to a maximum of {1}.",
       "vn": 23
     },
     {
@@ -22941,7 +23527,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_EBM_SIG_C",
-      "v": "When Ebony Maw inflicts his Opponent with a Degeneration, all Deterioration Passives are consumed, each adding [16982bff]{1}[-] damage to the Degeneration.",
+      "v": "When Ebony Maw inflicts a Degeneration, all Deterioration Passives are consumed, each increasing the potency of the Degeneration by {1}%.",
       "vn": 23
     },
     {
@@ -23057,6 +23643,11 @@
     {
       "k": "ID_UI_STAT_FORMAT_ELSA_DEGEN",
       "v": "When Elsa is affected by a Bleed Debuff, Non-Mutant Champions gain a Passive Degeneration dealing [16982bff]{1}[-] Direct Damage every 0.5 seconds until all Bleed Debuffs on Elsa end. While this Degen is active Opponents are also Heal Blocked.",
+      "vn": "24.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ELSA_DEGEN_2",
+      "v": "When Elsa is affected by a Bleed Debuff, Non-Mutant Champions gain a Passive Degeneration dealing [16982bff]{1}[-] Direct Damage every 0.5 seconds until all Bleed Debuffs on Elsa end. While this Degen is active Opponents will also be passively Heal Blocked.",
       "vn": "24.3"
     },
     {
@@ -23386,7 +23977,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_G99_CLKB",
-      "v": "While fighting Mutant Opponents the Digi-Cloak’s cooldown is reduced by {1}% and its chance to activate is doubled.",
+      "v": "While fighting Mutant Opponents, the Digi-Cloak’s cooldown is reduced by {1}%, and it’s chance to activate is doubled.",
       "vn": "24.3"
     },
     {
@@ -23431,7 +24022,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_G99_DISL_A",
-      "v": "Guillotine begins the quest with {0} [37bfff]Digi-Souls[-], each providing +{1}% defensive Power Rate. [37bfff]Digi-Souls[-] are refunded after each fight and can be spent to enhance Guillotines sword on the [EE9700FF]Pre-Fight[-] screen.",
+      "v": "Guillotine begins the quest with {0} [37bfff]Digi-Souls[-], each providing +{1}% defensive Power Rate. [37bfff]Digi-Souls[-] are refunded after each fight and can be spent to enhance Guillotine's sword on the [EE9700FF]Pre-Fight[-] screen.",
       "vn": "24.3"
     },
     {
@@ -23940,10 +24531,10 @@
       "vn": "19.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_EVD",
       "v": "The crowd dislikes cowards, cheering for Korg when opponents Evade or Dexterity his Basic Attacks, increasing Crowd Excitement by {1} for {2} seconds. Only {0} Crowd Excitement charges can be gained through this ability.",
-      "vn": "19.1"
+      "vn": "19.1",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_TITLE",
@@ -24346,6 +24937,156 @@
       "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
       "v": "MISS FAILED",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_ATK",
+      "v": "Attack Rating is increased by [16982bff]+{1}[-] for each Debuff on the Opponent.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_A",
+      "v": "When the Opponent activates a Special Attack, place an indefinite Careful Study Debuff on them for that Special Attack.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_B",
+      "v": "If Mister Fantastic was struck by the last hit of the Special Attack, place {1} additional copy of the Debuff.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_C",
+      "v": "All copies of the Debuff are Purified when the Opponent activates a different Special Attack than the one that triggered the Debuff.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_D",
+      "v": "When the Opponent has {1} copies of a Careful Study Debuff, they are combined into a Passive that lasts for the rest of the fight, and the next {2} fights the Opponent participates in.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_E",
+      "v": "Careful Study Passives count as {1} Debuffs for Reed’s other abilities.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_F",
+      "v": "A Careful Study Debuff lowers the Attack Rating of each Hit in the Special Attack by {1}%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_CF_G",
+      "v": "Each Passive prevents future matching Careful Study Debuffs.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_EVADE",
+      "v": "{1}% chance to Evade for each non-Damaging Debuff on either Champion. Does not trigger during a Well-Timed Block.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_HVY",
+      "v": "On the last hit, pause [ee9700ff]Pre-Fight Debuffs[-] for {2} second(s).",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_A",
+      "v": "Before the fight, choose up to {1} unique Debuffs to place on the Opponent at the start of the next fight. Each Debuff costs [37bfff]1 Persistent Charge[-].",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_B",
+      "v": "Mister Fantastic starts with [37bfff]{1} Persistent Charge(s)[-], and can have up to [37bfff]5[-]. When Mr. Fantastic finishes a fight, he gains [37bfff]1 Persistent Charge[-] for each unique Debuff on the Opponent.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_C",
+      "v": "These Debuffs each last {2} second(s), and are refreshed when the Opponent is knocked down.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_D",
+      "v": "The Debuffs are applied even if a different Champion enters the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_DB_A",
+      "v": "Petrify the Opponent, reducing the effectiveness of their Regeneration and Power Gain effects by {1}%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_DB_B",
+      "v": "Suppress the Opponent, decreasing their Defensive Power Rate by {1}%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_DB_C",
+      "v": "Debuff Siphon the Opponent, increasing the potency of Damage over Time Debuffs on them by {1}%, and reducing the potency of those effects on allies by the same amount. This does not affect abilities that trigger at the start of the fight.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_PF_E",
+      "v": "Debuff potency scales with the rarity of Mr. Fantastic. If different versions of a Debuff are applied, only the strongest one triggers.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_RES",
+      "v": "Physical and Energy Resistance increased by [16982bff]+{1}[-].",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SIG_A",
+      "v": "Mister Fantastic’s Offensive Power Rate is increased by [16982bff]{1}%[-] for each Careful Study Passive on the Opponent.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SIG_B",
+      "v": "Mister Fantastic gains an additional flat {1}% chance to Evade any Unblockable attack. This increases by {0}% every time the Opponent starts an Unblockable hit, capped at 50% for basic attacks.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP1_A",
+      "v": "When this Attack is activated, {0}% chance to place a Taunt Debuff and Stagger Debuff on the Opponent, each for {2} second(s).",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP1_B",
+      "v": "Opponents that are Taunted have their Attack Rating reduced by {1}% and have a 70% higher chance to activate a Special Attack.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP1_C",
+      "v": "This Taunt is removed when the Opponent activates any Special Attack.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP1_D",
+      "v": "The next time a Staggered Opponent triggers a Buff, that Buff and all other Buffs triggered at the same time will be immediately Nullified.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP2_A",
+      "v": "When this Attack is activated, re-trigger Mister Fantastic's selected [ee9700ff]Pre-Fight Debuffs[-] once each.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP2_B",
+      "v": "The last hit Shocks the Opponent, dealing [16982bff]{1}[-] Energy Damage over {2} second(s).",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP3_A",
+      "v": "If the Opponent has at least 1 Debuff, gain a Passive Fury for {2} second(s), increasing Attack Rating by [16982bff]{1}[-] for each Debuff on the Opponent.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP3_B",
+      "v": "Passives from Careful Study count as 4 Debuffs for this attack.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_SP_UNB",
+      "v": "If no [ee9700ff]Pre-Fight Debuffs[-] were selected, Special Attacks are Unblockable.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_MYSTO_CHEM_A",
@@ -24845,37 +25586,37 @@
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_0DAMBLD",
       "v": "Logan has a {0}% chance to gain a Passive Bleed, lasting {2} seconds which deals 0 damage. Max: {1} Stacks.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_AA",
       "v": "You can’t teach an old, stubborn dog new tricks. Logan’s Ability Accuracy cannot be decreased or increased.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_ARMBRK",
       "v": "If fighting a Skill Champion, instead {0}% chance to inflict an Armor Shattered Debuff, reducing Armor by [16982bff]{1}[-] for {2} seconds. While active, the opponent cannot gain new Armor Up Buffs or new Armor Break Debuffs. Does not affect #Robot Champions.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP2",
       "v": "{0}% chance per strike to inflict a Bleed Debuff, dealing [16982bff]{1}[-] damage over {2} seconds. A Critical Hit causes a Critical Bleed, multiplying the Bleed Potency by Critical Damage Multiplier.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP3",
       "v": "{0}% chance to inflict a Deep Bleed Debuff which counts as a Bleed effect, lasting {2} seconds and dealing [16982bff]{1}[-] direct damage.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP3_ADD",
       "v": "If Logan has {1} or more Fury Buffs, inflict an additional Deep Bleed.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP3_HEM",
       "v": "While Deep Bleed is active, Logan’s attacks gain [16982bff]+{1}[-] Critical Rating and ignore Physical Resistance.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_CRRES",
@@ -24885,17 +25626,17 @@
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_NULLRGN",
       "v": "Logan removes all Regeneration Buffs and Bleed effects from himself, gaining 1 Fury Buff for each effect removed this way. These Buffs last {2} seconds and grant [16982bff]+{1}[-] Attack. Max Stacks: {0}.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_OPPURBLD",
       "v": "Logan’s deep-cutting Adamantium causes the opponent to instantly take [16982bff]{1}[-] direct damage for each Bleed they Purified.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_PAUSEFURY",
       "v": "Second hit has a {0}% chance to Pause the duration of all active Fury Buffs for {2} seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_PURBLD",
@@ -24905,22 +25646,22 @@
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_REF0DAMBLD",
       "v": "First hit has a {0}% chance to Refresh the duration of Logan’s 0 damage Passive Bleed effects.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_RGN",
       "v": "Old Man Logan gains a Regeneration Buff which heals [16982bff]{1}[-] Health over {2} seconds. While this Regeneration Buff is active, incoming Bleed effects gain +50% duration but suffer -{0}% Potency, giving Logan more time to deal with them.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_SP3TECH",
       "v": "Logan gains [16982bff]+{1}[-] base Critical Resistance and his Special Attack 3 ignores Armor Rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_UNBSP",
       "v": "Special Attacks are Unblockable if Logan has {1} or more Fury Buffs.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_ORED_DTHFLD",
@@ -25125,10 +25866,10 @@
       "vn": 13
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383",
       "k": "ID_UI_STAT_FORMAT_PROXIMA_BLACKORDER",
       "v": "Proxima Midnight has {0} missions to accomplish, one at a time, in random order.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383"
     },
     {
       "k": "ID_UI_STAT_FORMAT_PROXIMA_DMGREDUCTION",
@@ -25760,10 +26501,10 @@
       "vn": "17.1"
     },
     {
-      "cn": "Switched to Sentinel instead - By V",
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE",
       "v": "Sentinel gains {2} Adaptation charge(s) when an Opponent performs the same action consecutively. Actions include Light Attacks, Medium Attacks, Heavy Attacks, Dashing, Dodging, and Blocking an Attack. Max: 50 charges.",
-      "vn": "17.1"
+      "vn": "17.1",
+      "cn": "Switched to Sentinel instead - By V"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE_2",
@@ -26646,10 +27387,10 @@
       "vn": 18
     },
     {
-      "cn": "From a infinity stone to an Infinity Stone instead",
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY1_LONG",
       "v": "Thanos permanently generates Power after activating an Infinity Stone, at the rate of 1 bar of Power over {1} seconds. This is the only way Thanos gains Power in this fight.",
-      "vn": 18
+      "vn": 18,
+      "cn": "From a infinity stone to an Infinity Stone instead"
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_END_LONG",
@@ -27170,10 +27911,10 @@
       "vn": "21.2"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_THING_IMM",
       "v": "Immune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.",
-      "vn": 21
+      "vn": 21,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_THING_RES",
@@ -27658,7 +28399,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_WASP_COUNTER_STING",
-      "v": "When attacked Wasp has a {0}% chance Purify all Damaging Debuffs then shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing [16982bff]{1}[-] Energy Damage over {2} seconds.",
+      "v": "When attacked Wasp has a {0}% chance Purify all Degeneration, Poison, Shock, Incinerate and Coldsnap Debuffs then shrink to Evade. Any time Wasp successfully Evades an attack she Counter Attacks, inflicting a Shock Debuff dealing [16982bff]{1}[-] Energy Damage over {2} seconds.",
       "vn": "23.1"
     },
     {
@@ -27832,10 +28573,10 @@
       "vn": "19.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_HEIM_TS_ACT",
       "v": "While True Strike is active Heimdall’s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against projectiles, and has a {0}% chance to Auto-Block Basic Attacks, this will trigger Parry.",
-      "vn": 19
+      "vn": 19,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_HEIM_TS_ACT_ALT",
@@ -28969,7 +29710,7 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_LONG",
       "v": "Whenever one of Colossus' Immunities protects him from an effect, he has a [16982bff]{0}%[-] chance to gain an Armor Up Buff, lasting {2} seconds.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_LONG_I",
@@ -28979,27 +29720,27 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_LONG_II",
       "v": "Colossus has a [16982bff]{0}%[-] chance to convert an expiring Armor Up Buff into a permanent one.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_SHORT",
       "v": "Colossus has mastered his Armor Up Buffs allowing him increased opportunities to trigger them.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_TITLE",
       "v": "THE MIGHTY COLOSSUS!",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_TITLE_LOWER",
       "v": "The Mighty Colossus!",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COLOS_TITLE_SHORT",
       "v": "The Mighty Colossus! {0}",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_COMICULTRON_DESC",
@@ -29274,6 +30015,31 @@
       "k": "ID_UI_STAT_SIGNATURE_DIABLO_TITLE",
       "v": "ARCANE INNOVATION",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_DOOM_SHORT",
+      "v": "Indomitable Will {0}",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_DOOM_SIG_A",
+      "v": "Whenever Doom Nullifies a Power Gain Buff he receives one for himself, granting {1}% of his max Power over {2} seconds.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_DOOM_SIG_B",
+      "v": "If the Opponent isn’t already Shocked whenever Doom Nullifies any Buff, they have a [16982bff]{0}%[-] chance to be inflicted with a Shock Debuff, dealing {1} direct energy damage over {2} seconds.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_DOOM_SIMPLE",
+      "v": "This ability gives Doom a chance to Shock the Opponent when Nullifying one of their Buffs and allows him to gain Power Gain Buffs for himself.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_DOOM_TITLE",
+      "v": "INDOMITABLE WILL",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_DORMAMMU_DESC",
@@ -29856,7 +30622,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_G99_SIG_A",
-      "v": "When Guillotine would be struck she has a [16982bff]{0}%[-] chance to gain a Combo Shield Passive lasting {2} seconds, plus {2} additional seconds per [37bfff]Digi-Soul[-]. Cooldown: {1} seconds.",
+      "v": "When Guillotine would be struck, she has a [16982bff]{0}%[-] chance to gain a Combo Shield Passive lasting {2} seconds, plus {2} additional seconds per [37bfff]Digi-Soul[-]. Cooldown: {1} seconds.",
       "vn": "24.3"
     },
     {
@@ -31068,6 +31834,21 @@
       "v": "Synodic Tide"
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_MRFANTASTIC_SHORT",
+      "v": "The Smartest Man in the Battlerealm {0}",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MRFANTASTIC_SIMPLE",
+      "v": "Mister Fantastic uses his knowledge of the Opponent to Evade their Unblockable attacks, and increases his Power Rate based on Careful Study.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MRFANTASTIC_TITLE",
+      "v": "THE SMARTEST MAN IN THE BATTLEREALM",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_MRSINISTER_SHORT",
       "v": "Engineered Perfection {0}",
       "vn": "21.3"
@@ -31187,27 +31968,27 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDLOGAN_NEW_LONG",
       "v": "Whenever Logan gains one of his 0 Damage Passive Bleeds, it has a [16982bff]{0}%[-] chance to gain +{1}% duration.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDLOGAN_NEW_LONG_2",
       "v": "Logan’s first Special Attack each fight gains [16982bff]+{1}[-] Attack rating.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDLOGAN_NEW_SHORT",
       "v": "Old Scars {0}",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDLOGAN_NEW_SIMPLE",
       "v": "Logan's old scars have a chance to increase the duration of his 0 Damage Bleed effects. His first Special Attack each fight also gains a large attack boost.",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDLOGAN_NEW_TITLE",
       "v": "OLD SCARS",
-      "vn": "24.1"
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_OLDMANLOGAN_DESC",
@@ -32854,7 +33635,7 @@
     },
     {
       "k": "ID_UI_STAT_SIG_MORDO_TITLE",
-      "v": "Mystical Barrier"
+      "v": "MYSTICAL BARRIER"
     },
     {
       "k": "ID_UI_STAT_SLOW_DEBUFF",
@@ -33520,7 +34301,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S1_TITLE",
-      "v": "Tough Brawlers",
+      "v": "TOUGH BRAWLERS",
       "vn": 21
     },
     {
@@ -33530,7 +34311,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S2_TITLE",
-      "v": "Persistent Force",
+      "v": "PERSISTENT FORCE",
       "vn": 21
     },
     {
@@ -33540,7 +34321,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S3_TITLE",
-      "v": "Combo Fighter",
+      "v": "COMBO FIGHTER",
       "vn": 21
     },
     {
