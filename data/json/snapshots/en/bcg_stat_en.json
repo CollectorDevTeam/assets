@@ -1,16 +1,16 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "8716f546a2fb95f2e1d020a35b02e000c310601e",
     "language": "en",
+    "post_processed": true,
+    "string_count": 8065,
     "tagged": [
       "bcg_stat",
       "client"
     ],
-    "hash": "bdb8179a2e5530056882b48d452a6a788073f892",
-    "ts": 1571849724,
-    "string_count": 7670,
-    "post_processed": true,
-    "versionLock": "25.0"
+    "ts": 1574887129,
+    "versionLock": "25.1"
   },
   "strings": [
     {
@@ -1089,6 +1089,11 @@
       "vn": "17.1"
     },
     {
+      "k": "ID_CHARACTER_BIOS_SILVERSURFER",
+      "v": "To protect his planet from certain Annihilation, Norrin Radd relinquished his life to become the Silver Surfer, a Herald of Galactus. Now imbued with the Power Cosmic, the Silver Surfer travels the galaxy in search of new planets to feed Galactus’ insatiable hunger.  ",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_SPIDERMAN_STEALTH",
       "v": "Peter Parker is on a Midtown High summer trip to Europe, and he had hoped to leave Super Heroics behind for a few weeks, not to mention the classic Red-and-Blue suit Tony Stark made for him. When Spidey is recruited by Nick Fury to investigate a series of Elemental Creature attacks throughout Europe, he is given his own tactical Stealth Suit, made for him by the very same agent who outfits Nick Fury, Maria Hill, and the rest of their team.",
       "vn": 24
@@ -1107,6 +1112,11 @@
       "k": "ID_CHARACTER_BIOS_THING",
       "v": "Benjamin Grimm, also known as \"Thing\", served as the pilot on the starship expedition led by Reed Richards. During the voyage, the ship encountered unprecedented levels of radiation, granting the crew extraordinary powers. Ben gained incredible physical strength, and his body was covered in a flexible, rock-like hide. After returning to earth, the team banded together to form the Fantastic Four. It’s clobberin’ time!",
       "vn": "21.2"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_VISION_TIMELY",
+      "v": "The Vision, whose true name is Aarkus, is an alien law enforcement officer from a dimension known as Smokeworld. After being accidentally contacted by a scientist from Earth, Aarkus came to our dimension to fight crime. He has the ability to control gasses, smoke, and cold, even teleporting to the far side of the world using little more than a smouldering cigar.",
+      "vn": "24.2"
     },
     {
       "k": "ID_CHARACTER_BIO_SUNS",
@@ -2464,10 +2474,10 @@
       "vn": 19
     },
     {
+      "cn": null,
       "k": "ID_FS_REGEN_D",
       "v": "Nullifies all Regen Buffs and prevents new Regen Buffs from activating.",
-      "vn": "24.3",
-      "cn": null
+      "vn": "24.3"
     },
     {
       "k": "ID_FS_REGEN_T",
@@ -2585,6 +2595,16 @@
       "vn": 19
     },
     {
+      "k": "ID_GENERIC_COOLDOWN",
+      "v": "This ability is on cooldown and cannot activate again until this timer expires.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GENERIC_DISABLE",
+      "v": "This ability is on disabled and currently has no effect until it activates again.",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_GEWL75D",
       "v": "When this timer ends, both Champions become Unstoppable.",
       "vn": 19
@@ -2628,6 +2648,231 @@
       "k": "ID_GMRA_GODSLY_CALLOUT",
       "v": "GODSLAYER READY!",
       "vn": 22
+    },
+    {
+      "k": "ID_GRM_AD1",
+      "v": "Blocking Attacks is banned. Performing that tactic grants a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_AD2",
+      "v": "Landing Light Attacks is banned. Performing that [edb8ef]Tactic[-] grants a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_AD3",
+      "v": "Landing Medium Attacks is banned. Performing that [edb8ef]Tactic[-] grants a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_AD4",
+      "v": "Performing Dexterity is banned. Performing that [edb8ef]Tactic[-] grants a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_AD5",
+      "v": "Performing Parry is banned. Performing that [edb8ef]Tactic[-] grants a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_AT",
+      "v": "[edb8ef]Tactic[-] Banned",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_BD",
+      "v": "Upon expiry this becomes degeneration. Contact with the Opponent refreshes expiry.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_BT",
+      "v": "Degeneration Timer",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_CD1",
+      "v": "Upon expiry all banned [edb8ef]Tactics[-] are unbanned.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_CD2",
+      "v": "Complete the issued challenge before this timer expires or the Summoner is granted a [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_CT",
+      "v": "Challenge Timer",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_CTD",
+      "v": "Display showing how many challenges have been completed.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_CTT",
+      "v": "Challenges Completed",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD1",
+      "v": "Throw an attack while the Grandmaster isn't in striking distance.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD10",
+      "v": "Perform Well-Timed blocks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD2",
+      "v": "Land a Critical Hit.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD3",
+      "v": "Perform an Intercept.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD4",
+      "v": "Gain a Buff.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD5",
+      "v": "Inflict a damage over time effect.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD6",
+      "v": "Strike into the Grandmaster's block.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD7",
+      "v": "Perform a Knockdown.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD8",
+      "v": "Perform back dashes.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DD9",
+      "v": "Don't move for a duration.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_DT",
+      "v": "[edb8ef]Challenge:[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_ENRAGE_PAUSE",
+      "v": "The Grandmaster is Unblockable, Indestructible and very aggressive.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_ET",
+      "v": "[ff0000]Wounded.[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_FT",
+      "v": "[e3de40]Infuriated.[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P1_PAUSE",
+      "v": "Neither champion will gain Power. Perform Parry, Dexterity and land Light attacks until those [edb8ef]Tactics[-] become banned to progress.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P1_PAUSE_B",
+      "v": "Once all 3 [edb8ef]Tactics[-] are banned, the Summoner will need to bait a Special 1. After the Special 1 ends, the Grandmaster will become [ff0000]Wounded[-] for a duration, after which this Phase cycles again.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P2_PAUSE",
+      "v": "The Summoner can gain up to 1 bar of Power and the Grandmaster gains Power when struck. Complete [edb8ef]Challenges [-]issued by the Grandmaster to progress.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P2_PAUSE_B",
+      "v": "The Summoner will need to complete the [edb8ef]Challenges [-]issued by the Grandmaster within the given time. Once all [edb8ef]Challenges [-]have cycled one time the Grandmaster becomes [ff0000]Wounded[-] for a duration, after which this Phase cycles again.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P3_PAUSE",
+      "v": "The Grandmaster constantly gains Power. Complete [edb8ef]Challenges [-]issued by the Grandmaster to progress.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P3_PAUSE_B",
+      "v": "The Summoner's controls will be reversed on a timer. Every 5th [edb8ef]Challenge [-]completed by the Summoner [ff0000]Wounds[-] the Grandmaster for a duration, after which this Phase cycles again.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_P4_PAUSE",
+      "v": "When [e3de40]Infuriation[-] expires the Grandmaster is permanently [ff0000]Wounded[-] and can only take damage from a Special 3 Attack.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_PAUSET",
+      "v": "[ffd40e]Phase of Challenge:[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_PXD",
+      "v": "The Grandmaster is preparing the next phase of challenge!",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_PXT",
+      "v": "Phase Timer",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_REVD",
+      "v": "Upon expiry, reverses the Opponent's controls.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_REVD2",
+      "v": "Upon expiry, restores the Opponent's controls back to normal.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_REVT",
+      "v": "Inverted Controls Timer",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_TKNBD",
+      "v": "Gained when rules of the fight are not followed. Gaining too many results in Gameover.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_TKNBT",
+      "v": "[ff5a00]Token of Blunder[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_TKNCD",
+      "v": "Significantly increases Attack Rating while the Grandmaster is [ff0000]Wounded[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_TKNCT",
+      "v": "[78c93a]Token of Competence[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_VULN_PAUSE",
+      "v": "The Grandmaster is [ff0000]Wounded[-], during this time the Summoner's Attack Rating is increased for each [78c93a]Token of Competence[-] they have.",
+      "vn": "25.1"
     },
     {
       "k": "ID_HEAL196D",
@@ -4714,9 +4959,49 @@
       "vn": "22.1"
     },
     {
+      "k": "ID_PVE_PGT",
+      "v": "Pressure Gauge",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_PROT",
+      "v": "This champion takes reduced damage while this ability is active.",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_PVE_SAWEAK",
       "v": "MY ONE WEAKNESS !",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_PVE_STNAD",
+      "v": "When this champion would receive a stun, it's instantly removed and the Opponent is Stunned instead.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_STNAT",
+      "v": "Stun Shield",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_THERMD",
+      "v": "Landing attacks will increase this value, blocking attacks or throwing Special Attacks will reduce this value.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_THERMT1",
+      "v": "Thermostat",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_THERMT2",
+      "v": "Thermostat - Scorched",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_PVE_THERMT3",
+      "v": "Thermostat - Frozen",
+      "vn": "25.1"
     },
     {
       "k": "ID_PWR75D",
@@ -5564,6 +5849,21 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SILVERSURFER_0",
+      "v": "Silver Surfer lets out a cosmic blast of energy then phases his board through reality for a final strike.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SILVERSURFER_1",
+      "v": "Silver Surfer conjures a whirlpool of cosmic energy destroying everything in his path.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SILVERSURFER_2",
+      "v": "Silver Surfer takes his Opponent on a light speed ride directly into the core of a nearby star.",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERGWEN_0",
       "v": "A spinning heel kick into double boots to the face which is then topped off with a back-flip for style points.",
       "vn": 1
@@ -6012,6 +6312,21 @@
       "k": "ID_SPECIAL_ATTACK_SENTRY_2",
       "v": "Channel the Void",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SILVERSURFER_0",
+      "v": "Force of Will",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SILVERSURFER_1",
+      "v": "Test of Might",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SILVERSURFER_2",
+      "v": "Lack of Patience",
+      "vn": "25.1"
     },
     {
       "k": "ID_SPECIAL_ATTACK_SPIDERGWEN_0",
@@ -7032,10 +7347,10 @@
       "vn": "16.1"
     },
     {
+      "cn": "charge(s)",
       "k": "ID_STAT_MODOK_FF3",
       "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields cannot trigger Parry.",
-      "vn": "16.1",
-      "cn": "charge(s)"
+      "vn": "16.1"
     },
     {
       "k": "ID_STAT_MODOK_FF4",
@@ -7346,7 +7661,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_WEPX_DESC",
-      "v": "[64acff]Domino:[-] Each time Domino avoids an attack by Dashing Back, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. \r\n[64acff]Old Man Logan or Sabretooth:[-] Regeneration and Fury are 12% more effective.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
+      "v": "[64acff]Domino:[-] Each time Domino avoids an attack by Dashing Back, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. [64acff]Old Man Logan or Sabretooth:[-] Regeneration and Fury are 12% more effective. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "18.1"
     },
     {
@@ -7356,7 +7671,7 @@
     },
     {
       "k": "ID_STAT_SB_DOM_XFORCE_DESC",
-      "v": "[64acff]Domino:[-] Each time Domino performs a well-timed Block, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. \r\n[64acff]Deadpool:[-] Bleed deals 20% more damage.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Domino:[-] Each time Domino performs a well-timed Block, the chance for her to be Lucky increases by +{0}% the next time she fills a Bar of Power. [64acff]Deadpool:[-] Bleed deals 20% more damage. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "18.1"
     },
     {
@@ -8501,10 +8816,10 @@
       "vn": 25
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION3_LONG",
       "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CULTURE_SHOCK",
@@ -8615,6 +8930,10 @@
       "k": "ID_UI_HERO_SYNERGY_DESC_MUTANT_FIX",
       "v": "Mutants landed strikes during Special Attacks gain +{0}% Attack rating.",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_DESC_OLDTEAMMATES_NEW",
+      "v": "\t[64acff]Havok:[-] Each time Havok deals Energy Damage to the Opponent he has a {0}% Chance to gain 1 Plasma Charge. [64acff]Wolverine:[-] Passively increases Attack by 20% of Base Attack while under the effect of a Regeneration Buff. [64acff]Nightcrawler:[-] Begin the fight in Swashbuckling Mode, and while in this mode his chance to Instant Bleed is increased by a flat 30%. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies."
     },
     {
       "k": "ID_UI_HERO_SYNERGY_DESC_PARTICLEPHYSICS",
@@ -8798,7 +9117,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_LEGALNEW_DESC",
-      "v": "All Champions gain +{0}% Stun Ability Accuracy\\n[64acff]Daredevil, Daredevil (Classic):[-] +800 Critical Rating during Special Attacks.\\n[64acff]She-Hulk:[-] +{0}% duration for personal Fury Passive effects.\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "All Champions gain +{0}% Stun Ability Accuracy\n[64acff]Daredevil, Daredevil (Classic):[-] +800 Critical Rating during Special Attacks.\n[64acff]She-Hulk:[-] +{0}% duration for personal Fury Passive effects.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "21.3"
     },
     {
@@ -8897,10 +9216,10 @@
       "vn": "22.1"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
       "v": "[64acff]Proxima Midnight:[-] Ultimate Mission’s Combo Meter requirement goes down to {0} hits. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY_KARNAK",
@@ -8939,7 +9258,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SPIDERMEN_IN_BLACK_LONG",
-      "v": "[64acff]Spider-Man (Stealth Suit):[-] +100% Evade Ability Accuracy against Unblockable attacks while the Opponent has a Vulnerability Debuff.\\n[64acff]Spider-Man (Symbiote and Miles Morales):[-] Evade does not trigger while Blocking.\\n[64acff]Spider-Man (Miles Morales):[-] Special Attack 2 inflicts Power Sting for {0} seconds, dealing 100% of Attack as Direct Damage when the Opponent activates a Special Attack.\\n[64acff]Spider-Man (Symbiote):[-] Heavy Attack inflicts a Vulnerability Debuff for 9 second(s).\\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Spider-Man (Stealth Suit):[-] +100% Evade Ability Accuracy against Unblockable attacks while the Opponent has a Vulnerability Debuff.\n[64acff]Spider-Man (Symbiote and Miles Morales):[-] Evade does not trigger while Blocking.\n[64acff]Spider-Man (Miles Morales):[-] Special Attack 2 inflicts Power Sting for {0} seconds, dealing 100% of Attack as Direct Damage when the Opponent activates a Special Attack.\n[64acff]Spider-Man (Symbiote):[-] Heavy Attack inflicts a Vulnerability Debuff for 9 second(s).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 24
     },
     {
@@ -9061,6 +9380,36 @@
       "k": "ID_UI_HERO_SYNERGY_SUNS_USAVENGE_TITLE",
       "v": "U.S.Avengers",
       "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_HOFGAL_DESC",
+      "v": "[64acff]Silver Surfer:[-] Once per fight, if Silver Surfer were to lose more than 25% of his life in a single hit he instead consumes the Power Cosmic Buff and gains an Indestructible Buff for 6 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_HOFGAL_TITLE",
+      "v": "HERALDS OF GALACTUS",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_MINESPACE_DESC",
+      "v": "[64acff]Silver Surfer:[-] Board attacks generate 30% less Power for the Opponent.\n[64acff]Night Thrasher:[-] Board attacks deal a burst of 5% bonus Physical Damage for each Unique Debuff on the Opponent.\n[64acff]Mysterio:[-] Mysterio’s advantages against Spider-Verse champions extends to all Hero Champions.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_MINESPACE_TITLE",
+      "v": "MINE TRAVELS THROUGH SPACE",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_SDEF_DESC",
+      "v": "[64acff]Silver Surfer:[-] Reduce the cooldown of Silver Surfer's Power Cosmic Buff by 3.0 seconds.\n[64acff]Hulk:[-] All of Hulk's Fury Buffs are Passive effects and grant 100 bonus Critical Rating when striking a Stunned Opponent.\n[64acff]Doctor Strange:[-] Increase the Potency of each of Doctor Strange's Blessings by 25%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SURFER_SDEF_TITLE",
+      "v": "SECRET DEFENDERS",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SYMBEVO",
@@ -9219,9 +9568,9 @@
       "v": "SIGNATURE ABILITY"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133",
       "k": "ID_UI_SIG_ABILITY_UNLOCK_DESC",
-      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133"
+      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!"
     },
     {
       "k": "ID_UI_SIG_ABILITY_UNLOCK_NEW_DESC",
@@ -10324,10 +10673,10 @@
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, and Passive Evade effects."
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566",
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_SP3_UPDATED",
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, Auto-Block and all Evade effects.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_TOREGEN",
@@ -10532,9 +10881,9 @@
       "vn": "13.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_A_NEW",
-      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. ",
-      "cn": null
+      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. "
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_B",
@@ -10877,10 +11226,10 @@
       "vn": 25
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_IMN",
       "v": "Colossus is Immune to all Bleed, Incinerate, Coldsnap & Frostbite  effects. Additionally, if he’s not fighting a Tech Champion, he’s also immune to Armor Break and Armor Shattered Debuffs.",
-      "vn": 25,
-      "cn": null
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_PWR",
@@ -11633,6 +11982,10 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_DISTRACT_I",
+      "v": "Distraction"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_DIZZINESS_HUD",
       "v": "CONCUSSION"
     },
@@ -11663,6 +12016,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DIZZINESS_VII",
       "v": "[b310e8]Dizziness VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DMGRESIST",
+      "v": "[b4b4b4ff]Damage Resistance[-]",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DOC_OCK_BIO_A",
@@ -13716,8 +14074,20 @@
       "v": "This attack disorients the opponent, granting Nightcrawler a permanent [16982bff]{1}%[-] increased chance to score a Deep Wound."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DWCHANCEPERM_NEW",
+      "v": "This attack disorients the opponent, granting Nightcrawler a permanent [16982bff]{1}%[-] increased chance to score an Instant Bleed."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DWCHANCE_NEW",
+      "v": "The chance to score an Instant Bleed with this attack is increased by [16982bff]{1}%[-] while in Swashbuckling Mode.\t"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_HUD",
       "v": "DEEP WOUND"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_HUD_NEW",
+      "v": "INSTANT BLEED"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_TEN",
@@ -13730,8 +14100,20 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_TEN_AO_NEW",
+      "v": "Nightcrawler’s cutlass has a [16982bff]{0}%[-] chance to strike an Instant Bleed, passively dealing [16982bff]{1}[-] Bleed damage instantly. The chance to score an Instant Bleed increases by up to 10% based on how low the opponent’s Armor is."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_TEN_NEW",
+      "v": "\tNightcrawler’s cutlass has a [16982bff]{0}%[-] chance to strike an Instant Bleed, passively dealing [16982bff]{1}%[-] of his Attack as Bleed damage instantly. The chance to score an Instant Bleed increases by up to 10% based on how low the opponent’s Armor is."
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_TWENTY",
       "v": "Nightcrawler’s cutlass has a [16982bff]{0}%[-] chance to strike a Deep Wound, dealing [16982bff]{1}%[-] of his Attack as Bleed damage instantly. The chance to score a Deep Wound increases by up to 20% based on how low the opponent’s Armor is."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_DW_TWENTY_NEW",
+      "v": "Nightcrawler’s cutlass has a [16982bff]{0}%[-] chance to strike an Instant Bleed, passively dealing [16982bff]{1}%[-] of his Attack as Bleed damage instantly. The chance to score an Instant Bleed increases by up to 20% based on how low the opponent’s Armor is."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NGC_EVADE",
@@ -14497,10 +14879,10 @@
       "v": "[16982bff]{0}%[-] chance to inflict Weakness, decreasing the target's Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
     {
+      "cn": "Taskmaster",
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_WE_HUD",
       "v": "WEAKNESS EXPLOITED",
-      "vn": "16.1",
-      "cn": "Taskmaster"
+      "vn": "16.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ZERO_POISON_AO",
@@ -14770,6 +15152,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_FURY_KINGGROOT_DEBUFF",
       "v": "Each time King Groot receives a Debuff, he shrugs it off after {2} seconds at the cost of 1 Fury charge.",
       "vn": "12.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FURY_KINGGROOT_DEBUFF_V2",
+      "v": "Each time King Groot receives a Debuff, he removes 1 Fury charge and starts a {2} second timer. When the timer expires, he purifies one Debuff.",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FURY_MAESTRO",
@@ -15172,6 +15559,191 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_GLANCING_HUD",
       "v": "GLANCING HIT"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_CHALLENGES",
+      "v": "[edb8ef]Challenge Issuing[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_ENRAGE",
+      "v": "[e3de40]Infuriation[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_MINIGAME",
+      "v": "[b4b4b4ff]Minigame Participation[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_PHASE",
+      "v": "[e3de40]Phase Progression[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_TACTICS",
+      "v": "[edb8ef]Tactic Banning[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_TOKENB",
+      "v": "[ff5a00]Blunder[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GMASTER_TOKENG",
+      "v": "[78c93a]Competence[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_BLUNDER",
+      "v": "BLUNDER",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_BFGN",
+      "v": "GAIN A BUFF",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_BLOK",
+      "v": "STRIKE MY BLOCK",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_CRIT",
+      "v": "LAND A CRITICAL HIT",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_DASH",
+      "v": "BACK DASH",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_FAIL",
+      "v": "CHALLENGE FAILED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_HEVY",
+      "v": "LAND A HEAVY",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_IDLE",
+      "v": "STAND STILL",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_INTC",
+      "v": "PERFORM AN INTERCEPT",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_KNKDN",
+      "v": "KNOCK ME DOWN",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_NULL",
+      "v": "WHIFF AN ATTACK",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_SHOK",
+      "v": "INFLICT A DAMAGE OVER TIME EFFECT",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_WIN",
+      "v": "CHALLENGE SUCCESSFUL",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_WTB",
+      "v": "PERFORM WELL-TIMED BLOCKS",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_COMPETENCE",
+      "v": "COMPETENCE",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_ENRAGE",
+      "v": "INFURIATED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_P1_HUD",
+      "v": "1 - OPENING GAMBIT",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_P2_HUD",
+      "v": "2 - TRANSPOSITION",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_P3_HUD",
+      "v": "3 - ZUGZWANG",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_P4_HUD",
+      "v": "4 - CHECKMATE",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_PX_DONE",
+      "v": "PHASE COMPLETE",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_REVINC",
+      "v": "INCOMING REVERSAL",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_ATK",
+      "v": "LANDING ATTACKS BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_BLOK",
+      "v": "BLOCKING BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_DEX",
+      "v": "DEXTERITY BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_LGT",
+      "v": "LIGHT ATTACKS BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_MED",
+      "v": "MEDIUM ATTACKS BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_PARRY",
+      "v": "PARRY BANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_T_UNBAN",
+      "v": "TACTICS UNBANNED",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_VULN",
+      "v": "WOUNDED",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_GWENBLEEDCONVERT",
@@ -15928,6 +16500,10 @@
       "v": "PROCESSING..."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_INJURE_I",
+      "v": "Injure"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_INVISIBILITY",
       "v": "The Hood gains Invisibility for {2} seconds. While Invisible, incoming attacks have a {1}% chance to Miss. Non-Contact attacks have double this chance.",
       "vn": "11.2"
@@ -16094,9 +16670,9 @@
       "v": "The duration of each Judgment’s Secondary Effect is increased by {1}% for each Judgment already active."
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE",
-      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds.",
-      "cn": null
+      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE_REVISED",
@@ -16874,9 +17450,9 @@
       "vn": 12
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_MLS_CRITCHANCE",
-      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating.",
-      "cn": null
+      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating."
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
@@ -17800,6 +18376,16 @@
       "v": "[b310e8]Poison VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_POWERATE",
+      "v": "Power Rate",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_POWERCOSMIC",
+      "v": "Power Cosmic",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_POWERGAIN",
       "v": "[b4b4b4ff]Power Gain[-]"
     },
@@ -17963,6 +18549,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PROFICIENCY_VII",
       "v": "[b310e8]Block Proficiency VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_PROTECTION",
+      "v": "[b4b4b4ff]Protection[-]",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PROTECTION_HUD",
@@ -18900,6 +19491,38 @@
       "v": "TRAP SPIDER"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_1_HUD",
+      "v": "WRETCHED RODENTS!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_2_HUD",
+      "v": "INTOLERABLE!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_3_HUD",
+      "v": "DOOM WILL NEVER BE DEFEATED!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_4_HUD",
+      "v": "NOT LIKE THIS!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_5A_HUD",
+      "v": "FOR EVERY ONE I FLING AWAY"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_5B_HUD",
+      "v": "A DOZEN MORE VEX ME!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_TIPPY_OPP_HUD",
+      "v": "TIPPY ATTACK!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_TIPPY_SELF_HUD",
+      "v": "TIPPY COME BACK!"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_STAGGER",
       "v": "{0}% chance to Stagger the enemy for {2} seconds. A Staggered enemy cannot gain their next Buff effect."
     },
@@ -19582,6 +20205,21 @@
       "vn": "24.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CONTESTMASTER",
+      "v": "As ruler of the Battlerealm",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CONTESTRULES",
+      "v": "Rules of the Fight",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CONTESTTOKENS",
+      "v": "Tokens of the Battlerealm",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_BK",
       "v": "Bad Karma",
       "vn": 23
@@ -19890,6 +20528,26 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GOD",
       "v": "Goddess of Death - Passive",
       "vn": 16
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE1",
+      "v": "Phase 1: Opening Gambit - Between 100% to 70% Health",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE2",
+      "v": "Phase 2: Transposition - Between 69% to 30% Health",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE3",
+      "v": "Phase 3: Zugzwang - Between 29% to 1% Health",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE4",
+      "v": "Phase 4: Checkmate - Between 1% to 0% Health",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_HAAZARETHAURA",
@@ -20832,6 +21490,11 @@
       "vn": "16.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_POWERCOSMIC",
+      "v": "The Power Cosmic Buff",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_POWERSTONE",
       "v": "Power Stone",
       "vn": "23.1"
@@ -20862,7 +21525,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_PWRFILL",
-      "v": "When Filling a Bar of Power",
+      "v": "\tWhen Filling a Bar of Power",
       "vn": "18.1"
     },
     {
@@ -20889,6 +21552,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ROBOTICS",
       "v": "Robotics",
       "vn": "24.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ROTATEBUFF",
+      "v": "Rotating Buffs - Max 2 of Each:",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_SETSFANGS",
@@ -22584,10 +23252,10 @@
       "vn": "18.1"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346",
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVECHARGE",
       "v": "At the start of the fight, Corvus gains {1} permanent Glaive charges, granting him True Damage and guaranteed Critical Hits with his glaive as long as Glaive’s Immunity is active. A charge is spent every time Corvus hits with Basic Attack using his glaive.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVEDELAY",
@@ -22600,10 +23268,10 @@
       "vn": "17.2"
     },
     {
+      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326",
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY",
       "v": "Corvus Glaive does not take damage from Cold Snap, Bleed and Shock Debuffs while Glaive’s Immunity is active. When Glaive’s immunity reactivates or is disabled, all Debuffs listed above are Purified and Corvus takes [16982bff]{1}[-] damage.",
-      "vn": "17.2",
-      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_EXTRA",
@@ -22613,6 +23281,11 @@
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_TITLE",
       "v": "[b4b4b4ff]Glaive’s Immunity[-]"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_V2",
+      "v": "Corvus Glaive does not take damage from Cold Snap, Bleed and Shock Debuffs, nor Frostbite, while Glaive’s Immunity is active. When Glaive’s immunity reactivates or is disabled, those Debuffs are Purified and Corvus takes [16982bff]{1}[-] damage.",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_KNOCKEDDOWN",
@@ -22655,10 +23328,10 @@
       "vn": "17.2"
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364",
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP2",
       "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP3",
@@ -23016,9 +23689,9 @@
       "vn": 23
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_CULL_SP1",
-      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
-      "cn": null
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting."
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_SP1_FIX",
@@ -23057,7 +23730,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_CVBW_CBW_C",
-      "v": "[d900ff]Curse of Blood:[-] Bleed immunity. \n[d900ff]Curse of Plague:[-] Poison immunity. \n[d900ff]Curse of Hellfire:[-] Incinerate immunity.",
+      "v": "[d900ff]Curse of Blood:[-] Bleed immunity. \r\n[d900ff]Curse of Plague:[-] Poison immunity. \r\n[d900ff]Curse of Hellfire:[-] Incinerate immunity.",
       "vn": "24.2"
     },
     {
@@ -23067,7 +23740,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_CVBW_COD_B",
-      "v": "[d900ff]Curse of Blood:[-] Bleed, dealing [16982bff]{1}[-] direct damage. \n[d900ff]Curse of Plague:[-] Poison, dealing [16982bff]{1}[-] damage and reducing health recovery by 30%. \n[d900ff]Curse of Hellfire:[-] Incinerate, dealing [16982bff]{1}[-] damage, removing Perfect Block Chance and reducing Block Proficiency by 50%.",
+      "v": "[d900ff]Curse of Blood:[-] Bleed, dealing [16982bff]{1}[-] direct damage. \r\n[d900ff]Curse of Plague:[-] Poison, dealing [16982bff]{1}[-] damage and reducing health recovery by 30%. \r\n[d900ff]Curse of Hellfire:[-] Incinerate, dealing [16982bff]{1}[-] damage, removing Perfect Block Chance and reducing Block Proficiency by 50%.",
       "vn": "24.2"
     },
     {
@@ -23361,7 +24034,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_DOOM_SP1_A",
-      "v": "The [20c76b]Aura of Haazareth[-] is activated for {2} seconds, this will not trigger if the Aura was already active.",
+      "v": "The [20c76b]Aura of Haazareth[-] is activated for {2} seconds. This will not trigger if the Aura was already active.",
       "vn": 25
     },
     {
@@ -23371,12 +24044,12 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B2",
-      "v": "The first hit of this Attack steals Power from the Opponent based on how many full bars of Power they had, gaining 200% of the Power stolen up to a maximum of 2 Bars of Power.\\nAt 1 Bar of Power Steal {0}% of each Power Bar.\\nAt 2 Bars of Power Steal {1}% of each Power Bar.\\nAt 3 Bars of Power Steal {2}% of each Power Bar.",
+      "v": "The first hit of this Attack steals Power from the Opponent based on how many full bars of Power they had, gaining 200% of the Power stolen up to a maximum of 2 Bars of Power.\nAt 1 Bar of Power Steal {0}% of each Power Bar.\nAt 2 Bars of Power Steal {1}% of each Power Bar.\nAt 3 Bars of Power Steal {2}% of each Power Bar.",
       "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_DOOM_SP1_B3",
-      "v": "The first hit of this Attack steals {0}% of each full Power Bar the Opponent has and Doom gains {1}% of the Power stolen, capping at a maximum of {2} Bars of Power",
+      "v": "The first hit of this Attack steals {0}% of each full Power Bar the Opponent has and Doom gains {1}% of the Power stolen, capping at a maximum of {2} Bars of Power.",
       "vn": 25
     },
     {
@@ -24086,6 +24759,201 @@
       "vn": "24.3"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_HEAVY",
+      "v": "Can’t be interrupted and remove all [78c93a]Tokens of Competence[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_MOC_A",
+      "v": "The Grandmaster can only receive damage when struck by an attack, all other damage sources have no effect. Additionally, incoming hit damage is capped at {2}% of his max health.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_MOC_B",
+      "v": "The Grandmaster’s Power Bar and Ability Accuracy can’t be altered or reduced and his attacks can’t be Evaded or caused to Miss.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_A",
+      "v": "Both the Summoner and Grandmaster can’t gain Power.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_B",
+      "v": "If the Summoner doesn’t make contact with the Grandmaster every {2} seconds they begin to Degenerate, receiving [16982bff]{1}[-] direct damage per second until contact is made. This timer is paused during the Grandmaster’s Special Attacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_C",
+      "v": "During this phase Each time the Summoner performs an intercept, they gain 1 [78c93a]Token of Competence[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_D",
+      "v": "While performing certain [edb8ef]Tactics[-] the Grandmaster has a chance to announce a rule change, banning it from play. These [edb8ef]Tactics[-] are: Parry an attack, Use Dexterity and Land a Light Attack.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_E",
+      "v": "Once a [edb8ef]Tactic[-] has been banned, if the Summoner performs that action again they will gain {2} [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_F",
+      "v": "After all {2} [edb8ef]Tactics[-] have been banned, they are instantly unbanned and the Grandmaster prepares his Special 1. [edb8ef]Tactics[-] can not be banned again until the Grandmaster has thrown his Special 1.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_G",
+      "v": "During this Phase, each time the Grandmaster finishes his Special 1 he is [ff0000]Wounded[-] for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_A",
+      "v": "The Summoner can gain up to 1 Bar of Power. The Grandmaster gains {2}% of a Power Bar for each hit landed by the Summoner.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_B",
+      "v": "Periodically the Grandmaster will assign a [edb8ef]Challenge[-]. Once assigned the Summoner has {2} seconds to complete the [edb8ef]Challenge[-]. Success grants a [78c93a]Token of Competence[-] failure grants a [ff5a00]Token of Blunder[-]. [edb8ef]Challenges[-] are paused during the Grandmaster’s Special Attacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_C",
+      "v": "[edb8ef]Challenges[-] are assigned at random. Completed [edb8ef]Challenges[-] can not be assigned again until every other [edb8ef]Challenge[-] has cycled once.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_D",
+      "v": "[edb8ef]Challenges:[-] Whiff an Attack, Land a Critical Hit, Perform an intercept, Gain a Buff. Inflict a Damage over time effect.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_E",
+      "v": "During this Phase, after each [edb8ef]Challenge[-] has cycled one time the Grandmaster is [ff0000]Wounded[-] for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_Z",
+      "v": "The Grandmaster becomes immune to all Stun Debuffs for this Phase and all remaining Phases.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_A",
+      "v": "The Grandmaster gains {2}% of a Power bar every second, this effect is paused during his Special Attacks however its potency is increased by {1}% after each Special Attack he throws.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_B",
+      "v": "Every {2} seconds a [edb8ef]Challenge[-] is issued for {1} seconds. Failing to complete the [edb8ef]Challenge[-] grants {0} [ff5a00]Token of Blunder[-]. Completing the [edb8ef]Challenge[-] grants {0} [78c93a]Token of Competence[-]. These [edb8ef]Challenges[-] are paused during the Grandmaster’s Special attacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_C",
+      "v": "[edb8ef]Challenges[-] are paused during either Champions Special attacks and banned [edb8ef]Tactics[-] are temporarily unbanned throughout.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_D",
+      "v": "Every {2} seconds the Summoner’s controls are reversed for {1} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_E",
+      "v": "[edb8ef]Challenges:[-] Strike into Block, Perform Back Dashes, Knock the Grandmaster Down, Stand Still, Perform Well-Timed Blocks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_F",
+      "v": "During this Phase, every {0}th [edb8ef]Challenge[-] completed by the Summoner [ff0000]Wounds[-] the Grandmaster for {2} seconds. While [ff0000]Wounded[-], no new [edb8ef]Challenges[-] will activate.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH4_A",
+      "v": "The Grandmaster becomes [e3de40]Infuriated[-] for {2} seconds. During this final [e3de40]Infuriation[-] the Grandmaster becomes Unstoppable while dashing.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH4_B",
+      "v": "When [e3de40]Infuriation[-] ends The Grandmaster becomes permanently [ff0000]Wounded[-] for the rest of the fight and will only take damage from the Summoners Special 3.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_A",
+      "v": "The Grandmaster has {2} Phases of challenge, entering a new Phase resets the Summoner’s Power meter to 0 and removes all Tokens.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_B",
+      "v": "After completing a Phase, the Grandmaster prepares the next Phase for {2} seconds, during this time neither champion will gain Power and the Grandmaster will be Indestructible and very defensive.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_B2",
+      "v": "After preparation is complete, the Grandmaster becomes [e3de40]Infuriated[-] for {2} seconds before the next Phase officially begins. While [e3de40]Infuriated[-], neither champion can gain Power and the Grandmaster is Unblockable, Indestructible and very aggressive.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_C",
+      "v": "Throughout each Phase the Summoner will have opportunities to push the Grandmaster to his [ff0000]Wounded[-] state.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_D",
+      "v": "While [ff0000]Wounded[-], the Grandmaster is Stunned and the Summoner’s Attack is increased by +{2}% for each [78c93a]Token of Competence[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_E",
+      "v": "When the Grandmaster leaves his [ff0000]Wounded[-] state, all [78c93a]Tokens of Competence[-] are removed and the current Phase resets.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP1A",
+      "v": "This attack starts with an Unblockable blast, if the Opponent is struck and stunned by this blast, all following actions result in failure.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP1B",
+      "v": "After the blast, the Grandmaster rolls a random combination of 3 actions which must be completed according to the icons displayed in the fight from left to right.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP1C",
+      "v": "Each successful action grants {2} [78c93a]Token of Competence[-]. Failure grants {2} [ff5a00]Token of Blunder[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP1D",
+      "v": "These actions involve: [0077ff]Blocking[-], [2fff00]Dodging[-] or [ff2200]Getting Struck[-] by the Grandmaster’s projectiles. These projectiles do not stun.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP2A",
+      "v": "Each hit drains {2}% of the Opponents max Power. This effect will trigger through the Opponent’s block.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_SP3A",
+      "v": "The game has rules to be followed, failure to abide by them results in a loss. This attack is a guaranteed knockout and can’t be blocked or reduced in any way.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_TOBR_A",
+      "v": "Throughout the fight, each time the Grandmaster throws a Special 1 the Summoner will gain [78c93a]Tokens of Competence[-] or [ff5a00]Tokens of Blunder.[-]",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_TOBR_B",
+      "v": "At any point during the fight, if the Summoner reaches {2} [ff5a00]Tokens of Blunder[-], the Grandmaster instantly gains his Special 3.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_TOBR_C",
+      "v": "If the Summoner is knocked out, up to {2} of their [78c93a]Tokens of Competence[-] will persist into the next fight.",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_GOBLIN_BAGTRICKS_INCINERATE",
       "v": "Incinerate - deals [16982bff]{1}[-] Energy Damage.",
       "vn": "14.1"
@@ -24531,10 +25399,10 @@
       "vn": "19.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_EVD",
       "v": "The crowd dislikes cowards, cheering for Korg when opponents Evade or Dexterity his Basic Attacks, increasing Crowd Excitement by {1} for {2} seconds. Only {0} Crowd Excitement charges can be gained through this ability.",
-      "vn": "19.1",
-      "cn": null
+      "vn": "19.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_TITLE",
@@ -24747,6 +25615,16 @@
       "v": "After absorbing the power of Carol Danvers, the original Ms. Marvel, Rogue possessed an amalgamated mutant/Kree physiology, decreasing the duration of Debuffs by [16982bff]{1}%[-]."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_LAZARUS_PAUSE_DESC",
+      "v": "Regenerates 20% health whenever this Champion would be knocked out. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LAZARUS_PAUSE_TITLE",
+      "v": "Lazarus",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_LIFEDRAIN",
       "v": "Rogue is healed for {0}% of the Life Stolen."
     },
@@ -24932,6 +25810,11 @@
       "k": "ID_UI_STAT_FORMAT_MEPHISTO_SP3",
       "v": "Once a fight, Mephisto instantly drains up to {2} Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight.",
       "vn": "15.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MISSFAIL_CALL",
+      "v": "MISS FAILED",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
@@ -25843,9 +26726,19 @@
       "vn": 19
     },
     {
+      "k": "ID_UI_STAT_FORMAT_PHASE_CALL",
+      "v": "PHASE",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_PLAUGEDMIND_DESC",
       "v": "Periodically Drains all of the Attackers Power.",
       "vn": "23.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_POWERCOSMIC_CALL",
+      "v": "THE POWER COSMIC",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_POWERSTEALINFO",
@@ -25866,10 +26759,10 @@
       "vn": 13
     },
     {
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383",
       "k": "ID_UI_STAT_FORMAT_PROXIMA_BLACKORDER",
       "v": "Proxima Midnight has {0} missions to accomplish, one at a time, in random order.",
-      "vn": "17.2",
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383"
+      "vn": "17.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_PROXIMA_DMGREDUCTION",
@@ -26501,10 +27394,10 @@
       "vn": "17.1"
     },
     {
+      "cn": "Switched to Sentinel instead - By V",
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE",
       "v": "Sentinel gains {2} Adaptation charge(s) when an Opponent performs the same action consecutively. Actions include Light Attacks, Medium Attacks, Heavy Attacks, Dashing, Dodging, and Blocking an Attack. Max: 50 charges.",
-      "vn": "17.1",
-      "cn": "Switched to Sentinel instead - By V"
+      "vn": "17.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE_2",
@@ -26827,6 +27720,14 @@
       "k": "ID_UI_STAT_FORMAT_SPMAN_MCU_STUN",
       "v": "{0}% chance to Stun the opponent for {2} seconds. The chance is increased by {1}% if the Stark AI is active.",
       "vn": 14
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP2_PAUSE",
+      "v": "All personal Bleed Debuffs on the Opponent are paused during this attack."
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_PURIFY",
+      "v": "If Tippy Toe inflicts an Instant Bleed with this attack, there is a {1}% chance for each Bleed Debuff to be refreshed instead of being removed."
     },
     {
       "k": "ID_UI_STAT_FORMAT_STATICSHOCK_UPD",
@@ -27313,6 +28214,221 @@
       "vn": "24.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SURFER_ACTIVATE_POWERCOS",
+      "v": "At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_APTITUDE_PAUSE_DESC",
+      "v": "Increase the Potency of Fury, Armor Up, and Power Rate Buffs",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_ARMBRK",
+      "v": "Inflict 1 Armor Break for each Unique Buff, lowering the Opponents Armor Rating by [16982bff]{1}[-] for {2} seconds. Max 5 stacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_ARMOR",
+      "v": "[00e4ff]Armor Up[-]: Increase Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_CREATE_BUFFS",
+      "v": "Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent's Armor Rating by [16982bff]{1}[-] for {2} seconds. Max 3 Stacks. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_ARMOR_PAUSEDESC",
+      "v": "Provides Armor Up Buff when created",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_ARMOR_PAUSETITLE",
+      "v": "Dormant Armor Up",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_FURY_PAUSEDESC",
+      "v": "Provides Fury Buff when created",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_FURY_PAUSETITLE",
+      "v": "Dormant Fury",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_POWER_PAUSEDESC",
+      "v": "Provides Power Rate Buff when created",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DORMANT_POWER_PAUSETITLE",
+      "v": "Dormant Power Rate",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_DURATION_BUFFS",
+      "v": "Each active Rotating Buff reduces the duration of future Rotating Buffs by {1} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_ENERGYDAM",
+      "v": "Each hit deals a Burst of [16982bff]{1}[-] Energy Damage for each Unique Buff. This scales with base attack only.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_FURY",
+      "v": "[fc9335]Fury[-]: Increase Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_IMMUNITY",
+      "v": "Silver Surfer takes -{1}% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer's abilities. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PAUSE_PHASE_DESC",
+      "v": "Incoming attacks Miss",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PAUSE_PHASE_TITLE",
+      "v": "Phase",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PAUSE_PRATE_DESC",
+      "v": "Increase Power Gained when attacking or being attacked",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PAUSE_VIGILANCE_DESC",
+      "v": "Attacks cannot Miss",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PAUSE_VIGILANCE_TITLE",
+      "v": "Vigilance",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PCOSMIC_CDOWN_PAUSE_DESC",
+      "v": "When this timer expires the Power Cosmic Buff returns.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PCOSMIC_CDOWN_PAUSE_TITLE",
+      "v": "Power Cosmic Cooldown",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PCOSMIC_PAUSE_DESC",
+      "v": "Used to create available Dormant effect",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PCOSMIC_PAUSE_TITLE",
+      "v": "Power Cosmic",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_PHASE",
+      "v": "If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent's {1}% chance to Miss for {2} second(s). ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_POWER",
+      "v": "[7f89d9]Power Rate[-]: Increase Power Rate by {1}% for {2} seconds. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_REFRESH_BUFFS",
+      "v": "Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_ROTATE_BUFFS",
+      "v": "While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every {2} seconds in the order of [7f89d9]Power Rate[-], [fc9335]Fury[-], then [00e4ff]Armor Up[-].",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SIG_POTENCY",
+      "v": "All Buffs on Silver Surfer have [16982bff]{1}%[-] increased Potency.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_3BUFFS",
+      "v": "If at least {1} Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for {2} seconds. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_ARMBRK",
+      "v": "Each hit that makes contact with the Opponent inflicts an Armor Break Debuff lowering the Opponent's Armor Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_CONSUME",
+      "v": "If available, consume the Power Cosmic Buff and for each Unique Buff inflict 1 Armor Break, lowering the Opponents Armor Rating by [16982bff]{1}[-] for 14 seconds. Max 5 stacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_CREATE",
+      "v": "If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_CREATECOSMIC",
+      "v": "Create a Power Cosmic Buff.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP1_REV",
+      "v": "Reverse the Opponent's Controls for {2} second(s).",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP2_3BUFFS",
+      "v": "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP2_ENERGYDMG",
+      "v": "Silver Surfer increases the potency of any bursts of Energy or Physical damage by {1}% for the duration of this Special Attack.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP3_ALLBUFFS",
+      "v": "Gain an Aptitude Buff increasing the potency of Silver Surfers Fury, Armor Up and Precision Buffs by {1}% for {2} seconds, then Retrigger each of Silver Surfers active Rotating Buffs. Max 1.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP3_ALLBUFFS_B",
+      "v": "Each Aptitude Buff on Silver Surfer also increases the potency of his Power Rate Buffs by {1}%. ",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SP3_BUFFBON",
+      "v": "If at least 3 Unique Buffs are active when launching this Special Attack, Silver Surfer inflicts a Stun Debuff lasting {2} seconds.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SPECACTIVE",
+      "v": "Pause the expiry of any Buffs created by Silver Surfer for the Duration of Special Attacks.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SPECACTIVE_A",
+      "v": "Consume the Power Cosmic Buff.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SURFER_SPECACTIVE_B",
+      "v": "Pause the Duration of Silver Surfer's Power Cosmic Buff Cooldown, his Rotating Dormant icons, and all active Buffs until the Special Attack ends.",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_TAUNT_SHORT",
       "v": "[b4b4b4ff]Taunt[-]"
     },
@@ -27387,10 +28503,10 @@
       "vn": 18
     },
     {
+      "cn": "From a infinity stone to an Infinity Stone instead",
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY1_LONG",
       "v": "Thanos permanently generates Power after activating an Infinity Stone, at the rate of 1 bar of Power over {1} seconds. This is the only way Thanos gains Power in this fight.",
-      "vn": 18,
-      "cn": "From a infinity stone to an Infinity Stone instead"
+      "vn": 18
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_END_LONG",
@@ -27911,10 +29027,10 @@
       "vn": "21.2"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_FORMAT_THING_IMM",
       "v": "Immune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.",
-      "vn": 21,
-      "cn": null
+      "vn": 21
     },
     {
       "k": "ID_UI_STAT_FORMAT_THING_RES",
@@ -28144,6 +29260,11 @@
     {
       "k": "ID_UI_STAT_FORMAT_UNSTOPPABLE_SHORT",
       "v": "[b4b4b4ff]Unstoppable[-]"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VIGILANCE_CALL",
+      "v": "VIGILANCE",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_FRZ_A",
@@ -28573,10 +29694,10 @@
       "vn": "19.1"
     },
     {
+      "cn": null,
       "k": "ID_UI_STAT_HEIM_TS_ACT",
       "v": "While True Strike is active Heimdall’s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against projectiles, and has a {0}% chance to Auto-Block Basic Attacks, this will trigger Parry.",
-      "vn": 19,
-      "cn": null
+      "vn": 19
     },
     {
       "k": "ID_UI_STAT_HEIM_TS_ACT_ALT",
@@ -29515,7 +30636,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_CABLE_DESC",
-      "v": "Cable's immense mutant power are hampered by having to constantly keep the techno organic virus in check.  As the strength of the virus wanes, Cable has a [16982bff]{0}%[-] chance gain {1}% Power over 10 seconds each time he fills a bar of power."
+      "v": "Cable's immense mutant power are hampered by having to constantly keep the techno organic virus in check. As the strength of the virus wanes, Cable has a [16982bff]{0}%[-] chance gain {1}% Power over 10 seconds each time he fills a bar of power."
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_CABLE_SHORT",
@@ -30780,6 +31901,21 @@
       "vn": 19
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_GM_SHORT",
+      "v": "Master of the Contest {0}",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GM_SIMPLE",
+      "v": "This ability gives the Grandmaster the ability to cap incoming damage at a maximum threshold and allows him to bypass Miss and Evade mechanics.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_GM_TITLE",
+      "v": "MASTER OF THE CONTEST",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_GREENGOBLIN_HUD",
       "v": "SUPER BOMB",
       "vn": "14.1"
@@ -31586,19 +32722,19 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MAGIKDARKCHYLDE_5STAR_DESC",
-      "v": "After filling a bar of Power, Magik has a 25% chance to enter a state of Limbo, dealing {1}% Attack as Energy Damage per second for {2} seconds. Any damage taken during this period is rewound when the effect expires. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars.\r\n\r\nBased on current Signature Level, chances are increased by [16982bff]{0}%[-]."
+      "v": "\tAfter filling a bar of Power, Magik has a 25% chance to enter a state of Limbo, dealing {1}% Attack as Energy Damage per second for {2} seconds. Any damage taken during this period is rewound when the effect expires. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars. Based on current Signature Level, chances are increased by [16982bff]{0}%[-]."
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MAGIKDARKCHYLDE_5STAR_DESC_MOD",
-      "v": "After filling a bar of Power, Magik has a 25% chance to enter a state of Limbo for {2} seconds. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars.\r\n\r\nBased on current Signature Level, chances are multiplied by [16982bff]{0}%[-]."
+      "v": "After filling a bar of Power, Magik has a 25% chance to enter a state of Limbo for {2} seconds. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars. Based on current Signature Level, chances are multiplied by [16982bff]{0}%[-]."
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MAGIKDARKCHYLDE_DESC",
-      "v": "After filling a bar of Power, Magik has a 20% chance to enter a state of Limbo, dealing {1}% Attack as Energy Damage per second for {2} seconds. Any damage taken during this period is rewound when the effect expires. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars.\r\n\r\nBased on current Signature Level, chances are increased by [16982bff]{0}%[-]."
+      "v": "After filling a bar of Power, Magik has a 20% chance to enter a state of Limbo, dealing {1}% Attack as Energy Damage per second for {2} seconds. Any damage taken during this period is rewound when the effect expires. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars. Based on current Signature Level, chances are increased by [16982bff]{0}%[-].\t"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MAGIKDARKCHYLDE_DESC_MOD",
-      "v": "After filling a bar of Power, Magik has a 20% chance to enter a state of Limbo for {2} seconds. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars.\n\nBased on current Signature Level, chances are multiplied by [16982bff]{0}%[-]."
+      "v": "After filling a bar of Power, Magik has a 20% chance to enter a state of Limbo for {2} seconds. The chance increases by 12.5% after filling 2 bars, and by 25% after filling 3 bars. Based on current Signature Level, chances are multiplied by [16982bff]{0}%[-]."
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MAGIKDARKCHYLDE_HUD",
@@ -31954,12 +33090,24 @@
       "vn": 12
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC_AO_NEW",
+      "v": "Nightcrawler’s unique heritage, coupled with his X-Men training allows him to switch combat mode {0} seconds faster. Additionally, anytime he strikes an Instant Bleed, he gains [16982bff]{1}[-] increased Attack for {2} seconds."
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_DESC_NEW",
+      "v": "Nightcrawler’s unique heritage, coupled with his X-Men training allows him to switch combat mode {0} seconds faster. Additionally, anytime he strikes an Instant Bleed, he gains [16982bff]{1}%[-] increased Attack for {2} seconds."
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_SHORT",
       "v": "Neyaphem Heritage {0}"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_SIMPLE",
       "v": "Nightcrawler’s unique heritage and intense training lets him switch his combat mode faster and increase his Attack each time he strikes a Deep Wound."
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_SIMPLE_NEW",
+      "v": "Nightcrawler’s unique heritage and intense training lets him switch his combat mode faster and increase his Attack each time he strikes an Instant Bleed."
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_NIGHTCRAWLER_TITLE",
@@ -32799,6 +33947,21 @@
       "k": "ID_UI_STAT_SIGNATURE_SUNS_TITLE",
       "v": "Gideon's Experiments",
       "vn": "24.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SURFER_SHORT",
+      "v": "Energies of the Universe {0}",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SURFER_SIMPLE",
+      "v": "Silver Surfer further enhances himself with the cosmic energies of the Universe",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SURFER_TITLE",
+      "v": "Energies of the Universe",
+      "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_SYMBIOID_SHORT",
@@ -34316,7 +35479,7 @@
     },
     {
       "k": "ID_UI_THECHAMP_SYNG_S3_SHORT",
-      "v": "[64acff]The Champion:[-] Gains a Persistent Charge for every {0} hits in his Combo Meter. \r\n[64acff]Thor (Ragnarok):[-] +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
+      "v": "[64acff]The Champion:[-] Gains a Persistent Charge for every {0} hits in his Combo Meter. \n[64acff]Thor (Ragnarok):[-] +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
       "vn": 21
     },
     {

@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "f9c79949da5f1ad8b1f3548ca9726c9fc9616cd0",
     "language": "en",
+    "post_processed": true,
+    "string_count": 321,
     "tagged": [
       "quests",
       "client"
     ],
-    "hash": "f9c79949da5f1ad8b1f3548ca9726c9fc9616cd0",
     "ts": 1549575789,
-    "string_count": 321,
-    "post_processed": true,
     "versionLock": "22.0"
   },
   "strings": [

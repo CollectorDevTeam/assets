@@ -1,14 +1,14 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "9a58b1d068f44070357654cf0c0900dd44511a84",
     "language": "en",
+    "string_count": 254,
     "tagged": [
       "initial",
       "client"
     ],
-    "hash": "9a58b1d068f44070357654cf0c0900dd44511a84",
-    "ts": 1563925646,
-    "string_count": 254
+    "ts": 1563925646
   },
   "strings": [
     {

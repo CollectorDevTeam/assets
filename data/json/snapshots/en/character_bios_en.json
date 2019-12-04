@@ -1,14 +1,16 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "e82c41bb42b5fa0de421b0fee7d14f845f0875ac",
     "language": "en",
+    "post_processed": true,
+    "string_count": 162,
     "tagged": [
       "character_bios",
       "client"
     ],
-    "hash": "326abc2811e4af62aa36598ef3f5fd634d2418e0",
-    "ts": 1571269636,
-    "string_count": 162
+    "ts": 1574887130,
+    "versionLock": "25.2"
   },
   "strings": [
     {
@@ -413,10 +415,10 @@
       "vn": "15.1"
     },
     {
+      "cn": null,
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
-      "vn": "21.3",
-      "cn": null
+      "vn": "21.3"
     },
     {
       "k": "ID_CHARACTER_BIOS_MODOK",
@@ -651,11 +653,6 @@
     {
       "k": "ID_CHARACTER_BIOS_VISION_MOVIE",
       "v": "The synthetic humanoid known as the Vision possesses a sophisticated artificial intelligence that delivers superior strategy in the heat of battle. His synthezoid body delivers super strength, flight, intangibility, and energy blasts. Although he may not be human, the Vision nobly stands shoulder-to-shoulder with the Avengers against overwhelming odds!"
-    },
-    {
-      "k": "ID_CHARACTER_BIOS_VISION_TIMELY",
-      "v": "The Vision, who's true name is Aarkus, is an alien law enforcement officer from a dimension known as Smokeworld. After being accidentally contacted by a scientist from Earth, Aarkus came to our dimension to fight crime. He has the ability to control gasses, smoke, and cold, even teleporting to the far side of the world using little more than a smouldering cigar.",
-      "vn": "24.2"
     },
     {
       "k": "ID_CHARACTER_BIOS_VOID",

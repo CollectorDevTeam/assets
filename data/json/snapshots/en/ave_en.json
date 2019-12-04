@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "90841a4991d6d1698a88b003992902261fc753f1",
     "language": "en",
+    "post_processed": true,
+    "string_count": 436,
     "tagged": [
       "ave",
       "client"
     ],
-    "hash": "90841a4991d6d1698a88b003992902261fc753f1",
     "ts": 1564767059,
-    "string_count": 436,
-    "post_processed": true,
     "versionLock": "24.2"
   },
   "strings": [
@@ -1436,9 +1436,9 @@
       "vn": 22
     },
     {
+      "cn": null,
       "k": "ID_UI_HOWTO_ADVANCED_DESC",
-      "v": "Check advanced \"how to play\" to get more details.",
-      "cn": null
+      "v": "Check advanced \"how to play\" to get more details."
     },
     {
       "k": "ID_UI_HOWTO_ADVANCED_TITLE",

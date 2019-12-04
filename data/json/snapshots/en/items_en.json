@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "0a775ae9d43469dda5a09647d56973f9cb0a32d3",
     "language": "en",
+    "post_processed": true,
+    "string_count": 342,
     "tagged": [
       "items",
       "client"
     ],
-    "hash": "0a775ae9d43469dda5a09647d56973f9cb0a32d3",
     "ts": 1563910712,
-    "string_count": 342,
-    "post_processed": true,
     "versionLock": "24.1"
   },
   "strings": [
@@ -786,10 +786,10 @@
       "v": "Play Versus to earn more battle chips!"
     },
     {
+      "cn": null,
       "k": "ID_UI_NSF_PYM_CANISTERS_LOCATION",
       "v": "Participate in Special Events, Daily Quests and Arenas to earn Pym Canisters!",
-      "vn": 19,
-      "cn": null
+      "vn": 19
     },
     {
       "k": "ID_UI_NSF_SC",

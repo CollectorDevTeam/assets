@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "9ff632d564b3beb503c83148c712697885226b06",
     "language": "en",
+    "post_processed": true,
+    "string_count": 375,
     "tagged": [
       "alliances",
       "client"
     ],
-    "hash": "9ff632d564b3beb503c83148c712697885226b06",
     "ts": 1564424999,
-    "string_count": 375,
-    "post_processed": true,
     "versionLock": "24.2"
   },
   "strings": [
@@ -1541,9 +1541,9 @@
       "vn": 22
     },
     {
+      "cn": null,
       "k": "ID_WARBUFF_GLOBAL_BUFFS",
-      "v": "GLOBAL BUFFS",
-      "cn": null
+      "v": "GLOBAL BUFFS"
     },
     {
       "k": "ID_WARBUFF_ITEM_DESCRIPTION_FORMAT",

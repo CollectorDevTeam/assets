@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
+    "hash": "2458f34fff4a71338b3ced5ac422c0f33d4ce732",
     "language": "en",
+    "post_processed": true,
+    "string_count": 402,
     "tagged": [
       "misc",
       "client"
     ],
-    "hash": "2458f34fff4a71338b3ced5ac422c0f33d4ce732",
     "ts": 1554916542,
-    "string_count": 402,
-    "post_processed": true,
     "versionLock": "22.1"
   },
   "strings": [
