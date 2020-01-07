@@ -1,15 +1,15 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "e82c41bb42b5fa0de421b0fee7d14f845f0875ac",
     "language": "en",
-    "post_processed": true,
-    "string_count": 162,
     "tagged": [
       "character_bios",
       "client"
     ],
+    "hash": "e82c41bb42b5fa0de421b0fee7d14f845f0875ac",
     "ts": 1574887130,
+    "string_count": 162,
+    "post_processed": true,
     "versionLock": "25.2"
   },
   "strings": [
@@ -415,10 +415,10 @@
       "vn": "15.1"
     },
     {
-      "cn": null,
       "k": "ID_CHARACTER_BIOS_MISTERSINISTER",
       "v": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor's child, Nathan Summers, also known as Cable.",
-      "vn": "21.3"
+      "vn": "21.3",
+      "cn": null
     },
     {
       "k": "ID_CHARACTER_BIOS_MODOK",

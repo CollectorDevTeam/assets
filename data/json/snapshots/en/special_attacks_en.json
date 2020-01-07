@@ -1,14 +1,14 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "b35e8e32bc40b0a1bef0cb16a4f6619e0ca4c94b",
     "language": "en",
-    "string_count": 962,
     "tagged": [
       "special_attacks",
       "client"
     ],
-    "ts": 1566787960
+    "hash": "b35e8e32bc40b0a1bef0cb16a4f6619e0ca4c94b",
+    "ts": 1566787960,
+    "string_count": 962
   },
   "strings": [
     {
@@ -348,10 +348,10 @@
       "v": "Unbreakable"
     },
     {
-      "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent.",
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_0",
       "v": "Atomic Fissure",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent."
     },
     {
       "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_1",
@@ -3445,10 +3445,10 @@
       "vn": "17.2"
     },
     {
-      "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)",
       "k": "ID_SPECIAL_ATTACK_PROXIMAMIDNIGHT_2",
       "v": "Black Light Brutality",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)"
     },
     {
       "k": "ID_SPECIAL_ATTACK_PSYLOCKE_0",

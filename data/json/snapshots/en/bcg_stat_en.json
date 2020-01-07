@@ -1,16 +1,16 @@
 {
   "meta": {
     "format": "sparx",
-    "hash": "8716f546a2fb95f2e1d020a35b02e000c310601e",
     "language": "en",
-    "post_processed": true,
-    "string_count": 8065,
     "tagged": [
       "bcg_stat",
       "client"
     ],
+    "hash": "6b2b5a864ca825c9082bfa4ce5ac0e37ada1bb93",
     "ts": 1574887129,
-    "versionLock": "25.1"
+    "string_count": 8065,
+    "post_processed": true,
+    "versionLock": "25.2"
   },
   "strings": [
     {
@@ -234,6 +234,211 @@
       "vn": 19
     },
     {
+      "k": "ID_AOL01",
+      "v": "Coward-Induced Rage",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL02",
+      "v": "Until struck, this Champion gains a large boost to Attack and constantly loses Skirmish & Warfare charges.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL03",
+      "v": "Skirmish Charges",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL04",
+      "v": "1 charge lost when struck, landing an attack or blocking an attack. Champion becomes more dangerous when charges deplete.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL05",
+      "v": "Warfare Charges",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL06",
+      "v": "1 charge lost when struck, landing an attack or blocking an attack. Champion becomes almost unbeatable when charges deplete.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL07",
+      "v": "Skirmish Upgrade",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL08",
+      "v": "This Champion ocassionally fights erratically and gains a large boost to Attack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL09",
+      "v": "Earthquake Meter",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL10",
+      "v": "Builds constantly and Knocks Out the attacker when it hits 100. Reduced when struck with a Critical Hit or when a Bleed Debuff is gained.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL11",
+      "v": "Overcharge Mode",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL12",
+      "v": "Special Attacks are Unblockable and can't Miss.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL13",
+      "v": "Spreadshot Mode",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL14",
+      "v": "Special Attacks can't be avoided with Dexterity, Evade or Auto-Block. Parry is extremely effective against these Special Attacks, however.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL15",
+      "v": "Efficiency",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL16",
+      "v": "Reduces the cost of launching a Special Attack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL17",
+      "v": "Abyss Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL18",
+      "v": "Each time this expires, an Unstoppable & Unblockable Buff are gained until this Champion is Intercepted.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL19",
+      "v": "Mana Burn",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL20",
+      "v": "Charges gained when struck with a Critical Hit. At 20+ Charges, this Champion gains a burst of Power and their opponent takes direct damage.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL21",
+      "v": "Generates Power over time and deals direct damage to the opponent (unless this Champion is Power Locked).",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL22",
+      "v": "Power Drain",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL23",
+      "v": "Staying near Loki constantly drains Power. Staying at 0 Power for too long causes a massive burst of damage.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL24",
+      "v": "Enhanced Regeneration",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL25",
+      "v": "Passive Regeneration greatly increased and immune to Heal Block Debuffs.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL26",
+      "v": "Degen Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL27",
+      "v": "Staying at 0 Power too long will cause massive damage.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL28",
+      "v": "Abyssal Bulwark",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL29",
+      "v": "Immune to Petrify. Loses less Power to Power Drain & Power Burn. Power Lock doesn't last as long.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL30",
+      "v": "Dynamo Charges",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL31",
+      "v": "Each strike or blocked attack deals energy damage for each charge.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL32",
+      "v": "Indestructible Charges",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL33",
+      "v": "Won't take damage from any source. Charges removed through Critical Hits and Heavy Attacks.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL34",
+      "v": "Energy Damage",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL35",
+      "v": "Deals constant Energy Damage. Get below 1.5 Bars of Power to remove.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL36",
+      "v": "Fracture Charges",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL37",
+      "v": "Reduces Block Proficiency. If brought below 0 Block Proficiency, these provide increased Attack to the opponent.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL38",
+      "v": "Power Gain Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL39",
+      "v": "Cannot gain Power from landing or receiving Attacks. Gains 1 Bar of Power each time this expires.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL40",
+      "v": "Shield Charge",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL41",
+      "v": "Provides max possible Armor Rating, Physical Resistance & Energy Resistance. Incoming Critical Hits suffer reduced Attack rating.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_AOL42",
       "v": "Slap Happy!",
       "vn": "24.2"
@@ -262,6 +467,136 @@
       "k": "ID_AOL47",
       "v": "Controls are Reversed. Venompool's Special Attacks can be Blocked.",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_AOL48",
+      "v": "Protection",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL49",
+      "v": "Offense",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL50",
+      "v": "Shatter",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL51",
+      "v": "Immunity",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL52",
+      "v": "Blitz",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL53",
+      "v": "Displacement",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL54",
+      "v": "Incoming damage is capped. If the cap is hit, The Collector becomes Unstoppable.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL55",
+      "v": "Increased Critical Hit Rating and Armor Rating.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL56",
+      "v": "Immune to all Bleed, Poison, Stun, Incinerate and Power Lock effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL57",
+      "v": "The Collector periodically becomes Unstoppable.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL58",
+      "v": "The Collector's Landed strikes, and Blocked attacks that aren't Well-Timed, cause Displacement. Too much Displacement causes an instant K.O.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL59",
+      "v": "Time Warp",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL60",
+      "v": "When the timer expires, all Power and a large amount of Health is lost. Knock down The Collector to remove!",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL61",
+      "v": "Shatter",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL62",
+      "v": "Special Attacks are Unblockable.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL63",
+      "v": "Displacement Charge",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL64",
+      "v": "Cannot be removed. Too many causes an instant K.O.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL65",
+      "v": "Incinerate Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL66",
+      "v": "Each time this expires, an Incinerate Debuff is applied to the opponent.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL67",
+      "v": "Bleed & Poison Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL68",
+      "v": "Each time this expires, a Bleed & Poison Debuff are applied to the opponent.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL69",
+      "v": "Unstoppable Countdown",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL70",
+      "v": "Reduces each time Morningstar is struck. If final strike isn't a Heavy Attack, she becomes Unstoppable.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL71",
+      "v": "Cowardice Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL72",
+      "v": "When timer expires, Rampage is gained. Timer refreshes each time the Champion is struck.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL73",
+      "v": "Each time the timer expires, Joe Fixit gains a random Buff or his opponent gains a random Debuff.",
+      "vn": "25.2"
     },
     {
       "k": "ID_APDE338D",
@@ -342,6 +677,11 @@
       "k": "ID_ARMSHAT_D",
       "v": "Armor Rating is reduced, and cannot gain Armor Up Buffs nor Armor Break Debuffs. Robots suffer reduced Ability Accuracy and Power Gain.",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_ARMSHAT_D_V2",
+      "v": "Cannot gain Armor Up Buffs, and Robots suffer reduced Ability Accuracy and Power Gain.",
+      "vn": "25.2"
     },
     {
       "k": "ID_ARMSHAT_T",
@@ -1074,6 +1414,11 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_CHARACTER_BIOS_NOVA",
+      "v": "All was normal for New York high-school student, Richard Rider until he came into contact with the Nova Corps, a peace-keeping force based on the planet Xandar. After the planet Xandar was invaded and destroyed by a space pirate known as Zorr, the last surviving member of Xandar's elite Nova Corps, Rhomann Dey, selected Richard Rider to replace him. Rider is given a uniform and powers of a Nova Centurion but little instruction on how to use them. Calling himself Nova, Rider becomes a Super Hero, teaming with other heroes such as Spider-Man and Thor to use his powers for the good of Earth and the universe while serving as its protector.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_REDSKULL",
       "v": "The Red Skull has managed to orchestrate the assassinations of his enemies, manipulate his way to power, and lead HYDRA in a plan to devastate the world's most influential countries. Using his scientific talents and knowledge of the occult to research what others considered only a myth: the Cosmic Cube. Now armed with knowledge of its deepest secrets, The Red Skull has been able to harness it to power his suit of Hydra armor.",
       "vn": "19.1"
@@ -1097,6 +1442,11 @@
       "k": "ID_CHARACTER_BIOS_SPIDERMAN_STEALTH",
       "v": "Peter Parker is on a Midtown High summer trip to Europe, and he had hoped to leave Super Heroics behind for a few weeks, not to mention the classic Red-and-Blue suit Tony Stark made for him. When Spidey is recruited by Nick Fury to investigate a series of Elemental Creature attacks throughout Europe, he is given his own tactical Stealth Suit, made for him by the very same agent who outfits Nick Fury, Maria Hill, and the rest of their team.",
       "vn": 24
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_SQUIRRELGIRL",
+      "v": "Doreen Green's squirrel-like abilities made her an outsider in her teenage years.  She escaped the insults of her classmates by hiding in the woods, among the squirrels. When Doreen stumbled upon Iron Man, she saw her chance to impress him, overpowering Doctor Doom with the help of her army of squirrels. Ever since her first victory, Squirrel Girl has taken down some of the most feared Super Villains in the universe. With an almost unrivaled win record, she lives up to the title, the \"Unbeatable Squirrel Girl.\"",
+      "vn": "25.2"
     },
     {
       "k": "ID_CHARACTER_BIOS_SUNS",
@@ -2474,10 +2824,10 @@
       "vn": 19
     },
     {
-      "cn": null,
       "k": "ID_FS_REGEN_D",
       "v": "Nullifies all Regen Buffs and prevents new Regen Buffs from activating.",
-      "vn": "24.3"
+      "vn": "24.3",
+      "cn": null
     },
     {
       "k": "ID_FS_REGEN_T",
@@ -4584,6 +4934,66 @@
       "vn": 19
     },
     {
+      "k": "ID_PS_AUTOBLOCK_CD_D",
+      "v": "Auto-Block is on cooldown.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_AUTOBLOCK_CD_T",
+      "v": "Auto-Block cooldown",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_AUTOBLOCK_D",
+      "v": "Auto-Block the next attack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_AUTOBLOCK_T",
+      "v": "Auto-Block",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_ENRGIZE_D",
+      "v": "Generate more Power when landing hits and when attacked.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_ENRGIZE_T",
+      "v": "Energize",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_CHARGE_D",
+      "v": "Nova Charges are generated passively and while dashing forward. Charges are spent to enhance Nova's abilities.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_CHARGE_T",
+      "v": "Nova Charge",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_FRY_CD_D",
+      "v": "Fury is on Cooldown.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_FRY_CD_T",
+      "v": "Fury Cooldown",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_SURGE_D",
+      "v": "Generate more Nova Charges passively, and while dashing forward.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_PS_NVA_SURGE_T",
+      "v": "Nova Surge",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_PS_SGWN1",
       "v": "Increased attack rating and grants a chance to Evade incoming attacks.",
       "vn": "21.3"
@@ -5789,6 +6199,21 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NOVA_0",
+      "v": "After a bombardment of energy blasts, Nova creates distance before crashing into his opponent at supersonic velocity.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NOVA_1",
+      "v": "Channeling the full power of the Nova Force, Nova lets a pair of gravimetric blasts fly before unleashing a devastating beam of energy.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NOVA_2",
+      "v": "Nova manipulates the gravity around his opponent, suspending them in mid-air, before delivering a devastating collision at breakneck speed.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_REDSKULL_0",
       "v": "Red Skull strikes his opponent before passing through space to quickly catch them off-guard with two quick hits.",
       "vn": "19.1"
@@ -5882,6 +6307,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERMAN_STEALTH_2",
       "v": "Night Vision too? They'll never see me coming!",
       "vn": 24
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SQUIRRELGIRL_0",
+      "v": "Squirrel Girl calls on an army of ferocious squirrels, swarming the unsuspecting opponent.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SQUIRRELGIRL_1",
+      "v": "Squirrel Girl slings a piercing acorn before tearing into the opponent with a flurry of claw strikes.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SQUIRRELGIRL_2",
+      "v": "Tippy Toe, Squirrel Girl's bushy-tailed best friend, chases the opponent down, landing a series of savage blows.",
+      "vn": "25.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SUNSPOT_0",
@@ -6249,6 +6689,21 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_NOVA_0",
+      "v": "Centurion Tackle",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NOVA_1",
+      "v": "Gravimetric Cannon",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_NOVA_2",
+      "v": "Gravimetric Hold",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_REDSKULL_0",
       "v": "Transmit Force",
       "vn": "19.1"
@@ -6347,6 +6802,21 @@
       "k": "ID_SPECIAL_ATTACK_SPIDERMAN_STEALTH_2",
       "v": "Lights Out",
       "vn": 24
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SQUIRRELGIRL_0",
+      "v": "Army of Squirrels",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SQUIRRELGIRL_1",
+      "v": "Flurry of Fur",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_SQUIRRELGIRL_2",
+      "v": "Tippy Toe’s Takedown",
+      "vn": "25.2"
     },
     {
       "k": "ID_SPECIAL_ATTACK_SUNSPOT_0",
@@ -6527,6 +6997,131 @@
       "k": "ID_SRTJSTT",
       "v": "Spirit of Justice",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVAFORCE_FULL_HUD",
+      "v": "FULLY CHARGED",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVAFORCE_LOW_HUD",
+      "v": "BURST READY",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVAFORCE_MED_HUD",
+      "v": "CHARGED",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_AB",
+      "v": "While Nova has a Fury Buff active, being struck when dashing forward activates Auto-Block allowing Nova to automatically block incoming attacks. Triggering this ability removes all Fury Buffs and consumes 25 Nova Charges.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_AB_SHORT",
+      "v": "Auto-Block",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_CHARGE_DASH",
+      "v": "While dashing forward Nova generates additional Nova Charges. More Nova Charges are generated the farther he travels.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_CHARGE_GC_TRU_UNBLK",
+      "v": "If struck with True Strike, an Unblockable attack, or a guaranteed critical hit, generate {1} Nova Charges.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_CHARGE_NULL_REM",
+      "v": "When one of Nova’s Buffs is Nullified, remove {1} Charges, and prevent Nova Charges from being generated for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_CHARGE_START",
+      "v": "Nova enters the fight at 0 Nova Charges and passively generates them over time. Nova Charges passively generate slower the more charges he has.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_DASH_PWR_RATE",
+      "v": "While dashing forward, Nova passively gains up to {1}% of a Bar of Power based on the distance travelled.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_AB_NRG",
+      "v": "At [ffc800]{0}+[-] Nova Charges: Gain a Fury buff increasing Attack Rating by [16982bff]{1}[-] for {2} seconds. Max 3 stacks.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_ARM_BRK",
+      "v": "Against Tech Champions, consuming Nova Charges inflicts an Armor Break Debuff reducing Armor by [16982bff]{1}[-] for {2} seconds. This can only stack once.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_FRY",
+      "v": "When reaching [ffc800]{0}[-] Nova Charges: Gain a Fury Buff increasing Attack Rating by [16982bff]{1}[-] for {2} seconds and refresh Nova's active Fury Buffs while below maximum stacks. Max 4 stacks.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_M2_APT",
+      "v": "At [ffc800]{0}+[-] Nova Charges: Nova’s Second Medium Attack deals an additional {1}% of damage done as burst Energy Damage. Activating this ability consumes {0} Nova Charges.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_M2_APT_SHORT",
+      "v": "Aptitude",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_MED_NRG",
+      "v": "Nova’s Medium Attacks deals {1}% of damage done as a burst of Energy Damage.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_SHORT",
+      "v": "Nova Force",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_SP_UNBLK",
+      "v": "At [ffc800]{1}+[-] Nova Charges: Special Attacks become Unblockable upon activation.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_STUN_AB",
+      "v": "At [ffc800]{0}+[-] Nova Charges: Auto-Blocks can be triggered while Stunned. Activating this ability Purifies Stun Debuffs.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_UNBLK",
+      "v": "When reaching [ffc800]{0}[-] Nova Charges: Gain an Unblockable Buff for {2} seconds. This ability consumes {0} Nova Charges when this Buff expires, is Nullfied, or prevented and prevents Nova Charges from being generated for 6 seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FRY_BUFF_NULL",
+      "v": "Nova starts the fight with a permanent Fury Buff increasing Attack Rating by [16982bff]{1}[-]. If Nullified, Removed, or prevented in any way this Buff goes on cooldown for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_FRY_BUFF_SHORT",
+      "v": "Fury",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_GC_TRU_UNBLK_PROT",
+      "v": "When Nova is struck with True Strike, Unblockable, or guaranteed critical hits Opponents have -{1}% Attack Rating.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_NRG_MED",
+      "v": "Nova’s Medium Attacks do not make Contact and deal Energy Damage.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_STAT_ATTRIBUTE_NOVA_PWR_RATE_DWN",
+      "v": "When successfully striking opponents Nova has -{1}% Offensive Power Rate.",
+      "vn": "25.2"
     },
     {
       "k": "ID_STAT_ATTRIBUTE_STLSPIDER_SENSE_HUD",
@@ -7347,10 +7942,10 @@
       "vn": "16.1"
     },
     {
-      "cn": "charge(s)",
       "k": "ID_STAT_MODOK_FF3",
       "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields cannot trigger Parry.",
-      "vn": "16.1"
+      "vn": "16.1",
+      "cn": "charge(s)"
     },
     {
       "k": "ID_STAT_MODOK_FF4",
@@ -8816,10 +9411,10 @@
       "vn": 25
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION3_LONG",
       "v": "[64acff]Corvus Glaive:[-] Use a Heavy or Special Attack to knock down an opponent that used Evade or Auto-Block in a fight. Once this mission is complete, his True Damage becomes True Strike. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_CULTURE_SHOCK",
@@ -9021,6 +9616,16 @@
       "vn": 17
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_FULL_SPEED_AHEAD",
+      "v": "FULL SPEED AHEAD",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_FULL_SPEED_AHEAD_LONG",
+      "v": "[64acff]Nova:[-] Starting a Dash Attack immediately after Dashing Back generates 5 additional Nova Charges.\n[64acff]Rhino:[-] 30% Chance to refresh Fury Buffs when striking with Medium Attacks.\n[64acff]Iron Fist:[-] Medium Attacks gain +{0}% chance for each Armor Break Debuff on the Opponent to inflict a Stun Debuff for 1.5 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_GOLDSTANDARD",
       "v": "THE GOLD STANDARD",
       "vn": "18.1"
@@ -9161,6 +9766,16 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_MAX_OUTPUT",
+      "v": "MAXIMUM OUTPUT",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_MAX_OUTPUT_LONG",
+      "v": "[64acff]Nova:[-] Gain 1 Nova Charge each time Nova receives Energy Damage.\n[64acff]Bishop:[-] Receiving Energy Damage generates 1 additional stack of Prowess.\n[64acff]Havok[-]: {0}% chance to place a new Plasma Build Up Debuff on the Opponent when it is Removed or Purified.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_METALMAYHEM_LONG_BETA",
       "v": "[64acff]Omega Red:[-] +{0}% Critical Damage for each Death Spore on the opponent.\n[64acff]Wolverine:[-] +20% Stronger Bleeds and +5% Critical Rating.\n[64acff]Colossus:[-] +2% Attack Rating for each Armor Up Buff and Well Timed Blocks grant an Armor Buff.[Max 1 Stack]\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": 25
@@ -9169,6 +9784,16 @@
       "k": "ID_UI_HERO_SYNERGY_NEMESIS_99",
       "v": "NEMESIS Lv. 99",
       "vn": 24
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NEW_WARRIOR_BLOOD",
+      "v": "NEW WARRIOR BLOOD",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_NEW_WARRIOR_BLOOD_LONG",
+      "v": "[64acff]Nova:[-] Heavy Attacks have a 50% chance to refresh Nova Surge Buffs.\n[64acff]Night Thrasher:[-] The Shock Baton Gadget Debuff passively reduces Defensive Power Rate by 50%.\n[64acff]Darkhawk:[-] Starts the fight with a Permanent Armor Up Buff increasing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_OLDLOGAN_NEW_1",
@@ -9211,15 +9836,25 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_PHALANX_FEUD",
+      "v": "PHALANX FEUD",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_PHALANX_FEUD_LONG",
+      "v": "[64acff]Nova:[-] Increase the potency of Fury Buffs by 15%.\n[64acff]Gamora, Drax:[-] When performing a Dash Attack, 30% chance to gain an Aptitude Buff increasing the Potency of Fury Buffs by {0}% for 12 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_ADVANCEDTECH_LONG_FIX",
       "v": "[64acff]Wasp:[-] When she intercepts the opponent’s Dash Attack and Petrify is not active on the opponent, a Petrify Debuff is inflicted, reducing Regeneration and Power Gain Rate by a flat 100% for 8 seconds. This can activate 3 times in a fight. \n[64acff]Iron Man, Iron Man(Infinity War):[-] Armor Up effects last for an additional {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
       "vn": "22.1"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343",
       "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS_LONG",
       "v": "[64acff]Proxima Midnight:[-] Ultimate Mission’s Combo Meter requirement goes down to {0} hits. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63343"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY_KARNAK",
@@ -9265,6 +9900,86 @@
       "k": "ID_UI_HERO_SYNERGY_SPIRITOFJUSTICE_LONG_V2",
       "v": "[64acff]Blade:[-] Danger Sense bonuses expand to include all Villain Champions. However, its Ability Accuracy reduction does not bypass Villains' immunities to Ability Accuracy reduction.\n[64acff]Ghost Rider:[-] +{0}% chance to place a Judgment.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "24.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_DEADPOOL_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Squirrel Girl reads [ffd738]Deadpool’s Guide to Super Villains[-] cards to gain an advantage, increasing her Attack Rating by {0}% while fighting Villain Champions.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_DEADPOOL_TITLE",
+      "v": "DEADPOOL'S GUIDE TO SUPER VILLAINS",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_FOREST_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Tippy’s Bleed Debuffs deal +{1}% Direct Damage.\n [64acff]Groot:[-] Groot’s Passive Fury and Cruelty last for +{2} seconds.\n [64acff]Rocket Raccoon:[-] Start the fight with a Distraction Debuff reducing the Ability Accuracy of Evade and Auto-Block by {2}% for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_FOREST_TITLE",
+      "v": "Forest Friends - Unique",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_LUKECAGE_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Start the fight with a permanent Fury Buff, increasing Attack Rating by 10% until Squirrel Girl’s Combo Meter reaches 0 hits for any reason.\n[64acff]Luke Cage:[-] When hit by the Opponent’s Special 3 while Indestructible gain a Fury Buff, increasing Attack Rating by {0}% for 15 seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_LUKECAGE_TITLE",
+      "v": "SUPERNANNY",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_NANNY_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Start the fight with a permanent Fury Buff, increasing Attack Rating by {1}% until Squirrel Girl Blocks an attack.\n  [64acff]Luke Cage:[-] When hit by the Opponent’s Special 3 while Indestructible gain a Fury Buff, increasing Attack Rating by {1}% for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_NANNY_TITLE",
+      "v": "Nanny - Unique",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_SENTINEL_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Each time a Robot Opponent is immune to one of Squirrel Girl’s personal Bleed effects, Squirrel Girl converts her Bleed into a Shock effect.\n[64acff]Sentinel:[-] Each time an Opponent is immune to one of Sentinel’s personal Incinerate or Shock effects, Sentinel gains 2 Analysis Charges. If Sentinel has his Analysis Complete, he deals a burst of Energy Damage each time instead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_SENTINEL_TITLE",
+      "v": "HARDWIRED FOR HEARTBREAK",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_SILVER_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Apply a Precision Buff increasing Critical Rating by {1}% for {2} seconds the first time Squirrel Girl is nullified while Tippy is attached to her.\n [64acff]Silver Surfer:[-] When Silver Surfer parries his Opponent, he gains a Fury Buff increasing his Attack Rating by {1}% for {2} second(s).",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_SILVER_TITLE",
+      "v": "Silver Squirrel - Unique",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_UNBEAT_DESC",
+      "v": "[64acff]Squirrel Girl:[-] Whenever a Robot Opponent is immune to one of Squirrel Girl’s Bleed Debuffs, inflict a Shock Debuff of equal potency and duration.\n  [64acff]Doctor Doom, M.O.D.O.K, Thanos, Mordo:[-] Gain {1}% Attack Rating while fighting Hero Champions.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_UNBEAT_TITLE",
+      "v": "Unbeatable - Unique",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_VILLAINS_DESC",
+      "v": "[64acff]Squirrel Girl:[-] When Tippy Toe would Purify all non-damaging Debuffs on Squirrel Girl also Purify {0} damaging Debuff(s). This ability can only be used once per fight.\n[64acff]Doctor Doom:[-] Doctor Doom’s [20c76b]Aura of Haazareth[-] lasts an additional 2 seconds.\n[64acff]M.O.D.O.K, Thanos, Mordo:[-] Gain 10% Attack Rating while fighting Hero Champions.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_SQUIRREL_VILLAINS_TITLE",
+      "v": "BEAT UP THE UNIVERSE",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_HERO_SYNERGY_STARK_INTERNSHIP",
@@ -9432,6 +10147,16 @@
       "vn": "18.1"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_TOTAL_ANNI",
+      "v": "TOTAL ANNIHILATION",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_TOTAL_ANNI_LONG",
+      "v": "[64acff]Nova:[-] Gain +40% Perfect Block chance when triggering Auto-Block.\n[64acff]Annihilus:[-] +{0}% Physical Resistance while Unstoppable.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_TWIARC",
       "v": "TWISTED ARCANISTS",
       "vn": "21.2"
@@ -9568,9 +10293,9 @@
       "v": "SIGNATURE ABILITY"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133",
       "k": "ID_UI_SIG_ABILITY_UNLOCK_DESC",
-      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!"
+      "v": "Collect duplicate Champions in the Collector's Crystal Vault to awaken powerful new Signature Abilities for your 2-Star and above Champions. Every duplicate found makes a Signature Ability stronger!",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62133"
     },
     {
       "k": "ID_UI_SIG_ABILITY_UNLOCK_NEW_DESC",
@@ -9583,9 +10308,349 @@
       "vn": "20.1"
     },
     {
+      "k": "ID_UI_STAT_ABYSS_BISHOP_A",
+      "v": "[ff99ff]Critical Hits against Bishop suffer -100% Attack. Whenever a Bleed effect is inflicted on Bishop, he Regenerates {1} Health over {2} seconds and gains a small trickle of Power.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_BISHOP_B",
+      "v": "[ff99ff]Draining 1 or more bars of Power from Bishop in a single instant causes him to suffer {1} direct damage.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CABLE",
+      "v": "[ff99ff]Critical Hits against Cable cause him to gain a Dynamo Charge. Each of Cable's landed or Blocked strikes deals a flat {1} Energy Damage to the opponent for each Dynamo charge.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CAPMARVEL",
+      "v": "[ff99ff]While her opponent is above 1.5 Bars of Power, Captain Marvel deals {1} Energy Damage per second to them. Every {2} seconds, both Champions gain a 10 second Power Flood Buff, gaining {0} Bar(s) of Power over that time.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_AA",
+      "v": "The sickening energy of the Abyss reduces the Collector's opponent's Ability Accuracy by {1}% every 5 seconds until it has been reduced by {2}%.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_BLITZ_HUD",
+      "v": "BLITZ",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_DIS_HUD",
+      "v": "DISPLACEMENT",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR",
+      "v": "As The Abyssal Collector loses health, he activates more and more of his Abyss Fractures to boost his stats and grant him new powers.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_10",
+      "v": "Below 10% Health - Displacement - The Collector's landed strikes inflict 2 stacks of Displacement. His Blocked strikes that aren't Well-Timed Blocks inflict 1 stack. When the player has {1} or more stacks of Displacement, they are Knocked out. This cannot be prevented in any way.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_25",
+      "v": "Below 25% Health - Blitz - The Collector periodically becomes Unstoppable  and fights more aggressively for 3.50 seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_40",
+      "v": "Below 40% Health - Immunity - The Collector becomes Immune to all Bleed, Poison, Stun, Incinerate and Power Lock debuff effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_55",
+      "v": "Below 55% Health - Shatter - The Collector's special attacks become Unblockable.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_55_ALB_B",
+      "v": "Below 55% Health - Shatter - The Collector's Special Attacks cannot Miss, be Evaded or be Auto-Blocked. They also ignore {1}% of the opponent's Block Proficiency.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_55_ALT",
+      "v": "Below 55% Health - Shatter - The Collector's Special Attacks cannot Miss, be Evaded or be Auto-Blocked.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_70",
+      "v": "Below 70% Health - Offense - The Collector gains a permanent boost to Critical Hit Rating and Armor Rating equal to {1}.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_85",
+      "v": "Below 85% Health - Protection - The Collector can no longer take more than {0}% of his Max Health as damage from any single source. If this damage cap is hit, The Collector becomes Unstoppable for {2} seconds. Cooldown: {1} Seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_FR_SHRT",
+      "v": "[b4b4b4ff]Abyssal Fractures[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_PWR",
+      "v": "The energy of the Abyss grants the Collector {1}% increased Power Gain rate each time he launches a Special Attack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_SHATT_HUD",
+      "v": "SHATTER",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COL_TIMEWARP_HUD",
+      "v": "TIME WARP",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COSMIC",
+      "v": "[00FFEF]Gain an Unstoppable Buff every {2} seconds, that lasts {1} seconds. If you Nullify a Buff off the Defender, reset the Timer to trigger another Unstoppable.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_COWARD_HUD",
+      "v": "FIGHT ME, COWARD!",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CULLOB",
+      "v": "[ff99ff]Cull Obsidian Persistent Charges are set to max at the start of the fight. Additionally he gains +{1}% Buff Duration & Buff Potency for his personal Buffs. Whenever one of his Buffs is Nullified, he also loses {0}% of his Max Health instantly.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_A",
+      "v": "[ff99ff]Cyclops has 2 modes: Overcharged Mode & Spreadshot Mode. He will begin the fight in Spreadshot Mode. After launching a Special Attack, he will switch to the other Mode.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_B",
+      "v": "[ff99ff]Spreadshot Mode - During Special Attacks the Attacker cannot use the Dexterity Mastery and they suffer -100% Ability Accuracy for all Evade & Auto-Block Effects. However, the Attacker's Parry Mastery provides 100% Perfect Block Chance in this mode and a successful Parry will carry through the entire Special Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_C",
+      "v": "[ff99ff]Overcharged Mode - Special Attacks are Unblockable and can't Miss.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_D",
+      "v": "[ff99ff]Cyclops can't gain Power from landing or taking hits during the fight but gains 1 Bar of Power every {2} seconds and has a very high chance to launch a Special Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_OVR_HUD",
+      "v": "OVERCHARGE MODE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_CYCLOPS_SPRD_HUD",
+      "v": "SPREADSHOT MODE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_DEADPOOL",
+      "v": "[ff99ff]Deadpool is Immune to Petrify & Enervate Debuffs. Additionally, Power Drain and Power Burn effects against Deadpool suffer -{1}% Potency and Power Lock effects suffer -{0}% duration.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_EARTHQ_HUD",
+      "v": "EARTHQUAKE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_GGOBLIN",
+      "v": "[ff99ff]Green Goblin has a Shield Charge which lasts indefinitely and provides the Max possible Physical Resistance, Energy Resistance and Armor Rating.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_GGOBLIN_CRIT",
+      "v": "[ff99ff]Striking Green Goblin with a Critical Hit reduces his opponent's Attack Rating by {1}% for that attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_GGOBLIN_HUD",
+      "v": "SHIELD CHARGE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_GGOBLIN_REM",
+      "v": "[ff99ff]This Shield Charge is removed while Green Goblin has an Armor Break Debuff.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_GHOSTRIDER",
+      "v": "[ff99ff]At the start of the fight and every {2} seconds, Ghost Rider inflicts an Incinerate Debuff on his opponent, dealing {1}% of their Max Health in damage over {0} seconds. Incinerate also removes Perfect Block Chance and reduce Block Proficiency by 50%.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_HOOD",
+      "v": "[ff99ff]At the start of the fight and every {0} seconds, The Hood's opponent is inflicted with a Poison and Bleed Debuff, each dealing {1}% of their Max Health in direct damage over {2} seconds. The Hood is also much more likely to launch his Special 2 or Special 3 attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_HOWARD",
+      "v": "[ff99ff]Howard begins the fight with {1} Passive Indestructible effects. Attacks that would be a Critical Hit remove 1 of these effects and each strike of a Heavy Attack will as well.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_HULKRAG",
+      "v": "[ff99ff]Hulk cannot lose more than {1}% of the opponent's Base Attack in health from a single strike.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_HULKRAG_B",
+      "v": "[ff99ff]While below {1}% Health, Hulk is Heal Blocked and his Special Attacks become Unblockable.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_JOEFIXIT_A",
+      "v": "[ff99ff]Every {2} seconds, either Joe Fixit will gain a random Buff or the Attacker will gain a random Debuff.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_JOEFIXIT_B",
+      "v": "[ff99ff]Striking Joe Fixit with a Special 3 removes all Buffs he's gained from his Abyssal ability above. This does not affect his normal Gambler's Ruin Suits.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_JOEFIXIT_C",
+      "v": "[ff99ff]Striking Joe Fixit with a Heavy Attack Purifies all Debuffs the Attacker has gained from Joe Fixit's Abyssal ability above. This does not affect his normal Gambler's Ruin Suits.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_JOEFIXIT_D",
+      "v": "[ff99ff]Joe Fixit is immune to all Nullify and Fate Seal effects.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_KARNAK",
+      "v": "[ff99ff]The Dexterity and Parry Masteries do not function in this fight and both Champions are permanently Power Locked.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_KARNAK_B",
+      "v": "[ff99ff]The Attacker suffers -50% Attack at the start of the fight but gains +{1}% Attack for each hit of their Combo Meter.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_LOKI_A",
+      "v": "[ff99ff]Standing near Loki constantly drains the opponent's Power. If the Attacker stays at 0 Power for more than {2} seconds, they take a massive burst of direct damage equal to {1}% of their Max Health.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_LUKECAGE",
+      "v": "[ff99ff]Every {2} seconds, Luke Cage gains an Unstoppable Buff and an Unblockable Buff, each lasting until he is successfully Intercepted.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_MASSACRE_A",
+      "v": "[ff99ff]If either Champion lands an attack, they inflict a Fracture Charge on their opponent. Fracture Charges reduce Block Proficiency by {1} and can eventually invert the Blocking Damage Reduction.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_MASSACRE_B",
+      "v": "[ff99ff]Masacre is Indestructible while he isn't Blocking. While his opponent is Blocking, Masacre fights very aggressively. While he is Blocking, attacks against Masacre gain +{1}% Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_MORNSTAR",
+      "v": "[ff99ff]Every {1}th hit on the Attacker's Combo Meter must be a Heavy Attack. If it isn't, Morningstar gains a Passive Unstoppable effect for {2} seconds.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_MUTANT",
+      "v": "[FFE633]For each Bar of Power filled by the Defender, they trigger a Passive Fury for the Duration of their Special Attacks, increasing their Attack {1}%.\n\nEvery Critical Hit by either Champion in this fight increases the Defender's Power Rate by {0}% for the rest of the fight.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_MYSTIC",
+      "v": "[D300E4]Every {1} Buffs that Expire or are Nullified on the Attacker place a Fate Seal Debuff on them, Nullifying all their Buffs and preventing more for {2} seconds. Removing this Fate Seal prior to it Expiring deals {0}% of the Defender's Attack as Direct Damage.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_OLDMANLOGAN",
+      "v": "[ff99ff]Old Man Logan's healing factor now allows him to Regenerate an additional +{1} health per second. He is also now Immune to Heal Block Debuffs.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_POWERSTING_SP1",
+      "v": "[ff99ff]This attack is Unblockable and has a {0}% chance per hit to inflict a {2} second Passive Power Sting. A Champion with Power Sting takes {1} direct damage when activating a Special Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_POWERSTING_SP2",
+      "v": "[ff99ff]Launching this attack inflicts the opponent with a Passive Power Sting for {2} seconds. A Champion with Power Sting takes {1} direct damage when activating a Special Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_PUN2099",
+      "v": "[ff99ff]Punisher's opponent suffers -{1}% Attack as long as they have 1 or fewer unique Buffs.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_QUAKE_A",
+      "v": "[ff99ff]Quake constantly builds up an Earthquake meter throughout the fight. When the Earthquake meter hits {2} the Attacker is instantly Knocked Out. Striking Quake with a Critical Hit reduces her Earthquake meter by {1}. Inflicting a Bleed Debuff on Quake reduces her Earthquake meter by {0}.[-]",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ABYSS_QUAKE_B",
       "v": "[ff99ff]Striking Quake with a Critical Hit reduces her Earthquake meter by {1}. Inflicting a Bleed Debuff on Quake reduces her Earthquake meter by {0}.[-]",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_REDSKULL",
+      "v": "[ff99ff]While Red Skull remains below 1 Bar of Power, attacks against him suffer -{1}% Attack. While below 2 Bars of Power, attacks instead suffer -{0}% Attack. While at or above 2 Bars of Power attacks instead gain +{2}% Attack.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SCIENCE",
+      "v": "[00E403]When the Attacker or the Defender fill a Bar of Power, the Attacker is inflicted with a Power Sting Passive for {2} seconds, which consumes itself dealing {1}% of the Defender's Attack as Direct Damage if they launch a Special Attack before it Expires.\n\nThis Power Sting has +50% Ability Accuracy.\n\nUnless the Defender is under the effects of a Debuff when a Power Sting Expires the Attacker receives a Stun Debuff lasting {0} second(s).[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SKILL",
+      "v": "[FF0000]The Attacker has -100% Offensive Abililty Accuracy except during Special Attacks.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SKIRMISH_HUD",
+      "v": "SKIRMISH UPGRADE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SYMBSUP_A",
+      "v": "[ff99ff]Striking Symbiote Supreme with a Critical Hit grants him a Mana Burn charge. When he hits {1} charges, they are all removed and he gains a Power Flood effect, granting {0} bars of Power over {2} seconds.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SYMBSUP_B",
+      "v": "[ff99ff]While the Power Flood effect from above is active, the Attacker takes {1} direct damage per second unless Symbiote Supreme is Power Locked.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_TASKMASTER",
+      "v": "[ff99ff]Taskmaster has 100% Perfect Block Chance and Basic Attacks against him suffer -{1}% Attack.During Special Attacks, the Attacker gains a Prowess Buff, increasing their Special Attack by {0}% for each hit of their Combo Meter.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_TECH",
+      "v": "[3e7ae1]Each time the Defender is Struck while under the effect of an Armor Up Buff they gain a 'Charge' lasting indefinitely. At {1} charges, the Defender Steals all of the Attacker's Current Power.\n\nTech Champions are Immune to Ability Accuracy Modification and Nullify, unless under the effect of an Armor Break Debuff.\n\nAt the Start of the Fight gain an Armor Up Buff, if it's removed it will return after {2} seconds. The reform timer won't start while under the effect of an Armor Break Debuff.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_THORRAG",
+      "v": "[ff99ff]Debuffs on Thor activate Power Flood, granting {1}% Max Power per second and Special Attacks a 100% chance to be Unblockable.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_VENOMTHEDUCK_A",
+      "v": "[ff99ff]Venom the Duck gains max Persistent Charge at the beginning of the fight and begins with a fully-loaded RNA Bank. Additionally, launching any Special Attack will activate all Buffs currently stored in his RNA Bank. Venom the Duck will never activate Regeneration Buffs from his RNA Bank.[-]",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ABYSS_VENOMTHEDUCK_B",
@@ -9636,6 +10701,11 @@
       "k": "ID_UI_STAT_ABYSS_VPOOL_SPEC",
       "v": "[ff99ff]Special Attacks are all Unblockable, except on Opposite Day![-]",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_YELLOWJACKET",
+      "v": "[ff99ff]While above 2 bars of Power, Yellowjacket is Power Locked. He also has a high chance to launch Special Attacks. Each time he does so, he gains an Efficiency Charge which refunds {1}% of the cost of all Special Attacks for the remainder of the fight.[-]",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_AMBUSH_LONG",
@@ -10396,6 +11466,11 @@
       "v": "[b310e8]Enervation VII[-]"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_AUTOBLOCK_HUD",
+      "v": "AUTO BLOCK",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_BACKUPREC_HUD",
       "v": "BACKUP RECOVERY",
       "vn": 18
@@ -10673,10 +11748,10 @@
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, and Passive Evade effects."
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566",
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_SP3_UPDATED",
       "v": "{0}% Chance to gain True Strike for [16982bff]{2}[-] seconds, allowing this Champion to ignore Armor, Resistances, Auto-Block and all Evade effects.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-62566"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CABLE_TOREGEN",
@@ -10881,9 +11956,9 @@
       "vn": "13.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_A_NEW",
-      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. "
+      "v": "The sight and smell of blood triggers Carnage’s bloodlust, granting a Power Gain Buff when activating a Bleed or Armor Break on the opponent that lasts as long as the Opponent is Bleeding or Armor Broken. The Power Gain grants up to [16982bff]{1}%[-] of a Bar of Power per second based on how close Carnage is to the opponent. ",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CARNAGE_SIGNATURE_DESC_B",
@@ -11226,10 +12301,10 @@
       "vn": 25
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_IMN",
       "v": "Colossus is Immune to all Bleed, Incinerate, Coldsnap & Frostbite  effects. Additionally, if he’s not fighting a Tech Champion, he’s also immune to Armor Break and Armor Shattered Debuffs.",
-      "vn": 25
+      "vn": 25,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_COLOS_PWR",
@@ -11509,6 +12584,11 @@
       "v": "3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_CRITBLEED_HUD",
+      "v": "CRITICAL BLEED",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_CRITCHANCE_BASIC_AO",
       "v": "This attack has [16982bff]{1}[-] additional Critical Hit Rating.",
       "vn": 12
@@ -11615,6 +12695,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_CRITDMGLOWPWR",
       "v": "Gain up to [16982bff]{1}[-] bonus Critical Damage Rating the lower your opponent’s current Power.",
       "vn": 12
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_CRITICALSHOCK_HUD",
+      "v": "CRITICAL SHOCK",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_CRITICAL_HUD",
@@ -11843,6 +12928,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_DEBILITATE_HUD",
       "v": "DEBILITATE",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_DEEPWOUND_HUD",
+      "v": "DEEP WOUND",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_DEFORMATION",
@@ -12234,6 +13324,11 @@
       "vn": "11.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_DORM_IMB_PWBURN_1",
+      "v": "Imbued: Causes Power Burn instead, doing Direct Damage equal to [16982bff]{1}%[-] of the Power Drained from the opponent by this attack.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_DORM_IMB_PWBURN_AO",
       "v": "Imbued: Causes Direct Damage equal to [16982bff]{1}[-] of the Power Drained from the opponent by this attack.",
       "vn": 12
@@ -12468,6 +13563,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_ENC_STUN_HUD",
       "v": "ENCROACHING STUN",
       "vn": 18
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_ENERGIZE_HUD",
+      "v": "ENERGIZE",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_ENERGYRESIST_HUD",
@@ -14879,10 +15979,10 @@
       "v": "[16982bff]{0}%[-] chance to inflict Weakness, decreasing the target's Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
     {
-      "cn": "Taskmaster",
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_WE_HUD",
       "v": "WEAKNESS EXPLOITED",
-      "vn": "16.1"
+      "vn": "16.1",
+      "cn": "Taskmaster"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ZERO_POISON_AO",
@@ -16504,6 +17604,16 @@
       "v": "Injure"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_INSTANTBLEED_HUD",
+      "v": "INSTANT BLEED",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_INSTANTSHOCK_HUD",
+      "v": "INSTANT SHOCK",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_INVISIBILITY",
       "v": "The Hood gains Invisibility for {2} seconds. While Invisible, incoming attacks have a {1}% chance to Miss. Non-Contact attacks have double this chance.",
       "vn": "11.2"
@@ -16670,9 +17780,9 @@
       "v": "The duration of each Judgment’s Secondary Effect is increased by {1}% for each Judgment already active."
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE",
-      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds."
+      "v": "Judgement of Pride: {0}% chance.\nSecondary: Fate Seals the opponent, Nullifying all Buffs for [16982bff]{2}[-] seconds.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_JUDGMENT_FATESE_REVISED",
@@ -17450,9 +18560,9 @@
       "vn": 12
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_ATTRIBUTE_MLS_CRITCHANCE",
-      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating."
+      "v": "While the opponent is under the effect of a Debuff, the Symbioid puts his game face on and receives [16982bff]{1}[-] Critical Rating.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
@@ -17854,6 +18964,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_NOVAINCINERATE",
       "v": "Nova Flame",
       "vn": "22.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_NOVA_SURGE_HUD",
+      "v": "NOVA SURGE",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_NT_CONV",
@@ -18670,6 +19785,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PURGE_VII",
       "v": "[b310e8]Purge VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_PURIFIED_HUD",
+      "v": "PURIFIED",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_PURIFYVOID_HUD",
@@ -19491,6 +20611,31 @@
       "v": "TRAP SPIDER"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_ARMOR_HUD",
+      "v": "ARMOR BREAK",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_BLOCKPROF_HUD",
+      "v": "BLOCK PROFICIENCY",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_COMBOMAX_HUD",
+      "v": "COMBO MAX REACHED",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_CONSUME_HUD",
+      "v": "COMBO CONSUMED",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_CRITDAM_HUD",
+      "v": "CRITICAL DAMAGE",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_1_HUD",
       "v": "WRETCHED RODENTS!"
     },
@@ -19513,6 +20658,26 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_DOOM_SAY_5B_HUD",
       "v": "A DOZEN MORE VEX ME!"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_PHYSRES_HUD",
+      "v": "PHYSICAL RESISTANCE",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_SB_VILLAIN_HUD",
+      "v": "DEADPOOL'S GUIDE TO SUPER VILLAINS",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_SB_VILLAIN_HUD_A",
+      "v": "DEADPOOL'S GUIDE TO",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_SB_VILLAIN_HUD_B",
+      "v": "SUPER VILLAINS",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_SQUIRREL_TIPPY_OPP_HUD",
@@ -20080,6 +21245,11 @@
       "vn": 25
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ABFRAC",
+      "v": "Abyss Fractures",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ADORATION",
       "v": "Adoration of the Masses - Passive",
       "vn": 17
@@ -20128,6 +21298,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BLACKORDER",
       "v": "Missions From Thanos",
       "vn": "17.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BLEED",
+      "v": "Bleed",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BLOODGEM",
@@ -20243,6 +21418,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CPAMSS_PV",
       "v": "Capture Souls",
       "vn": 23
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CRITBLEED",
+      "v": "Critical Bleed",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_CULL_FAVOR",
@@ -20788,6 +21968,16 @@
       "vn": 25
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_CHARGES",
+      "v": "Nova Charges - Max: 100",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_FORCE",
+      "v": "Nova Force",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_NOVA_FORM",
       "v": "Nova Form",
       "vn": "22.1"
@@ -20973,6 +22163,11 @@
       "vn": "24.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCONTACT1",
+      "v": "On Contact",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONCOSMICCHARGE",
       "v": "Cosmic Charge - Passive"
     },
@@ -21010,6 +22205,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONDASHBACK1",
       "v": "Dash Back",
       "vn": 19
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONDASHBACK2",
+      "v": "On Dash Back and Hold Block for 1.2 Seconds",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONDEATHTOUCH",
@@ -21093,6 +22293,11 @@
       "vn": 1
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONHEAVYCHARGE1",
+      "v": "On Heavy Charge for 0.4 Seconds",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONHEAVYHIT",
       "v": "Heavy Attacks"
     },
@@ -21138,6 +22343,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONKNOCKDOWN",
       "v": "When Knocked Down",
       "vn": "17.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONKNOCKDOWN1",
+      "v": "On Champion Knockdown",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONLIGHTCRITHIT",
@@ -21717,6 +22927,21 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPY",
+      "v": "Tippy Toe",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPYOPP",
+      "v": "Tippy Toe - On Opponent",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPYSELF",
+      "v": "Tippy Toe - On Squirrel Girl",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TITANIUMARMOR",
       "v": "Titanium Armor",
       "vn": 25
@@ -21795,6 +23020,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WINGATKS",
       "v": "Wing Attacks",
       "vn": "21.1"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WORLDMIND_AUTOBLOCK",
+      "v": "Worldmind Intervention",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_WTBLOCK",
@@ -23252,10 +24482,10 @@
       "vn": "18.1"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346",
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVECHARGE",
       "v": "At the start of the fight, Corvus gains {1} permanent Glaive charges, granting him True Damage and guaranteed Critical Hits with his glaive as long as Glaive’s Immunity is active. A charge is spent every time Corvus hits with Basic Attack using his glaive.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63346"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_GLAIVEDELAY",
@@ -23268,10 +24498,10 @@
       "vn": "17.2"
     },
     {
-      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326",
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY",
       "v": "Corvus Glaive does not take damage from Cold Snap, Bleed and Shock Debuffs while Glaive’s Immunity is active. When Glaive’s immunity reactivates or is disabled, all Debuffs listed above are Purified and Corvus takes [16982bff]{1}[-] damage.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "Final Version: https://jira.kabaminc.com/browse/MARVEL-63326"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_IMMUNITY_EXTRA",
@@ -23328,10 +24558,10 @@
       "vn": "17.2"
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364",
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP2",
       "v": "When Glaive’s Immunity is active, this Special Attack is Unblockable and instantly drains 20% of the opponent’s Power if they are at max Power.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63364"
     },
     {
       "k": "ID_UI_STAT_FORMAT_CORVUS_SP3",
@@ -23689,9 +24919,9 @@
       "vn": 23
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_CULL_SP1",
-      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting."
+      "v": "Combat expertise grants {1} Combo Shield Buffs. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_SP1_FIX",
@@ -25399,10 +26629,10 @@
       "vn": "19.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_EVD",
       "v": "The crowd dislikes cowards, cheering for Korg when opponents Evade or Dexterity his Basic Attacks, increasing Crowd Excitement by {1} for {2} seconds. Only {0} Crowd Excitement charges can be gained through this ability.",
-      "vn": "19.1"
+      "vn": "19.1",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_KORG_MIEK_TITLE",
@@ -26382,6 +27612,81 @@
       "vn": 22
     },
     {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_MED_AB_ATK_BOOST",
+      "v": "Nova’s Medium Attacks gain up to [16982bff]{1}[-] Bonus Attack Rating based on the distance travelled in the last executed dash.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_MED_AB_PARRY",
+      "v": "At [ffc800]75+[-] Nova Charges: Nova’s Auto Block triggers the Parry Mastery while dashing forward. This effect cannot interrupt Special Attacks.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_MED_BUFF_DUR",
+      "v": "The duration of Buffs is increased by [16982bff]{1}%[-].",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_SHORT",
+      "v": "The Human Rocket {0}",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_SIMPLE",
+      "v": "Nova wields the power of the Nova Prime, allowing Medium Attacks to deal more damage, Auto-Blocks to trigger the Parry Mastery, and Buffs to last longer.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SIG_TITLE",
+      "v": "THE HUMAN ROCKET",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP1_CRIT",
+      "v": "Consume up to {0} Nova Charges to gain a Precision Buff increasing Critical Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP1_ENRGIZE",
+      "v": "Consume {0} Nova Charges to gain an Energize Buff increasing Power Rate by {1}% for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP1_ENRGIZE_SHORT",
+      "v": "Energize",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP1_FRY_PAUSE",
+      "v": "This attack pauses all Fury Buffs for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP1_TRU_STRIKE",
+      "v": "If activated at [ffc800]75+[-] Nova Charges, gain a True Strike Buff allowing Nova to ignore Armor, Resistances, Auto-Block and Evade effects for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP2_NRG_DMG",
+      "v": "Consume up to {0} Nova Charges to deal up to {1}% of damage done as burst Energy Damage with each hit of this attack.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP2_SURGE",
+      "v": "Gain a Nova Surge Buff granting +{1}% additional Nova Charge generation for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP3_AB_REFRESH",
+      "v": "Re-activate Nova’s permanent Fury Buff if it is on cooldown.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NOVA_SP3_NRG_DMG",
+      "v": "Consumes all Nova Charges and deals {1}% of damage done as an additional burst of Energy for every Nova Charge consumed. ",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_NTHRA_CRIT_DMG",
       "v": "Night Thrasher gains [16982bff]+{1}[-] Critical Damage Rating for each Unique Debuff on his opponent. This ability is not affected by Ability Accuracy Reduction.",
       "vn": "21.1"
@@ -26717,6 +28022,26 @@
       "vn": 20
     },
     {
+      "k": "ID_UI_STAT_FORMAT_PAUSE_DISTRACT_DESC",
+      "v": "Reduces the Ability Accuracy of Evade and Auto-Block abilities.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_PAUSE_DISTRACT_TITLE",
+      "v": "Distraction",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_PAUSE_INJURY_DESC",
+      "v": "Hitting an Injured Opponent will bypass some of their Physical Resistance.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_PAUSE_INJURY_TITLE",
+      "v": "Injury",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_PETRIFYDEBUFF_TITLE",
       "v": "[b4b4b4ff]Petrify[-]"
     },
@@ -26759,10 +28084,10 @@
       "vn": 13
     },
     {
-      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383",
       "k": "ID_UI_STAT_FORMAT_PROXIMA_BLACKORDER",
       "v": "Proxima Midnight has {0} missions to accomplish, one at a time, in random order.",
-      "vn": "17.2"
+      "vn": "17.2",
+      "cn": "https://jira.kabaminc.com/browse/MARVEL-63383"
     },
     {
       "k": "ID_UI_STAT_FORMAT_PROXIMA_DMGREDUCTION",
@@ -27394,10 +28719,10 @@
       "vn": "17.1"
     },
     {
-      "cn": "Switched to Sentinel instead - By V",
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE",
       "v": "Sentinel gains {2} Adaptation charge(s) when an Opponent performs the same action consecutively. Actions include Light Attacks, Medium Attacks, Heavy Attacks, Dashing, Dodging, and Blocking an Attack. Max: 50 charges.",
-      "vn": "17.1"
+      "vn": "17.1",
+      "cn": "Switched to Sentinel instead - By V"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SENTINELOID_BASE_2",
@@ -27722,12 +29047,237 @@
       "vn": 14
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_BLEED",
+      "v": "When making contact with a Medium Attack, Tippy inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_BLEEDDUR",
+      "v": "The duration of Bleed Debuffs are increased by {1} second for each unique non-damaging debuff on the Opponent.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_COMBO",
+      "v": "When making contact with a Light Attack, Squirrel Girl gains an additional hit in her Combo Meter.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_CRITBLEED",
+      "v": "When making contact with a Medium Attack that is a Critical Hit, inflict a Critical Bleed Debuff instead dealing [16982bff]{1}[-] Direct Damage multiplied by the Critical Damage Multiplier over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_LIGHT",
+      "v": "When making contact with a Light Attack, Squirrel Girl gains an additional hit in her Combo Meter.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_MEDIUM",
+      "v": "When making contact with a Medium Attack, Tippy inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_MEDIUMCRIT",
+      "v": "When a Medium Attack is a Critical Hit, it causes a Critical Bleed multiplying the Bleed Potency by the Critical Damage Multiplier over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONDASHBACK2_ATTACH",
+      "v": "Tippy attaches to Squirrel Girl applying effects in the same way that she would when Squirrel Girl is knocked down.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONHEAVYCHARGE1_ATTACH",
+      "v": "Tippy attaches to Squirrel Girl applying various effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONHEAVYHIT_BLEED",
+      "v": "Inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_ATTACH",
+      "v": "Whenever either champion is knocked down, Tippy attaches to that champion applying various effects. Tippy attaches to the Opponent for {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_CONSUME",
+      "v": "When attaching to the Opponent, consume up to {1} hits from Squirrel Girl’s Combo Meter to activate Tippy’s effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_HVYCHARGE",
+      "v": "While Tippy is attached to the Opponent, when Squirrel Girl charges her Heavy Attack for {2} second(s), Tippy Toe attaches to her, applying various effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CHARGEHVY_DESC",
+      "v": "After charging a heavy attack for a short duration, Tippy returns to Squirrel Girl.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CHARGEHVY_TITLE",
+      "v": "Tippy Toe Attach Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CRITBLEED_DESC",
+      "v": "Deal Direct Damage based off your Critical Attack Rating.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CRITBLEED_TITLE",
+      "v": "Critical Bleed",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_DASHBACKTIMER_DESC",
+      "v": "After dashing back and holding block for a short duration, Tippy returns to Squirrel Girl.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_DASHBACKTIMER_TITLE",
+      "v": "Tippy Toe Attach Timer",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_DESC",
+      "v": "Tippy pauses Debuffs and bleeds the Opponent whenever Squirrel Girl hits or hits into a block.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_OPP_DESC",
+      "v": "Tippy is attached to the Opponent, inflicting various effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_OPP_TITLE",
+      "v": "Tippy Toe",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_SELF_DESC",
+      "v": "Tippy is attached to Squirrel Girl, applying  various effects.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_SELF_TITLE",
+      "v": "Tippy Toe",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_TITLE",
+      "v": "Tippy Toe",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_BLEED",
+      "v": "When Tippy Toe inflicts an Instant Bleed, there is a [16982bff]{1}%[-] chance for each Bleed Debuff to be refreshed instead of being removed.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_OPP_ATTACHDEX",
+      "v": "[ff9900]While attached to the Opponent with 70 or more Combo when Combo consumed:[-] Lower the Opponent’s Armor by [16982bff]{2}%[-] for every hit in the Combo Meter that was consumed to a max of [16982bff]{1}%[-].",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_OPP_ATTACHEDX",
+      "v": "[ff9900]While Tippy is attached to the Opponent with 30 or more Combo consumed:[-] Inflict an Armor Break Debuff, lowering the Opponent’s Armor Rating by [16982bff]{1}[-].",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_SELF_ATTACHEDX",
+      "v": "[ff9900]While attached to Squirrel Girl with 70 or more Combo when Combo consumed:[-] Increase Squirrel Girl’s Critical Damage Rating by [16982bff]{2}%[-] for every hit in the Combo Meter that was consumed up to a max of [16982bff]{1}%[-].",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_START",
+      "v": "Squirrel Girl starts each fight with {1} hits in her Combo Meter.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP1_COMBO",
+      "v": "The last hit increases Squirrel Girl’s Combo Meter by {1} hits.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP1_COMBOSHIELD",
+      "v": "Squirrel Girl gains 1 Combo Shield Buff, lasting indefinitely. When struck, the Combo Shield Buff is lost after 2 seconds instead of the Combo Meter resetting.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP1_TRUESTRIKE",
+      "v": "Each hit has True Strike, reducing the Ability Accuracy of Evade and Auto-Block abilities by {1}%.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP2_BLEED",
+      "v": "Each hit inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP2_CRITRATE",
+      "v": "Each hit has a flat {1}% Critical Rating.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP2_PAUSE",
       "v": "All personal Bleed Debuffs on the Opponent are paused during this attack."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_BLEED",
+      "v": "Inflicts 3 Bleed Debuffs dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_COMBO",
+      "v": "Squirrel Girl gains {1} additional hits in her Combo Meter.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_COMBOSHIELD",
+      "v": "Squirrel Girl gains 1 Combo Shield Buff to a max of 3, lasting indefinitely. When struck, 1 Combo Shield Buff is lost instead of the Combo Meter resetting.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_PURIFY",
       "v": "If Tippy Toe inflicts an Instant Bleed with this attack, there is a {1}% chance for each Bleed Debuff to be refreshed instead of being removed."
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYOPP_ATTACHED",
+      "v": "[ff9900]While attached, if 30+ Combo was consumed:[-] Inflict a Distraction Debuff, reducing the Ability Accuracy of Evade and Auto-Block abilities by {1}%.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYOPP_ATTACHEDX",
+      "v": "[ff9900]While attached, if 40 Combo was consumed:[-] Inflict an Instant Bleed, dealing a burst of [16982bff]{1}[-] Direct Damage for every Bleed Debuff on the Opponent, removing all Bleed Debuffs. ",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYOPP_ATTACHING",
+      "v": "[ff9900]While attached:[-] Inflict an Injury Debuff. Hitting an Injured Opponent bypasses {1}% of their Physical Resistance.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYSELF_ATTACHED",
+      "v": "[ff9900]While attached:[-]  Gain [16982bff]+{1}[-] Block Proficiency.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYSELF_ATTACHEDX",
+      "v": "[ff9900]While attached with 30 or more Combo consumed:[-] Increase Squirrel Girl’s Block Proficiency by {2}% for every hit in the Combo Meter that was consumed up to a max of {1}%.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYSELF_ATTACHING",
+      "v": "[ff9900]When attaching:[-] Purify all non-damaging Debuffs on Squirrel Girl.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPY_START",
+      "v": "Squirrel Girl starts each fight with her squirrel sidekick, Tippy Toe already attached to her. Tippy cannot be affected by Ability Accuracy reduction.",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_STATICSHOCK_UPD",
@@ -28503,10 +30053,10 @@
       "vn": 18
     },
     {
-      "cn": "From a infinity stone to an Infinity Stone instead",
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY1_LONG",
       "v": "Thanos permanently generates Power after activating an Infinity Stone, at the rate of 1 bar of Power over {1} seconds. This is the only way Thanos gains Power in this fight.",
-      "vn": 18
+      "vn": 18,
+      "cn": "From a infinity stone to an Infinity Stone instead"
     },
     {
       "k": "ID_UI_STAT_FORMAT_THANOS_INFINITY2_END_LONG",
@@ -29027,10 +30577,10 @@
       "vn": "21.2"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_FORMAT_THING_IMM",
       "v": "Immune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.",
-      "vn": 21
+      "vn": 21,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_THING_RES",
@@ -29287,6 +30837,11 @@
       "vn": "24.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWRCNTRL_V2",
+      "v": "Aarkus reduces the potency of Power Drain, Steal, and Burn effects by {0}%, and the duration of Power Lock effects by {1}%.",
+      "vn": "25.2"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_A",
       "v": "Aarkus draws strength from the Smokeworld dimension at all times. He starts the fight with a Power Gain Buff, and gains {1} every {2} second(s).",
       "vn": "24.2"
@@ -29295,6 +30850,11 @@
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_B",
       "v": "He also gains one whenever his Power is Drained or he receives a Power Lock Debuff.",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_B_V2",
+      "v": "He also gains one whenever his Power is Drained, Stolen, or Burned, and whenever he receives a Power Lock Debuff.",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_PWR_C",
@@ -29694,10 +31254,10 @@
       "vn": "19.1"
     },
     {
-      "cn": null,
       "k": "ID_UI_STAT_HEIM_TS_ACT",
       "v": "While True Strike is active Heimdall’s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against projectiles, and has a {0}% chance to Auto-Block Basic Attacks, this will trigger Parry.",
-      "vn": 19
+      "vn": 19,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_HEIM_TS_ACT_ALT",
@@ -30341,6 +31901,36 @@
       "k": "ID_UI_STAT_SHEHULK_WEIGHT",
       "v": "Extensive weight training allows She-Hulk’s personal Passive Fury effects and all Stun Debuffs to last up to {1}% longer, based on the size of her opponent. Larger opponents grant longer effects.",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_LONG_1",
+      "v": "Each time The Collector activates an Abyss Fracture he places a Time Warp on his opponent, lasting {2} seconds. If the Time Warp expires, the opponent loses {1}% of their current Health and all their Power. Additionally, when an Abyss Fracture is activated, if the Collector is below 1 Bar of Power, he is set to 1 Bar of Power.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_LONG_2",
+      "v": "If the Collector is knocked down during combat, his opponent removes all of their Time Warp charges.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_LONG_3",
+      "v": "The Collector also gains an unending Tenacity, granting a {0}% chance to Purify any Debuff.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_SHORT",
+      "v": "My Fractured Contest {0}",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_SIMPLE",
+      "v": "As the Collecter activates his Abyss Fractures, he places dangerous Time Warps on his opponent which drain their health and power if left too long.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_ABCOL_TITLE",
+      "v": "MY FRACTURED CONTEST",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_ABOMINATION_DESC",
@@ -33852,6 +35442,21 @@
     {
       "k": "ID_UI_STAT_SIGNATURE_SPIDERMAN_TITLE_LOWER",
       "v": "Spider Sense"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_SHORT",
+      "v": "Tippy Toe Level Up {0}",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_SIMPLE",
+      "v": "Squirrel Girl's trusty companion gets stronger, learning to increase reduce the Opponent's Armor. Squirrel Girl starts the fight with 40 hits in her Combo Meter.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_TITLE",
+      "v": "TIPPY TOE LEVEL UP",
+      "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_STARLORD_DESC",
