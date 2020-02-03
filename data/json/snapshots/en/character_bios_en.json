@@ -6,11 +6,11 @@
       "character_bios",
       "client"
     ],
-    "hash": "e82c41bb42b5fa0de421b0fee7d14f845f0875ac",
-    "ts": 1574887130,
+    "hash": "cad06ac5ba264f64dd01e47849c583ae0fca06d7",
+    "ts": 1579153587,
     "string_count": 162,
     "post_processed": true,
-    "versionLock": "25.2"
+    "versionLock": "25.3"
   },
   "strings": [
     {
@@ -249,7 +249,7 @@
     },
     {
       "k": "ID_CHARACTER_BIOS_HAVOK",
-      "v": "Alexander Summers aka Havok, is the younger brother of Scott Summers. Much like his brother Havok has the ability to project blasts of plasma energy, though his blasts are released as concentric waves of energy, and Havok must use significant effort to focus them into directed blasts. Havok can be overwhelmed by his power which can make him nearly as dangerous to his friends as his enemies, and leads him to wear a specialized containment suit.",
+      "v": "Alexander Summers aka Havok, is the younger brother of Scott Summers. Much like his brother, Havok has the ability to project blasts of plasma energy, though his blasts are released as concentric waves of energy, and Havok must use significant effort to focus them into directed blasts. Havok can be overwhelmed by his power which can make him nearly as dangerous to his friends as his enemies, and leads him to wear a specialized containment suit.",
       "vn": "21.3"
     },
     {
@@ -424,6 +424,11 @@
       "k": "ID_CHARACTER_BIOS_MODOK",
       "v": "The terrifying result of an unspeakable experiment, M.O.D.O.K. is a grotesque mastermind bent on the destruction of the world. As the sometimes-leader of A.I.M., the Mechanized Organism Designed Only for Killing has tangled many times with his foes, Captain America and the Avengers.",
       "vn": "16.1"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_MOJO",
+      "v": "Ladies and gentlemen! Today we're discussing me! Mojo! The greatest Champion to ever grace the Contest! I'm the ruler and slaver overlord of a cute little place called the Mojoverse. It's my job to bring nothing but the most entertaining, top-tier, thrilling cinematic content to all my Spineless viewers and followers back home. And if I have to viciously degenerate and destroy a few other D-list characters to do it, even better!",
+      "vn": "25.3"
     },
     {
       "k": "ID_CHARACTER_BIOS_MOONKNIGHT",
@@ -694,10 +699,6 @@
     {
       "k": "ID_CHARACTER_BIOS_WOLVERINE_OLDMAN",
       "v": "In an alternate timeline, the villains of Earth and beyond worked together to bring about the downfall of Super Heroes everywhere. Manipulated into hurting his fellow mutants, Wolverine took on a vow of pacifism, swearing to never again pop his claws. 50 years later, when an old friend knocked on his door asking for help on a mission to overthrow the ruling villains, Logan chose to once again do what he did best."
-    },
-    {
-      "k": "ID_CHARACTER_BIOS_WOLVERINE_WEAPONX",
-      "v": "You've heard the stories. You've seen the bloody aftermath. You think you're ready. But nothing – nothing – can prepare you to go toe to toe with the savage Wolverine! One of the fiercest combatants in the Marvel Universe, this mutant is relentless thanks to quick healing, unbreakable adamantium bones, and retractable claws. You think you're ready? You'll never be ready."
     },
     {
       "k": "ID_CHARACTER_BIOS_X23",

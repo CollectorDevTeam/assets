@@ -6,11 +6,11 @@
       "bcg_stat",
       "client"
     ],
-    "hash": "6b2b5a864ca825c9082bfa4ce5ac0e37ada1bb93",
-    "ts": 1574887129,
-    "string_count": 8065,
+    "hash": "7ca2d08ed9dae583b2f60ecfed4895458fbe495c",
+    "ts": 1580417098,
+    "string_count": 8577,
     "post_processed": true,
-    "versionLock": "25.2"
+    "versionLock": "25.3"
   },
   "strings": [
     {
@@ -439,36 +439,6 @@
       "vn": "25.2"
     },
     {
-      "k": "ID_AOL42",
-      "v": "Slap Happy!",
-      "vn": "24.2"
-    },
-    {
-      "k": "ID_AOL43",
-      "v": "Constantly set to 1 Bar of Power. High chance to launch Special 1.",
-      "vn": "24.2"
-    },
-    {
-      "k": "ID_AOL44",
-      "v": "Dance Fever!",
-      "vn": "24.2"
-    },
-    {
-      "k": "ID_AOL45",
-      "v": "Constantly set to 2 Bars of Power. High chance to launch Special 2.",
-      "vn": "24.2"
-    },
-    {
-      "k": "ID_AOL46",
-      "v": "Opposite Day!",
-      "vn": "24.2"
-    },
-    {
-      "k": "ID_AOL47",
-      "v": "Controls are Reversed. Venompool's Special Attacks can be Blocked.",
-      "vn": "24.2"
-    },
-    {
       "k": "ID_AOL48",
       "v": "Protection",
       "vn": "25.2"
@@ -535,8 +505,7 @@
     },
     {
       "k": "ID_AOL61",
-      "v": "Shatter",
-      "vn": "25.2"
+      "v": "Shatter"
     },
     {
       "k": "ID_AOL62",
@@ -580,22 +549,29 @@
     },
     {
       "k": "ID_AOL70",
-      "v": "Reduces each time Morningstar is struck. If final strike isn't a Heavy Attack, she becomes Unstoppable.",
+      "v": "Reduces each time Morningstar's Opponent's Combo increases. If final combo count isn't caused by a Heavy Attack, she becomes Unstoppable.",
       "vn": "25.2"
     },
     {
       "k": "ID_AOL71",
-      "v": "Cowardice Timer",
-      "vn": "25.2"
+      "v": "Cowardice Timer"
     },
     {
       "k": "ID_AOL72",
-      "v": "When timer expires, Rampage is gained. Timer refreshes each time the Champion is struck.",
-      "vn": "25.2"
+      "v": "When timer expires, Rampage is gained. Timer refreshes each time the Champion is struck."
     },
     {
       "k": "ID_AOL73",
-      "v": "Each time the timer expires, Joe Fixit gains a random Buff or his opponent gains a random Debuff.",
+      "v": "Each time the timer expires, Joe Fixit gains a random Buff or his opponent gains a random Debuff."
+    },
+    {
+      "k": "ID_AOL_ARUPD",
+      "v": "When this champion would receive a stun, it's instantly removed and the Opponent is Stunned instead.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_AOL_ARUPT",
+      "v": "Armor Up Cooldown",
       "vn": "25.2"
     },
     {
@@ -747,6 +723,16 @@
       "k": "ID_AUER75T",
       "v": "[b4b4b4ff]Aura of Incineration Timer[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_AVADT_SIPHON_PD",
+      "v": "#Villain Defenders gain Ability Accuracy, and Block Penetration, stacking up to 3 times.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_AVADT_SIPHON_PT",
+      "v": "Defensive Tactic: Siphon",
+      "vn": "25.3"
     },
     {
       "k": "ID_AVA_METAL_CD_PD",
@@ -1399,6 +1385,11 @@
       "vn": "23.1"
     },
     {
+      "k": "ID_CHARACTER_BIOS_LONGSHOT",
+      "v": "Longshot is an Action Hero from the Mojoverse who was genetically enhanced by Arize with super human traits and the powers of Probability Manipulation. Arize made it so the strength of Longshot's Power was based on the purity of his heart, making him a star candidate for inciting a civil war to overthrow the tyrannical reign of Mojo himself.",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_CHARACTER_BIOS_MYSTERIO",
       "v": "Quentin Beck always dreamed of making it big in the film industry. However, even as one of the most accomplished special effects designers in the business he never received the spotlight he rightfully deserved. Craving recognition, Beck took on the persona “Mysterio”, using his expertise in special effects and illusions to become a Super-Villain with the goal of taking down a costumed hero and thus proving his capabilities to the world.  ",
       "vn": 24
@@ -1417,6 +1408,11 @@
       "k": "ID_CHARACTER_BIOS_NOVA",
       "v": "All was normal for New York high-school student, Richard Rider until he came into contact with the Nova Corps, a peace-keeping force based on the planet Xandar. After the planet Xandar was invaded and destroyed by a space pirate known as Zorr, the last surviving member of Xandar's elite Nova Corps, Rhomann Dey, selected Richard Rider to replace him. Rider is given a uniform and powers of a Nova Centurion but little instruction on how to use them. Calling himself Nova, Rider becomes a Super Hero, teaming with other heroes such as Spider-Man and Thor to use his powers for the good of Earth and the universe while serving as its protector.",
       "vn": "25.2"
+    },
+    {
+      "k": "ID_CHARACTER_BIOS_REDGUARDIAN",
+      "v": "Alexei Shostakov was one of the Soviet Union's most acclaimed pilots crediting them with air supremacy over the skies of Stalingrad and Kursk during World War II. Greatly publicizing his successes, the Soviet state decorated Shostakov as a national hero. As the Cold War flared, Soviet Premier Nikita Khrushchev determined the Soviet Union needed its own equivalent to Captain America and chose Alexi Shostakov to fill that role. The KGB then faked his death, training him in secret and turning him into a master of hand-to-hand combat and a highly skilled athlete.",
+      "vn": 25
     },
     {
       "k": "ID_CHARACTER_BIOS_REDSKULL",
@@ -3031,7 +3027,7 @@
     },
     {
       "k": "ID_GRM_BD",
-      "v": "Upon expiry this becomes degeneration. Contact with the Opponent refreshes expiry.",
+      "v": "Upon expiry this becomes Degeneration. Contact with the Opponent refreshes expiry.",
       "vn": "25.1"
     },
     {
@@ -3046,7 +3042,7 @@
     },
     {
       "k": "ID_GRM_CD2",
-      "v": "Complete the issued challenge before this timer expires or the Summoner is granted a [ff5a00]Token of Blunder[-].",
+      "v": "Depicts the time remaining to complete the [edb8ef]Challenge[-] issued by the Grandmaster.",
       "vn": "25.1"
     },
     {
@@ -3066,7 +3062,7 @@
     },
     {
       "k": "ID_GRM_DD1",
-      "v": "Throw an attack while the Grandmaster isn't in striking distance.",
+      "v": "Throw an attack while the Grandmaster isn't within striking distance.",
       "vn": "25.1"
     },
     {
@@ -3091,7 +3087,7 @@
     },
     {
       "k": "ID_GRM_DD5",
-      "v": "Inflict a damage over time effect.",
+      "v": "Inflict a damage effect such as a Bleed, or burst of damage.",
       "vn": "25.1"
     },
     {
@@ -3220,9 +3216,34 @@
       "vn": "25.1"
     },
     {
+      "k": "ID_GRM_UNSTD",
+      "v": "This champion will only react when struck by intercept attacks. Still receives any damage dealt.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_UNSTGD",
+      "v": "When this timer expires this champion will become Unstoppable.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_GRM_UNSTT",
+      "v": "Unstoppable Intercept",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_GRM_VULN_PAUSE",
       "v": "The Grandmaster is [ff0000]Wounded[-], during this time the Summoner's Attack Rating is increased for each [78c93a]Token of Competence[-] they have.",
       "vn": "25.1"
+    },
+    {
+      "k": "ID_HEADOVER_D",
+      "v": "On lethal damage, trigger an Indestructible buff, removable by a Heavy Attack. If the buff expires or is Nullified, the Defender will heal.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_HEADOVER_T",
+      "v": "Head Over Heels",
+      "vn": "25.3"
     },
     {
       "k": "ID_HEAL196D",
@@ -3731,7 +3752,7 @@
     },
     {
       "k": "ID_LOOA195D",
-      "v": "This Buff has no functionality on it's own.",
+      "v": "This Buff has no functionality on its own.",
       "vn": 19
     },
     {
@@ -3963,6 +3984,186 @@
       "k": "ID_MOIN78T",
       "v": "[b4b4b4ff]Mordo's Power Gain[-]",
       "vn": 19
+    },
+    {
+      "k": "ID_MOJO_DELAY_D",
+      "v": "Mojo is waiting for an Audience Prompt.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_DELAY_T",
+      "v": "Prompt Delay",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_DUMMYBUFF_D",
+      "v": "Haters have no effect.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_DUMMYBUFF_T",
+      "v": "Hater",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_FIELD_D",
+      "v": "Buffs on the Opponent have significantly reduced duration, and trigger Degeneration when they are Nullified or expire.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_FIELD_T",
+      "v": "Anti-Life Field",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_FOLL_D",
+      "v": "Mojo gains additional abilities and strength as he gains Followers.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_FOLL_T",
+      "v": "Millions of Followers",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_10_D",
+      "v": "Mojo gains Followers if either Champion idles for 1 second(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_10_T",
+      "v": "Prompt - Idle",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_11_D",
+      "v": "Mojo gains Followers if either Champion attacks while the other is recovering from a Special Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_11_T",
+      "v": "Prompt - Punish a Special Attack",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_12_D",
+      "v": "Mojo gains Followers when either Champion gets knocked down.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_12_T",
+      "v": "Prompt - Knockdown",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_1_D",
+      "v": "Mojo gains Followers if either Champion activates a Special Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_1_T",
+      "v": "Prompt - Special",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_2_D",
+      "v": "Mojo gains Followers if either Champion charges a Heavy Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_2_T",
+      "v": "Prompt - Heavy Charge",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_3_D",
+      "v": "Mojo gains Followers if either Champion dashes backwards.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_3_T",
+      "v": "Prompt - Dash",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_4_D",
+      "v": "Mojo gains Followers if either Champion Blocks a Hit.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_4_T",
+      "v": "Prompt - Block",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_5_D",
+      "v": "Mojo gains Followers if either Champion uses Dexterity to avoid a Hit.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_5_T",
+      "v": "Prompt - Dexterity",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_6_D",
+      "v": "Mojo gains Followers if either Champion holds Block for 1.5 second(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_6_T",
+      "v": "Prompt - Hold Block",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_7_D",
+      "v": "Mojo gains Followers if either Champion inflicts a Stun.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_7_T",
+      "v": "Prompt - Stun",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_8_D",
+      "v": "Mojo gains Followers when any Buff expires or is Nullified.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_8_T",
+      "v": "Prompt - Buff Expire",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_9_D",
+      "v": "Mojo gains Followers if either Champion backs into their corner.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PMPT_9_T",
+      "v": "Prompt - Back into the Corner",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PV_D",
+      "v": "Mojo starts the fight with a Follower for each Subscriber, and his Followers can never fall below his Subscribers.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_PV_T",
+      "v": "Persistent Subscribers",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_SPONSOR_D",
+      "v": "When this timer expires, Mojo completes his current Prompt.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_MOJO_SPONSOR_T",
+      "v": "Sponsor Timer",
+      "vn": "25.3"
     },
     {
       "k": "ID_MUGE8230D",
@@ -4456,7 +4657,7 @@
     },
     {
       "k": "ID_PF_REED_PET_D",
-      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects.",
+      "v": "Reduce the effectiveness of the Defender's Regeneration and Power Gain effects by {1}%.",
       "vn": 25
     },
     {
@@ -4496,7 +4697,7 @@
     },
     {
       "k": "ID_PF_REED_SIPH_D",
-      "v": "Reduce the potency of the Defender's Damage over Time Debuffs, and increase the potency of those effects against them. This does not affect abilities that trigger at the start of the fight.",
+      "v": "Reduce the potency of the Defender's Damage over Time Debuffs by {1}%, and increase the potency of those effects against them by the same amount. This does not affect abilities that trigger at the start of the fight.",
       "vn": 25
     },
     {
@@ -4536,7 +4737,7 @@
     },
     {
       "k": "ID_PF_REED_SUPP_D",
-      "v": "Decrease the Defender's Defensive Power Rate.",
+      "v": "Decrease the Defender's Defensive Power Rate by {1}%.",
       "vn": 25
     },
     {
@@ -6124,6 +6325,36 @@
       "vn": "23.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_LONGSHOT_0",
+      "v": "Longshot backflips out of immediate danger and hurls a deadly volly of knives.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_LONGSHOT_1",
+      "v": "Longshots unconventional miss turns out to be a well placed hit, dropping an off Camera spotlight on his Opponent.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_LONGSHOT_2",
+      "v": "Longshot takes a well deserved break from all the acrobatics and lets lady luck take a few swings at his Opponent. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MOJO_0",
+      "v": "Watch in awe as I pummel my Opponent with only the best mechanical legs the Mojoverse has to offer, before crushing them with my glorious girth!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MOJO_1",
+      "v": "It's incredible! I absolutely destroy my Opponent with a flurry of dazzling lasers, leaving them seared and sizzling.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MOJO_2",
+      "v": "It's time to vote! Show my Opponent how you really feel and drown them in a deluge of downvotes, straight from the Mojoverse!",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MRFANTASTIC_0",
       "v": "Mister Fantastic catches his Opponent off-guard with an unnervingly long range punch, followed up with some more elastically-enhanced fists to the face.",
       "vn": 25
@@ -6212,6 +6443,21 @@
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NOVA_2",
       "v": "Nova manipulates the gravity around his opponent, suspending them in mid-air, before delivering a devastating collision at breakneck speed.",
       "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_REDGUARDIAN_0",
+      "v": "Using his shield to charge into his Opponent, Red Guardian knocks them back before delivering a sweeping whack with his shield.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_REDGUARDIAN_1",
+      "v": "Displaying his extensive tolerance to pain, Red Guardian delivers a shattering headbutt followed by a powerful shield uppercut.",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_DESCRIPTION_REDGUARDIAN_2",
+      "v": "Tossing away his shield, Red Guardian demonstrates the true potential of his KGB training, throwing a fury of punches into his Opponent.",
+      "vn": 25
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_REDSKULL_0",
@@ -6320,7 +6566,7 @@
     },
     {
       "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SQUIRRELGIRL_2",
-      "v": "Tippy Toe, Squirrel Girl's bushy-tailed best friend, chases the opponent down, landing a series of savage blows.",
+      "v": "Tippy-Toe, Squirrel Girl's bushy-tailed best friend, chases the opponent down, landing a series of savage blows.",
       "vn": "25.2"
     },
     {
@@ -6614,6 +6860,36 @@
       "vn": "23.1"
     },
     {
+      "k": "ID_SPECIAL_ATTACK_LONGSHOT_0",
+      "v": "Final Cut",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_LONGSHOT_1",
+      "v": "Workers Compensation",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_LONGSHOT_2",
+      "v": "Comedy of Errors",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MOJO_0",
+      "v": "WHAT'S UP GUYS?!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MOJO_1",
+      "v": "YOU WON'T BELIEVE IT!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_MOJO_2",
+      "v": "SMASH THAT DISLIKE BUTTON!",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_SPECIAL_ATTACK_MRFANTASTIC_0",
       "v": "Aggressive Hypothesis",
       "vn": 25
@@ -6702,6 +6978,21 @@
       "k": "ID_SPECIAL_ATTACK_NOVA_2",
       "v": "Gravimetric Hold",
       "vn": "25.2"
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_REDGUARDIAN_0",
+      "v": "Shield Charge",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_REDGUARDIAN_1",
+      "v": "Ablative Bash",
+      "vn": 25
+    },
+    {
+      "k": "ID_SPECIAL_ATTACK_REDGUARDIAN_2",
+      "v": "KGB Beatdown",
+      "vn": 25
     },
     {
       "k": "ID_SPECIAL_ATTACK_REDSKULL_0",
@@ -6815,7 +7106,7 @@
     },
     {
       "k": "ID_SPECIAL_ATTACK_SQUIRRELGIRL_2",
-      "v": "Tippy Toe’s Takedown",
+      "v": "Tippy-Toe’s Takedown",
       "vn": "25.2"
     },
     {
@@ -7015,7 +7306,7 @@
     },
     {
       "k": "ID_STAT_ATTRIBUTE_NOVA_AB",
-      "v": "While Nova has a Fury Buff active, being struck when dashing forward activates Auto-Block allowing Nova to automatically block incoming attacks. Triggering this ability removes all Fury Buffs and consumes 25 Nova Charges.",
+      "v": "While Nova has a Fury Buff active, being struck when dashing forward activates Auto-Block allowing Nova to automatically block incoming Basic Attacks. This does not count as a Well-Timed Block. Triggering this ability removes all Fury Buffs and consumes 25 Nova Charges.",
       "vn": "25.2"
     },
     {
@@ -7095,7 +7386,7 @@
     },
     {
       "k": "ID_STAT_ATTRIBUTE_NOVA_FORCE_UNBLK",
-      "v": "When reaching [ffc800]{0}[-] Nova Charges: Gain an Unblockable Buff for {2} seconds. This ability consumes {0} Nova Charges when this Buff expires, is Nullfied, or prevented and prevents Nova Charges from being generated for 6 seconds.",
+      "v": "When reaching [ffc800]{0}[-] Nova Charges: Gain an Unblockable Buff for {2} seconds. This ability consumes {0} Nova Charges when this Buff expires, is Nullified, or prevented and prevents Nova Charges from being generated for 6 seconds.",
       "vn": "25.2"
     },
     {
@@ -7946,6 +8237,11 @@
       "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields cannot trigger Parry.",
       "vn": "16.1",
       "cn": "charge(s)"
+    },
+    {
+      "k": "ID_STAT_MODOK_FF3_WTBFIX",
+      "v": "Start the fight with {0} Force Field charge(s), each Auto-Blocking one attack with [16982bff]+{1}[-] Block Proficiency. Force Fields do not count as Well-Timed Blocks and therefore cannot trigger Parry.",
+      "vn": "25.2"
     },
     {
       "k": "ID_STAT_MODOK_FF4",
@@ -9527,6 +9823,11 @@
       "vn": "24.2"
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_EVADE",
+      "v": "[64acff]All Champions except Nick:[-] If Nick is alive, the first 3 hits thrown by the Opponent have 100% chance to be Evaded. This will not trigger while Blocking or Dashing Back. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "vn": 22
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_DESC_OLDTEAMMATES_NEW",
       "v": "\t[64acff]Havok:[-] Each time Havok deals Energy Damage to the Opponent he has a {0}% Chance to gain 1 Plasma Charge. [64acff]Wolverine:[-] Passively increases Attack by 20% of Base Attack while under the effect of a Regeneration Buff. [64acff]Nightcrawler:[-] Begin the fight in Swashbuckling Mode, and while in this mode his chance to Instant Bleed is increased by a flat 30%. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies."
     },
@@ -9736,6 +10037,46 @@
       "vn": 23
     },
     {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_CWS_DESC",
+      "v": "[64acff]Longshot:[-] Start a Fight with 5 Good Karma when fighting Villain Champions.\n[64acff]Captain America (Infinity War):[-] Start a Fight with 1 Kinetic Potential when fighting Avengers or New Avengers.\n[64acff]Captain America:[-] While the Opponent is Fatigued their Power Gain Rate is reduced by 110%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_CWS_TITLE",
+      "v": "Civil War Stories:",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_LUV_DESC",
+      "v": "[64acff]Longshot:[-] Longshot's Special 2 has a [16982bff]42%[-] chance to inflict an additional Incinerate for each Bad Karma removed by Fate Seal.\n[64acff]Rogue:[-] Whenever stealing a Buff Rogue deals 20% of her Base Attack as Degeneration damage for each Buff stolen.\n[64acff]All Female Champions:[-] Gain 200 Critical Rating and 12% increased Ability Accuracy.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_LUV_TITLE",
+      "v": "Love Triangles:",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_MJV_DESC",
+      "v": "[64acff]Longshot:[-] If the Opponent is Immune to Bleed. Longshot's Special 1 inflicts Degeneration damage instead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_MJV_TITLE",
+      "v": "Mojoverse: ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_POP_DESC",
+      "v": "[64acff]Longshot:[-] Pure of Heart lasts 4 seconds longer.\n[64acff]Domino:[-] If an Opponent was not Struck over the Duration of a Stun, Domino gains 10% of a bar of Power.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_HERO_SYNERGY_LONGSHOT_POP_TITLE",
+      "v": "Probably OP:",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_HERO_SYNERGY_MADCAP",
       "v": "MADCAP EXPERIMENTALISTS",
       "vn": "21.2"
@@ -9792,7 +10133,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_NEW_WARRIOR_BLOOD_LONG",
-      "v": "[64acff]Nova:[-] Heavy Attacks have a 50% chance to refresh Nova Surge Buffs.\n[64acff]Night Thrasher:[-] The Shock Baton Gadget Debuff passively reduces Defensive Power Rate by 50%.\n[64acff]Darkhawk:[-] Starts the fight with a Permanent Armor Up Buff increasing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Nova:[-] Heavy Attacks have a 50% chance to refresh Nova Surge Buffs.\n[64acff]Night Thrasher:[-] The Shock Baton Gadget Debuff passively reduces Defensive Power Rate by 30%.\n[64acff]Darkhawk:[-] Starts the fight with a Permanent Armor Up Buff increasing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "25.2"
     },
     {
@@ -9943,7 +10284,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SQUIRREL_SENTINEL_DESC",
-      "v": "[64acff]Squirrel Girl:[-] Each time a Robot Opponent is immune to one of Squirrel Girl’s personal Bleed effects, Squirrel Girl converts her Bleed into a Shock effect.\n[64acff]Sentinel:[-] Each time an Opponent is immune to one of Sentinel’s personal Incinerate or Shock effects, Sentinel gains 2 Analysis Charges. If Sentinel has his Analysis Complete, he deals a burst of Energy Damage each time instead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Squirrel Girl:[-] Each time a Robot Opponent is immune to one of Squirrel Girl’s personal Bleed effects, Squirrel Girl converts her Bleed into a Shock effect.\n[64acff]Sentinel:[-] Each time an Opponent is immune to one of Sentinel’s personal Incinerate or Shock effects, Sentinel gains 2 Analysis Charges. If Sentinel has his Analysis Complete, he deals a burst of {0}% of his Attack Rating as Energy Damage each time instead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
       "vn": "25.2"
     },
     {
@@ -9973,7 +10314,7 @@
     },
     {
       "k": "ID_UI_HERO_SYNERGY_SQUIRREL_VILLAINS_DESC",
-      "v": "[64acff]Squirrel Girl:[-] When Tippy Toe would Purify all non-damaging Debuffs on Squirrel Girl also Purify {0} damaging Debuff(s). This ability can only be used once per fight.\n[64acff]Doctor Doom:[-] Doctor Doom’s [20c76b]Aura of Haazareth[-] lasts an additional 2 seconds.\n[64acff]M.O.D.O.K, Thanos, Mordo:[-] Gain 10% Attack Rating while fighting Hero Champions.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
+      "v": "[64acff]Squirrel Girl:[-] When Tippy-Toe would Purify all non-damaging Debuffs on Squirrel Girl also Purify {0} damaging Debuff(s). This can only be used once per fight.\n[64acff]Doctor Doom:[-] Doctor Doom’s [20c76b]Aura of Haazareth[-] lasts an additional 2 seconds.\n[64acff]M.O.D.O.K, Thanos, Mordo:[-] Gain 10% Attack Rating while fighting Hero Champions.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
       "vn": "25.2"
     },
     {
@@ -10423,6 +10764,11 @@
       "vn": "25.2"
     },
     {
+      "k": "ID_UI_STAT_ABYSS_CULLOB_NEW",
+      "v": "[ff99ff]Cull Obsidian Persistent Charges are set to max at the start of the fight. Additionally he gains +{1}% Buff Duration & Buff Potency for his personal Buffs. Each time at least one of his Buffs is Nullified, he also loses {0}% of his Max Health instantly.[-]",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_ABYSS_CYCLOPS_A",
       "v": "[ff99ff]Cyclops has 2 modes: Overcharged Mode & Spreadshot Mode. He will begin the fight in Spreadshot Mode. After launching a Special Attack, he will switch to the other Mode.[-]",
       "vn": "25.2"
@@ -10609,12 +10955,22 @@
     },
     {
       "k": "ID_UI_STAT_ABYSS_SCIENCE",
-      "v": "[00E403]When the Attacker or the Defender fill a Bar of Power, the Attacker is inflicted with a Power Sting Passive for {2} seconds, which consumes itself dealing {1}% of the Defender's Attack as Direct Damage if they launch a Special Attack before it Expires.\n\nThis Power Sting has +50% Ability Accuracy.\n\nUnless the Defender is under the effects of a Debuff when a Power Sting Expires the Attacker receives a Stun Debuff lasting {0} second(s).[-]",
+      "v": "[00E403]When the Attacker or the Defender fill a Bar of Power, the Attacker is inflicted with a Power Sting Passive for {2} seconds, which consumes itself dealing {1} Direct Damage if the Attacker launches a Special Attack before it Expires.\nThis Power Sting has +50% Ability Accuracy.\nUnless the Defender is under the effects of a Debuff when a Power Sting Expires the Attacker receives a Stun Debuff lasting {0} second(s).[-]",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ABYSS_SKILL",
       "v": "[FF0000]The Attacker has -100% Offensive Abililty Accuracy except during Special Attacks.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SKILL_PD",
+      "v": "The Attacker has -100% Offensive Abililty Accuracy except during Special Attacks.",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_SKILL_PT",
+      "v": "Abyssal Enhancement",
       "vn": "25.2"
     },
     {
@@ -10634,12 +10990,17 @@
     },
     {
       "k": "ID_UI_STAT_ABYSS_TASKMASTER",
-      "v": "[ff99ff]Taskmaster has 100% Perfect Block Chance and Basic Attacks against him suffer -{1}% Attack.During Special Attacks, the Attacker gains a Prowess Buff, increasing their Special Attack by {0}% for each hit of their Combo Meter.[-]",
+      "v": "[ff99ff]Taskmaster has 100% Perfect Block Chance and Basic Attacks against him suffer -{1}% Attack. During Special Attacks, the Attacker gains a Prowess Buff, increasing their Special Attack by {0}% for each hit of their Combo Meter.[-]",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ABYSS_TECH",
-      "v": "[3e7ae1]Each time the Defender is Struck while under the effect of an Armor Up Buff they gain a 'Charge' lasting indefinitely. At {1} charges, the Defender Steals all of the Attacker's Current Power.\n\nTech Champions are Immune to Ability Accuracy Modification and Nullify, unless under the effect of an Armor Break Debuff.\n\nAt the Start of the Fight gain an Armor Up Buff, if it's removed it will return after {2} seconds. The reform timer won't start while under the effect of an Armor Break Debuff.[-]",
+      "v": "[3e7ae1]Each time the Defender is Struck while under the effect of an Armor Up Buff they gain a Charge lasting indefinitely. At {1} charges, the Defender Steals all of the Attacker's Current Power.\n\nTech Champions are Immune to Ability Accuracy Modification and Nullify, unless under the effect of an Armor Break Debuff.\n\nAt the Start of the Fight gain an Armor Up Buff, if it's removed it will return after {2} seconds. The reform timer won't start while under the effect of an Armor Break Debuff.[-]",
+      "vn": "25.2"
+    },
+    {
+      "k": "ID_UI_STAT_ABYSS_TECH_PD",
+      "v": "Each time this Defender is Struck while under the effect of an Armor Up Buff they gain a Charge lasting indefinitely. At 10 charges, the Defender Steals all of the Attacker's Current Power. Tech Champions are Immune to Ability Accuracy Modification and Nullify, unless under the effect of an Armor Break Debuff.",
       "vn": "25.2"
     },
     {
@@ -10996,6 +11357,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_AGONYCURSED_VII",
       "v": "[b310e8]Curse VII[-]"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_ALFIELD_I",
+      "v": "Anti-Life Field",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_AMMO",
@@ -11601,7 +11967,8 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_BLESSING_HOGGOTH_AO",
       "v": "Hoggoth's Wisdom grants [16982bff]{0}%[-] Power Gain and [16982bff]{1}[-] Life Steal for [16982bff]{2}[-] seconds.",
-      "vn": 12
+      "vn": 12,
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_BLESSING_OSHTUR",
@@ -13072,6 +13439,10 @@
       "vn": "21.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_DISTRACTION_HUD",
+      "v": "DISTRACTION"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_DISTRACT_I",
       "v": "Distraction"
     },
@@ -13969,6 +14340,11 @@
       "v": "While under Oshtur's Refuge, these flames have a [16982bff]{0}%[-] chance to inflict Weakness, decreasing the target's Attack by [16982bff]{1}%[-] for [16982bff]{2}[-] seconds."
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FOLLOWERS_I",
+      "v": "Followers",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ANTEUP",
       "v": "Gambit charges his weapons while holding Block, gaining a Kinetic Charge for every {2} seconds he isn’t attacked. Whenever Gambit is struck by a combo-ending attack, he has a {1}% chance to Fold and lose all his Kinetic Charges."
     },
@@ -14022,6 +14398,11 @@
       "vn": "11.2"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_AARKUS",
+      "v": "The Armor Break reduces Armor Rating by [16982bff]{1}[-] for each one replaced and removes an Armor Up Buff.",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_ALWAYS_LONG",
       "v": "{0}% chance to Armor Break, removing enemy Armor and applying [16982bff]{1}%[-] Armor reduction for [16982bff]{2}[-] seconds."
     },
@@ -14069,6 +14450,11 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_MULTI",
       "v": "Strikes multiple times. Each hit has a [16982bff]{0}%[-] chance to Armor Break, removing enemy Armor and applying [16982bff]{1}%[-] Armor reduction for [16982bff]{2}[-] seconds."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_BREAK_SINGLE",
+      "v": "The Armor Break reduces Armor Rating by [16982bff]{1}[-] and removes an Armor Up Buff.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_ARMOR_PASSIVE",
@@ -15248,11 +15634,6 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NORMALATTACK_ENERGY",
       "v": "Normal attacks deal Energy Damage instead of Physical."
-    },
-    {
-      "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NORMALATTACK_ENERGY_V2",
-      "v": "Basic attacks deal Energy Damage instead of Physical.",
-      "vn": "22.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_NULLIFY",
@@ -16696,6 +17077,11 @@
       "vn": "25.1"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_GM_AC",
+      "v": "ACTION COMPLETE",
+      "vn": "25.1"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_GM_BLUNDER",
       "v": "BLUNDER",
       "vn": "25.1"
@@ -16752,7 +17138,7 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_GM_CH_SHOK",
-      "v": "INFLICT A DAMAGE OVER TIME EFFECT",
+      "v": "INFLICT A DAMAGE EFFECT",
       "vn": "25.1"
     },
     {
@@ -17585,10 +17971,6 @@
       "k": "ID_UI_STAT_ATTRIBUTE_INCOMING_FALTER_HUD",
       "v": "APPROACHING FALTER",
       "vn": 23
-    },
-    {
-      "k": "ID_UI_STAT_ATTRIBUTE_INDESTRUCTIBLE",
-      "v": "[b4b4b4ff]Indestructible[-]"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_INF_I",
@@ -18567,6 +18949,96 @@
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MODPERCENTDURATION_X23",
       "v": "Any Bleed or Cruelty effect triggered lasts [16982bff]{1}%[-] longer than normal and has [16982bff]{1}%[-] increased Potency."
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO10_HUD",
+      "v": "IDLE",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO11_HUD",
+      "v": "PUNISH A SPECIAL ATTACK",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO12_HUD",
+      "v": "KNOCK DOWN A CHAMPION",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO1_HUD",
+      "v": "USE A SPECIAL ATTACK",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO2_HUD",
+      "v": "CHARGE A HEAVY ATTACK",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO3_HUD",
+      "v": "DASH BACKWARDS",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO4_HUD",
+      "v": "BLOCK A HIT",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO5_HUD",
+      "v": "DODGE A HIT",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO6_HUD",
+      "v": "HOLD BLOCK",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO7_HUD",
+      "v": "STUN A CHAMPION",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO8_HUD",
+      "v": "END A BUFF",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJO9_HUD",
+      "v": "BACK INTO THE CORNER",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJODUMMYBUFF_HUD",
+      "v": "HATER GAINED",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJOEGG_A_HUD",
+      "v": "HATERS GONNA HATE",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJOEGG_MOJOSAME_HUD",
+      "v": "JINX!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJOEGG_MOJOSTART_HUD",
+      "v": "WHAT A GORGEOUS CREATURE!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJOEGG_ROGUE_HUD",
+      "v": "SORRY SWEETHEART!",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_MOJOFIELD_HUD",
+      "v": "ANTI-LIFE FIELD",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_MORDOBLCK",
@@ -21265,9 +21737,18 @@
       "vn": "21.3"
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_AOL_CLASS_ENH",
+      "v": "Abyssal Enhancement"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ATK_LIGHTMED",
       "v": "When Attacked by a Light or Medium Attack",
       "vn": "24.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BADKARMA",
+      "v": "Bad Karma - Max 5:",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_BAGOFTRICKS",
@@ -21710,18 +22191,23 @@
       "vn": 16
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GOODKARMA",
+      "v": "Good Karma - Max 5:",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE1",
-      "v": "Phase 1: Opening Gambit - Between 100% to 70% Health",
+      "v": "Phase 1: Opening Gambit - Between 100% to 80% Health",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE2",
-      "v": "Phase 2: Transposition - Between 69% to 30% Health",
+      "v": "Phase 2: Transposition - Between 79% to 30% Health",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_GRANDPHASE3",
-      "v": "Phase 3: Zugzwang - Between 29% to 1% Health",
+      "v": "Phase 3: Zugzwang - Between 29% to 2% Health",
       "vn": "25.1"
     },
     {
@@ -21900,6 +22386,11 @@
       "vn": 20
     },
     {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_LUCKYSPEC",
+      "v": "[bfa313]Lucky Specials:[-]",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MADNESS",
       "v": "Madness",
       "vn": "14.1"
@@ -21933,6 +22424,11 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MITOSIS",
       "v": "X-Gene Mitosis - Heavy Attacks",
       "vn": "21.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MOJOPROMPTS",
+      "v": "Possible Audience Prompts",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_MOLATK",
@@ -22394,6 +22890,21 @@
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONMISSION1",
       "v": "Mission 1: Eliminate the Avengers",
       "vn": "17.2"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONMOJOFIELD",
+      "v": "Anti-Life Field - Passive",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONMOJOPASSIVE",
+      "v": "Audience Adoration",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONMOJOPROMPT",
+      "v": "Audience Prompts",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ONNEARBYBLDOPP",
@@ -22928,17 +23439,17 @@
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPY",
-      "v": "Tippy Toe",
+      "v": "Tippy-Toe",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPYOPP",
-      "v": "Tippy Toe - On Opponent",
+      "v": "Tippy-Toe - On Opponent",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_TIPPYSELF",
-      "v": "Tippy Toe - On Squirrel Girl",
+      "v": "Tippy-Toe - On Squirrel Girl",
       "vn": "25.2"
     },
     {
@@ -23396,6 +23907,11 @@
       "k": "ID_UI_STAT_BLOODLETTING_HUD",
       "v": "BLOODLETTING",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_CIVWARRIOR_ARMCONVERT",
+      "v": "{2} Armor Up Buffs are consumed to create one indefinite Passive Armor Up, increasing Armor Rating by [16982bff]{1}[-].",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_CPAMSS_BK",
@@ -24288,6 +24804,16 @@
       "vn": "24.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_ARMORSHATTERED_B_V2",
+      "v": "While Armor Shattered is active, Opponents cannot activate their Armor Buffs. Additionally, this shatters Robot Champions systems, reducing their Ability Accuracy and Power Gain by {1}%.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_ARMORSHATTERED_NOAB",
+      "v": "While Armor Shattered is active, Opponents are Immune to future Armor Break Debuffs.",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_AUTOBLOCK_FAIL",
       "v": "AUTO BLOCK FAILED",
       "vn": "17.2"
@@ -24890,7 +25416,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_CULL_HEAVY",
-      "v": "{0}% chance per strike to inflict an Armor Break Debuff, reducing Armor by [16982bff]{1}[-] for {2} seconds. This effect gains +15% duration and Ability Accuracy for each [37bfff]Persistent Charge[-].",
+      "v": "{0}% chance per strike to inflict an Armor Break Debuff, reducing Armor by [16982bff]{1}[-] for {2} seconds. This effect gains +5% duration and Ability Accuracy for each [37bfff]Persistent Charge[-].",
       "vn": 23
     },
     {
@@ -25995,12 +26521,17 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_MOC_A",
-      "v": "The Grandmaster can only receive damage when struck by an attack, all other damage sources have no effect. Additionally, incoming hit damage is capped at {2}% of his max health.",
+      "v": "The Grandmaster can only receive damage when struck by an attack, all other damage sources have no effect. Additionally, incoming hit damage is capped at [16982bff]{2}%[-] of his max health.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_MOC_B",
-      "v": "The Grandmaster’s Power Bar and Ability Accuracy can’t be altered or reduced and his attacks can’t be Evaded or caused to Miss.",
+      "v": "The Grandmaster’s Power Bar and Ability Accuracy can’t be altered or reduced and his attacks can’t be Evaded, Auto-Blocked or caused to Miss.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_MOC_C",
+      "v": "Throughout this Phase, if the Grandmaster is knocked down while against the wall he becomes Unstoppable for {1} seconds. This will not trigger during his [ff0000]Wounded[-] state.",
       "vn": "25.1"
     },
     {
@@ -26020,7 +26551,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_D",
-      "v": "While performing certain [edb8ef]Tactics[-] the Grandmaster has a chance to announce a rule change, banning it from play. These [edb8ef]Tactics[-] are: Parry an attack, Use Dexterity and Land a Light Attack.",
+      "v": "While performing certain [edb8ef]Tactics[-] the Grandmaster has a chance to announce a rule change, banning it from play. These [edb8ef]Tactics[-] are: Parry an attack, Use Dexterity and Land a Light Attack. Tactics can't be banned while the Grandmaster's Special 1 is prepared or while he's [ff0000]Wounded[-].",
       "vn": "25.1"
     },
     {
@@ -26030,17 +26561,22 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_F",
-      "v": "After all {2} [edb8ef]Tactics[-] have been banned, they are instantly unbanned and the Grandmaster prepares his Special 1. [edb8ef]Tactics[-] can not be banned again until the Grandmaster has thrown his Special 1.",
+      "v": "After all {2} [edb8ef]Tactics[-] have been banned, they are instantly unbanned and the Grandmaster prepares his Special 1.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH1_G",
-      "v": "During this Phase, each time the Grandmaster finishes his Special 1 he is [ff0000]Wounded[-] for {2} seconds.",
+      "v": "During this Phase, each time the Grandmaster finishes his Special 1 he becomes [ff0000]Wounded[-] for {2} seconds.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_A",
-      "v": "The Summoner can gain up to 1 Bar of Power. The Grandmaster gains {2}% of a Power Bar for each hit landed by the Summoner.",
+      "v": "Throughout this Phase the Summoner can gain up to 1 Bar of Power.",
+      "vn": "25.1"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_A2",
+      "v": "The Grandmaster gains {2}% of a Power Bar for each hit landed by the Summoner, this amount is doubled if he is above 1 Bar of Power.",
       "vn": "25.1"
     },
     {
@@ -26055,7 +26591,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH2_D",
-      "v": "[edb8ef]Challenges:[-] Whiff an Attack, Land a Critical Hit, Perform an intercept, Gain a Buff. Inflict a Damage over time effect.",
+      "v": "[edb8ef]Challenges:[-] Whiff an Attack, Land a Critical Hit, Perform an intercept, Gain a Buff, Inflict a Damage effect.",
       "vn": "25.1"
     },
     {
@@ -26075,7 +26611,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_B",
-      "v": "Every {2} seconds a [edb8ef]Challenge[-] is issued for {1} seconds. Failing to complete the [edb8ef]Challenge[-] grants {0} [ff5a00]Token of Blunder[-]. Completing the [edb8ef]Challenge[-] grants {0} [78c93a]Token of Competence[-]. These [edb8ef]Challenges[-] are paused during the Grandmaster’s Special attacks.",
+      "v": "Every {2} seconds a [edb8ef]Challenge[-] is issued for {1} seconds. Success grants {0} [78c93a]Token of Competence[-], failure grants {0} [ff5a00]Token of Blunder[-]. These [edb8ef]Challenges[-] are paused during the Grandmaster’s Special attacks.",
       "vn": "25.1"
     },
     {
@@ -26085,22 +26621,22 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_D",
-      "v": "Every {2} seconds the Summoner’s controls are reversed for {1} seconds.",
+      "v": "Every {2} seconds the Summoner’s controls are reversed for {1} seconds, this effect is paused during the Grandmaster's Special Attacks.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_E",
-      "v": "[edb8ef]Challenges:[-] Strike into Block, Perform Back Dashes, Knock the Grandmaster Down, Stand Still, Perform Well-Timed Blocks.",
+      "v": "[edb8ef]Challenges:[-] Strike into Block, Perform Back Dashes, Perform a Knockdown, Stand Still, Perform Well-Timed Blocks. Each of these actions must be performed multiple times as shown in the fight.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH3_F",
-      "v": "During this Phase, every {0}th [edb8ef]Challenge[-] completed by the Summoner [ff0000]Wounds[-] the Grandmaster for {2} seconds. While [ff0000]Wounded[-], no new [edb8ef]Challenges[-] will activate.",
+      "v": "During this Phase, after every {0}th [edb8ef]Challenge[-] the Grandmaster is [ff0000]Wounded[-] for {2} seconds. While [ff0000]Wounded[-], no new [edb8ef]Challenges[-] will activate and the current challenge is paused.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_PH4_A",
-      "v": "The Grandmaster becomes [e3de40]Infuriated[-] for {2} seconds. During this final [e3de40]Infuriation[-] the Grandmaster becomes Unstoppable while dashing.",
+      "v": "The Grandmaster becomes [e3de40]Infuriated[-] for {2} seconds. During this final countdown he is also permanently Unstoppable, however intercept attacks disable the Unstoppable effect for {1} seconds.",
       "vn": "25.1"
     },
     {
@@ -26130,12 +26666,12 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_D",
-      "v": "While [ff0000]Wounded[-], the Grandmaster is Stunned and the Summoner’s Attack is increased by +{2}% for each [78c93a]Token of Competence[-].",
+      "v": "While [ff0000]Wounded[-], the Grandmaster is Stunned. During this time the Summoner gains [16982bff]+{2}%[-] Base Attack, and [16982bff]+{0}[-] Critical Rating for each [78c93a]Tokens of Competence[-] they possess.",
       "vn": "25.1"
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_ROTF_E",
-      "v": "When the Grandmaster leaves his [ff0000]Wounded[-] state, all [78c93a]Tokens of Competence[-] are removed and the current Phase resets.",
+      "v": "When the Grandmaster leaves his [ff0000]Wounded[-] state, all [78c93a]Tokens of Competence[-] are removed and the current Phase starts over.",
       "vn": "25.1"
     },
     {
@@ -26155,7 +26691,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_SP1D",
-      "v": "These actions involve: [0077ff]Blocking[-], [2fff00]Dodging[-] or [ff2200]Getting Struck[-] by the Grandmaster’s projectiles. These projectiles do not stun.",
+      "v": "These actions involve: [0077ff]Blocking[-], [2fff00]Dodging[-] or [ff2200]Getting Struck[-] by the Grandmaster’s projectiles. Projectiles from this attack do not stun or trigger abilities that would normally trigger when struck, if the Summoner performs the correct action these projectiles also deal no damage.",
       "vn": "25.1"
     },
     {
@@ -26170,7 +26706,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_GMASTER_TOBR_A",
-      "v": "Throughout the fight, each time the Grandmaster throws a Special 1 the Summoner will gain [78c93a]Tokens of Competence[-] or [ff5a00]Tokens of Blunder.[-]",
+      "v": "Throughout the fight, each time the Grandmaster throws a Special 1 the Summoner will gain [78c93a]Tokens of Competence[-] or [ff5a00]Tokens of Blunder[-].",
       "vn": "25.1"
     },
     {
@@ -26859,6 +27395,257 @@
       "v": "Rogue is healed for {0}% of the Life Stolen."
     },
     {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_APPLY",
+      "v": "When consuming Good Karma while the Opponent is below max stacks of Bad Karma, apply a Bad Karma on the Opponent for {2} seconds and refresh all existing stacks.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_CALL",
+      "v": "BAD KARMA",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_EFFECT",
+      "v": "For each Bad Karma, Longshot gains {1}% of Power generated by the Opponent.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_PAUSE_DESC",
+      "v": "Longshot gains Power along with his Opponent.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_PAUSE_TITLE",
+      "v": "Bad Karma",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_BADKARMA_REFRESH",
+      "v": "Whenever the Opponent launches a Special Attack or a Heavy Attack all Bad Karma effects are refreshed.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_CHANCE",
+      "v": "Longshot's base Ability Accuracy is 300%. Modified chances are already displayed for Longshot’s abilities.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_GOODKARMA_CALL",
+      "v": "GOOD KARMA",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_GOODKARMA_PAUSE_DESC",
+      "v": "At 5 stacks Longshot activates Pure of Heart.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_GOODKARMA_PAUSE_TITLE",
+      "v": "Good Karma",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_HEAVY_APPLY",
+      "v": "While Charging a Heavy Attack gain {1} Good Karma every {2} seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_HEAVY_HIT",
+      "v": "Each hit consumes {1} Good Karma.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_HEAVY_PAUSE",
+      "v": "Each hit Pauses the Duration of Bad Karma for {2} seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_IMMUNITY",
+      "v": "Due to Longshot’s innate luck his Ability Accuracy can only be reduced through the effects of Debuffs. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_ATTACKED",
+      "v": "[16982bff]{0}%[-] Chance to gain {2} Good Karma when attacked. Increased to [16982bff]{1}%[-] if the attack was Dodged.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_EFFECT",
+      "v": "Start a Fight with {0} Stacks of Good Karma. Each stack increases the Chance of Longshots Abilities activating by {2}%. Up to a maximum of {1}%.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_FIVE",
+      "v": "[eaff00]5+ stacks of Good Karma:[-] All abilities have {1}% increased chance of activating.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_LOSE",
+      "v": "[16982bff]{0}%[-] Chance to lose {1} Good Karma whenever inflicted with a Non-Damaging Debuff or Struck while Stunned. If the Opponent has Bad Karma active, remove {1} Bad Karma instead. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_NOSTUN",
+      "v": "Longshot cannot gain Good Karma while under the effects of Stun.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_SHORT",
+      "v": "Karma",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_TEN",
+      "v": "Whenever reaching 5 stacks of Good Karma, gain [d88ff7]Pure of Heart[-] for {2} seconds. Granting bonus effects from Special Attacks. This effect does not stack, but can be refreshed.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_TEN_END",
+      "v": "When [d88ff7]Pure of Heart[-] ends all remaining Good Karma is applied to the Opponent as Bad Karma.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_KARMA_TIMER",
+      "v": "Gain 1 Good Karma every {2} seconds. Karma cannot be gained while under the effects of Stun.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_LUCKYSPEC_CALL",
+      "v": "LUCKY SPECIAL",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_LUCKYSPEC_CHANCE",
+      "v": "{0}% Chance for a Special Attack to be a [bfa313]Lucky Special[-]. Chance increased to up to {2}% based on Good Karma. [bfa313]Lucky Specials[-] activate bonus effects.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_LUCKYSPEC_CRITCHANCE",
+      "v": "Longshot cannot land Critical Hits. Any increases to his Critical Hit Rating instead increase his Chance for [bfa313]Lucky Specials[-].",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_PUREHEART_CALL",
+      "v": "PURE OF HEART",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_PUREHEART_PAUSE_DESC",
+      "v": "Special Attacks gain bonus effects.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_PUREHEART_PAUSE_TITLE",
+      "v": "Pure of Heart",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_PUREHEART_SHORT",
+      "v": "Pure of Heart",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SIG_FURY",
+      "v": "All other Buffs grant a non Stacking Fury Buff increasing Attack Rating by [16982bff]{1}[-] for {2} seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SIG_MATCHBUFF",
+      "v": "If Longshot Nullifies a True Strike, Unstoppable, or Unblockable Buff, Longshot gains a matching Buff for [16982bff]{2}[-] seconds. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SIG_NULLIFY",
+      "v": "[16982bff]{0}%[-] Chance to Nullify any Buff and replace it with a Bad Karma.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP1_APPLY",
+      "v": "Consume {1} Good Karma.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP1_BLEED",
+      "v": "[d88ff7]Pure of Heart is active:[-] The first hit inflicts {2} Instant Bleeds each dealing [16982bff]{1}[-] damage. This damage benefits from Longshot's Critical Damage multiplier.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP1_BLOCK",
+      "v": "This attack cannot Miss or be Auto-Blocked.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP1_LUCKY",
+      "v": "[d88ff7]Pure of Heart is active:[-] The first hit inflicts {2} instant Bleeds each dealing a [16982bff]{0}%[-] damage. This damage benefits from Longshots Critical Damage multiplier.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_APPLY",
+      "v": "Pause all Bad Karma on the Opponent for the duration of this Special Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_BURN",
+      "v": "Each Buff and Bad Karma removed by Fate Seal combusts and inflicts Passive Incinerates dealing [16982bff]{1}[-] energy Damage over {2} second(s). This damage benefits from Longshot's Critical Damage Rating. Max 10 stacks.",
+      "vn": 25,
+      "cn": null
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_FATESEAL",
+      "v": "While this Incinerate is active the Opponent is Fate Sealed, Nullifying all Buffs. This Fate Seal also removes Bad Karma effects.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_INCIN",
+      "v": "The Final Hit inflicts Incinerate dealing [16982bff]{1}[-] damage over {2} seconds. Incinerate also removes Perfect Block chance and lowers Block Proficiency by 50%. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_LUCKY",
+      "v": "[d88ff7]Pure of Heart is active:[-] Instead of inflicting incinerate on the Final hit, the Incinerate triggers on activation of this Attack with it's expiry paused until the Attack ends.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_LUCKY_FATESEAL",
+      "v": "[bfa313]Lucky Special:[-] Longshot Passivley Fate Seals the Opponent for as long as this Incinerate is active. Fate Seal Nullifies all Buffs and causes any Bad Karma effects to spontaneously combust, dealing a burst of {1} incinerate damage. This damage benefits from Longshots Critical Damage Rating. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_LUCKY_INCIN",
+      "v": "[bfa313]Lucky Special:[-] The Final Hit inflicts Incinerate dealing [16982bff]{1}[-] damage over {2} seconds. This also removes Perfect Block chance and lowers Block Proficiency by 50%. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_LUCKY_NULLIFY",
+      "v": "While this Incinerate is active, Buffs on the Opponent are Nullified and Spontaneously Combust, dealing a burst of [16982bff]{1}[-] incinerate damage. If a Bad Karma Buff is Nullified, Incinerate damage benefits from Longshots Critical Damage Rating.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_STUN",
+      "v": "The Final Hit Stuns the Opponent for 1.0 seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP2_STUN_INCIN",
+      "v": "The Final Hit Stuns the Opponent for {0} seconds and inflicts Incinerate dealing [16982bff]{1}[-] damage over {2} seconds. This also removes Perfect Block chance and lowers Block Proficiency by 50%. ",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP3_GAIN",
+      "v": "Stun the Opponent for {2} seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP3_LUCKY",
+      "v": "[d88ff7]Pure of Heart is active:[-] This attack gains up to [16982bff]{1}[-] Attack Rating based on Longshots Good Karma.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_LONGSHOT_SP3_PUREHEART",
+      "v": "[bfa313]Lucky Special:[-] Gain a Passive Pure of Heart effect for {1} seconds. While active, {0}% chance to recover 1 Good Karma whenever applying a Bad Karma on the Opponent. Chance increased to up to {2}% based on Good Karma. ",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_LUKECAGEU_CONCUSSION",
       "v": "Consumes all Exhaustion Debuffs to inflict Concussion, reducing the opponent’s Ability Accuracy by {1}% per Debuff converted for {2} seconds.",
       "vn": "16.1"
@@ -26919,6 +27706,11 @@
       "vn": 15
     },
     {
+      "k": "ID_UI_STAT_FORMAT_MEDUSA_ARMORSHATTERED_V2",
+      "v": "When the Opponent has {0} Armor Break Debuffs, they are removed and replaced by both an Armor Shattered and Armor Break Debuff for {2} seconds.",
+      "vn": 25
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_MEDUSA_LIGHTATK",
       "v": "{0}% chance to inflict Bleed if Armor Shattered is active, dealing [16982bff]{1}[-] Direct Damage per second until Armor Shattered expires.",
       "vn": 15
@@ -26966,6 +27758,16 @@
       "k": "ID_UI_STAT_FORMAT_MEDUSA_SP3",
       "v": "Inflicts Armor Shattered, reducing the opponent’s Armor Rating by [16982bff]{1}[-] for {2} seconds.",
       "vn": 15
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MEDUSA_SP3_A",
+      "v": "Remove all Armor Breaks on the Opponent and replace them with both an Armor Shattered and Armor Break Debuff for {2} seconds.",
+      "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MEDUSA_SP3_B",
+      "v": "The Armor Break reduces Armor Rating by [16982bff]{1}[-] and removes an Armor Up Buff.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_MEPHISTO_ENERGYRES",
@@ -27050,6 +27852,202 @@
       "k": "ID_UI_STAT_FORMAT_MISS_FAIL",
       "v": "MISS FAILED",
       "vn": 22
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_FIELD_A",
+      "v": "Any Buff triggered on the Opponent has {1}% reduced duration.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_FIELD_B",
+      "v": "Any time a Buff is Nullified or Expires off the Opponent, Mojo Passively Degenerates them for [16982bff]{1}[-] Damage over {2} second(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_FIELD_C",
+      "v": "The Anti-Life Field is paused during any Special Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_HVY",
+      "v": "If a Prompt is active, Mojo replaces it with a new Prompt. This does not affect his Followers.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_OFFPWR",
+      "v": "Mojo gains {1}% less Power from landing Hits.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PASS_A",
+      "v": "Mojo gains additional Passive abilities based on how many Followers he has.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PASS_B",
+      "v": "{0} million - Any time a Buff expires or is Nullified off the Opponent, Mojo heals for {1}% of his Missing Health over {2} second(s). This does not stack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PASS_C",
+      "v": "{0} million - When a Prompt is completed, Mojo gains up to {1}% of a Bar of Power based on how many Followers he has.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PASS_D",
+      "v": "{1} million - Completing a Prompt has a 100% chance to place a Hater Buff on the Opponent for {2} second(s). Basic Attacks have a {0}% chance to place one. Haters have no effect.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_1",
+      "v": "Activate a Special Attack",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_10",
+      "v": "Idle for 1 second(s)",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_11",
+      "v": "Punish a Special Attack, by striking the Opponent while they're recovering from the Attack",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_12",
+      "v": "Knock down a Champion",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_2",
+      "v": "Charge a Heavy Attack",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_3",
+      "v": "Dash backwards",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_4",
+      "v": "Block a Hit",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_5",
+      "v": "Use Dexterity to avoid a Hit",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_6",
+      "v": "Hold Block for 1.5 second(s)",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_7",
+      "v": "Inflict a Stun",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_8",
+      "v": "When any Buff expires or is Nullified",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_9",
+      "v": "Back into the corner",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_A",
+      "v": "After the start of the fight, Mojo receives a random Prompt from his adoring audience, who want to see certain actions performed. These Prompts last for {2} second(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_B",
+      "v": "If either Champion does what the audience wants, the Prompt is completed and Mojo gains {1} million Followers.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_C",
+      "v": "If a Prompt expires without being completed, the Prompt is failed and Mojo loses {1} million Follower(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_D",
+      "v": "When a Prompt is completed, Mojo activates his Anti-Life Field for {2} second(s).",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_E",
+      "v": "Mojo receives a new Prompt when his Anti-Life Field expires or a Prompt is failed.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_F",
+      "v": "Prompts are paused during any Special Attack.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_PMPT_G",
+      "v": "Prompts are unaffected by Ability Accuracy.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_RES",
+      "v": "Physical Resistance decreased by [f71817]-{1}[-].",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SIG_A",
+      "v": "When Mojo activates his Anti-Life Field, if he has at least 5 million Followers, he also gains a Fury Buff for the duration of his Anti-Life Field, increasing Attack Rating by [16982bff]+{1}[-].",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SIG_B",
+      "v": "The Fury remains until his Anti-Life Field expires or he fails a Prompt.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SIG_C",
+      "v": "Additionally, Mojo starts each Quest with [37bfff]{1} million Persistent Subscribers[-], up to [37bfff]{2} million[-].",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SIG_D",
+      "v": "At the beginning of the fight, each [37bfff]Subscriber[-] gives him a Follower. His Followers can never fall below his Subscribers.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SIG_E",
+      "v": "When Mojo wins a fight, if he has more Followers than [37bfff]Subscribers[-], he gains [37bfff]{1} million Subscribers[-]. When Mojo loses a fight, he loses [37bfff]{2} million Subscribers[-].",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SP1",
+      "v": "{0}% chance on the first hit to Nullify one Buff from the Opponent.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SP2_A",
+      "v": "If the Anti-Life Field is not active, trigger its Degeneration.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SP2_B",
+      "v": "If the Anti-Life Field is active, trigger its Degeneration for every million Followers Mojo has, up to {1} million.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SP3_A",
+      "v": "Complete the current Prompt.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_MOJO_SP3_B",
+      "v": "Trigger the Anti-Life Field Degeneration for every million Followers Mojo has, up to {1} million.",
+      "vn": "25.3",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_MRFANTASTIC_ATK",
@@ -27265,6 +28263,11 @@
       "k": "ID_UI_STAT_FORMAT_MYSTO_SP3_B",
       "v": "While Frenzy Gas is active Mysterio gains [16982bff]{1}[-] Attack Rating and the potency of his Poisons are increased by {0}%.",
       "vn": 24
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_NAMOR_BLEEDIMM_2",
+      "v": "Namor generates {1} Outrage whenever a Bleed or Stun Debuff fails to apply due to an Immunity, or whenever the Opponent Purifies a Debuff.",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_FORMAT_NAM_DEHYDRATED_CALLOUT",
@@ -27618,7 +28621,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_NOVA_SIG_MED_AB_PARRY",
-      "v": "At [ffc800]75+[-] Nova Charges: Nova’s Auto Block triggers the Parry Mastery while dashing forward. This effect cannot interrupt Special Attacks.",
+      "v": "At [ffc800]75+[-] Nova Charges: Nova’s Auto Block triggers the Parry Mastery. This effect cannot interrupt Special Attacks.",
       "vn": "25.2"
     },
     {
@@ -27790,6 +28793,16 @@
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP2",
       "v": "{0}% chance per strike to inflict a Bleed Debuff, dealing [16982bff]{1}[-] damage over {2} seconds. A Critical Hit causes a Critical Bleed, multiplying the Bleed Potency by Critical Damage Multiplier.",
       "vn": 25
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP2_NEW_A",
+      "v": "{0}% chance per strike to inflict a Bleed Debuff, dealing [16982bff]{1}[-] direct damage over {2} seconds.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP2_NEW_B",
+      "v": "Each Critical Hit also has a {0}% chance to inflict a Critical Bleed, lasting {2} seconds and dealing [16982bff]{1}[-] damage, multiplied by Logan's Critical Damage Multiplier.",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_FORMAT_OLDLOGAN_BLDSP3",
@@ -28023,7 +29036,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_PAUSE_DISTRACT_DESC",
-      "v": "Reduces the Ability Accuracy of Evade and Auto-Block abilities.",
+      "v": "Prevents Evade and Auto-Block abilities.",
       "vn": "25.2"
     },
     {
@@ -29068,17 +30081,17 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_LIGHT",
-      "v": "When making contact with a Light Attack, Squirrel Girl gains an additional hit in her Combo Meter.",
+      "v": "When making contact with a Light Attack, Squirrel Girl gains an additional hit in her Combo Meter. This ability does not trigger during a Well-Timed Block.",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_MEDIUM",
-      "v": "When making contact with a Medium Attack, Tippy inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "v": "When making contact with a Medium Attack, Tippy inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds. This ability does not trigger during a Well-Timed Block.",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONCONTACT1_MEDIUMCRIT",
-      "v": "When a Medium Attack is a Critical Hit, it causes a Critical Bleed multiplying the Bleed Potency by the Critical Damage Multiplier over {2} seconds.",
+      "v": "Personal Bleed Debuffs inflicted with a Critical Hit become a Critical Bleed, multiplying their potency by the Critical Damage Multiplier and lasting for {2} seconds.",
       "vn": "25.2"
     },
     {
@@ -29097,6 +30110,10 @@
       "vn": "25.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_AA",
+      "v": "Tippy attachment cannot be affected by Ability Accuracy."
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_ATTACH",
       "v": "Whenever either champion is knocked down, Tippy attaches to that champion applying various effects. Tippy attaches to the Opponent for {2} seconds.",
       "vn": "25.2"
@@ -29108,7 +30125,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_ONKNOCKDOWN1_HVYCHARGE",
-      "v": "While Tippy is attached to the Opponent, when Squirrel Girl charges her Heavy Attack for {2} second(s), Tippy Toe attaches to her, applying various effects.",
+      "v": "When Squirrel Girl charges her Heavy Attack for {2} second(s), Tippy-Toe attaches to her, applying various effects.",
       "vn": "25.2"
     },
     {
@@ -29118,17 +30135,17 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CHARGEHVY_TITLE",
-      "v": "Tippy Toe Attach Timer",
+      "v": "Tippy-Toe Attach Timer",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CRITBLEED_DESC",
-      "v": "Deal Direct Damage based off your Critical Attack Rating.",
+      "v": "Deal Direct Damage based off your Critical Attack Rating.\t",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_CRITBLEED_TITLE",
-      "v": "Critical Bleed",
+      "v": "Critical Bleed\t",
       "vn": "25.2"
     },
     {
@@ -29153,7 +30170,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_OPP_TITLE",
-      "v": "Tippy Toe",
+      "v": "Tippy-Toe",
       "vn": "25.2"
     },
     {
@@ -29163,7 +30180,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_PAUSE_TIPPY_SELF_TITLE",
-      "v": "Tippy Toe",
+      "v": "Tippy-Toe",
       "vn": "25.2"
     },
     {
@@ -29173,7 +30190,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SIG_BLEED",
-      "v": "When Tippy Toe inflicts an Instant Bleed, there is a [16982bff]{1}%[-] chance for each Bleed Debuff to be refreshed instead of being removed.",
+      "v": "When Tippy-Toe inflicts an Instant Bleed, each Bleed Debuff has a [16982bff]{1}%[-] chance to be refreshed instead of being removed.",
       "vn": "25.2"
     },
     {
@@ -29207,13 +30224,17 @@
       "vn": "25.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP1_DISTRACT",
+      "v": "Inflict a Distraction Debuff, preventing Evade and Auto-Block abilities."
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP1_TRUESTRIKE",
       "v": "Each hit has True Strike, reducing the Ability Accuracy of Evade and Auto-Block abilities by {1}%.",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP2_BLEED",
-      "v": "Each hit inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds.",
+      "v": "Each hit that makes contact inflicts a Bleed Debuff dealing [16982bff]{1}[-] Direct Damage over {2} seconds. This ability does not trigger during a Well-Timed Block.",
       "vn": "25.2"
     },
     {
@@ -29242,16 +30263,17 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_SP3_PURIFY",
-      "v": "If Tippy Toe inflicts an Instant Bleed with this attack, there is a {1}% chance for each Bleed Debuff to be refreshed instead of being removed."
+      "v": "\tIf Tippy inflicts an Instant Bleed with this attack, there is a {1}% chance for each Bleed Debuff to be refreshed instead of being removed."
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYOPP_ATTACHED",
-      "v": "[ff9900]While attached, if 30+ Combo was consumed:[-] Inflict a Distraction Debuff, reducing the Ability Accuracy of Evade and Auto-Block abilities by {1}%.",
-      "vn": "25.2"
+      "v": "[ff9900]While attached, if 30+ Combo was consumed:[-] Inflict a Distraction Debuff, preventing Evade and Auto-Block abilities.",
+      "vn": "25.2",
+      "cn": null
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPYOPP_ATTACHEDX",
-      "v": "[ff9900]While attached, if 40 Combo was consumed:[-] Inflict an Instant Bleed, dealing a burst of [16982bff]{1}[-] Direct Damage for every Bleed Debuff on the Opponent, removing all Bleed Debuffs. ",
+      "v": "[ff9900]While attaching, if 40 Combo was consumed:[-] Inflict an Instant Bleed, dealing a burst of [16982bff]{1}[-] Direct Damage for every Bleed Debuff on the Opponent, removing all Bleed Debuffs.",
       "vn": "25.2"
     },
     {
@@ -29276,7 +30298,7 @@
     },
     {
       "k": "ID_UI_STAT_FORMAT_SQUIRREL_TIPPY_START",
-      "v": "Squirrel Girl starts each fight with her squirrel sidekick, Tippy Toe already attached to her. Tippy cannot be affected by Ability Accuracy reduction.",
+      "v": "Squirrel Girl starts each fight with her squirrel sidekick, Tippy-Toe already attached to her.\t",
       "vn": "25.2"
     },
     {
@@ -30643,6 +31665,11 @@
       "vn": "21.2"
     },
     {
+      "k": "ID_UI_STAT_FORMAT_THING_SP3_C_V2",
+      "v": "If Thing has 20 Rock Stacks, his Furies from removing Rock Stacks and from this attack are [16982bff]+{1}%[-] stronger for {2} second(s).",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_FORMAT_THING_SP_STOP",
       "v": "For the next {2} second(s), Thing's attacks Nullify all Unstoppable buffs when striking the Opponent.",
       "vn": "21.2"
@@ -30885,6 +31912,11 @@
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP2_A",
       "v": "Replace all Armor Break Debuffs on the Opponent with one Armor Shattered Debuff. For each Armor Break removed, this Debuff lasts {2} second(s) and reduces Armor Rating by [16982bff]{1}[-].",
       "vn": "24.2"
+    },
+    {
+      "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP2_A_V2",
+      "v": "Remove all Armor Break Debuffs on the Opponent and replace them with both an Armor Break and Armor Shattered Debuff, that lasts {2} second(s) for each one removed.",
+      "vn": 25
     },
     {
       "k": "ID_UI_STAT_FORMAT_VISION_TIMELY_SP2_B",
@@ -33263,7 +34295,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_ELSA_TITLE",
-      "v": "Huntress of the Contest",
+      "v": "HUNTRESS OF THE CONTEST",
       "vn": "24.3"
     },
     {
@@ -33440,7 +34472,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_GAMORA_TITLE_NEW",
-      "v": "Godslayer Strike",
+      "v": "GODSLAYER STRIKE",
       "vn": 22
     },
     {
@@ -34267,6 +35299,21 @@
       "v": "While in [d957ff]Freestyle[-] combat form, performing a Medium hit followed by a Light, Light, Light and Medium combo inflicts Direct damage per blow for up to [16982bff]{1}%[-] of your Attack based on Signature level. Successfully completing the combo increases Beast’s Critical chance by 25% for {2} seconds.\n\nWhile in [28e3bf]Acrobatic[-] combat form, Blocking an attack followed by a Medium, Light, Light, Medium combo Regenerates up to [16982bff]{0}%[-] of Beast’s maximum Health per move, based on Signature level. Additionally on Combo Success, opponents get 50% less Power when getting hit, and Beast has an extra 5% chance to evade physical hits for {2} seconds.\n\nWhen unsuccessfully performing a combo, there will be a {2} second delay before you can start a new combo."
     },
     {
+      "k": "ID_UI_STAT_SIGNATURE_LONGSHOT_SHORT",
+      "v": "Fortune Favors The Lucky {0}",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_LONGSHOT_SIMPLE",
+      "v": "Only with the best intentions can Longshot tip the scales in his favor.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_LONGSHOT_TITLE",
+      "v": "Fortune Favors The Lucky",
+      "vn": "25.3"
+    },
+    {
       "k": "ID_UI_STAT_SIGNATURE_LUKECAGE_DESC",
       "v": "The first time Luke Cage is struck during a fight, his bullet-proof skin allows him to become Indestructible and ignore all incoming damage for [16982bff]{2}[-] seconds."
     },
@@ -34522,6 +35569,21 @@
       "k": "ID_UI_STAT_SIGNATURE_MLS_SIMPLE",
       "v": "Having another Symbioid around would make this one far too jealous. It’s probably for the best you only have one for now.",
       "vn": "20.1"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MOJO_SHORT",
+      "v": "Big Mojo Energy {0}",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MOJO_SIMPLE",
+      "v": "The love of his Followers grants Mojo additional Attack, and his Followers will follow him between fights.",
+      "vn": "25.3"
+    },
+    {
+      "k": "ID_UI_STAT_SIGNATURE_MOJO_TITLE",
+      "v": "BIG MOJO ENERGY",
+      "vn": "25.3"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_MOONKNIGHT_DESC",
@@ -35445,17 +36507,17 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_SHORT",
-      "v": "Tippy Toe Level Up {0}",
+      "v": "Tippy-Toe Level Up {0}",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_SIMPLE",
-      "v": "Squirrel Girl's trusty companion gets stronger, learning to increase reduce the Opponent's Armor. Squirrel Girl starts the fight with 40 hits in her Combo Meter.",
+      "v": "Squirrel Girl’s trusty companion gets stronger, striking vital areas when bleeding the Opponent.",
       "vn": "25.2"
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_SQUIRREL_TITLE",
-      "v": "TIPPY TOE LEVEL UP",
+      "v": "TIPPY-TOE LEVEL UP",
       "vn": "25.2"
     },
     {
@@ -35550,7 +36612,7 @@
     },
     {
       "k": "ID_UI_STAT_SIGNATURE_SUNS_TITLE",
-      "v": "Gideon's Experiments",
+      "v": "GIDEON'S EXPERIMENTS",
       "vn": "24.1"
     },
     {
