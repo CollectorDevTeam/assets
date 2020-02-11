@@ -1319,7 +1319,7 @@
     "text": "Increases all Summoner XP rewards by {0}%."
   },
   "lessercruelty": {
-    "initials": "lc",
+    "initials": "",
     "1": {
       "effects": [30],
       "pibump": 0.0015,
