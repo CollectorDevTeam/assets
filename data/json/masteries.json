@@ -770,7 +770,7 @@
     "text": "Evade all attacks while Dodging back. Dodging an attack in this way grants {0}% Critical Rate for your next attack."
   },
   "doubleedge": {
-    "initials": "de",
+    "initials": "",
     "1": {
       "effects": [
         10,
