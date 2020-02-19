@@ -1725,10 +1725,10 @@
         1,
         0.7
       ],
-      "pibump": 0,
+      "pibump": 0.0035,
       "rgold": 0,
       "runit": 2,
-      "ucarbs": 0.0035,
+      "ucarbs": 0,
       "uclass": 0,
       "ustony": 0,
       "uunits": 15
