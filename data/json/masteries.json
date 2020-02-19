@@ -1708,7 +1708,7 @@
     "1": {
       "effects": [
         15,
-        1.5
+        0.5
       ],
       "pibump": 0.0115,
       "rgold": 0,
@@ -1721,7 +1721,8 @@
     "2": {
       "effects": [
         20,
-        1.7
+        1,
+        0.7
       ],
       "pibump": 0,
       "rgold": 0,
@@ -1734,7 +1735,8 @@
     "3": {
       "effects": [
         25,
-        2
+        1,
+        1.0
       ],
       "pibump": 0.0035,
       "rgold": 0,
@@ -1748,11 +1750,12 @@
     "icon": "<:parry:524657243904540682>",
     "modifier": [
       0.01,
+      1,
       1
     ],
     "proper": "Parry",
     "ranks": 3,
-    "text": "Timing a Block right when attacked reduces damage by {0}%. If contact is made, Stun attackers for up to {1} second(s). Stun duration increases with Perfect Block Chance."
+    "text": "A well-timed Block right when attacked reduces damage by an additional {0}%. If contact is made by basic attacks, inflict a Stun Debuff for {1} second(s). Stun duraation increases by up to {2} second(s) with Perfect Block Chance."
   },
   "perfectblock": {
     "initials": "pb",
