@@ -1756,7 +1756,7 @@
     ],
     "proper": "Parry",
     "ranks": 3,
-    "text": "A well-timed Block right when attacked reduces damage by an additional {0}%. If contact is made by basic attacks, inflict a Stun Debuff for {1} second(s). Stun duraation increases by up to {2} second(s) with Perfect Block Chance."
+    "text": "A well-timed Block right when attacked reduces damage by an additional {0}%. If contact is made by basic attacks, inflict a Stun Debuff for {1} second(s). Stun duration increases by up to {2} second(s) with Perfect Block Chance."
   },
   "perfectblock": {
     "initials": "pb",
