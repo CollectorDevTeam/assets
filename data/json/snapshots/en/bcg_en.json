@@ -1,16 +1,16 @@
 {
     "meta": {
         "format": "sparx",
+        "hash": "c1ee8d5bd2615d233756d69bfee1bb3390586e53",
         "language": "en",
+        "post_processed": true,
+        "string_count": 1191,
         "tagged": [
             "bcg",
             "client"
         ],
-        "hash": "20d09ef79ad43f32fc7218ad54da4dfdceba5f1d",
-        "ts": 1589910392,
-        "string_count": 1191,
-        "post_processed": true,
-        "versionLock": "27.1"
+        "ts": 1591726451,
+        "versionLock": "27.2"
     },
     "strings": [
         {
@@ -120,7 +120,7 @@
         {
             "k": "ID_DPOIN78D",
             "v": "Increases Power Rate when struck.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_SHFTHAZZ_INCIN_D",
@@ -145,37 +145,37 @@
         {
             "k": "ID_TUT_CHAMPSBUFF_CHARACTERDETAILS_0",
             "v": "ALL tiers of this Champion that you own are being boosted by an Infinity Stone!\n\nTap on the active Infinity Stone boost to see the benefits on this Champion.",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_TUT_CHAMPSBUFF_EQUIPPED",
             "v": "{0} EQUIPPED!",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_TUT_CHAMPSBUFF_INFOPOPUP_0",
             "v": "Congratulations, you've acquired an Infinity Stone! Each Infinity Stone boosts a specific Avenger for the duration of the event.\n\nTap on any tier of the affected Avenger to see the benefits.",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_TUT_CHAMPSBUFF_INFOPOPUP_1",
             "v": "You can access this information again by tapping the Infinity Stone boost in the Summoner Boost popup or the details screen of the affected Avenger.",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_TUT_CHAMPSBUFF_SUMMONERBOOST_0",
             "v": "You have an active Infinity Stone boost!\n\nTap on the Infinity Stone boost to see the benefits on ALL tiers of the affected Champion!",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_TUT_CHAMPSBUFF_SUMMONERPROFILE_0",
             "v": "You have an active Infinity Stone boost!\n\nTap on the Infinity Stone boost to see the benefits on ALL tiers of the affected Champion!",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_ACTIVE_CROSS_FIGHT_ABILITIES",
             "v": "ACTIVE CROSS-FIGHT ABILITIES",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_ASTONISHING",
@@ -188,42 +188,42 @@
         {
             "k": "ID_UI_BCG_ERROR_SWAP_CHAMPION_KO",
             "v": "KO'd Champions cannot be swapped out.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_ERROR_SWAP_LIMIT_REACHED",
             "v": "You may only swap a single Champion.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_ERROR_SWAP_LIMIT_REACHED_MULTIPLE",
             "v": "You may only swap {0} Champions.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_SWAPPED_CHAMPION",
             "v": "CHAMPION SWAPPED!",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_SWAP_CHAMPION",
             "v": "SWAP CHAMPION",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_SWAP_CHAMPION_CONFIRM",
             "v": "CONFIRM CHAMPION SWAP",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_SWAP_NO_CHANGE",
             "v": "NO CHAMPION SWAPPED",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BCG_SWAP_NO_CHANGE_DESC",
             "v": "No changes have been made to your team and you will proceed with the same Champions.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_BLUEPRINTS_BLUEPRINT",
@@ -237,7 +237,7 @@
         {
             "k": "ID_UI_BLUEPRINTS_CAPACITY_TOTAL_FORMAT",
             "v": "[FF0000FF]{0}/{1} CAPACITY[-]",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_BLUEPRINTS_CONVERT",
@@ -669,7 +669,7 @@
         {
             "k": "ID_UI_CATALYST_T6_CHEMICAL_DESC",
             "v": "A Tier 6 Science Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_COSMIC",
@@ -679,7 +679,7 @@
         {
             "k": "ID_UI_CATALYST_T6_COSMIC_DESC",
             "v": "A Tier 6 Science Cosmic is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_GENERIC",
@@ -689,7 +689,7 @@
         {
             "k": "ID_UI_CATALYST_T6_GENERIC_DESC",
             "v": "A Tier 6 Basic Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_MUTANT",
@@ -699,7 +699,7 @@
         {
             "k": "ID_UI_CATALYST_T6_MUTANT_DESC",
             "v": "A Tier 6 Mutant Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_MYSTIC",
@@ -709,7 +709,7 @@
         {
             "k": "ID_UI_CATALYST_T6_MYSTIC_DESC",
             "v": "A Tier 6 Mystic Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_TECH",
@@ -719,7 +719,7 @@
         {
             "k": "ID_UI_CATALYST_T6_TECH_DESC",
             "v": "A Tier 6 Tech Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_T6_TRAINED",
@@ -729,7 +729,7 @@
         {
             "k": "ID_UI_CATALYST_T6_TRAINED_DESC",
             "v": "A Tier 6 Skill Catalyst is required to Rank Up your Champion. Find more in Special Events!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_CATALYST_UNCOMMON_CHEMICAL",
@@ -802,42 +802,42 @@
         {
             "k": "ID_UI_CHAMPBUFF_BOOSTCHAMPTIERS",
             "v": "Boost ALL tiers of {0} that you own!",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_SUBTITLE",
             "v": "In the AVENGERS' LAST STAND events only:",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_MINDSTONE",
             "v": "INFINITY MIND STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_POWERSTONE",
             "v": "INFINITY POWER STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_REALITYSTONE",
             "v": "INFINITY REALITY STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_SOULSTONE",
             "v": "INFINITY SOUL STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_SPACESTONE",
             "v": "INFINITY SPACE STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_CHAMPBUFF_TITLE_TIMESTONE",
             "v": "INFINITY TIME STONE",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_COMMON_CLEAR_ALL",
@@ -851,27 +851,27 @@
         {
             "k": "ID_UI_CROSSFIGHT_ABILITIES",
             "v": "CROSS-FIGHT ABILITIES",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_CROSSFIGHT_FIGHTS_REMAINING_FORMAT",
             "v": "{0}/{1} Fights Remaining",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_CROSSFIGHT_FTE_DESCRIPTION",
             "v": "Some Champions are able to activate Cross-Fight Abilities. These can be applied to either attackers or defenders and last for a number of fights within a Quest.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_CROSSFIGHT_TAB_DESC",
             "v": "These abilities last on a Champion for a number of fights once they have been applied.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_CROSSFIGHT_TAB_TITLE",
             "v": "CROSS-FIGHT ABILITIES",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_DMG_ADAM",
@@ -1152,7 +1152,7 @@
         {
             "k": "ID_UI_HEROACTION_EXCLUSIVE",
             "v": "[FF0000FF]LOCKED[-]",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HEROACTION_EXCLUSIVE_V2",
@@ -1161,7 +1161,7 @@
         {
             "k": "ID_UI_HEROACTION_NON_EXCLUSIVE",
             "v": "[165C97FF]AVAILABLE[-]",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HEROACTION_NON_EXCLUSIVE_V2",
@@ -1178,7 +1178,7 @@
         {
             "k": "ID_UI_HEROESACTION_AVAILABLE_RARITIES",
             "v": "AVAILABLE RARITIES",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_HEROESACTION_CLOSE_AVAILABLE",
@@ -1368,22 +1368,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_AEGCHAMP",
             "v": "DAVID AND GOLIATH",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_AEGCOMBO",
             "v": "COMBO BREAKERS",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_AEGCOSMIC",
             "v": "WARRIORS OF THE STARS",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_AGANGOF",
             "v": "A GANG OF...",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_AIM",
@@ -1415,27 +1415,27 @@
         {
             "k": "ID_UI_HERO_SYNERGY_AV_TRYOUT",
             "v": "AVENGERS TRYOUT",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_AV_TRYOUT_DESC",
             "v": "[64acff]Spider-Man (Stark Enhanced):[-] +15% Ability Accuracy while the A.I. is active.\n[64acff]Vulture:[-] +{0}% Incinerate Damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BANEOFEVIL",
             "v": "BANE OF EVIL",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BANEOFKITCHEN",
             "v": "BANE OF HELL'S KITCHEN",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BANEOFKITCHEN_DESC",
             "v": "[64acff]Kingpin:[-] Heavy Attacks gain +{0}% Attack and cannot trigger a Passive Evade.\r\n [64acff]Daredevil:[-] +40% Armor Break duration.\r\n [64acff]Daredevil (Classic):[-] +40% Precision Buff duration.\r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BEACHBOD",
@@ -1483,25 +1483,25 @@
             "vn": "17.1"
         },
         {
+            "cn": "Black Panthers <-- this is correct we have two version under this synergy",
             "k": "ID_UI_HERO_SYNERGY_BLOODLUST_LONG",
             "v": "[64acff]Sabretooth:[-]Inflicting a Debuff reduces the opponent’s Ability Accuracy by 100% for 0.7 seconds.\n[64acff]Black Panthers, Killmonger:[-] +{0}% Offensive Combat Power Rate when hitting opponents that are suffering from a Debuff.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": "17.1",
-            "cn": "Black Panthers <-- this is correct we have two version under this synergy"
+            "vn": "17.1"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BLUE_I",
             "v": "IT AIN'T EASY Lv. 1",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BLUE_II",
             "v": "IT AIN'T EASY Lv. 2",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BLUE_III",
             "v": "IT AIN'T EASY Lv. 3",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_BONUS",
@@ -1532,12 +1532,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_COMPETITION",
             "v": "COMPETITION",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_COMPETITION_DESC",
             "v": "[64acff]Kingpin:[-] +{0}% Rage conversion chance.\n[64acff]The Hood:[-] +20% Invisibility Duration\n[64acff]Joe Fixit:[-] +{0}% Attack while the opponent has a Debuff\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_COMP_I",
@@ -1554,7 +1554,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_CONNOOBS",
             "v": "CONTEST NOOBS",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_CORVUS_MISSION2_LONG",
@@ -1574,7 +1574,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_COSMICPOWER",
             "v": "COSMIC POWER",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_COSMIC_I",
@@ -1716,7 +1716,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DEADLYPRESENCE",
             "v": "DEADLY PRESENCE",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DECIMATION",
@@ -1731,12 +1731,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DEFDESTROYER",
             "v": "DEFENDERS DESTROYER",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DEFDESTROYER_DESC",
             "v": "[64acff]Kingpin:[-] +15% more power when struck by a Physical Attack.\r\n [64acff]Iron Fist:[-] +{0}% Armor Break duration.\r\n [64acff]Elektra:[-] +{0}% Bleed duration.\r\n [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DEMONHUNTER",
@@ -1764,32 +1764,32 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_AEGCHAMP",
             "v": "[64acff]Ægon:[-] Ægon gets [16982bff]+{0}%[-] Attack Rating while fighting larger Champions. [64acff]The Champion:[-] The Champion gets [16982bff]+{0}%[-] Attack Rating while fighting smaller Champions [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_AEGCOMBO",
             "v": "[64acff]Ægon, Proxima Midnight, Star-Lord:[-] Activates Combo Shield for {0} seconds when this Champion would lose their Combo Meter. This ability activates only 1 time per fight.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_AEGCOSMIC",
             "v": "[64acff]Ægon, Angela, Proxima Midnight, Captain Marvel:[-] +{0}% Potency to Fury effects. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_AEGSENTRY",
             "v": "[64acff]Ægon:[-] Well-Timed Blocks guarantee Ægon's next hit will be a Critical Hit. [64acff]Sentry:[-] +{0} Critical Rate and Critical Damage Rate for each Reality Warp. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_AGANGOF",
             "v": "[64acff]Wolverine, Wolverine (Old Man Logan), Wolverine (Weapon X), Wolverine (X-23):[-]Regen Buffs grant +{0}% Attack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 26
+            "vn": "26"
         },
         {
+            "cn": null,
             "k": "ID_UI_HERO_SYNERGY_DESC_ANCIENTHUNGER",
-            "v": "[64acff]Symbiote Supreme:[-] Special 2 effects trigger through Blocks.\r\n[64acff]Dormammu:[-] Increases Health Regenerated by an Empowered Soul Bond by 50%.\r\n[64acff]Mephisto:[-] {0}% Chance to trigger Aura of Incineration on Basic Attack Hits.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "cn": null
+            "v": "[64acff]Symbiote Supreme:[-] Special 2 effects trigger through Blocks.\r\n[64acff]Dormammu:[-] Increases Health Regenerated by an Empowered Soul Bond by 50%.\r\n[64acff]Mephisto:[-] {0}% Chance to trigger Aura of Incineration on Basic Attack Hits.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_ARMOR",
@@ -1821,7 +1821,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_BLUE",
             "v": "All Champions gain +{0} Block Penetration",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_COMP",
@@ -1835,7 +1835,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_COSMICPOWER",
             "v": "Cosmic Champions increase their Buff Duration by +{0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_COSMIC_NEW",
@@ -1879,12 +1879,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_ENCHANTEDBLADES_NEW",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to gain an infinite Duration Precision Buff increasing Critical Rate by {0}. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_FEARSOMEFOUR",
             "v": "[64acff]Man-Thing:[-] If Struck by a Basic Attack while under the effect of an Unstoppable Buff 100% chance to gain an Indestructible Buff lasting 0.5 second(s).\n[64acff]Howard the Duck:[-] When the Opponent has an ISO Loader effect Howard’s Special 2 gains +50% Ability Accuracy.\n[64acff]She-Hulk:[-] Striking a Stunned Opponent with a Heavy Attack grants a Fury Buff increasing Attack by 100% of her Base Attack for 1 second(s).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_GETINTHEPOOL",
@@ -1898,12 +1898,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_HELLLORDS",
             "v": "[64acff]Hela:[-] Begin the fight with 1 Bar of Power. [64acff]Dormammu:[-] Increases any Health gained while his Imbued Dimensional Link is active by {0}% [64acff]Mephisto:[-] Regain the first Soul spent to trigger his Soul Imprisonment each fight. [f79f0e]Unique Synergy[-] Does not stack with duplicate synergies.        ",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_HFH",
             "v": "All Champions gain +{1} Block Proficiency & Physical Resistance",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_HITMON_1",
@@ -1952,7 +1952,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_IMSOUL",
             "v": "[64acff]Hela:[-] Nullify effects against Hela have a {0}% reduced chance to trigger. [64acff]Loki:[-] While they are Cursed, Loki always counts as having more Health than his Opponent. [64acff]Thor (Ragnarok):[-] Gains +100% Perfect Block Chance, when Autoblocking. [f79f0e]Unique Synergy[-] Does not stack with duplicate synergies.        ",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_INSPIRATION",
@@ -1982,23 +1982,23 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_LABPARTNERS",
             "v": "[64acff]Wolverine (Weapon X), Sabretooth:[-] +{0}% Bleed Debuff Potency.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 26
+            "vn": "26"
         },
         {
+            "cn": null,
             "k": "ID_UI_HERO_SYNERGY_DESC_LOSTDAUGHTERS",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to gain an infinite Duration Fury Buff increasing Attack by {0}% of Base Attack.",
-            "vn": 19,
-            "cn": null
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_LOSTDAUGHTERS_NEW",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to gain an infinite Duration Fury Buff increasing Attack by {0}% of Base Attack. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_LULLABY",
             "v": "[64acff]Hulk (Ragnarok):[-] When Struck Hulk has a {0}% chance to ready a SMASH for his next attack. [64acff]Black Widow:[-] Evade chance increases by 100%. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MANAGAIN",
@@ -2066,43 +2066,43 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_1",
             "v": "[64acff]Other Synergy Members:[-] If at or below 20% health at the start of the fight, heal {0}% of Max Health over 6 second(s). Otherwise gain 60% of a Bar of Power over 6 second(s) instead.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
+            "cn": null,
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_2",
             "v": "If all other Champions in this Synergy are present:\n[64acff]Thing:[-] Whenever you would gain a Rock Stack, gain an additional one.\n[64acff]Human Torch:[-] Incinerate and Nova Flame duration increased by 30%.\n[64acff]Invisible Woman:[-] Invisibility only has a 15% chance to unpause during a Well-Timed Block.\n[64acff]Mister Fantastic:[-] For each unique Debuff on the Opponent, they take {0}% of Mister Fantastic’s current Attack Rating as Direct Damage per second.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25,
-            "cn": null
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_3",
             "v": "[64acff]Mister Fantastic:[-] Debuffs last {0}% longer.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_4",
             "v": "[64acff]Mister Fantastic:[-] Increase Attack Rating by 0%.\nThe potency of this synergy is increased by a flat {0}% for each other Mister Fantastic on your team.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_5",
             "v": "[64acff]Mister Fantastic:[-] Gain 5% of his Max Power each time a Buff is Nullified or its Duration expires off the Opponent.\n[64acff]Doctor Doom:[-] Heavy Attacks apply up to 1 Armor Break Debuff for 10 second(s), reducing Armor Rating by {0}%.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_6",
             "v": "[009ac6ff]Cosmic[-] and [eb1212ff]Skill[-] Champion's Basic Hits pause one of each Buff on them for 0.{0} second(s).\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_7",
             "v": "[0459d8ff]Tech[-] and [52aa17ff]Science[-] Champion's Debuffs also apply an indefinite Power Sting, dealing Direct Damage equal to {0}% of their Attack Rating when the Opponent activates a Special Attack. The Power Sting stacks up to 3 times.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MRFANTASTIC_8",
             "v": "[f8c11bff]Mutant[-] and [bc22c6ff]Mystic[-] Champions regain {0}% of the Power spent on any Special Attack, for each unique Special Attack they’ve used in the fight.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MUTANT",
@@ -2111,7 +2111,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MUTANTEVOLUTION",
             "v": "Mutant Champions gain a permanent Passive +{0}% Prowess.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MYSTIC",
@@ -2120,7 +2120,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MYSTICCRAFT",
             "v": "Mystic Champions deal {0}% of their Attack as Direct Damage to their Opponent when Nullifying one of their Buffs.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_MYSTICMASTERS",
@@ -2130,37 +2130,37 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_EXTREME",
             "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with any Coldsnap, Frost Bite or Incinerate effect he will drop an Extreme Conditions Kit, granting Debuff Immunity for {0} seconds. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_FIREPOWER",
             "v": "[64acff]All Champions except Nick:[-] If Nick is alive, when the fight starts he grants his teammates a Buff doubling their Critical Rating for {0} seconds. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_NFURY",
             "v": "[64acff]All Hero Champions except Nick:[-] {0}% Attack Rating. This boost is doubled if Nick is Dead. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_POTENCY",
             "v": "All Champions: If Nick is alive, all Fury Buffs have {0}% increased duration, including his own. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_POWER",
             "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with an effect that would reduce or block their Power Bar he will drop a Power Kit, Removing the effect and granting 1 bar of power over {0} seconds. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_NFURY_RESTORE",
             "v": "[64acff]All Champions except Nick:[-] If Nick is alive, once per fight when a teammate is inflicted with a Bleed, Poison or Shock Debuff he will drop a Restoration Kit, Purifying the Debuff and Regenerating {0}% of their max health over 3 seconds.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_OFFLIMITS",
             "v": "[64acff]Hulk (Ragnarok):[-] Hulk's chance to SMASH on All Attacks increases by {0}% while Face Me is active. [64acff]Hela:[-] Hela begins the fight with 1 Fury Buff, and if she is ever without a Fury Buff for 10 seconds, she gains one. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_OLDTEAMMATES",
@@ -2192,7 +2192,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_PUNYGOD",
             "v": "[64acff]Hulk (Ragnarok):[-] +{0} Physical Resistance while Unstoppable. [64acff]Loki:[-] Basic Attacks against Loki have a 10% chance to miss, while his Opponent is under the effect of any Buff. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_QUEENOFHEL",
@@ -2207,7 +2207,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_RAINBOWGUARDIAN_NEW",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, the first time when you would be knocked out gain both an Indestructible and an Unstoppable Buff which last for {0} seconds. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_RUNSINTHEFAMILY",
@@ -2221,7 +2221,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_SCIENCEEXPERIMENT",
             "v": "Science Champions place a Passive Weakness on the Opponent reducing their Attack by {0}% except while being struck by them.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_SGM",
@@ -2235,7 +2235,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_SKILLTRAINING",
             "v": "Skill Champions gain +{0} Critical Rating on Basic Attacks.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_SORCSUP_1",
@@ -2284,7 +2284,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_TEAMBUILDING",
             "v": "[64acff]Hulk (Ragnarok):[-] SMASH attacks have a {0}% chance to be Unblockable. [64acff]Thor (Ragnarok):[-] Special attacks becomes Unblockable while the Boon of the Gods Power Gain is active. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_TECH",
@@ -2293,7 +2293,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_TECHBREAKTHROUGH",
             "v": "Tech Champions drain {0}% of the Opponent’s Max Power after the Opponent uses a Special Attack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_TECH_NEW",
@@ -2341,7 +2341,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_TROPHYCASE",
             "v": "[64acff]Wolverine (Weapon X):[-] Start the fight with 5 Rage charges.\n[64acff]Goldpool, Thanos, Kang:[-] Start the fight with a Fury Buff, granting {0}% of your Base Attack for 15 Seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_UNCANNYAVENGERS",
@@ -2384,85 +2384,85 @@
             "vn": "15.1"
         },
         {
+            "cn": null,
             "k": "ID_UI_HERO_SYNERGY_DESC_WARRIORSOFASGARD",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to Regenerate {0}% of missing Health instantly.",
-            "vn": 19,
-            "cn": null
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DESC_WARRIORSOFASGARD_NEW",
             "v": "[64acff]All Champions except Heimdall:[-] Once per fight Heimdall will intercede on your behalf, dash back and hold Block for 1.5 seconds to Regenerate {0}% of missing Health instantly. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN1_LONG",
             "v": "[64acff]Doctor Doom:[-] Attack Rating is increased by {0}% for each knocked out team member.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN1_TITLE",
             "v": "I ANSWER TO NO ONE",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN2_LONG",
             "v": "[64acff]Doctor Doom:[-] Heavy Attacks are guaranteed critical hits while the Opponent is suffering from a Stagger effect.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN2_TITLE",
             "v": "FANTASTIC RAGE",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN3_LONG",
             "v": "[64acff]Doctor Doom:[-] Gains +{0}% Perfect Block chance.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN3_TITLE",
             "v": "ENHANCED FORCEFIELD",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN4_LONG",
             "v": "[64acff]Doctor Doom:[-] Shock and Incinerate Debuffs have +{0}% increased Potency.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN4_TITLE",
             "v": "GENIUS INGENUITY",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN5_LONG",
             "v": "[64acff]Doctor Doom:[-] Activating the [20c76b]Aura of Haazareth[-] has a {0}% chance to Purify all Degeneration, Poison, Incinerate, Bleed and Coldsnap Debuffs.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN5_TITLE",
             "v": "SORCERY REVERSAL",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN6_LONG",
             "v": "[64acff]Doctor Doom:[-] Each time the [20c76b]Aura of Haazareth[-] is activated Doom taps into the Power Cosmic, gaining a random Buff for {0} seconds.\nFury: Increase Attack Rating by 50%.\nEnergize: Increase Combat Power Rate by 15%.\nArmor Up: Increase Armor Rating by 50%.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN6_TITLE",
             "v": "COSMIC OVERLOAD",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN7_LONG",
             "v": "[64acff]Doctor Doom:[-] Successful Nullifies deal a burst of energy damage equal to {0}% of Doom's Attack.\n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOOM_SYN7_TITLE",
             "v": "MYSTIC TYRANTS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_DOUBLENEG",
@@ -2489,22 +2489,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_EBONYMAW_BLK_LONG",
             "v": "[64acff]All Members of Thanos Army:[-] When the fight starts, gain a Precision Passive increasing Critical Rating by {0}% for 20 seconds.",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EBONYMAW_BLK_TITLE",
             "v": "LIEUTENANTS OF THE BLACK ORDER",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EBONYMAW_CULL_LONG",
             "v": "[64acff]Ebony Maw:[-] Charging a Heavy Attack for 0.5 seconds grants the Opponent an indefinite Fury Buff, increasing their Attack Rating by 0%.\n\r\n[64acff]Cull Obsidian:[-] When 1 or more Thanos’ Favor Buffs expire, gain a Fury Buff granting 10% attack for {0} seconds. Fury Buffs gained in this way will not stack.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EBONYMAW_CULL_TITLE",
             "v": "CULL OF THE MAW",
-            "vn": 23
+            "vn": "23"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ELECTRICCHARGE",
@@ -2519,47 +2519,47 @@
         {
             "k": "ID_UI_HERO_SYNERGY_EMMACOLO",
             "v": "IMPENETRABLE HIDE",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMACOLO_DESC_1",
             "v": "[64acff]Emma Frost:[-] Emma switches to Diamond Form when she and the Opponent are in the same bar of Power. \r\n[64acff]Colossus:[-] +{0}% increased Power Gain for each Armor Up Buff. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMACOLO_DESC_2",
             "v": "[64acff]Emma Frost:[-] Emma switches to Diamond Form when she and the Opponent are in the same bar of Power.\n[64acff]Colossus:[-] Damage for all of Colossus' attacks is increased by his Armor, instead of only his Special Attacks.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMACYCL_DESC",
             "v": "[64acff]Emma Frost:[-] Emma can strike with Critical Hits even while the Opponent is Blocking. \r\n[64acff]Cyclops (New Xavier and Blue Team):[-] +{0}% increased Power Gain. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMAPHNX",
             "v": "PHOENIX FORCE",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMAPHNX_DESC",
             "v": "[64acff]Emma Frost:[-] Whenever Emma would gain one Prowess Buff, she gains two instead.\n[64acff]Phoenix:[-] Entering Overload does not consume Fury Buffs. When Phoenix stops Overloading, all Fury Buffs are removed.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMAPHNX_DESC_V2",
             "v": "[64acff]Emma Frost:[-] Whenever Emma would gain one Prowess Passive, she gains two instead.\n[64acff]Phoenix:[-] Entering Overload does not consume Fury Buffs. When Phoenix stops Overloading, all Fury Buffs are removed.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMASENT",
             "v": "MEMORIES OF GENOSHA",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_EMMASENT_DESC",
             "v": "[64acff]Emma Frost:[-] +15% Attack Rating in Diamond Form. \r\n[64acff]Sentinel:[-] +{0} Physical Resistance for each Analysis Charge.\r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ENCHANTEDBLADES",
@@ -2569,7 +2569,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_ENEMY_99",
             "v": "ENEMIES Lv. 99",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ENEMY_I",
@@ -2591,17 +2591,17 @@
         {
             "k": "ID_UI_HERO_SYNERGY_ENHANCEDSOLDIER_LONG",
             "v": "[64acff]Killmonger:[-] [16982bff]15%[-] chance to activate True Strike when intercepting the opponent’s Dash. [64acff]Winter Soldier[-] [16982bff]+{0}%[-] Attack for each hit of the Combo Meter to maximum of 100 hits. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies. [16982bff]This Synergy is enhanced in the next Tier.[-]        ",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ENHANCEDSOLDIER_LONG_B",
             "v": "[64acff]Killmonger:[-] [16982bff]30%[-] chance to activate True Strike when intercepting the opponent’s Dash.\n[64acff]Winter Soldier[-] [16982bff]+{0}%[-] Attack for each hit of the Combo Meter to maximum of 100 hits.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\n[16982bff]This Synergy is enhanced in the next Tier.[-]",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ENHANCEDSOLDIER_LONG_C",
             "v": "[64acff]Killmonger:[-] 100% chance to activate True Strike when intercepting the opponent’s Dash. [64acff]Winter Soldier[-] +{0}% Attack for each hit of the Combo Meter to maximum of 100 hits. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ETERNALADVERSARIES",
@@ -2628,12 +2628,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_FEARLESS_LONG",
             "v": "[64acff]Killmonger:[-] If Vibranium Armor is active, Killmonger has a 35% chance to Purify a Debuff after a 0.5 second delay and then instantly Regenerate 4% Health per Debuff. [64acff]Void[-] Regenerates {0}% Health when inflicting his Intimidating Debuffs. [f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.        ",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_FEARSOMEFOUR",
             "v": "FEARSOME FOUR",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_FLORALCOLOSSUS_DESC",
@@ -2658,22 +2658,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_FORMIDABLEFOE",
             "v": "FORMIDABLE FOE",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_FORMIDABLEFOE_LONG",
             "v": "[64acff]Ghost:[-] +{0}% Attack for each Buff on Ghost. \r\n[64acff]Ant-Man:[-] +{0}% Attack for each Debuff on the opponent. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_FRIENDFROMWORK",
             "v": "FRIEND FROM WORK",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_FRIENDFROMWORK_LONG",
             "v": "[64acff]Thor (Ragnarok):[-] +{0}% Attack when Thunder God’s Wrath is active. [64acff]Hulk[-] Becomes Indestructible for 5 seconds when below 20% Health. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_G99_OSC_LONG",
@@ -2758,7 +2758,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_HELLLORDS",
             "v": "HELL LORDS",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_HFH",
@@ -2879,7 +2879,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_IMSOUL",
             "v": "IMMORTAL SOULS",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_INFINITYENEMIES_LONG",
@@ -2990,17 +2990,17 @@
         {
             "k": "ID_UI_HERO_SYNERGY_KNOWSHARE",
             "v": "KNOWLEDGE SHARE",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_KNOWSHARE_DESC",
             "v": "[64acff]Spider-Man (Stark Enhanced):[-] A.I. Reboots {0}% faster.\n[64acff]Iron Man & Hulkbuster:[-] +{0}% Special Damage.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_LABPARTNERS",
             "v": "LAB  PARTNERS",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_LARCENY",
@@ -3043,12 +3043,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_LIKEOLDDAYS",
             "v": "LIKE OLD DAYS",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_LIKEOLDDAYS_LONG",
             "v": "[64acff]Thor (Ragnarok):[-] {0}% chance to activate a Combo Shield for 5 seconds if Thor maintained a combo of 1 or more hits when Struck. [64acff]Loki[-] Ascendant generates Power as long as Loki is below 2 bars. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_LOSTDAUGHTERS",
@@ -3068,7 +3068,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_LULLABY",
             "v": "LULLABY",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MASTERMINDS",
@@ -3105,22 +3105,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_METALMAYHEM",
             "v": "METAL MAYHEM",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_METALMAYHEM_LONG",
             "v": "[64acff]Omega Red:[-] +{0}% Critical Damage for each Death Spore on the opponent. \r\n[64acff]Wolverine:[-] +20% Stronger Bleeds and +5% Critical Rating. \r\n[64acff]Colossus:[-] +20% Attack Rating for each Armor Up Buff and Well Timed Blocks grant an Armor Buff.[Max 1 Stack] \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MICROSCOPICOBSERVATION",
             "v": "MICROSCOPIC OBSERVATION",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MICROSCOPICOBSERVATION_LONG",
             "v": "[64acff]Ghost:[-] Special Attacks are Unblockable when triggered while Phasing. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MIDNIGHTPURSUIT",
@@ -3135,7 +3135,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_MISUNDERSTOODMONSTERS",
             "v": "MISUNDERSTOOD MONSTERS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MOJO_1",
@@ -3195,47 +3195,47 @@
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_1",
             "v": "H.E.R.B.I.E.",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_2",
             "v": "THE FANTASTIC FOUR",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_3",
             "v": "... DO US PART",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_4",
             "v": "COUNCIL OF REEDS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_5",
             "v": "COLLEGE RIVALS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_6",
             "v": "SHARED KNOWLEDGE - ASTRONOMY",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_7",
             "v": "SHARED KNOWLEDGE - ROBOTICS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MRFANTASTIC_8",
             "v": "SHARED KNOWLEDGE - GENETICS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MUTANTEVOLUTION",
             "v": "MUTANT EVOLUTION",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MUTANTPURSUIT",
@@ -3262,7 +3262,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTICCRAFT",
             "v": "MYSTIC CRAFT",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTICMASTERS",
@@ -3294,42 +3294,42 @@
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_EI_LONG",
             "v": "[64acff]Mysterio:[-] Reflection, Illusion and Frenzy Gas last for an additional {0} seconds. \n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_EI_TITLE",
             "v": "ENHANCED ILLUSIONIST",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_HV_LONG",
             "v": "[64acff]Mysterio:[-] When dashing forward Mysterio has {0}% chance to inflict the Opponent with Falter for the duration of the dash. Opponents suffering Falter have a 100% chance to Miss their attacks. \n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_HV_TITLE",
             "v": "MINE CAN HOVER",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_IN_LONG",
             "v": "[64acff]Mysterio:[-] Poison durations are increased by {0} seconds. \n[f79f0e]Solo:[-] Only affects this Champion and does not stack.",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_IN_TITLE",
             "v": "ENCROACHING INSANITY",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_MI_LONG",
             "v": "[64acff]Emma Frost, Mysterio:[-] Grants immunity to reverse controls. \n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_MYSTO_MI_TITLE",
             "v": "MENTAL IMMUNITY",
-            "vn": 24
+            "vn": "24"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NEMESIS_I",
@@ -3346,37 +3346,37 @@
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_EVADE",
             "v": "STRATEGIC SABOTAGE",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_EXTREME",
             "v": "EXTREME CONDITIONS KIT",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_FIREPOWER",
             "v": "INCREASED FIREPOWER",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_NFURY",
             "v": "NICK'S LEADERSHIP",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_POTENCY",
             "v": "CONTINGENCY PLAN",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_POWER",
             "v": "POWER KIT",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NFURY_RESTORE",
             "v": "RESTORATION KIT",
-            "vn": 22
+            "vn": "22"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NIGHTHAWKS",
@@ -3391,22 +3391,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_NOTAFRAIDOFDEATH",
             "v": "NOT AFRAID OF DEATH",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_NOTAFRAIDOFDEATH_LONG",
             "v": "[64acff]Thor (Ragnarok):[-] Regenerates {0}% of max Health when killing opponents. [64acff]Hela[-] Grants 100 Spirits of the Dead charges at the start of the fight. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_OFFLIMITS",
             "v": "OFF LIMITS",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_OLDTEAMMATES",
             "v": "OLD TEAMMATES",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_OTHERHALF",
@@ -3451,12 +3451,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_ADVANCEDTECH",
             "v": "ADVANCED TECH",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_ADVANCEDTECH_LONG",
             "v": "[64acff]Wasp:[-] When she intercepts the opponent’s Dash Attack and Petrify is not active on the opponent, Petrify is inflicted, reducing the effectiveness of Power Gain and Regeneration by 100% for 8 seconds. This can activate 3 times in a fight.\n[64acff]Iron Man, Iron Man(Infinity War):[-] Armor Up effects last for an additional {0} seconds.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_CORVUS",
@@ -3466,12 +3466,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_DEADLYSTING",
             "v": "DEADLY STING",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_DEADLYSTING_LONG",
             "v": "[64acff]Wasp:[-] When she intercepts the opponent’s Dash Attack and Concussion is not active on the opponent, Concussion is inflicted, reducing the opponent’s Ability Accuracy by 100% for 8 seconds. This can activate 3 times in a fight. \r\n[64acff]Yellowjacket:[-] {0}% chance to reactivate a Power Sting when it’s timer expires. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_GAMORA",
@@ -3486,12 +3486,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_HARDTOHIT",
             "v": "HARD TO HIT",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_HARDTOHIT_LONG",
             "v": "[64acff]Wasp:[-] Counter Sting is never disabled when Wasp is below {0}% Health. \r\n[64acff]Ant-Man:[-] When Glancing Hits, he gains 25% increased Attack for 12 seconds. \r\n[64acff]Wasp, Ant-Man, Ghost:[-] +25% Attack at the start of the fight if Wasp, Ant-Man and Ghost are together in a team. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_NEBULA",
@@ -3499,20 +3499,20 @@
             "vn": "17.2"
         },
         {
+            "cn": "https://jira.kabaminc.com/browse/MARVEL-63337",
             "k": "ID_UI_HERO_SYNERGY_PROXIMA_NEBULA_LONG",
             "v": "[64acff]Proxima Midnight:[-] When True Accuracy is active, her Attack Rating is increased by {0}%. \r\n[64acff]Nebula[-] Starts the fight with 10 Electroshock Charges. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate Synergies.\t",
-            "vn": "17.2",
-            "cn": "https://jira.kabaminc.com/browse/MARVEL-63337"
+            "vn": "17.2"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_PUNYGOD",
             "v": "PUNY GOD",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_QUEENOFHEL",
             "v": "QUEEN OF HEL",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_QUEENOFNOTHING",
@@ -3556,22 +3556,22 @@
         {
             "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY",
             "v": "INHUMAN ROYAL FAMILY",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_ROYALFAMILY_BLACKBOLT",
             "v": "[64acff]Medusa:[-] Living Strands generates up to 6 Fury Buffs. [64acff]Black Bolt:[-] Provocation generates permanent Buffs instead of temporary Buffs. [64acff]Inhuman Royal Family:[-]+{0}% Attack at the start of the fight if Medusa, Black Bolt and Karnak are together in a team. [f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.        ",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_RUNSINTHEFAMILY",
             "v": "RUNS IN THE FAMILY",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_SCIENCEEXPERIMENT",
             "v": "SCIENCE EXPERIMENT",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_SCIENCERESEARCH",
@@ -3598,12 +3598,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_SEEINGRED",
             "v": "SEEING RED",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_SEEINGRED_LONG",
             "v": "[64acff]Omega Red:[-] Well Timed Blocks have a {0}% chance to inflict 1 Death Spore up to a max of 30 Spores total.\n[64acff]Red Skull:[-] While under 1 Bar of Power, Charging Red Skull’s Heavy Attack grants an Unstoppable Buff for 2 seconds. If Hit while Unstoppable, the Buff is removed and Red Skull immediately executes the Heavy Attack.\n[64acff]Red Hulk:[-] +25% Power Rate against Incinerated opponents.\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_SEETHINGHATRED",
@@ -3654,7 +3654,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_SKILLTRAINING",
             "v": "SKILL TRAINING",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_SKILLTRAINING_LONG",
@@ -3756,7 +3756,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_TEAMBUILDING",
             "v": "TEAM BUILDING EXERCISE",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_TEAMMATESINTHECONTEST",
@@ -3793,7 +3793,7 @@
         {
             "k": "ID_UI_HERO_SYNERGY_TECHBREAKTHROUGH",
             "v": "TECH BREAKTHROUGH",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_TECH_I",
@@ -3815,17 +3815,17 @@
         {
             "k": "ID_UI_HERO_SYNERGY_THEUNTOUCHABLES",
             "v": "THE UNTOUCHABLES",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_THEUNTOUCHABLES_LONG",
             "v": "[64acff]Ghost:[-] Take no damage while Phasing. \r\n[64acff]The Hood:[-] Start the fight Invisible. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_THINGS",
             "v": "THINGS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_THING_CHAMP",
@@ -3872,12 +3872,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_TROPHYCASE",
             "v": "TROPHY CASE",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_UNCANNYAVENGERS",
             "v": "UNCANNY AVENGERS",
-            "vn": 25
+            "vn": "25"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_UNTAMEDFORCE",
@@ -4012,12 +4012,12 @@
         {
             "k": "ID_UI_HERO_SYNERGY_XASSASINS",
             "v": "X ASSASSINS",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_SYNERGY_XASSASINS_LONG",
             "v": "[64acff]Omega Red:[-] {0}% faster rate to inflict Death Spores and {0}% longer rate for Death Spores to be removed. \r\n[64acff]Deadpool (X-Force):[-] +25% Power Rate against Bleeding Opponents. \r\n[64acff]Sabretooth:[-] 30% chance Basic Claw hits inflict Bleed, dealing 40% of Attack as Direct Damage over 4 seconds. \r\n[f79f0e]Unique Synergy:[-] Does not stack with duplicate synergies.\t",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_HERO_TILE_LEVEL_FORMAT",
@@ -4034,52 +4034,52 @@
         {
             "k": "ID_UI_HITS_LSD_0",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_1",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_2",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_3",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_4",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_5",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_6",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_7",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_8",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_HITS_LSD_9",
             "v": "HITS!",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_UI_INCREDIBLE",
@@ -4616,7 +4616,7 @@
         {
             "k": "ID_UI_PROFILE_TOPHERO",
             "v": "TOP CHAMPION",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_UI_PROFILE_TOPHEROS",
@@ -4733,7 +4733,7 @@
         {
             "k": "ID_UI_STAT_ATTRIBUTE_FORMAT_VOODOO_SP3LEECH",
             "v": "{0}% chance of applying Power Leech to the target stealing [16982bff]{1}%[-] of Max Power over [16982bff]{2}[-] seconds.",
-            "vn": 10
+            "vn": "10"
         },
         {
             "k": "ID_UI_STAT_FORMAT_ARMORSHATTERED_NOAB_V2",
@@ -4844,12 +4844,12 @@
         {
             "k": "ID_UI_TEAM_MANAGEMENT_RESTRICTIONS_MET_FALSE",
             "v": "CHAMPION REQUIREMENTS  NOT MET",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_TEAM_MANAGEMENT_RESTRICTIONS_MET_TRUE",
             "v": "CHAMPION REQUIREMENTS MET",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_TEAM_MANAGEMENT_SORT_ALPHABETIC",
@@ -4986,17 +4986,17 @@
         {
             "k": "ID_UI_TEAM_SELECT_QUEST_RESTRICTIONS_INFO",
             "v": "Only Champions which fulfill certain requirements can be used.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_TEAM_SELECT_QUEST_RESTRICTIONS_REQUIRE",
             "v": "REQUIREMENTS",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_TEAM_SELECT_QUEST_RESTRICTIONS_TITLE",
             "v": "CHAMPION REQUIREMENTS",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_UI_TEAM_SELECT_RECOMMENDED_RATING",

@@ -1,14 +1,14 @@
 {
     "meta": {
         "format": "sparx",
+        "hash": "f5eea167619bec574143432fe4825bf8e016d910",
         "language": "en",
+        "string_count": 968,
         "tagged": [
             "special_attacks",
             "client"
         ],
-        "hash": "cd698b5d6e27a1ec38fd6b61773907cdc861f654",
-        "ts": 1578694651,
-        "string_count": 968
+        "ts": 1591726468
     },
     "strings": [
         {
@@ -218,17 +218,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_CAPTAINAMERICA_MOVIE_0",
             "v": "My Ally's Claws",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CAPTAINAMERICA_MOVIE_1",
             "v": "Kinetic Discharge",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CAPTAINAMERICA_MOVIE_2",
             "v": "Lead from the Front",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CAPTAINAMERICA_WW2_0",
@@ -272,17 +272,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_CHAMPION_0",
             "v": "Judo Chop",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CHAMPION_1",
             "v": "Missile Dropkick",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CHAMPION_2",
             "v": "Champion's Press Backbreaker ",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CIVILWARRIOR_0",
@@ -348,10 +348,10 @@
             "v": "Unbreakable"
         },
         {
+            "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent.",
             "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_0",
             "v": "Atomic Fissure",
-            "vn": "17.2",
-            "cn": "Fixed to Corvus’s glaive splits atoms in the air, launching a cosmic blast towards the opponent."
+            "vn": "17.2"
         },
         {
             "k": "ID_SPECIAL_ATTACK_CORVUSGLAIVE_1",
@@ -685,17 +685,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINAMERICA_MOVIE_0",
             "v": "Cap shows his new vibranium hardware is good for offence as well as defence.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINAMERICA_MOVIE_1",
             "v": "Smashing together his vambraces Cap unleashes a wave of kinetic energy.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINAMERICA_MOVIE_2",
             "v": "Cap leads by example, sending his enemy crashing to the mat!",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CAPTAINAMERICA_WW2_0",
@@ -724,7 +724,7 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CARNAGE_0",
             "v": "Carnage hurls himself at his opponent rending with limbs, and tentacles alike.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CARNAGE_1",
@@ -739,17 +739,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CHAMPION_0",
             "v": "The Champion paralyzes the opponent with a knife-hand-chop combo then finishes them with a powerful skullet hit.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CHAMPION_1",
             "v": "The Champion channels the Power Primordial into his legs to unleash a flurry of powered-up kicks, inflicting critical blows onto the opponent.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CHAMPION_2",
             "v": "The Champion strikes the opponent with a flurry of combos powered up by the Power Primordial, finishing them with a decisive blow to their back.",
-            "vn": 21
+            "vn": "21"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_CIVILWARRIOR_0",
@@ -1232,17 +1232,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HELA_0",
             "v": "Hela stabs for the heart of her opponent.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HELA_1",
             "v": "Twin blades, followed by an axe hurled with immense force.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HELA_2",
             "v": "Summoning a whirlwind of weapons, Hela unleashes a torrent of blades.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HOOD_0",
@@ -1298,17 +1298,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HULK_RAGNAROK_0",
             "v": "Hulk smashes his hammer down sending out shockwaves to knock his opponent flying.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HULK_RAGNAROK_1",
             "v": "Hulk unleashes a powerful series of attacks with both weapons.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HULK_RAGNAROK_2",
             "v": "A favorite of the crowd, Hulk uses his axe to throw his opponent to the ground before launching himself into a massive leaping SMASH!",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_HULK_RED_0",
@@ -1337,17 +1337,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ICEMAN_0",
             "v": "A quick blast of icy air to help the opponent cool off.",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ICEMAN_1",
             "v": "An icy blast to hold them in place just long enough to rain down icicles from above.",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ICEMAN_2",
             "v": "Iceman freezes his opponent in place before giving them the cold shoulder.",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONFIST_0",
@@ -1388,32 +1388,32 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_INFINITYWAR_0",
             "v": "Tapping into an esoteric energy source, the suit morphs to fire debilitating blasts.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_INFINITYWAR_1",
             "v": "Nanoparticles reform into wings that rain down repeated missile strikes.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_INFINITYWAR_2",
             "v": "Adapting to both worldly and otherworldly threats, detainment drones deploy and the Model 50 unleashes its entire arsenal.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_MOVIE_0",
             "v": "Tapping into an esoteric energy source, the suit morphs to fire debilitating blasts.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_MOVIE_1",
             "v": "Nanoparticles reform into wings that rain down repeated missile strikes.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_MOVIE_2",
             "v": "Adapting to both worldly and otherworldly threats, detainment drones deploy while the Model 50 unleashes its entire arsenal.",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_IRONMAN_SUPERIOR_0",
@@ -1515,32 +1515,32 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KILLMONGER_0",
             "v": "Killmonger stays true to his name, offering a 2-for-1 special on knives to the chest and a bonus leaping kick to the face.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KILLMONGER_1",
             "v": "Leaping into the air for a height advantage, Killmonger lands with his ceremonial blades, striking deep wounds in his target.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KILLMONGER_2",
             "v": "Killmonger’s black-ops training becomes painfully realized as he uses his Vibranium claws to lacerate his Opponent.",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KINGPIN_0",
             "v": "Nothing’s illegal in the Contest. Especially not a concentrated dose of toxic Black ISO-8.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KINGPIN_1",
             "v": "It’s nothing personal...it’s just good business.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KINGPIN_2",
             "v": "Such disrespect and insolence towards the Kingpin of crime. It’s time Fisk got his hands dirty...",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_KORG_0",
@@ -1662,17 +1662,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MEDUSA_0",
             "v": "Medusa individually controls each strand of her hair to subdue opponents with a 4-hit combo.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MEDUSA_1",
             "v": "Medusa swings her body, striking her opponents with a combination of sword and hair attacks.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MEDUSA_2",
             "v": "Wielding blades in her hands and hair, Medusa shows her opponents that she is the Inhuman Queen for a reason.",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_MEPHISTO_0",
@@ -1788,17 +1788,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NEBULA_0",
             "v": "Striking first with her electroshock batons, Nebula then forms them into a staff for a devastating second strike.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NEBULA_1",
             "v": "Nebula puts some space between her and her opponent before unleashing a concentrated burst of electricity.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NEBULA_2",
             "v": "Death by a thousand cuts, faster than you can bat an eye.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_NIGHTCRAWLER_0",
@@ -1830,17 +1830,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OMEGARED_0",
             "v": "Omega Red uses his Carbonadium tentacles to take life force through brute force.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OMEGARED_1",
             "v": "Flooding the air around him with deadly spores, Omega Red makes any proximity problematic.",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_OMEGARED_2",
             "v": "Wild arcs of tentacles send the opponent helplessly into the air and down again as Omega Red prepares a final attack to leave his opponent completely drained. ",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_PHOENIX_0",
@@ -2066,17 +2066,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERMAN_MOVIE_0",
             "v": "Uppercut. Place webs. Launch self at criminal. No problem. Just like back in Queens...but what about the name?",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERMAN_MOVIE_1",
             "v": "Electric webshots! Thwip thwip, zap, sizzle!",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_SPIDERMAN_MOVIE_2",
             "v": "Awesome entrance. Check. Blast the opponent with web shots. Got it. Launch opponent into wall. Nailed it. Strike amazing hero pose...good enough.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_STARLORD_0",
@@ -2205,17 +2205,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THOR_RAGNAROK_0",
             "v": "Without Mjolnir, Thor must improvise and use his shield as a deadly weapon.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THOR_RAGNAROK_1",
             "v": "Skilled with multiple weapons, Thor engages his opponent with a ferocious sword fighting style.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_THOR_RAGNAROK_2",
             "v": "Thor discovers that his true power lies within, channeling lightning through his fists and electrifying opponents with each punch.",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_ULTRON_0",
@@ -2409,17 +2409,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VULTURE_MOVIE_0",
             "v": "Vulture launches the flight pack off his suit directly at his opponent.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VULTURE_MOVIE_1",
             "v": "Vulture flares his engines directly into his opponent, blasting them with superheated jetwash.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_VULTURE_MOVIE_2",
             "v": "Striking from the sky, Vulture hurls his opponent back, before employing an industrial laser heavily modified with alien tech.",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WARMACHINE_0",
@@ -2436,17 +2436,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WASP_0",
             "v": "Wasp shrinks down to the size of an insect, knocking down the opponent with a flurry of attacks.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WASP_1",
             "v": "Losing sight of Wasp even for a moment will result in a series of painful stings.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WASP_2",
             "v": "Wasp uses her Pym Particle Disks to blow up a bubble gum package to the size of a car, crushing opponents upon impact.",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WINTERSOLDIER_0",
@@ -2487,17 +2487,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WOLVERINE_WEAPONX_0",
             "v": "Weapon X delivers what will become a signature move with his razor sharp Adamantium claws.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WOLVERINE_WEAPONX_1",
             "v": "A wild charge of flashing claws and snarling teeth.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_WOLVERINE_WEAPONX_2",
             "v": "Just the barest whiff of blood in the air immediately drives Weapon X into berserk rage.",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_X23_0",
@@ -2526,17 +2526,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_YONDU_0",
             "v": "One whistle, and Yondu's Yaka arrow pokes a hole right through you. Don't wait for the second whistle.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_YONDU_1",
             "v": "A strafing run from a Ravager M-Ship peppers the arena with Yondu's secret spice mix.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DESCRIPTION_YONDU_2",
             "v": "Yondu's Yaka Arrow is like a deadly snake as it mesmerizes, then strikes.",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_DIABLO_0",
@@ -2829,17 +2829,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_HELA_0",
             "v": "Fury of the Dead",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HELA_1",
             "v": "Soul Breaker",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HELA_2",
             "v": "Hand of Glory",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HOOD_0",
@@ -2895,17 +2895,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_HULK_RAGNAROK_0",
             "v": "Shockwave",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HULK_RAGNAROK_1",
             "v": "Whirlwind",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HULK_RAGNAROK_2",
             "v": "Hulk Smash",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_HULK_RED_0",
@@ -2934,17 +2934,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_ICEMAN_0",
             "v": "Chill Out",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_ICEMAN_1",
             "v": "Blizzard",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_ICEMAN_2",
             "v": "Ice to Meet You",
-            "vn": 12
+            "vn": "12"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONFIST_0",
@@ -2985,32 +2985,32 @@
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_INFINITYWAR_0",
             "v": "Zero-point Blasts",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_INFINITYWAR_1",
             "v": "Micro-missile Array",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_INFINITYWAR_2",
             "v": "Infinity Break",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_MOVIE_0",
             "v": "Zero-point Blasts",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_MOVIE_1",
             "v": "Micro-missile Array",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_MOVIE_2",
             "v": "Infinity Break",
-            "vn": 18
+            "vn": "18"
         },
         {
             "k": "ID_SPECIAL_ATTACK_IRONMAN_SUPERIOR_0",
@@ -3111,32 +3111,32 @@
         {
             "k": "ID_SPECIAL_ATTACK_KILLMONGER_0",
             "v": "Merchant of Death",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KILLMONGER_1",
             "v": "Leopard Strike",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KILLMONGER_2",
             "v": "Claws Out",
-            "vn": 17
+            "vn": "17"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KINGPIN_0",
             "v": "Dirty Deeds",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KINGPIN_1",
             "v": "Eliminate the Competition",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KINGPIN_2",
             "v": "Self Made Man",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_KORG_0",
@@ -3258,17 +3258,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_MEDUSA_0",
             "v": "Split Ends",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_MEDUSA_1",
             "v": "Swinging Strands",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_MEDUSA_2",
             "v": "Rite of Royalty",
-            "vn": 15
+            "vn": "15"
         },
         {
             "k": "ID_SPECIAL_ATTACK_MEPHISTO_0",
@@ -3388,12 +3388,12 @@
         {
             "k": "ID_SPECIAL_ATTACK_NEBULA_1",
             "v": "Shock and Awe",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_NEBULA_2",
             "v": "Galaxy-Class Killer",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_NIGHTCRAWLER_0",
@@ -3425,17 +3425,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_OMEGARED_0",
             "v": "Draining Experience",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_OMEGARED_1",
             "v": "Death Field",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_OMEGARED_2",
             "v": "Tentacled Terror",
-            "vn": 20
+            "vn": "20"
         },
         {
             "k": "ID_SPECIAL_ATTACK_PHOENIX_0",
@@ -3460,10 +3460,10 @@
             "vn": "17.2"
         },
         {
+            "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)",
             "k": "ID_SPECIAL_ATTACK_PROXIMAMIDNIGHT_2",
             "v": "Black Light Brutality",
-            "vn": "17.2",
-            "cn": "English needs to update to Revised version still - V\n\nUpdated to Black Light Brutality (Replaced Version)"
+            "vn": "17.2"
         },
         {
             "k": "ID_SPECIAL_ATTACK_PSYLOCKE_0",
@@ -3658,12 +3658,12 @@
         {
             "k": "ID_SPECIAL_ATTACK_SPIDERMAN_MOVIE_0",
             "v": "Spider Strike",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_SPIDERMAN_MOVIE_1",
             "v": "Stick & Shock",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_SPIDERMAN_MOVIE_2",
@@ -3796,17 +3796,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_THOR_RAGNAROK_0",
             "v": "Fearsome Fighter",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_THOR_RAGNAROK_1",
             "v": "The Warrior Within",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_THOR_RAGNAROK_2",
             "v": "God of Thunder",
-            "vn": 16
+            "vn": "16"
         },
         {
             "k": "ID_SPECIAL_ATTACK_ULTRON_0",
@@ -4000,17 +4000,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_VULTURE_MOVIE_0",
             "v": "Wingpack Strike",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_VULTURE_MOVIE_1",
             "v": "Engine Flare",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_VULTURE_MOVIE_2",
             "v": "Hybrid Alien Technology",
-            "vn": 14
+            "vn": "14"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WARMACHINE_0",
@@ -4027,17 +4027,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_WASP_0",
             "v": "Insect Size",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WASP_1",
             "v": "Quick Sting",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WASP_2",
             "v": "Titanic Treat",
-            "vn": 19
+            "vn": "19"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WINTERSOLDIER_0",
@@ -4078,17 +4078,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_WOLVERINE_WEAPONX_0",
             "v": "X-Slash",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WOLVERINE_WEAPONX_1",
             "v": "Frenzied Rage",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_WOLVERINE_WEAPONX_2",
             "v": "Scent of Blood",
-            "vn": 26
+            "vn": "26"
         },
         {
             "k": "ID_SPECIAL_ATTACK_X23_0",
@@ -4117,17 +4117,17 @@
         {
             "k": "ID_SPECIAL_ATTACK_YONDU_0",
             "v": "Quick Draw",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_YONDU_1",
             "v": "A Little Help From My Friends",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_SPECIAL_ATTACK_YONDU_2",
             "v": "Yaka Attacka",
-            "vn": 13
+            "vn": "13"
         },
         {
             "k": "ID_UI_STAT_ATTRIBUTE_TRIGGER_SUBTITLE_ATK",
